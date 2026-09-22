@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.5.1",
+  "topicTitle": "Interpretation of financial statements",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-5-1-01",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the statement of comprehensive income?",
+      "options": [
+        "The statement showing revenue, costs and profit over a period of time",
+        "The statement showing assets and liabilities at a single date",
+        "The statement showing cash received and paid during a period",
+        "The statement showing the shareholders on the register"
+      ],
+      "answer": 0,
+      "why": "It reports performance across a period, which is why it is described as a film of the year rather than a photograph.",
+      "whyNot": [
+        "",
+        "That is the statement of financial position.",
+        "That is the statement of cash flows.",
+        "The share register is not a financial statement."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-02",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the statement of financial position?",
+      "options": [
+        "The statement showing assets, liabilities and equity at a single date",
+        "The statement showing revenue and profit over a year",
+        "The statement showing dividends paid to shareholders",
+        "The statement showing forecast sales for next year"
+      ],
+      "answer": 0,
+      "why": "It is a snapshot at one date, showing what the business owns, what it owes and how it is financed.",
+      "whyNot": [
+        "",
+        "That is the statement of comprehensive income.",
+        "Dividends appear within the statements but are not a statement in themselves.",
+        "Forecasts are internal planning documents, not published financial statements."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-03",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "easy",
+      "stem": "Which of the following is a current asset?",
+      "options": [
+        "Trade receivables",
+        "A delivery vehicle",
+        "A long-term bank loan",
+        "Retained earnings"
+      ],
+      "answer": 0,
+      "why": "Current assets are expected to become cash within a year, and trade receivables are amounts customers owe.",
+      "whyNot": [
+        "",
+        "A vehicle is held for more than a year, so it is a non-current asset.",
+        "A long-term loan is a non-current liability, not an asset.",
+        "Retained earnings form part of equity."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-04",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "easy",
+      "stem": "Which of the following is a non-current liability?",
+      "options": [
+        "A bank loan repayable in five years",
+        "An overdraft",
+        "Trade payables",
+        "Inventory"
+      ],
+      "answer": 0,
+      "why": "Non-current liabilities are debts due after more than one year.",
+      "whyNot": [
+        "",
+        "An overdraft is repayable on demand, so it is a current liability.",
+        "Trade payables are due within a year, so they are current liabilities.",
+        "Inventory is a current asset."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-05",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines equity?",
+      "options": [
+        "The owners' stake: share capital plus retained earnings and reserves",
+        "The total value of the business's non-current assets",
+        "The amount owed to lenders",
+        "The cash held in the bank at the year end"
+      ],
+      "answer": 0,
+      "why": "Equity is what belongs to the owners after liabilities are deducted from assets.",
+      "whyNot": [
+        "",
+        "Non-current assets are only part of what the business owns.",
+        "Amounts owed to lenders are liabilities, not equity.",
+        "Cash is one current asset, not the owners' stake."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-06",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Which statement would a bank considering a loan look at most closely, and why?",
+      "options": [
+        "The statement of financial position, because it shows gearing, liquidity and assets available as security",
+        "The statement of comprehensive income, because revenue growth proves the loan will be repaid",
+        "The share register, because it shows who owns the business",
+        "The mission statement, because it shows the business's intentions"
+      ],
+      "answer": 0,
+      "why": "A lender wants to know the loan will be serviced and repaid, which depends on debt levels, liquidity and security rather than on sales growth.",
+      "whyNot": [
+        "",
+        "Revenue growth matters to shareholders far more than to a lender assessing repayment risk.",
+        "Ownership does not directly show ability to repay.",
+        "Intentions are not evidence of financial capacity."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-07",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Which stakeholder is most likely to use the statements to support a claim for higher pay?",
+      "options": [
+        "Employees and their union",
+        "Suppliers",
+        "Customers",
+        "The local community"
+      ],
+      "answer": 0,
+      "why": "A large reported profit is evidence that there is money available to share, which is exactly what a pay claim rests on.",
+      "whyNot": [
+        "",
+        "Suppliers are concerned with whether they will be paid.",
+        "Customers are mainly concerned with whether the business will survive to honour supply and warranties.",
+        "The community is concerned with employment and local impact."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-08",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "A business reports a large investment in new non-current assets. How might a lender and a supplier read this differently?",
+      "options": [
+        "The lender sees more security; the supplier worries about the cash consumed",
+        "Both see it as purely positive",
+        "Both see it as purely negative",
+        "Neither would be interested in it"
+      ],
+      "answer": 0,
+      "why": "The same figure supports different conclusions depending on the reader's interest, which is the key evaluation point in this topic.",
+      "whyNot": [
+        "",
+        "A supplier may be concerned that cash has been tied up in assets rather than kept available to pay bills.",
+        "A lender generally welcomes assets that could serve as security.",
+        "Both have a direct interest in the business's financial position."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-09",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of published financial statements?",
+      "options": [
+        "They contain no non-financial information such as morale, brand strength or innovation",
+        "They are not audited in any country",
+        "They are prepared before the year begins",
+        "They show only forecast figures"
+      ],
+      "answer": 0,
+      "why": "Much of what determines competitiveness is absent from the statements, which is why a full assessment needs human resource and market data too.",
+      "whyNot": [
+        "",
+        "Published statements of larger companies are audited.",
+        "They are prepared after the period, reporting what happened.",
+        "They report actual historical figures, not forecasts."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-10",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Why is it said that the statement of financial position can be arranged to look better than the year as a whole?",
+      "options": [
+        "It reports one single date, so balances can be managed around that date",
+        "It is published before the year ends",
+        "It excludes all liabilities",
+        "It uses forecast rather than actual figures"
+      ],
+      "answer": 0,
+      "why": "Because it is a snapshot, a business can time receipts, payments and borrowing around the year end, which is known as window dressing.",
+      "whyNot": [
+        "",
+        "It is published after the year end, reporting the position on that date.",
+        "It includes both current and non-current liabilities.",
+        "The figures are actual, not forecast."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-11",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "hard",
+      "stem": "A business shows a healthy profit but a weak statement of financial position. Which explanation is most plausible?",
+      "options": [
+        "Profitable sales have been made on credit, so cash and liquidity are poor while profit is high",
+        "Profit and financial position always move together, so this cannot happen",
+        "The business must have understated its revenue",
+        "The business has no non-current assets"
+      ],
+      "answer": 0,
+      "why": "Profit is recorded when a sale is made, not when cash arrives, so a business can be profitable and short of cash at the same time.",
+      "whyNot": [
+        "",
+        "They measure different things over different time frames, so they can diverge easily.",
+        "Understating revenue would reduce reported profit, not raise it.",
+        "Having no non-current assets would not by itself create this pattern."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-12",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "hard",
+      "stem": "Why is a fall in profit not necessarily a sign of poor management?",
+      "options": [
+        "It may result from deliberate investment or expansion whose returns come later",
+        "Profit figures are never accurate",
+        "Profit is not reported in the financial statements",
+        "A fall in profit always indicates fraud"
+      ],
+      "answer": 0,
+      "why": "Context matters: a fall caused by planned spending on growth is very different from a fall caused by losing control of costs.",
+      "whyNot": [
+        "",
+        "Audited profit figures are reasonably reliable; the issue is interpretation.",
+        "Profit is a central figure in the statement of comprehensive income.",
+        "There is no basis for assuming fraud from a profit fall."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-13",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "hard",
+      "stem": "Why do aggregated figures in the financial statements limit their usefulness to managers?",
+      "options": [
+        "Totals hide which products or regions are performing and which are not",
+        "Totals are always calculated incorrectly",
+        "Totals exclude all costs",
+        "Totals are only published every five years"
+      ],
+      "answer": 0,
+      "why": "A single revenue or profit figure gives no guidance on where to act, which is why managers need segmented internal information.",
+      "whyNot": [
+        "",
+        "The arithmetic is not the problem; the level of detail is.",
+        "Costs are included in the income statement.",
+        "Published statements are annual."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-14",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "hard",
+      "stem": "A question asks you to assess a business's competitiveness. What would make the answer most complete?",
+      "options": [
+        "Combining the financial statements with human resource measures and market information such as share and satisfaction",
+        "Using only the profit figure, because it summarises everything",
+        "Using only the ratios, because they remove the need for other data",
+        "Using only the mission statement, because it states the objectives"
+      ],
+      "answer": 0,
+      "why": "Competitiveness has financial, human and market dimensions, and naming what else you would want to see shows you understand the limits of the data.",
+      "whyNot": [
+        "",
+        "Profit alone omits liquidity, gearing and everything non-financial.",
+        "Ratios rest on the same historical financial data and share its limitations.",
+        "A mission statement states intentions, not performance."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-15",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Which statement is described as a photograph rather than a film, and why does the distinction matter?",
+      "options": [
+        "The statement of financial position, because it covers one date rather than a period",
+        "The statement of comprehensive income, because it covers one date rather than a period",
+        "Both, because both cover a single date",
+        "Neither, because both cover a period"
+      ],
+      "answer": 0,
+      "why": "One date can be unrepresentative of the whole year, which is why the distinction is worth stating explicitly.",
+      "whyNot": [
+        "",
+        "The income statement covers a period, so it is the film.",
+        "The income statement covers a period, not a date.",
+        "The statement of financial position is prepared at one date."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-1-16",
+      "topicRef": "3.3.5.1",
+      "topicTitle": "Interpretation of financial statements",
+      "difficulty": "medium",
+      "stem": "Why should you use International Accounting Standards terminology in your answers?",
+      "options": [
+        "The assessments use terms such as statement of financial position and trade receivables",
+        "The older terms are no longer understood by anyone",
+        "It increases the number of marks available for a question",
+        "It is required only in Accounting papers, not Business"
+      ],
+      "answer": 0,
+      "why": "Using the current terminology, while recognising the older names, is what the papers expect.",
+      "whyNot": [
+        "",
+        "Older terms such as balance sheet are still widely understood; the point is consistency with the assessment.",
+        "Terminology does not change the marks available; it affects whether yours are awarded.",
+        "The Business specifications use the same terminology."
+      ]
+    }
+  ]
+}

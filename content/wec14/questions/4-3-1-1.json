@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.1",
+  "topicTitle": "Characteristics of globalisation",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-1-1-01",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines globalisation?",
+      "options": [
+        "The increasing integration and interdependence of national economies through trade, investment, migration and information flows",
+        "The growth of international trade in goods",
+        "The spread of one country's culture across the world",
+        "The formation of trading blocs between neighbouring countries"
+      ],
+      "answer": 0,
+      "why": "A trade-only definition loses marks, because globalisation includes investment, migration and information.",
+      "whyNot": [
+        "",
+        "Trade is only one dimension.",
+        "Cultural spread is a consequence, not the definition.",
+        "Blocs are one regional form of integration."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-02",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "easy",
+      "stem": "How is the openness of an economy measured?",
+      "options": [
+        "((Exports + Imports) / GDP) x 100",
+        "((Exports - Imports) / GDP) x 100",
+        "(Exports / Imports) x 100",
+        "(GDP / (Exports + Imports)) x 100"
+      ],
+      "answer": 0,
+      "why": "Openness measures the size of trade flows relative to the economy, so exports and imports are added.",
+      "whyNot": [
+        "",
+        "That is the trade balance as a share of GDP.",
+        "That is a ratio of exports to imports.",
+        "That inverts the calculation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-03",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines foreign direct investment?",
+      "options": [
+        "Investment by a firm in productive assets in another country, usually with a controlling interest",
+        "The purchase of foreign shares and bonds for a financial return",
+        "A loan from one government to another",
+        "The value of a country's exports of capital goods"
+      ],
+      "answer": 0,
+      "why": "FDI is long-term, brings technology and management, and is hard to withdraw quickly.",
+      "whyNot": [
+        "",
+        "That is portfolio investment.",
+        "That is intergovernmental lending or aid.",
+        "That is a trade flow."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-04",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a remittance?",
+      "options": [
+        "Money sent home by a worker living abroad",
+        "A payment made by a government to a foreign supplier",
+        "Interest paid on foreign debt",
+        "Profit repatriated by a multinational"
+      ],
+      "answer": 0,
+      "why": "Remittances are recorded as secondary income on the current account and exceed aid for several economies.",
+      "whyNot": [
+        "",
+        "That is an import payment.",
+        "That is debt service, recorded as primary income.",
+        "That is also primary income, not a remittance."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-05",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "GDP is $420bn, exports are $118bn and imports are $146bn. What is the openness of the economy?",
+      "options": [
+        "62.9%",
+        "6.7%",
+        "80.8%",
+        "159%"
+      ],
+      "answer": 0,
+      "why": "((118 + 146) / 420) x 100 = (264 / 420) x 100 = 62.9%.",
+      "whyNot": [
+        "",
+        "That uses exports minus imports, which measures the trade balance.",
+        "That uses exports and imports separately in error.",
+        "That inverts part of the calculation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-06",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Using the same figures, what is the trade balance?",
+      "options": [
+        "A deficit of $28bn",
+        "A surplus of $28bn",
+        "A deficit of $264bn",
+        "A surplus of $264bn"
+      ],
+      "answer": 0,
+      "why": "118 - 146 = -$28bn, a deficit. Note that this is a completely different measure from openness.",
+      "whyNot": [
+        "",
+        "Imports exceed exports, so it is a deficit.",
+        "That adds the two figures, which gives total trade.",
+        "That adds the two figures and mislabels the result."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-07",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Why is openness typically higher for a small economy than a large one?",
+      "options": [
+        "A small economy cannot produce everything, while a large one can trade internally",
+        "Small economies always have lower tariffs",
+        "Large economies do not record their trade accurately",
+        "Small economies always run trade surpluses"
+      ],
+      "answer": 0,
+      "why": "Comparison of openness between countries must allow for size, or the figure is misread.",
+      "whyNot": [
+        "",
+        "Tariff levels vary independently of size.",
+        "Large economies record trade carefully.",
+        "Many small economies run deficits."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-08",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following distinguishes FDI from portfolio investment?",
+      "options": [
+        "FDI involves productive assets and a controlling interest and is hard to withdraw quickly",
+        "FDI is always larger in value",
+        "Portfolio investment is illegal in developing countries",
+        "FDI is recorded in the current account"
+      ],
+      "answer": 0,
+      "why": "Portfolio investment is mobile and can leave overnight, which is the capital flight problem.",
+      "whyNot": [
+        "",
+        "Size does not define the category.",
+        "Portfolio investment is lawful and widespread.",
+        "Both are financial account flows."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-09",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "What does intra-firm trade mean, and why does it matter?",
+      "options": [
+        "Components move between subsidiaries of the same company, which creates the scope for transfer pricing",
+        "Firms trade only with their competitors, which raises prices",
+        "Governments trade on behalf of firms, which distorts statistics",
+        "Firms trade only within their own country, which reduces openness"
+      ],
+      "answer": 0,
+      "why": "It also makes trade statistics harder to interpret, because a good crossing three borders during assembly is counted three times.",
+      "whyNot": [
+        "",
+        "Intra-firm means within one group.",
+        "Most trade is conducted by private firms.",
+        "Intra-firm trade crosses borders, which is why it is trade."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-10",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "hard",
+      "stem": "Which of the following is an effect of migration on the sending country?",
+      "options": [
+        "Remittances flow in, and skilled workers are lost, which is the brain drain",
+        "The dependency ratio always falls permanently",
+        "Unemployment always rises",
+        "Total world output falls"
+      ],
+      "answer": 0,
+      "why": "The country pays to train workers whose productivity then benefits another economy, offset by remittance inflows.",
+      "whyNot": [
+        "",
+        "Emigration of working-age people can raise the dependency ratio.",
+        "Emigration usually relieves unemployment.",
+        "Migration raises world output, because labour moves to where it is more productive."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-11",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "hard",
+      "stem": "Which of the following is the most balanced statement about migration?",
+      "options": [
+        "It raises world output, and its costs and benefits are distributed very unevenly",
+        "It benefits every country involved equally",
+        "It harms both the sending and receiving countries",
+        "It has no measurable economic effects"
+      ],
+      "answer": 0,
+      "why": "The distributional point is what earns the evaluation marks in a migration question.",
+      "whyNot": [
+        "",
+        "The effects are highly uneven between and within countries.",
+        "Total output rises, so it cannot harm everyone.",
+        "The effects on output, wages and remittances are substantial."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-12",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "hard",
+      "stem": "For a small open economy with a high import content, what is the most useful framing?",
+      "options": [
+        "Globalisation is the environment rather than a policy choice",
+        "Globalisation can be avoided by raising tariffs",
+        "Globalisation affects only the export sector",
+        "Openness can be reduced without reducing living standards"
+      ],
+      "answer": 0,
+      "why": "Where almost all goods are imported, global prices transmit directly into the domestic economy with nothing to absorb the shock.",
+      "whyNot": [
+        "",
+        "Tariffs raise the cost of essential imports rather than removing the exposure.",
+        "Import dependence affects the whole economy.",
+        "Reducing openness in such an economy would sharply reduce living standards."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-13",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a characteristic of globalisation named in the specification?",
+      "options": [
+        "An increase in migration",
+        "A fall in world interest rates",
+        "The convergence of tax rates between countries",
+        "A rise in government spending as a share of GDP"
+      ],
+      "answer": 0,
+      "why": "The three named characteristics are trade rising as a share of GDP, the growing importance of TNCs and FDI, and rising migration.",
+      "whyNot": [
+        "",
+        "Interest rates are not a named characteristic.",
+        "Tax competition is a consequence discussed elsewhere.",
+        "Public spending growth has other causes."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-14",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a transnational company?",
+      "options": [
+        "A company that owns or controls production or service operations in more than one country",
+        "A company that exports to more than one country",
+        "A company owned by shareholders of several nationalities",
+        "A company listed on more than one stock exchange"
+      ],
+      "answer": 0,
+      "why": "Ownership or control of operations abroad is the defining feature, not simply selling abroad.",
+      "whyNot": [
+        "",
+        "That is an exporter.",
+        "Shareholder nationality is not the test.",
+        "Multiple listing is a financing arrangement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-15",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "hard",
+      "stem": "A country's openness figure is 62.9% while its trade balance is in deficit. What does this show?",
+      "options": [
+        "The economy is heavily integrated into world trade and imports exceed exports",
+        "The economy is closed and imports exceed exports",
+        "The economy is heavily integrated and exports exceed imports",
+        "The two figures are inconsistent with each other"
+      ],
+      "answer": 0,
+      "why": "Openness measures the size of trade flows; the balance measures the difference between them. Confusing the two is the commonest error.",
+      "whyNot": [
+        "",
+        "A figure of 62.9% indicates a very open economy.",
+        "A deficit means imports exceed exports.",
+        "They measure different things and are entirely consistent."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-1-16",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Characteristics of globalisation",
+      "difficulty": "medium",
+      "stem": "Why does FDI create a permanent negative entry on the current account of the host country?",
+      "options": [
+        "Repatriated profits are recorded as a debit on primary income each year",
+        "The initial investment is a current account debit",
+        "Imported inputs are recorded as secondary income",
+        "FDI is not recorded in the balance of payments"
+      ],
+      "answer": 0,
+      "why": "The initial investment is a financial account inflow; the profits it later generates flow out through primary income annually.",
+      "whyNot": [
+        "",
+        "The investment itself is a financial account flow.",
+        "Imported inputs are current account debits under trade, not secondary income.",
+        "All of it is recorded."
+      ]
+    }
+  ]
+}

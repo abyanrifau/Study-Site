@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.1",
+  "topicTitle": "Growing economies",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-1-1-01",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines gross domestic product?",
+      "options": [
+        "The total value of goods and services produced in a country in a year",
+        "The total income earned by a country's residents wherever they work",
+        "The total value of a country's exports in a year",
+        "The average income per person in a country"
+      ],
+      "answer": 0,
+      "why": "GDP measures output produced within the country's borders over a year.",
+      "whyNot": [
+        "",
+        "That is closer to gross national income.",
+        "Exports are only one component of output.",
+        "That is GDP per capita."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-02",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines GDP per capita?",
+      "options": [
+        "Gross domestic product divided by the population",
+        "Gross domestic product divided by the number of businesses",
+        "The growth rate of gross domestic product",
+        "Gross domestic product measured in a foreign currency"
+      ],
+      "answer": 0,
+      "why": "Per capita means per head, and it is the figure to use when judging whether a product is affordable.",
+      "whyNot": [
+        "",
+        "The denominator is population, not the number of firms.",
+        "That is the economic growth rate.",
+        "Currency conversion does not make a figure per capita."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-03",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "easy",
+      "stem": "Which three components make up the human development index?",
+      "options": [
+        "Income per head, life expectancy and years of schooling",
+        "Income per head, unemployment and inflation",
+        "GDP, exports and imports",
+        "Income per head, inequality and pollution"
+      ],
+      "answer": 0,
+      "why": "Because it includes health and education, HDI measures whether growth has actually improved lives.",
+      "whyNot": [
+        "",
+        "Unemployment and inflation are macroeconomic indicators, not HDI components.",
+        "Those are all output and trade measures.",
+        "HDI excludes inequality and environmental quality, which is one of its limitations."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-04",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "easy",
+      "stem": "Which of the following best describes an emerging economy?",
+      "options": [
+        "An economy growing rapidly from a developing base, with rising incomes and expanding manufacturing",
+        "An economy with high income per head and a dominant service sector",
+        "An economy with low income per head and a dominant agricultural sector",
+        "An economy whose output is falling"
+      ],
+      "answer": 0,
+      "why": "Emerging economies typically grow at several times the rate of developed ones and offer the fastest-growing consumer markets.",
+      "whyNot": [
+        "",
+        "That describes a developed economy.",
+        "That describes a developing economy.",
+        "A contracting economy is not what emerging means."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-05",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "GDP is $48 billion and the population is 7.5 million. What is GDP per capita?",
+      "options": [
+        "$6,400",
+        "$360",
+        "$15,625",
+        "$64,000"
+      ],
+      "answer": 0,
+      "why": "48,000,000,000 / 7,500,000 = $6,400 per person.",
+      "whyNot": [
+        "",
+        "That multiplies rather than divides.",
+        "That inverts the calculation.",
+        "That misplaces the decimal point by a factor of ten."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-06",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "GDP rises from $50bn to $53bn. What is the growth rate?",
+      "options": [
+        "6.0%",
+        "3.0%",
+        "5.7%",
+        "1.06%"
+      ],
+      "answer": 0,
+      "why": "(53 - 50) / 50 x 100 = 6.0%.",
+      "whyNot": [
+        "",
+        "That is the increase in billions, not the percentage.",
+        "That divides by the new figure instead of the old one.",
+        "That expresses the ratio rather than the percentage change."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-07",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "Which sector typically dominates a developed economy?",
+      "options": [
+        "Services",
+        "Agriculture",
+        "Mining",
+        "Construction"
+      ],
+      "answer": 0,
+      "why": "Developed economies have large tertiary sectors, while developing economies have large primary sectors.",
+      "whyNot": [
+        "",
+        "Agriculture dominates in developing economies.",
+        "Mining dominates only in particular resource economies.",
+        "Construction is a component of the secondary sector, not the dominant one."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-08",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "Which type of product benefits most from rising incomes in an emerging economy?",
+      "options": [
+        "A luxury good with high income elasticity of demand",
+        "A necessity with low income elasticity of demand",
+        "An inferior good with negative income elasticity",
+        "A good whose demand does not respond to income"
+      ],
+      "answer": 0,
+      "why": "High income elasticity means demand rises proportionately more than income, so growth translates directly into sales.",
+      "whyNot": [
+        "",
+        "Demand for necessities rises only slightly as income rises.",
+        "Demand for inferior goods falls as income rises.",
+        "Zero income elasticity means growth brings no extra demand."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-09",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "How does economic growth typically change employment patterns?",
+      "options": [
+        "Labour moves out of agriculture into manufacturing and then into services",
+        "Labour moves out of services into agriculture",
+        "Employment patterns do not change as economies grow",
+        "All employment moves into the primary sector"
+      ],
+      "answer": 0,
+      "why": "Urbanisation accelerates and skills demand rises, which is why skill shortages appear in exactly the roles growth creates.",
+      "whyNot": [
+        "",
+        "The shift runs in the opposite direction.",
+        "Structural change is one of the most consistent features of growth.",
+        "The primary sector shrinks as a share of employment."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-10",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "hard",
+      "stem": "Why does a low-cost production location tend not to stay low cost?",
+      "options": [
+        "Growth raises wages, which erodes the cost advantage that attracted the investment",
+        "Governments always ban foreign investment eventually",
+        "Productivity falls as economies grow",
+        "Exchange rates always move against growing economies"
+      ],
+      "answer": 0,
+      "why": "The location that is cheap today may not be cheap in ten years, which is a strong evaluative point in any location question.",
+      "whyNot": [
+        "",
+        "That is not a general pattern.",
+        "Productivity generally rises with growth, not falls.",
+        "Exchange rates do not move in a single predictable direction."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-11",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "hard",
+      "stem": "A country has a high GDP per capita but a very small, dispersed population. What is the likely conclusion for a consumer goods business?",
+      "options": [
+        "Total market value is low and distribution costs are high, whatever the income figure suggests",
+        "The market is highly attractive because income per head is high",
+        "The business should assess the country only using HDI",
+        "Population size is irrelevant to market potential"
+      ],
+      "answer": 0,
+      "why": "Market value is income per head multiplied by population, so a high income in a tiny population is a small market.",
+      "whyNot": [
+        "",
+        "Income per head alone does not make a market viable.",
+        "HDI is more useful for assessing a production location than a market.",
+        "Population is one of the two determinants of market size."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-12",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "hard",
+      "stem": "Why can a high GDP per capita coexist with widespread poverty?",
+      "options": [
+        "An average says nothing about how income is distributed",
+        "GDP per capita is always measured inaccurately",
+        "Poverty is not related to income",
+        "GDP per capita excludes the wealthiest households"
+      ],
+      "answer": 0,
+      "why": "Averages hide distribution, and for most consumer products the relevant market is an urban middle class rather than the whole population.",
+      "whyNot": [
+        "",
+        "The measurement is reasonable; the issue is what an average conceals.",
+        "Poverty is closely related to income; the point is its distribution.",
+        "It includes all income, which is part of why the average is raised."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-13",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "hard",
+      "stem": "Which measure would be most useful in assessing a country as a production location, and why?",
+      "options": [
+        "HDI, because education and health predict the skills and reliability of the workforce",
+        "GDP, because total output shows how much can be produced",
+        "GDP per capita, because it shows what workers can afford to buy",
+        "The growth rate alone, because it shows the future"
+      ],
+      "answer": 0,
+      "why": "For a location decision the workforce matters most, and HDI captures the health and education that underpin it.",
+      "whyNot": [
+        "",
+        "Total output says little about the workforce a business would employ.",
+        "Purchasing power matters for a market assessment, not a location one.",
+        "A growth rate alone tells you nothing about skills or infrastructure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-14",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of GDP as an indicator?",
+      "options": [
+        "It excludes the informal economy, which is large in many developing countries",
+        "It cannot be calculated for developing economies",
+        "It measures only exports",
+        "It is updated only once a decade"
+      ],
+      "answer": 0,
+      "why": "GDP also says nothing about distribution and needs adjustment for differences in the cost of living.",
+      "whyNot": [
+        "",
+        "It is calculated for virtually every economy.",
+        "It measures total output, of which exports are one part.",
+        "It is published at least annually and usually quarterly."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-15",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "medium",
+      "stem": "Which of the following is a consequence of rapid economic growth for businesses selling in that country?",
+      "options": [
+        "Spending shifts from necessities towards discretionary goods",
+        "Demand for all products falls equally",
+        "The number of competitors always falls",
+        "Exchange rates become fixed"
+      ],
+      "answer": 0,
+      "why": "A rising middle class creates demand for goods previously unaffordable, which is the core opportunity growth presents.",
+      "whyNot": [
+        "",
+        "Growth raises demand, particularly for income-elastic products.",
+        "Growth generally attracts new entrants.",
+        "Growth does not fix exchange rates."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-1-16",
+      "topicRef": "4.3.1.1",
+      "topicTitle": "Growing economies",
+      "difficulty": "hard",
+      "stem": "Why is high growth often described as volatile growth?",
+      "options": [
+        "Fast-growing economies can contract sharply, so the risk is greater as well as the opportunity",
+        "High growth is always measured incorrectly",
+        "Growth rates above 5% are impossible to sustain for any period",
+        "Volatility only affects developed economies"
+      ],
+      "answer": 0,
+      "why": "Naming the volatility alongside the opportunity is what turns a description of a growth rate into a judgement.",
+      "whyNot": [
+        "",
+        "Measurement is not the issue.",
+        "Some economies have sustained high growth for decades; the point is that it is less stable.",
+        "Emerging economies are typically more volatile, not less."
+      ]
+    }
+  ]
+}

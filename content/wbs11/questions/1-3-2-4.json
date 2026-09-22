@@ -1,0 +1,349 @@
+{
+  "topicRef": "1.3.2.4",
+  "topicTitle": "Price elasticity of demand (PED)",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-2-4-01",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of price elasticity of demand?",
+      "options": [
+        "The percentage change in quantity demanded divided by the percentage change in price",
+        "The percentage change in price divided by the percentage change in quantity demanded",
+        "The percentage change in quantity demanded divided by the percentage change in income",
+        "The change in quantity demanded divided by the change in price"
+      ],
+      "answer": 0,
+      "why": "PED measures how responsive quantity demanded is to a price change, so quantity goes on top and price on the bottom. It is calculated from percentage changes, not absolute changes.",
+      "whyNot": [
+        "",
+        "This is upside down. Dividing price by quantity is the single most common arithmetic error on this topic.",
+        "That is income elasticity of demand (YED), which uses income on the bottom rather than price.",
+        "Elasticity must use percentage changes so that the result is independent of the units used."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-02",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "easy",
+      "stem": "A price rise of 10% causes quantity demanded to fall by 25%. What is the PED?",
+      "options": ["−2.5", "−0.4", "−15", "+2.5"],
+      "answer": 0,
+      "why": "PED = % change in quantity ÷ % change in price = −25 ÷ +10 = −2.5. Ignoring the sign, 2.5 is greater than 1, so demand is price elastic.",
+      "whyNot": [
+        "",
+        "This divides price by quantity (10 ÷ 25). Quantity must go on top.",
+        "This subtracts the percentages instead of dividing them. Elasticity is a ratio.",
+        "The sign should be negative, because price and quantity moved in opposite directions."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-03",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "A café raises the price of a coffee from $4.00 to $4.40 and weekly sales fall from 500 to 440. What is the PED?",
+      "options": ["−1.2", "−0.83", "−12", "−0.12"],
+      "answer": 0,
+      "why": "Price change = +$0.40, so (0.40 ÷ 4.00) × 100 = +10%. Quantity change = −60, so (−60 ÷ 500) × 100 = −12%. PED = −12 ÷ +10 = −1.2, which is elastic.",
+      "whyNot": [
+        "",
+        "This divides price by quantity (10 ÷ 12). Quantity goes on top.",
+        "This is the percentage change in quantity on its own. You still have to divide it by the percentage change in price.",
+        "This looks like the decimal change in quantity without converting to a percentage, or a misplaced decimal point."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-04",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "easy",
+      "stem": "A product has a PED of −0.4. Demand is:",
+      "options": [
+        "price inelastic",
+        "price elastic",
+        "unitary elastic",
+        "perfectly inelastic"
+      ],
+      "answer": 0,
+      "why": "Ignoring the sign, 0.4 is between 0 and 1, so quantity responds proportionately less than price. Demand is price inelastic, which means the business could raise price and increase revenue.",
+      "whyNot": [
+        "",
+        "Elastic means a value greater than 1 ignoring the sign. 0.4 is less than 1.",
+        "Unitary means exactly 1, where revenue is unchanged by a price change.",
+        "Perfectly inelastic is a PED of exactly 0, where quantity does not respond at all."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-05",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "Demand for a product is price inelastic. If the business raises its price, total revenue will:",
+      "options": ["rise", "fall", "stay the same", "fall to zero"],
+      "answer": 0,
+      "why": "With inelastic demand the percentage fall in quantity is smaller than the percentage rise in price, so the gain per unit outweighs the units lost. Revenue rises.",
+      "whyNot": [
+        "",
+        "Revenue falls on a price rise when demand is *elastic*, where the volume lost outweighs the extra per unit.",
+        "Revenue is unchanged only with unitary elasticity, a PED of exactly 1.",
+        "Some customers still buy. Only perfectly elastic demand would lose all sales, which no real product has."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-06",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "Which of these is the single most important factor determining PED?",
+      "options": [
+        "The availability of close substitutes",
+        "The size of the business",
+        "The colour of the packaging",
+        "The number of employees"
+      ],
+      "answer": 0,
+      "why": "If customers can easily switch to a close alternative, they will when the price rises, so demand is elastic. Where there is no realistic substitute, demand is inelastic. Everything else on the list of factors is secondary to this.",
+      "whyNot": [
+        "",
+        "Size affects a firm's costs and market power, but it does not determine how willing its customers are to switch.",
+        "Packaging is part of branding, which has some influence, but it is nowhere near the main determinant.",
+        "Employee numbers are a supply-side matter and have no bearing on customer price sensitivity."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-07",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "A café sells 500 coffees a week at $4.00, then 440 a week at $4.40. What happens to total revenue?",
+      "options": [
+        "It falls from $2,000 to $1,936",
+        "It rises from $2,000 to $1,936",
+        "It rises from $1,936 to $2,000",
+        "It stays at $2,000"
+      ],
+      "answer": 0,
+      "why": "Revenue = price × quantity. Before: 500 × $4.00 = $2,000. After: 440 × $4.40 = $1,936. Revenue fell by $64, which is exactly what an elastic PED of −1.2 predicts.",
+      "whyNot": [
+        "",
+        "$1,936 is lower than $2,000, so this cannot be a rise. Check which figure is the before and which the after.",
+        "This reverses the order. $2,000 is the revenue before the price rise.",
+        "Revenue only stays the same with unitary elasticity. Here PED is 1.2, so it changes."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-08",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "hard",
+      "stem": "A café's price rise cuts revenue from $2,000 to $1,936, but each coffee costs $1.50 to make. Sales fell from 500 to 440. What happened to profit?",
+      "options": [
+        "It rose from $1,250 to $1,276",
+        "It fell from $1,276 to $1,250",
+        "It fell, in line with revenue",
+        "It cannot be calculated from this information"
+      ],
+      "answer": 0,
+      "why": "Profit before = 500 × ($4.00 − $1.50) = $1,250. Profit after = 440 × ($4.40 − $1.50) = 440 × $2.90 = $1,276. Profit rose by $26 even though revenue fell, because selling 60 fewer coffees also saved 60 lots of ingredients. This is the highest-value point in the whole topic.",
+      "whyNot": [
+        "",
+        "This reverses the two figures. $1,250 is the profit before the price rise.",
+        "The most common error here. Revenue and profit are not the same thing, and an elastic price rise can still raise profit.",
+        "It can be calculated: you have both prices, both quantities and the cost per unit."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-09",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "Why does building a strong brand usually make demand less price elastic?",
+      "options": [
+        "Loyal customers are less willing to switch when the price rises",
+        "A brand lowers the cost of producing each unit",
+        "A brand increases the number of substitutes available",
+        "Branding is a legal protection against competition"
+      ],
+      "answer": 0,
+      "why": "Brand loyalty means customers see the product as harder to replace, so fewer of them leave when the price goes up. That reduced responsiveness is exactly why firms invest in branding.",
+      "whyNot": [
+        "",
+        "Branding is a cost, not a cost saving. Its benefit comes through price and loyalty, not production efficiency.",
+        "Branding makes rivals feel less like substitutes, not more. More substitutes would raise elasticity.",
+        "A trademark protects a name, but branding itself gives no legal shield against competitors selling similar products."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-10",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "Which product is most likely to have price inelastic demand?",
+      "options": [
+        "Bottled water in a village with only one shop",
+        "A mid-range guesthouse room listed on a booking site",
+        "One brand of biscuit in a large supermarket",
+        "A seat on a route flown by four airlines"
+      ],
+      "answer": 0,
+      "why": "It is a necessity, takes a tiny share of income and has no realistic substitute or alternative supplier within reach. All the factors point the same way, so a price rise loses very few sales.",
+      "whyNot": [
+        "",
+        "Highly elastic. A traveller can see dozens of near-identical alternatives and filter by price at no cost.",
+        "Elastic. Plenty of close substitutes sit on the same shelf.",
+        "Elastic. Four carriers on one route means easy switching and heavy price comparison."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-11",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "hard",
+      "stem": "Why does demand tend to become more price elastic over a longer time period?",
+      "options": [
+        "Customers have time to find and switch to alternatives",
+        "Prices always fall in the long run",
+        "Businesses always reduce their costs over time",
+        "Income elasticity replaces price elasticity in the long run"
+      ],
+      "answer": 0,
+      "why": "In the short run people are locked into habits, contracts and equipment, so they keep buying. Given time they research alternatives, change supplier or change behaviour, so quantity responds more to the same price change.",
+      "whyNot": [
+        "",
+        "There is no such rule. Prices can rise or fall over any period.",
+        "Costs may fall with technology, but this is about customer behaviour, not producer costs.",
+        "The two measure different things and both apply at all times. One does not replace the other."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-12",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of total revenue?",
+      "options": [
+        "Selling price multiplied by quantity sold",
+        "Selling price minus cost per unit",
+        "Quantity sold minus quantity produced",
+        "Profit plus fixed costs"
+      ],
+      "answer": 0,
+      "why": "Total revenue is all the money coming in from sales, before any costs are deducted. It is price times quantity, which is why PED matters so much to it.",
+      "whyNot": [
+        "",
+        "That is contribution, or profit per unit. Revenue does not subtract anything.",
+        "That is a stock movement, and it has nothing to do with money received.",
+        "Profit plus fixed costs is not a standard measure and does not give revenue, since variable costs are missing."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-13",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "A steeper demand curve, drawn on the same axes as a shallower one, indicates that demand is:",
+      "options": [
+        "more price inelastic",
+        "more price elastic",
+        "perfectly elastic",
+        "unaffected by price"
+      ],
+      "answer": 0,
+      "why": "On a steep curve the same price change produces only a small change in quantity, so demand is less responsive, meaning more inelastic. Steep means inelastic is the useful shortcut.",
+      "whyNot": [
+        "",
+        "The shallower curve is the elastic one, because the same price change moves quantity a long way.",
+        "Perfectly elastic demand would be a horizontal line, the extreme opposite of steep.",
+        "Quantity does still change, just by a small amount. Only a perfectly vertical curve would be unaffected."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-14",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "A supplier raises its prices. Which business is best placed to pass the cost on to customers?",
+      "options": [
+        "One whose demand is price inelastic",
+        "One whose demand is price elastic",
+        "One in a market with many close substitutes",
+        "One whose customers compare prices online"
+      ],
+      "answer": 0,
+      "why": "With inelastic demand, raising price loses few customers, so most of the cost rise can be passed on while protecting the margin. With elastic demand the firm has to absorb it or lose serious volume.",
+      "whyNot": [
+        "",
+        "Elastic demand is the worst position for passing on a cost rise, because customers leave.",
+        "Many close substitutes is what *makes* demand elastic, so this is the same problem.",
+        "Easy price comparison makes demand more elastic, which makes passing costs on harder."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-15",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "hard",
+      "stem": "Which is the strongest evaluation point to make about a PED figure given in an exam source?",
+      "options": [
+        "It is estimated from past data, so it may not hold for a different size of price change or different market conditions",
+        "PED figures are always negative",
+        "PED is measured as a percentage",
+        "PED can only be calculated by large businesses"
+      ],
+      "answer": 0,
+      "why": "A PED is a backward-looking estimate. It came from a particular price change at a particular time, and applying it to a much larger change, or in a changed market, may be unreliable. Questioning the figure rather than just using it is what earns evaluation credit.",
+      "whyNot": [
+        "",
+        "True but not evaluative. It is a piece of knowledge about the sign, not a judgement about reliability.",
+        "PED is a ratio of two percentage changes and is expressed as a number, not a percentage. And it is a definitional point, not an evaluation.",
+        "Any business can calculate it from two prices and two quantities. Size is irrelevant."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-16",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "medium",
+      "stem": "A business with elastic demand wants to increase total revenue. What should it consider doing?",
+      "options": [
+        "Lowering its price, since the volume gained outweighs the revenue lost per unit",
+        "Raising its price, since each unit earns more",
+        "Keeping the price the same, since elasticity makes price changes pointless",
+        "Raising its price and reducing output"
+      ],
+      "answer": 0,
+      "why": "With elastic demand the percentage rise in quantity exceeds the percentage fall in price, so cutting price raises total revenue. The mirror image of the inelastic rule.",
+      "whyNot": [
+        "",
+        "Raising price with elastic demand loses more in volume than it gains per unit, so revenue falls.",
+        "Price changes have a bigger effect on quantity when demand is elastic, not a smaller one.",
+        "This combines the wrong price direction with a cut in output, which would reduce revenue further."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-4-17",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "difficulty": "easy",
+      "stem": "When calculating a percentage change, you should divide the change by:",
+      "options": [
+        "the original value",
+        "the new value",
+        "the average of the two values",
+        "the larger of the two values"
+      ],
+      "answer": 0,
+      "why": "Percentage change = (change ÷ original value) × 100. Dividing by the new figure instead is one of the most frequent slips in elasticity calculations.",
+      "whyNot": [
+        "",
+        "This gives a different and incorrect figure. Change is always measured against where you started.",
+        "Averaging is used in a more advanced midpoint method, which is not what this specification requires.",
+        "Whether the value is larger or smaller is irrelevant. It must be the starting value."
+      ]
+    }
+  ]
+}

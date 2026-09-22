@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.2",
+  "topicTitle": "Exchange rates",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-3-2-01",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "easy",
+      "stem": "What distinguishes a devaluation from a depreciation?",
+      "options": [
+        "A devaluation is a deliberate policy decision; a depreciation is a market movement",
+        "A devaluation is larger than a depreciation",
+        "A devaluation applies to imports and a depreciation to exports",
+        "A devaluation is temporary and a depreciation permanent"
+      ],
+      "answer": 0,
+      "why": "Devaluation and revaluation are only possible under a fixed or managed system. Use the right word for the system in the question.",
+      "whyNot": [
+        "",
+        "Size is not the distinction.",
+        "Both affect imports and exports.",
+        "Neither is inherently temporary."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-02",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the Marshall-Lerner condition?",
+      "options": [
+        "The sum of the price elasticities of demand for exports and imports must exceed 1",
+        "Export prices must rise faster than import prices",
+        "The exchange rate must be floating",
+        "Exports must exceed imports"
+      ],
+      "answer": 0,
+      "why": "If the sum is less than 1, a depreciation makes the current account worse, because the higher import prices dominate.",
+      "whyNot": [
+        "",
+        "That is an improvement in the terms of trade.",
+        "The condition applies under any regime.",
+        "That is a trade surplus."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-03",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the J-curve effect?",
+      "options": [
+        "The current account worsens immediately after a depreciation before improving as volumes respond",
+        "The current account improves immediately and then worsens",
+        "The exchange rate falls and then recovers to its original level",
+        "Export volumes rise immediately after a depreciation"
+      ],
+      "answer": 0,
+      "why": "Contracts are already signed and supply chains fixed, so prices change while quantities do not.",
+      "whyNot": [
+        "",
+        "The J shape is worse first, better later.",
+        "It describes the current account, not the rate itself.",
+        "Volumes take time to respond, which is the whole point."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-04",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines capital flight?",
+      "options": [
+        "A large and rapid outflow of financial capital, usually caused by loss of confidence",
+        "The relocation of a factory to another country",
+        "The emigration of skilled workers",
+        "A fall in a country's capital stock through depreciation"
+      ],
+      "answer": 0,
+      "why": "It sharply increases the supply of the currency and causes a steep depreciation, and it is self-reinforcing.",
+      "whyNot": [
+        "",
+        "That is off-shoring or FDI.",
+        "That is the brain drain.",
+        "That is capital consumption."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-05",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "A country's currency appreciates. What happens to its exports and imports?",
+      "options": [
+        "Exports become dearer abroad and imports cheaper at home",
+        "Exports become cheaper abroad and imports dearer at home",
+        "Both exports and imports become cheaper",
+        "Neither is affected"
+      ],
+      "answer": 0,
+      "why": "SPICED: Strong currency, Imports Cheaper, Exports Dearer.",
+      "whyNot": [
+        "",
+        "That is the effect of a depreciation.",
+        "They move in opposite directions.",
+        "Both prices change in the relevant currency."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-06",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "Higher domestic interest rates have what effect on a floating exchange rate?",
+      "options": [
+        "They attract capital inflows, raising demand for the currency, so it appreciates",
+        "They increase the supply of the currency, so it depreciates",
+        "They have no effect, because interest rates are domestic",
+        "They fix the rate at its current level"
+      ],
+      "answer": 0,
+      "why": "This is the most immediate influence on a floating rate, which is why interest rates are used to support a currency.",
+      "whyNot": [
+        "",
+        "Inflows raise demand, not supply.",
+        "Capital flows respond directly to relative returns.",
+        "Interest rates influence the rate; they do not fix it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-07",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "Which of the following best describes purchasing power parity theory?",
+      "options": [
+        "Exchange rates adjust over the long run so a given sum buys the same basket in every country",
+        "Exchange rates are fixed by relative interest rates",
+        "Exchange rates always equal the ratio of the two countries' GDPs",
+        "Exchange rates are determined by the trade balance alone"
+      ],
+      "answer": 0,
+      "why": "Its limitations are that many goods and most services are not traded, and that short-run rates are dominated by capital flows.",
+      "whyNot": [
+        "",
+        "Interest rates are a separate influence.",
+        "GDP does not determine the rate.",
+        "The current account is one influence among several."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-08",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "Why does supporting a currency deplete reserves while weakening it does not?",
+      "options": [
+        "Supporting it requires buying your own currency with finite foreign reserves; weakening it accumulates reserves",
+        "Weakening a currency is prohibited by the IMF",
+        "Supporting a currency requires no intervention",
+        "Reserves are unlimited in both directions"
+      ],
+      "answer": 0,
+      "why": "That asymmetry explains why defending an overvalued currency so often fails against a determined speculative attack.",
+      "whyNot": [
+        "",
+        "Intervention to weaken a currency is common.",
+        "It requires active buying of the currency.",
+        "Foreign reserves are finite; domestic currency can be created."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-09",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "Why is a depreciation inflationary?",
+      "options": [
+        "Import prices rise directly, giving cost-push inflation, and higher demand adds demand-pull pressure",
+        "It reduces the money supply",
+        "It lowers the price of imported inputs",
+        "It always reduces aggregate demand"
+      ],
+      "answer": 0,
+      "why": "Reduced competition from imports also removes discipline on domestic producers' prices.",
+      "whyNot": [
+        "",
+        "It does not reduce the money supply.",
+        "It raises the price of imported inputs.",
+        "It raises AD through net exports."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-10",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "hard",
+      "stem": "Why might a depreciation fail to improve the current account even in the long run?",
+      "options": [
+        "If the sum of the two elasticities remains below 1, the higher import bill dominates",
+        "Export volumes never respond to price",
+        "Import volumes never respond to price",
+        "Depreciation has no effect on prices"
+      ],
+      "answer": 0,
+      "why": "Elasticities are higher in the long run than the short run, so the condition may fail immediately and hold later, but not always.",
+      "whyNot": [
+        "",
+        "They do respond, though with a lag.",
+        "They also respond, subject to the availability of substitutes.",
+        "It changes prices in both currencies directly."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-11",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "hard",
+      "stem": "Why is a strong argument against a fixed exchange rate the absence of automatic adjustment?",
+      "options": [
+        "An overvalued peg must be corrected by deflating the domestic economy instead",
+        "Fixed rates cannot be defended at all",
+        "Fixed rates always cause inflation",
+        "Fixed rates prevent all trade"
+      ],
+      "answer": 0,
+      "why": "Under a float, a current account deficit corrects itself as the currency falls; under a peg, the domestic economy must adjust.",
+      "whyNot": [
+        "",
+        "They can be defended with reserves and interest rates.",
+        "Fixed rates impose discipline against inflation.",
+        "They provide certainty for traders."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-12",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "hard",
+      "stem": "Why is competitive devaluation described as a negative-sum game?",
+      "options": [
+        "Competitiveness is relative, so retaliation leaves relative rates unchanged and everyone with higher import prices",
+        "Devaluation raises every country's output permanently",
+        "Only the first country to devalue ever gains",
+        "Devaluation is illegal under WTO rules"
+      ],
+      "answer": 0,
+      "why": "It also removes the pressure to raise productivity, which is the only durable source of competitiveness.",
+      "whyNot": [
+        "",
+        "Retaliation cancels the competitive gain while leaving the inflation.",
+        "Even the first mover's gain is eroded by retaliation and inflation.",
+        "Exchange rate policy is not directly governed by WTO rules."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-13",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "hard",
+      "stem": "For an import-dependent economy with few domestic substitutes, what follows about a depreciation?",
+      "options": [
+        "Demand for imports is highly inelastic, so the Marshall-Lerner condition is unlikely to hold",
+        "Demand for imports is highly elastic, so the condition certainly holds",
+        "Import prices will not rise",
+        "Export volumes will rise proportionally more than import prices"
+      ],
+      "answer": 0,
+      "why": "It would raise the import bill without much volume adjustment, which is a coherent economic argument for exchange rate stability in such an economy.",
+      "whyNot": [
+        "",
+        "Few substitutes means inelastic, not elastic, demand.",
+        "They rise directly with the depreciation.",
+        "There is no reason to expect that where imports are essential."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-14",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "What effect does quantitative easing tend to have on a currency?",
+      "options": [
+        "It depreciates it, by raising the money supply and lowering long-term interest rates",
+        "It appreciates it, by raising confidence",
+        "It fixes it against a basket of currencies",
+        "It has no exchange rate effect"
+      ],
+      "answer": 0,
+      "why": "It is usually pursued for domestic reasons, with the currency effect a side effect, and it is criticised abroad as an indirect competitive devaluation.",
+      "whyNot": [
+        "",
+        "Both mechanisms point towards depreciation.",
+        "It is not a pegging mechanism.",
+        "The money supply and interest rate effects both move the rate."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-15",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "hard",
+      "stem": "Why does a depreciation have an ambiguous effect on the financial account?",
+      "options": [
+        "Cheaper domestic assets attract investment, while a falling currency may signal weakness and prompt outflows",
+        "The financial account is unaffected by exchange rates",
+        "Only the current account responds to exchange rates",
+        "Foreign investors always gain from a depreciation"
+      ],
+      "answer": 0,
+      "why": "The net effect depends on whether the movement is seen as a correction or as the start of a decline.",
+      "whyNot": [
+        "",
+        "Asset values and expected returns both change.",
+        "Both accounts respond.",
+        "Existing foreign holders lose value in their own currency."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-2-16",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "difficulty": "medium",
+      "stem": "Why does the growth effect of a depreciation depend on spare capacity?",
+      "options": [
+        "With no spare capacity, higher export demand produces inflation rather than extra output",
+        "Spare capacity determines the exchange rate",
+        "Export demand does not respond to prices",
+        "Capacity has no effect on the price level"
+      ],
+      "answer": 0,
+      "why": "The AD/AS framework makes this explicit: a rightward shift in AD near full capacity raises prices more than output.",
+      "whyNot": [
+        "",
+        "Capacity does not determine the rate.",
+        "Export demand does respond, with a lag.",
+        "Capacity constraints are what make demand inflationary."
+      ]
+    }
+  ]
+}

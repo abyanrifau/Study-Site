@@ -1,0 +1,434 @@
+{
+  "unit": "WBS14",
+  "intro": "Two hours for 80 marks. Section A is short and extended response from sources (40 marks); Sections B and C are one 20-mark essay each. That is 90 seconds a mark, so a 20-mark essay gets 30 minutes and Section A gets 60.\n\nThe command word tells you what to do. Explain wants one chain of cause and effect. Analyse wants two or three chains. Assess and Evaluate want chains PLUS a judgement with a condition attached. A balanced answer with no decision cannot reach the top band.\n\nWork each planner in note form first, then read the model and compare the structure, not the wording. What lifts a 12-mark answer from 7 to 11 is almost always the same three things: using the actual figures from the source, chaining each point two or three steps further than feels necessary, and finishing with 'it depends on...' rather than 'in conclusion'.",
+  "questions": [
+    {
+      "id": "wbs14-w-01",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Meridian Tools makes hand tools in a high-wage economy and is considering relocating assembly. Country A: wages $4.00 an hour, output 2 units per hour, shipping to the main market $0.60 a unit, a 12% tariff on the finished product, unreliable power supply, and an eight-year tax holiday offered. Country B: wages $18.00 an hour, output 12 units per hour, shipping $0.05 a unit, inside the main market's trade bloc so no tariff, reliable infrastructure, no incentives. Other costs are $6.00 a unit in both. Meridian sells 240,000 units a year.",
+      "question": "Evaluate whether Meridian Tools should locate its assembly in Country A or Country B.",
+      "planner": [
+        {
+          "label": "Build the DELIVERED cost per unit (6 minutes)",
+          "prompt": "Never compare wages. Unit labour cost A = 4.00/2 = $2.00; B = 18.00/12 = $1.50. Tariff on A = 12% of (2.00 + 6.00) = $0.96. Then: A = 2.00 + 0.60 + 0.96 = $3.56 plus other costs; B = 1.50 + 0.05 + 0 = $1.55 plus other costs."
+        },
+        {
+          "label": "Scale it up",
+          "prompt": "Difference = 3.56 - 1.55 = $2.01 a unit. On 240,000 units that is $482,400 a year in B's favour. That figure is the answer to the financial part of the question."
+        },
+        {
+          "label": "Say why the low-wage country lost",
+          "prompt": "A pays less than a quarter of B's wage and is more than twice as expensive delivered. Three reasons: productivity is six times higher in B, shipping is twelve times cheaper, and B is inside the bloc so faces no tariff. Name all three."
+        },
+        {
+          "label": "The non-cost factors",
+          "prompt": "A's unreliable power is decisive for assembly: the plant either needs its own generation, adding capital and running cost, or loses output. B has reliable infrastructure."
+        },
+        {
+          "label": "Deal with the tax holiday",
+          "prompt": "Eight years sounds generous. Evaluate it: it expires while the plant remains; it can be withdrawn by a new government; and a location that has to pay businesses to come is telling you something about its other disadvantages. Incentives should tip a marginal decision, not make one."
+        },
+        {
+          "label": "Argue for A anyway",
+          "prompt": "Be fair. A's wage advantage will grow if B's wages rise faster; the tariff could be removed or A could join a bloc; and the tax holiday has real cash value in the early years when finance is tightest."
+        },
+        {
+          "label": "Judge",
+          "prompt": "Commit to B with the $482,400 figure and the power point. State the condition: if the tariff were removed and power were reliable, A's position would change materially."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO2: the calculation",
+          "text": "Wage rates cannot be compared directly. What matters is unit labour cost, which combines the wage with productivity. In Country A, $4.00 an hour for 2 units gives $2.00 a unit. In Country B, $18.00 an hour for 12 units gives $1.50 a unit. Country B, paying a wage four and a half times higher, has the lower labour cost per unit because its productivity is six times greater.",
+          "note": "Opens with the distinction that decides the question, and states the counter-intuitive result plainly."
+        },
+        {
+          "earns": "AO2 + AO3: the delivered cost",
+          "text": "The comparison must be made on delivered cost. Country A adds $0.60 a unit of shipping and a 12% tariff, which on a pre-tariff cost of $8.00 a unit is $0.96, giving $2.00 + $0.60 + $0.96 = $3.56 before the other costs common to both. Country B, inside the main market's trade bloc, faces no tariff and shipping of only $0.05, giving $1.50 + $0.05 = $1.55. The difference of $2.01 a unit on annual volume of 240,000 units is $482,400 a year in Country B's favour.",
+          "note": "Builds the cost stack and scales it to an annual figure. The $482,400 is what makes the argument concrete."
+        },
+        {
+          "earns": "AO3: why the low-wage option lost",
+          "text": "Country A pays less than a quarter of Country B's hourly wage and is more than twice as expensive per unit delivered. Three factors explain it. Productivity in B is six times higher, which more than offsets the wage difference. Shipping from A costs twelve times as much per unit, because A is distant from the market. And A faces a 12% tariff that B avoids entirely by being inside the bloc, so trade policy rather than production cost accounts for almost half of the gap.",
+          "note": "Decomposes the result into three named causes. The observation that trade policy explains much of the gap is the most sophisticated part."
+        },
+        {
+          "earns": "AO3 + AO4: the non-cost factors",
+          "text": "The cost comparison already favours B, and the non-cost factors reinforce it. Assembly requires continuous power, and Country A's supply is unreliable. Meridian would therefore have to install its own generation, which adds capital cost and a continuing fuel cost not included in the figures above, or accept lost output and missed delivery dates. Power reliability is the factor that most often rules out an otherwise low-cost location for manufacturing, and it is not a marginal consideration.",
+          "note": "Notes that the generation cost is NOT in the calculation, which strengthens the conclusion rather than just adding a factor."
+        },
+        {
+          "earns": "AO4: the tax holiday",
+          "text": "The eight-year tax holiday is the strongest argument for Country A and should be treated cautiously. It is time-limited, so the advantage expires while the plant, the workforce and the supply chain remain, and relocating again would be expensive. It can be withdrawn or modified by a subsequent government, and it may carry conditions on employment or local sourcing. More fundamentally, a location that has to offer eight years of tax exemption to attract investment is signalling something about its other disadvantages. An incentive should tip a decision that is already marginal; it should not make one where the underlying economics point the other way by $482,400 a year.",
+          "note": "Four distinct criticisms, each with a mechanism, and a general principle stated at the end. This is a model paragraph on incentives."
+        },
+        {
+          "earns": "AO4: the case for A",
+          "text": "Two factors could change the position. Wages rise as economies grow, so Country A's labour cost advantage in hourly terms may widen if B's wages rise faster, and if A's productivity improves with investment and training its unit labour cost could fall below B's. Trade policy is also not permanent: if the 12% tariff were removed, or if Country A joined a trade agreement with the main market, $0.96 a unit would disappear from A's cost, reducing the gap to $1.05 a unit or $252,000 a year, which the tax holiday would go some way towards offsetting.",
+          "note": "Quantifies the counter-argument rather than asserting it. Recalculating the gap without the tariff is exactly what an evaluative paragraph should do."
+        },
+        {
+          "earns": "AO4: judgement",
+          "text": "Meridian should locate assembly in Country B. The delivered cost advantage of $482,400 a year is substantial, it arises from the three most durable factors in the comparison, namely productivity, proximity and tariff-free access, and it excludes the additional cost of self-generating power in Country A. The tax holiday is worth having and is not worth an inferior underlying cost position for a plant that will operate for far longer than eight years. The judgement depends principally on trade policy and infrastructure rather than on wages: if the tariff on Country A's output were removed and its power supply became reliable, the gap would narrow to a point where the tax holiday and the prospect of rising wages elsewhere could tip the decision. Meridian should therefore review the position if A concludes a trade agreement with the main market, and should not treat the current wage differential as a reason to move.",
+          "note": "Commits, gives three reasons, dismisses the incentive with a comparison of time horizons, and names the two specific developments that would justify revisiting the decision. The final sentence is a business recommendation rather than a summary."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): unit labour cost, productivity, tariffs and trade blocs, government incentives.",
+        "AO2 (4): correct unit labour costs, tariff calculation, delivered cost and the annual figure on 240,000 units.",
+        "AO3 (6): decomposes the cost gap into named causes and develops the power reliability consequence.",
+        "AO4 (6): evaluates the tax holiday properly, quantifies the counter-argument, and gives a conditional judgement."
+      ]
+    },
+    {
+      "id": "wbs14-w-02",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Pacific Resorts, an international hotel group, has opened a 220-room resort on a small island economy. It employs 310 staff, of whom 284 are local and 26 are expatriate, all in management or specialist roles. Local staff are paid 40% above the national average wage. 78% of food, all fuel and all construction materials were imported. The resort paid $2.1m in tax last year and repatriated $6.4m of profit. It built a jetty and a desalination plant now also used by the neighbouring village. Coral cover in the adjacent lagoon has fallen 18% since construction began.",
+      "question": "Evaluate the impact of Pacific Resorts on the host economy.",
+      "planner": [
+        {
+          "label": "Structure by the specification (2 minutes)",
+          "prompt": "Separate LOCAL impacts (labour, local businesses, community and environment) from NATIONAL impacts (growth, FDI, balance of payments, technology and skills, consumers, business culture, tax). That structure alone earns marks and stops the answer drifting."
+        },
+        {
+          "label": "Local: labour",
+          "prompt": "Chain it: 284 local jobs at 40% above the national average raises household incomes, which raises local spending through the multiplier. Then the counterweight: all 26 expatriates hold the management and specialist roles, so the skills transfer stops below management level."
+        },
+        {
+          "label": "Local: community and environment",
+          "prompt": "The jetty and desalination plant are genuine infrastructure benefits now shared with the village. Against that, coral cover down 18%: quantify the damage and make the key point that the reef IS the product, so this threatens the asset itself."
+        },
+        {
+          "label": "National: the balance of payments, carefully",
+          "prompt": "This is where the marks are. Tax paid $2.1m against profit repatriated $6.4m, a net outflow of $4.3m before counting the 78% imported food and all the imported fuel. Repatriation is a PRIMARY INCOME debit every year, not a one-off."
+        },
+        {
+          "label": "National: the leakage question",
+          "prompt": "State it as a principle: the development benefit depends on what share of the value created STAYS in the country. With 78% of food, all fuel and all materials imported, plus $6.4m repatriated, most of the revenue leaves almost immediately."
+        },
+        {
+          "label": "Evaluate",
+          "prompt": "Pick three: 40% above the national average and far below the group's home rates are both true; benefits are immediate and visible while environmental and repatriation costs are cumulative; a small economy has almost no bargaining power; and the reef damage may be irreversible."
+        },
+        {
+          "label": "Judge",
+          "prompt": "Commit, with the net figure, and recommend the conditions: local sourcing targets, local management development, and enforceable environmental standards. Say what further information you would want."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + structure",
+          "text": "A multinational corporation owns or controls operations in more than one country. Pacific Resorts' impact is best assessed by separating its effects on the local economy, which the specification identifies as labour, local businesses and the community and environment, from its effects on the national economy, principally growth, the balance of payments, skills transfer and tax revenue.",
+          "note": "Defines and announces the structure. Taking the specification's own headings guarantees coverage."
+        },
+        {
+          "earns": "AO3 + AO2: local labour",
+          "text": "The local employment effect is substantial. The resort employs 284 local staff at 40% above the national average wage, which raises household incomes directly and generates further local spending and employment through the multiplier, in an island economy where alternative formal employment is limited. Training in hospitality also produces genuinely transferable skills, since the standards are internationally recognised.",
+          "note": "Chains from jobs to incomes to the multiplier, with the source figures, and adds the transferability point."
+        },
+        {
+          "earns": "AO4 + AO2: the qualification on labour",
+          "text": "Two qualifications matter. All 26 expatriate staff occupy management and specialist positions, so while skills transfer occurs at operational level it stops below management, which limits both the career ceiling for local staff and the long-run capacity of the economy to run such operations itself. And the 40% premium is measured against the national average: the same wage is very likely far below what the group pays for equivalent work in its home market. Both comparisons are true, and which one is used determines whether the employment effect is judged generous or exploitative.",
+          "note": "The double comparison is the examinable nuance in this topic, and naming it explicitly is worth a mark."
+        },
+        {
+          "earns": "AO3 + AO2: community and environment",
+          "text": "The infrastructure effect is real and unusually clear: the jetty and desalination plant were built for the resort and are now used by the neighbouring village, so the community gains transport and water it could not have funded itself. Against this, coral cover in the adjacent lagoon has fallen 18% since construction began. That is not simply an environmental externality borne by third parties; in this sector the reef is the product, so the damage degrades the asset the resort's own revenue depends on, and coral recovery takes decades where it occurs at all.",
+          "note": "Gives the benefit properly before the cost, then makes the point that lifts the paragraph: the environmental damage is also commercial self-harm."
+        },
+        {
+          "earns": "AO2 + AO3: the balance of payments",
+          "text": "The national financial effect requires care. The resort paid $2.1m in tax while repatriating $6.4m of profit, a net outflow of $4.3m before any account is taken of imports. Profit repatriation is recorded as a debit on the primary income account and recurs every year, unlike the initial investment, which was a single inflow on the financial account. Once cumulative repatriation exceeds the original investment, the resort becomes a permanent net drain on the current account, offset only by the foreign exchange its guests bring in.",
+          "note": "Gets the accounting right and draws out the crucial timing asymmetry between a one-off inflow and a recurring outflow."
+        },
+        {
+          "earns": "AO3 + AO4: leakage",
+          "text": "The scale of import leakage determines how much of the resort's revenue benefits the host economy at all. 78% of food, all fuel and all construction materials were imported, so a large proportion of every dollar of guest spending leaves the country almost immediately to pay foreign suppliers. Combined with $6.4m of repatriated profit, the retained share of value created is far smaller than the resort's turnover would suggest. The 22% of food sourced locally is the part that generates demand for domestic agriculture and the associated employment, and raising that proportion is the single most effective way of increasing the development benefit without any additional investment.",
+          "note": "States the leakage principle, quantifies it from the source, and identifies the specific lever that would change it. That last point makes the paragraph constructive."
+        },
+        {
+          "earns": "AO4: evaluation",
+          "text": "Three considerations shape the judgement. First, the benefits are immediate and visible, in the form of 284 jobs, $2.1m of tax and new infrastructure, while several of the costs accumulate gradually: reef degradation, annual profit outflows and continued dependence on imported food and fuel. That asymmetry explains why such investments are welcomed and later resented. Second, a small island economy has very little bargaining power, because it competes with other destinations for the same capital, so it is in a weak position to impose local sourcing or environmental conditions. Third, the environmental damage may be irreversible in a way that none of the financial effects are: profits can be renegotiated and reefs cannot be rebuilt.",
+          "note": "Three genuinely distinct evaluative points. The irreversibility argument is the strongest and is rarely made."
+        },
+        {
+          "earns": "AO4: judgement",
+          "text": "On balance Pacific Resorts has brought a net benefit to the host economy, principally through 284 jobs at above-average wages, $2.1m of annual tax revenue and infrastructure the community now shares, none of which the economy could have generated alone. The benefit is considerably smaller than the resort's revenue implies, because import leakage and $6.4m of annual profit repatriation mean most of the value created leaves the country, and it is being obtained at an environmental cost that threatens the asset the whole sector depends on. The judgement therefore depends less on whether the investment is beneficial than on the conditions attached to it. The host government should press for a rising local food sourcing target, a timetable for local staff to reach management positions, and enforceable limits on construction and effluent affecting the lagoon. To judge the position properly, two further pieces of information are needed: the original value of the investment, so that cumulative repatriation can be compared with it, and whether the 18% coral loss has stabilised or is continuing.",
+          "note": "Commits with the figures, reframes the question from whether to on what terms, gives three specific and achievable conditions, and names exactly what further information is missing. That reframing is the mark of a top-band answer."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): MNC, multiplier, profit repatriation, primary income, technology and skills transfer.",
+        "AO2 (4): uses the 284, 26, 40%, 78%, $2.1m, $6.4m and 18% figures where each does analytical work.",
+        "AO3 (6): separates local from national impacts, chains the employment and leakage effects, and gets the balance of payments treatment right.",
+        "AO4 (6): the double wage comparison, the immediate-against-cumulative asymmetry, irreversibility, and a judgement that specifies conditions."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wbs14-c-01",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "title": "Unit labour cost, tariffs and the delivered cost comparison",
+      "given": [
+        "                        Country A     Country B",
+        "Wage per hour              $4.00        $18.00",
+        "Units per hour                 2            12",
+        "Shipping per unit          $0.60         $0.05",
+        "Tariff on finished goods      12%          none",
+        "Other costs per unit       $6.00         $6.00",
+        "Annual volume            240,000 units"
+      ],
+      "steps": [
+        {
+          "label": "1. Unit labour cost, NOT the wage rate",
+          "working": "A: 4.00 / 2  = $2.00 per unit\nB: 18.00 / 12 = $1.50 per unit",
+          "note": "B pays 4.5 times the wage and has the LOWER labour cost per unit, because productivity is 6 times higher."
+        },
+        {
+          "label": "2. Cost before the tariff",
+          "working": "A: 2.00 labour + 6.00 other = $8.00\nB: 1.50 labour + 6.00 other = $7.50",
+          "note": "The tariff is charged on the value of the goods, so work out that value first."
+        },
+        {
+          "label": "3. The tariff on A",
+          "working": "8.00 x 12% = $0.96 per unit",
+          "note": "B is inside the bloc, so faces no tariff at all."
+        },
+        {
+          "label": "4. Delivered cost per unit",
+          "working": "A: 8.00 + 0.60 shipping + 0.96 tariff = $9.56\nB: 7.50 + 0.05 shipping + 0     tariff = $7.55",
+          "note": "This is the only comparison that means anything. Build the whole stack."
+        },
+        {
+          "label": "5. The annual difference",
+          "working": "9.56 - 7.55 = $2.01 per unit\n2.01 x 240,000 = $482,400 a year in B's favour",
+          "note": "Scale it up. A per-unit figure does not convey the size of the decision."
+        },
+        {
+          "label": "6. Decompose the gap",
+          "working": "Labour   2.00 - 1.50 = 0.50 in B's favour\nShipping 0.60 - 0.05 = 0.55 in B's favour\nTariff   0.96 - 0    = 0.96 in B's favour\n                       ----\n                       2.01\n\nSo the TARIFF alone is nearly half the gap.",
+          "note": "Decomposing shows trade policy matters more than wages here, which is the analytical insight."
+        },
+        {
+          "label": "7. Test the sensitivity",
+          "working": "If A's tariff were removed:\nA delivered = 8.00 + 0.60 = $8.60\nGap = 8.60 - 7.55 = $1.05 a unit = $252,000 a year\n\nStill in B's favour, but only half as much.",
+          "note": "One sensitivity test is worth several assertions in the evaluation."
+        }
+      ],
+      "answer": "Unit labour cost A $2.00, B $1.50. Delivered cost A $9.56, B $7.55. Country B is cheaper by $2.01 a unit, or $482,400 a year, of which the tariff accounts for $0.96.",
+      "tryIt": {
+        "given": [
+          "Country C: wage $6.00/hour, 3 units/hour, shipping $0.45, tariff 8%, other costs $5.00",
+          "Country D: wage $22.00/hour, 20 units/hour, shipping $0.10, no tariff, other costs $5.00",
+          "Annual volume 180,000 units"
+        ],
+        "answer": "Unit labour: C = 6.00/3 = $2.00; D = 22.00/20 = $1.10. Pre-tariff cost: C = 7.00; D = 6.10. Tariff on C = 7.00 x 8% = $0.56. Delivered: C = 7.00 + 0.45 + 0.56 = $8.01; D = 6.10 + 0.10 = $6.20. Gap $1.81 a unit = $325,800 a year in D's favour. Decomposition: labour 0.90, shipping 0.35, tariff 0.56. Here productivity is the largest single factor."
+      }
+    },
+    {
+      "id": "wbs14-c-02",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "title": "Exchange rate movements: the revenue effect and the price effect",
+      "given": [
+        "Export price per unit          $60",
+        "Home currency: euro",
+        "Old rate: EUR1 = $1.10",
+        "New rate: EUR1 = $1.25  (the euro has appreciated)",
+        "Annual volume              40,000 units",
+        "Contribution per unit at the old rate   EUR14.55"
+      ],
+      "steps": [
+        {
+          "label": "1. Revenue per unit in the home currency",
+          "working": "Old: 60 / 1.10 = EUR54.55\nNew: 60 / 1.25 = EUR48.00",
+          "note": "Divide the dollar price by the dollars per euro. Getting the division the wrong way round is the classic error."
+        },
+        {
+          "label": "2. The effect of holding the dollar price",
+          "working": "Loss per unit = 54.55 - 48.00 = EUR6.55\n= a fall of 12.0% in revenue per unit\n\nAnnual effect = 6.55 x 40,000 = EUR262,000",
+          "note": "Always scale to the annual figure. And note the contribution effect: EUR14.55 falls to about EUR8.00, a 45% cut."
+        },
+        {
+          "label": "3. The alternative: protect the euro revenue",
+          "working": "Required dollar price = 54.55 x 1.25 = $68.19\n\nPrice increase to the customer\n= (68.19 - 60.00) / 60.00 = +13.6%",
+          "note": "Do BOTH calculations. The business is choosing between them, so an answer with only one is incomplete."
+        },
+        {
+          "label": "4. Now bring in elasticity",
+          "working": "If PED for exports is, say, -1.4 (elastic):\nA 13.6% price rise loses about 19.0% of volume\n= 40,000 -> 32,400 units\n\nNew revenue = 32,400 x EUR54.55 = EUR1,767,420\nOld revenue = 40,000 x EUR54.55 = EUR2,182,000\n-> revenue still falls, by EUR414,580",
+          "note": "With elastic demand, raising the price to protect the margin loses MORE than absorbing the movement. That comparison is the analysis."
+        },
+        {
+          "label": "5. The decisive question",
+          "working": "What currency are the competitors based in?\n\n- If also euro-based: all face the same pressure,\n  so the price CAN be raised.\n- If dollar-based: they face none of it, and a\n  price rise loses the order outright.",
+          "note": "This is the strongest single point available in an exchange rate question and it costs one sentence."
+        },
+        {
+          "label": "6. Check for a natural hedge",
+          "working": "Does the business also IMPORT inputs priced\nin dollars? If so, the appreciation makes those\ninputs cheaper, partly offsetting the revenue loss.\n\nCalculate the NET exposure, not the gross.",
+          "note": "A business that imports and exports is partly hedged already. Treating it as a pure exporter overstates the damage."
+        }
+      ],
+      "answer": "Revenue per unit falls from EUR54.55 to EUR48.00, a loss of EUR6.55 a unit or EUR262,000 a year. Protecting the euro revenue would require a dollar price of $68.19, a 13.6% increase, which with elastic demand would lose more revenue than it protects.",
+      "tryIt": {
+        "given": [
+          "Export price GBP45 per unit; home currency the US dollar",
+          "Old rate: $1 = GBP0.78; new rate: $1 = GBP0.72 (the dollar has depreciated)",
+          "Annual volume 25,000 units"
+        ],
+        "answer": "Revenue per unit: old = 45/0.78 = $57.69; new = 45/0.72 = $62.50. The dollar has WEAKENED, so the same sterling price now yields MORE dollars: a gain of $4.81 a unit, or $120,250 a year. Alternatively the exporter could cut the sterling price to 57.69 x 0.72 = GBP41.54, a 7.7% price cut, to win volume while holding dollar revenue per unit constant. Whether that is worth doing depends on PED and on what competitors do."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "points": [
+        "A tariff protects one industry and raises costs for every industry that buys from it. Identify which side of the barrier the business in the source is on.",
+        "A quota is worse than a tariff for an exporter, because no amount of cost cutting gets more product through.",
+        "Retaliation harms businesses that were never protected.",
+        "Temporary protection rarely ends, because the protected industry acquires the incentive and the means to keep it.",
+        "Non-tariff barriers can cost more than tariffs, through redesign, testing and delay.",
+        "It depends on elasticity: where demand is inelastic the tariff can be passed on, and where it is elastic the business absorbs it.",
+        "Producing inside the barrier is often the answer the source is pointing at, so consider FDI as a response, not just absorbing or passing on the cost."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "points": [
+        "Growth matters more than the level of income, because the business is buying the market's future rather than its present.",
+        "Averages hide distribution. The real market is often a small urban middle class rather than the whole population.",
+        "Market SIZE and market PROFITABILITY are different questions. Use the five factors for the first and Porter for the second.",
+        "A growing market attracts entrants, which erodes the margins that attracted them.",
+        "The five forces are usually worse for a new foreign entrant than for the local incumbent: weaker supplier power, no brand, no local knowledge.",
+        "Political stability matters far more for FDI than for exporting, because the assets cannot be moved.",
+        "Income per head multiplied by population determines market value. A high income in a tiny population is a small market."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "points": [
+        "Low wages do not mean low costs. Use unit labour cost, then build the full DELIVERED cost including shipping and tariffs.",
+        "Wages rise as economies grow, so a cost advantage is temporary.",
+        "Government incentives expire; the plant does not. They should tip a marginal decision, not make one.",
+        "Skill shortages and unreliable power defeat more location decisions than wage rates do.",
+        "Location inside a trade bloc can outweigh a higher production cost entirely.",
+        "It depends on the type of production: labour-intensive assembly, capital-intensive manufacturing, bulky goods and services all rank the factors differently.",
+        "Say so in the first sentence: the factors are only meaningful relative to what the business actually does."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "points": [
+        "Acquisition buys speed and imports someone else's culture, which is the most common cause of failure.",
+        "A joint venture shares the risk and the control, and disagreement between partners is the usual failure mode.",
+        "Technology transferred to a joint venture partner can create a future competitor, which is the sharpest criticism of the route.",
+        "Overpayment is the commonest financial cause of failure: the premium is paid and the synergies do not appear.",
+        "A legal requirement removes the choice, so check whether the country permits full foreign ownership.",
+        "Reversibility differs sharply between acquisition, joint venture and organic growth, and it matters most in an unfamiliar market."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "points": [
+        "A business that both imports and exports is partly hedged already. Calculate the NET exposure.",
+        "What currency competitors are based in decides whether a price rise is possible.",
+        "Volatility can hurt more than the level, because it makes planning and pricing impossible.",
+        "Hedging removes the downside and the upside, and it costs money. Local production removes the exposure entirely.",
+        "Skill shortages can constrain expansion even where demand and finance are available, which is the most serious effect and the least mentioned.",
+        "It depends on whether the currency movement is temporary or permanent: hedge a temporary one, restructure for a permanent one."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "points": [
+        "The answer differs by element of the mix. A single verdict on standardise-or-adapt is a weak answer; go through the 4Ps and give a different answer for each.",
+        "Every adaptation costs scale economies, so the test is whether it buys more extra revenue than it costs.",
+        "Regulation can force adaptation whether the business wants it or not, which is a hard constraint rather than a choice.",
+        "Being foreign can be an asset, which is an argument for LESS adaptation, not more.",
+        "Adapting the product moves the strategy towards diversification in Ansoff's terms, raising both cost and risk.",
+        "A foreign entrant is particularly exposed to being stuck in the middle: unable to beat local producers on cost and not yet able to charge a premium."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "points": [
+        "A niche that is unviable at home can be viable globally, because a tiny share of many countries adds up. That arithmetic is the core of the topic.",
+        "Focus is both the strength and the risk: everything depends on one segment continuing to exist.",
+        "Success attracts large entrants, so a growing niche is not a safe one.",
+        "The internet is what made global niches reachable, which is why the strategy sits in a globalisation unit.",
+        "There are no economies of scale, so the strategy depends on the premium price holding.",
+        "It depends on the source of advantage: expertise favours a niche, scale favours the mass market."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "points": [
+        "Cultural sensitivity matters far more for food, clothing and media than for industrial components. Say which the source concerns.",
+        "No campaign is local any more, because anything made for one market is visible everywhere within hours.",
+        "A business cannot see its own assumptions, so local staff are a necessity rather than a courtesy, and overruling them wastes the information.",
+        "Do not confuse cultural difference with income difference. Pack size is usually about affordability.",
+        "Local advertising regulation is a hard constraint, not a cultural preference.",
+        "Adaptation costs money and must be weighed against the extra revenue it generates."
+      ]
+    },
+    {
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "points": [
+        "Above the local average and below the home-country rate are both true. Which comparison you use decides the verdict, so name the choice.",
+        "Profit repatriation turns an initial balance of payments gain into a permanent annual outflow.",
+        "Transfer pricing and tax holidays can make the tax benefit far smaller than promised.",
+        "Benefits such as jobs and investment are immediate and visible; costs such as environmental damage and repatriation are gradual and cumulative. That asymmetry explains why governments compete for FDI and are later disappointed.",
+        "The net effect depends on the host's bargaining power, which small economies competing for the same capital largely lack.",
+        "Ask how much of the value created STAYS: local sourcing, local employment at all levels, reinvested profit and tax actually paid.",
+        "Technology transfer requires the local capacity to absorb it, which depends on education.",
+        "Some costs are irreversible in a way financial effects are not. Profits can be renegotiated; reefs and forests cannot be rebuilt."
+      ]
+    },
+    {
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "points": [
+        "The core issue is the double standard: doing abroad what would not be permitted at home, justified because local law allows it.",
+        "Customers say they will pay more for ethical products and frequently do not. Naming that gap is a genuinely sharp point.",
+        "Withdrawing from a supplier can harm the workers it aims to help, so requiring improvement and verifying it usually beats termination.",
+        "Audits can be evaded, and compliance at tier one says nothing about tier three.",
+        "Where the environment IS the product, ethics and long-run profit align almost completely.",
+        "Greenwashing is worse than silence, because the gap between claim and behaviour becomes the story.",
+        "Short run against long run is the distinction that organises the whole judgement."
+      ]
+    },
+    {
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "points": [
+        "MNCs are global while laws are national. That structural mismatch is the starting point of every answer.",
+        "The power is the THREAT to relocate, so ask first how mobile the operation actually is: a mine or a resort cannot move, a service centre can.",
+        "Consumer pressure only works against businesses with a consumer brand, and barely touches component makers or extractive firms.",
+        "Boycotts can harm the workers they intend to help.",
+        "Self-regulation reaches across a whole group in a way no national law can, and compels nothing.",
+        "Social media is fast and unreliable, and its attention fades before change is delivered.",
+        "Home-country legislation with extraterritorial reach shifts enforcement to the strongest jurisdiction, which is the only structural answer to regulatory arbitrage."
+      ]
+    }
+  ]
+}

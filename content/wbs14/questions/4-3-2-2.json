@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.2",
+  "topicTitle": "Assessment of a country as a market",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-2-2-01",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines disposable income?",
+      "options": [
+        "Income available to households to spend or save after direct taxes",
+        "Total national output divided by the population",
+        "Income remaining after all spending has taken place",
+        "The wage a worker is paid before any deductions"
+      ],
+      "answer": 0,
+      "why": "Disposable income is what determines whether customers can actually afford the product.",
+      "whyNot": [
+        "",
+        "That is GDP per capita.",
+        "That is discretionary or residual income.",
+        "That is gross pay, before tax."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-02",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines ease of doing business?",
+      "options": [
+        "How straightforward it is to establish and run a business in a country",
+        "How cheap labour is in a country",
+        "How large a country's consumer market is",
+        "How stable a country's exchange rate is"
+      ],
+      "answer": 0,
+      "why": "It covers registration, permits, contract enforcement, taxation and the ability to repatriate profit.",
+      "whyNot": [
+        "",
+        "That is a cost factor.",
+        "That is market size.",
+        "That is exchange rate stability."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-03",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines political stability?",
+      "options": [
+        "The likelihood that a country's government, laws and policies remain predictable over an investment's life",
+        "The number of political parties in a country",
+        "The frequency of elections in a country",
+        "The level of government spending as a share of GDP"
+      ],
+      "answer": 0,
+      "why": "Predictability is what matters, and it matters far more for FDI than for exporting.",
+      "whyNot": [
+        "",
+        "The number of parties does not determine stability.",
+        "Regular elections can accompany high stability.",
+        "That is a fiscal measure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-04",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "easy",
+      "stem": "Which factor determines whether a business can physically reach customers in a market?",
+      "options": [
+        "Infrastructure",
+        "Disposable income",
+        "Political stability",
+        "The exchange rate"
+      ],
+      "answer": 0,
+      "why": "Roads, ports, power, telecommunications and payment systems determine distribution cost and whether the customer can pay.",
+      "whyNot": [
+        "",
+        "Income determines affordability, not reach.",
+        "Stability affects risk, not physical distribution.",
+        "The exchange rate affects price competitiveness."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-05",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "Why does the growth rate of income usually matter more than the level?",
+      "options": [
+        "A business entering a market is buying its future rather than its present",
+        "Growth rates are easier to measure than income levels",
+        "The level of income does not affect affordability",
+        "Growth rates are always more stable than income levels"
+      ],
+      "answer": 0,
+      "why": "A modest income growing quickly can support a product within a few years that it cannot support today.",
+      "whyNot": [
+        "",
+        "Both are measured routinely.",
+        "The level determines current affordability, which matters too.",
+        "Growth rates are typically more volatile."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-06",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "A country has GDP per capita of $6,400 growing at 6%. What does this most usefully tell a business?",
+      "options": [
+        "The number of customers who can afford its product is growing quickly",
+        "All households in the country can afford its product",
+        "The country's total market is larger than a developed economy's",
+        "Its production costs there will be low"
+      ],
+      "answer": 0,
+      "why": "The figure has to be linked to the specific product and to the segment that can afford it.",
+      "whyNot": [
+        "",
+        "An average says nothing about how many households reach that level.",
+        "Total market size depends on population as well.",
+        "Income data concerns the market, not production costs."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-07",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "Why does income elasticity of demand matter in assessing a market?",
+      "options": [
+        "A product with high income elasticity gains disproportionately from rising incomes",
+        "It determines the exchange rate the business will receive",
+        "It measures how quickly the population is growing",
+        "It sets the tariff rate on the product"
+      ],
+      "answer": 0,
+      "why": "A luxury good benefits far more from income growth than a necessity does.",
+      "whyNot": [
+        "",
+        "Elasticity is unrelated to exchange rates.",
+        "That is population growth.",
+        "Tariffs are set by government."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-08",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "Which of the following is an infrastructure problem that would rule out a perishable product?",
+      "options": [
+        "Weak cold-chain facilities",
+        "A low level of card payment penetration",
+        "Slow company registration procedures",
+        "A volatile exchange rate"
+      ],
+      "answer": 0,
+      "why": "Without refrigerated storage and transport the product cannot reach the customer in saleable condition.",
+      "whyNot": [
+        "",
+        "Payment penetration affects how customers pay, not product condition.",
+        "Registration delay is an ease-of-doing-business issue.",
+        "Currency volatility is a pricing and planning problem."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-09",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "Why can a business's addressable market be far smaller than a country's population?",
+      "options": [
+        "Infrastructure and income may only support the product in a few cities",
+        "Populations are always overstated in official data",
+        "Only urban residents are permitted to buy imported products",
+        "National averages exclude the wealthiest households"
+      ],
+      "answer": 0,
+      "why": "A country may have good infrastructure in two cities and little elsewhere, so the addressable market is those cities.",
+      "whyNot": [
+        "",
+        "Population data is broadly reliable.",
+        "No such restriction generally exists.",
+        "Averages include all income."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-10",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "Why does political stability matter more for a production location than for an export sale?",
+      "options": [
+        "FDI commits assets that cannot be moved, while exporting can be stopped",
+        "Exporters pay higher taxes in unstable countries",
+        "Political risk only affects manufacturing",
+        "Exporters are protected by the WTO from political risk"
+      ],
+      "answer": 0,
+      "why": "Making that distinction between reversible and irreversible commitment is a strong evaluative point.",
+      "whyNot": [
+        "",
+        "Tax treatment is not the issue.",
+        "Political risk affects all activity.",
+        "The WTO does not insure against political risk."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-11",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "Why can a large, fast-growing market still be unattractive?",
+      "options": [
+        "Hostile five forces may mean little profit is available once you are in it",
+        "Large markets are always harder to reach physically",
+        "Growth always ends within two years",
+        "Fast-growing markets have low incomes by definition"
+      ],
+      "answer": 0,
+      "why": "Market size and market profitability are different questions, and a growing market attracts entrants which erodes the margins that attracted them.",
+      "whyNot": [
+        "",
+        "Size does not determine physical accessibility.",
+        "Growth can persist for decades.",
+        "Many fast-growing markets have rising incomes."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-12",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "Why are Porter's five forces usually worse for a foreign entrant than for the local incumbent?",
+      "options": [
+        "It has weaker bargaining power with suppliers and distributors, no established brand and no local knowledge",
+        "Foreign entrants pay higher tariffs on all inputs",
+        "The five forces apply only to foreign businesses",
+        "Local incumbents are legally protected from competition"
+      ],
+      "answer": 0,
+      "why": "The forces are not the same for every firm in the market, and they are usually harsher for the newcomer.",
+      "whyNot": [
+        "",
+        "Tariffs depend on the goods, not on the firm's nationality.",
+        "They apply to all firms in an industry.",
+        "Legal protection of incumbents is unusual."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-13",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "Which two issues should be distinguished when discussing exchange rates in a market assessment?",
+      "options": [
+        "The level, which affects price competitiveness, and the volatility, which prevents planning",
+        "The spot rate and the interest rate",
+        "The official rate and the tax rate",
+        "The nominal rate and the population growth rate"
+      ],
+      "answer": 0,
+      "why": "Saying which concern applies is what turns a mention of exchange rates into analysis.",
+      "whyNot": [
+        "",
+        "Interest rates are a separate variable.",
+        "Tax rates are unrelated to exchange rates.",
+        "Population growth is unrelated."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-14",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "medium",
+      "stem": "Why is weak contract enforcement a serious concern for a market entrant?",
+      "options": [
+        "A distributor who does not pay may be beyond practical recourse",
+        "It increases the tariff payable on imports",
+        "It prevents the business from advertising",
+        "It makes the exchange rate more volatile"
+      ],
+      "answer": 0,
+      "why": "Restrictions on repatriating profit are a related concern: the returns cannot be brought home.",
+      "whyNot": [
+        "",
+        "Tariffs are unrelated to contract law.",
+        "Advertising is governed by separate regulation.",
+        "Contract enforcement does not drive currency movements."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-15",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "For a small island economy, what usually causes a market assessment to fail?",
+      "options": [
+        "Population size and distribution cost rather than income level",
+        "Income levels being too low to support any product",
+        "The absence of any political stability",
+        "The impossibility of registering a business"
+      ],
+      "answer": 0,
+      "why": "Total market value is income per head multiplied by population, and moving goods between islands is expensive and slow.",
+      "whyNot": [
+        "",
+        "Income per head may be relatively high.",
+        "Stability must be assessed on evidence, not assumed absent.",
+        "Registration is possible in such economies."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-2-16",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Assessment of a country as a market",
+      "difficulty": "hard",
+      "stem": "What is the correct order of work in a market assessment answer?",
+      "options": [
+        "Rank the factors by importance for this product, then apply the data, then apply Porter, then judge",
+        "List the five factors in the order given in the specification, then conclude",
+        "Apply Porter first and ignore the five factors",
+        "State the recommendation first and then justify it with any available data"
+      ],
+      "answer": 0,
+      "why": "For a perishable product infrastructure comes first; for a luxury good income distribution comes first.",
+      "whyNot": [
+        "",
+        "A fixed order with no ranking cannot reach the top band.",
+        "Both are needed: one for size, one for profitability.",
+        "A recommendation with no prior analysis is unsupported."
+      ]
+    }
+  ]
+}

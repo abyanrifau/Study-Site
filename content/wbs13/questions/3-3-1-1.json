@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.1.1",
+  "topicTitle": "Corporate objectives",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-1-1-01",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a mission statement?",
+      "options": [
+        "A short statement of a business's fundamental purpose: what it does, for whom and why",
+        "A measurable target for the business to achieve within a year",
+        "A broad long-term goal such as becoming market leader",
+        "A plan for how a department will contribute to company goals"
+      ],
+      "answer": 0,
+      "why": "The mission is purpose. Aims are broad goals, corporate objectives are measurable targets, and functional objectives break those down by department.",
+      "whyNot": [
+        "",
+        "That is a corporate objective.",
+        "That is a corporate aim.",
+        "That is a functional objective."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-02",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a specific, measurable medium-term target for the whole business?",
+      "options": [
+        "Corporate objective",
+        "Mission statement",
+        "Corporate aim",
+        "Tactic"
+      ],
+      "answer": 0,
+      "why": "Corporate objectives translate broad aims into something that can be measured and therefore managed.",
+      "whyNot": [
+        "",
+        "The mission states purpose, not a target.",
+        "An aim is broad and long term rather than specific and measurable.",
+        "A tactic is a short-term action."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-03",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "easy",
+      "stem": "In the hierarchy of objectives, what comes immediately after corporate objectives?",
+      "options": [
+        "Functional objectives",
+        "The mission statement",
+        "Corporate aims",
+        "The business plan"
+      ],
+      "answer": 0,
+      "why": "Mission, then aims, then corporate objectives, then functional objectives, then tactics. Each level should follow from the one above.",
+      "whyNot": [
+        "",
+        "The mission is at the top of the hierarchy.",
+        "Aims come before corporate objectives.",
+        "A business plan is a document, not a level in the hierarchy."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-04",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "medium",
+      "stem": "Why does the hierarchy of objectives matter?",
+      "options": [
+        "Without it, departments optimise separately and pull against each other",
+        "It is a legal requirement for limited companies",
+        "It removes the need for a mission statement",
+        "It guarantees the objectives will be achieved"
+      ],
+      "answer": 0,
+      "why": "Operations cutting cost by standardising while marketing promises customisation is the classic failure. Aligning objectives is what prevents it.",
+      "whyNot": [
+        "",
+        "There is no such legal requirement.",
+        "The mission sits at the top of the hierarchy.",
+        "Alignment helps; it does not guarantee achievement."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-05",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "medium",
+      "stem": "What is the strongest criticism of most mission statements?",
+      "options": [
+        "They are so vague that a competitor could adopt them unchanged",
+        "They are too specific to be useful",
+        "They are always illegal",
+        "They cannot be written down"
+      ],
+      "answer": 0,
+      "why": "If a rival could use it word for word, it rules nothing out and therefore guides no decision. Testing a statement that way is the most reliable criticism available.",
+      "whyNot": [
+        "",
+        "Vagueness, not excessive specificity, is the usual problem.",
+        "There is nothing illegal about them.",
+        "They are normally published prominently."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-06",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "medium",
+      "stem": "Which objective is SMART?",
+      "options": [
+        "Raise market share in the premium segment from 6% to 9% by December 2027",
+        "Grow the business as much as possible",
+        "Become the best company in the industry",
+        "Improve customer satisfaction"
+      ],
+      "answer": 0,
+      "why": "It is specific about the segment, measurable from 6% to 9%, and time-bound to December 2027. The others fail on measurability and time.",
+      "whyNot": [
+        "",
+        "Not specific, not measurable, no deadline.",
+        "Best by what measure, and by when?",
+        "Improve by how much, measured how, by when?"
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-07",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "hard",
+      "stem": "A business's mission statement emphasises valuing its people, but the source shows labour turnover of 45%. How should this be used?",
+      "options": [
+        "The gap between the statement and the behaviour is the strongest criticism available",
+        "The statement proves the business values its people",
+        "Turnover figures are irrelevant to the mission",
+        "The mission should simply be rewritten"
+      ],
+      "answer": 0,
+      "why": "A mission statement is only useful if believed and acted upon. Testing it against the source's own evidence of behaviour is exactly what a critical appraisal means.",
+      "whyNot": [
+        "",
+        "A published statement is a claim, not evidence.",
+        "Turnover is direct evidence about how people are actually treated.",
+        "Rewriting it changes nothing about the underlying behaviour."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-08",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "medium",
+      "stem": "Why can a corporate objective that cannot be measured not be managed?",
+      "options": [
+        "Nobody can tell whether it has been achieved, so no action follows from it",
+        "Unmeasurable objectives are illegal",
+        "It cannot be written in a business plan",
+        "Managers refuse to work on it"
+      ],
+      "answer": 0,
+      "why": "Without a measure there is no way to know whether you are on track, so there is nothing to correct and no accountability.",
+      "whyNot": [
+        "",
+        "There is no legal issue.",
+        "It could be written down; it simply would not be useful.",
+        "The problem is the objective, not the managers."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-1-09",
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "difficulty": "medium",
+      "stem": "Which benefit of a mission statement is most relevant to employees?",
+      "options": [
+        "A shared sense of purpose, which can be motivating",
+        "A guaranteed pay rise",
+        "Protection from redundancy",
+        "A reduction in working hours"
+      ],
+      "answer": 0,
+      "why": "A clear purpose gives meaning to the work, which is a Herzberg motivator, and it guides decisions when no rule covers the situation.",
+      "whyNot": [
+        "",
+        "Pay is unrelated to the mission statement.",
+        "It offers no job security.",
+        "No connection to hours."
+      ]
+    }
+  ]
+}

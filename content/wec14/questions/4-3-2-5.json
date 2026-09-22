@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.5",
+  "topicTitle": "Restrictions on free trade",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-2-5-01",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a tariff?",
+      "options": [
+        "A tax on imported goods, which raises their price in the domestic market",
+        "A physical limit on the quantity that may be imported",
+        "A payment to domestic producers",
+        "A ban on trade with a country"
+      ],
+      "answer": 0,
+      "why": "It raises the domestic price from the world price to the world price plus the tariff.",
+      "whyNot": [
+        "",
+        "That is a quota.",
+        "That is a subsidy.",
+        "That is an embargo."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-02",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "easy",
+      "stem": "Which of the following is a reason for restriction named in the specification?",
+      "options": [
+        "To protect infant and geriatric industries",
+        "To raise the exchange rate",
+        "To reduce the national debt",
+        "To increase the money supply"
+      ],
+      "answer": 0,
+      "why": "The six named reasons are infant and geriatric industries, domestic industry and employment, national security, dumping, correcting a current account deficit, and raising revenue.",
+      "whyNot": [
+        "",
+        "Exchange rate policy is a separate instrument.",
+        "Debt reduction is a fiscal matter.",
+        "Money supply is monetary policy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-03",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a geriatric industry?",
+      "options": [
+        "A long-established declining industry argued to need protection while it contracts gradually",
+        "A new industry too small to compete internationally",
+        "An industry employing mainly older workers",
+        "An industry producing goods for elderly consumers"
+      ],
+      "answer": 0,
+      "why": "Protection spreads the adjustment over time so structural unemployment is less concentrated, and it delays inevitable adjustment.",
+      "whyNot": [
+        "",
+        "That is an infant industry.",
+        "The term refers to the industry's stage, not its workforce.",
+        "It does not refer to the customers."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-04",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a deadweight welfare loss?",
+      "options": [
+        "The loss of welfare caused by an intervention moving the market away from the efficient output",
+        "The revenue a government loses when it cuts a tariff",
+        "The profit a producer loses when prices fall",
+        "The cost of administering a tariff"
+      ],
+      "answer": 0,
+      "why": "With a tariff it is the part of the consumer loss that becomes neither producer surplus nor government revenue.",
+      "whyNot": [
+        "",
+        "That is lost tax revenue.",
+        "That is a fall in producer surplus.",
+        "That is an administrative cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-05",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "Who gains and who loses from a tariff?",
+      "options": [
+        "Domestic producers and the government gain; consumers and importing firms lose",
+        "Everyone in the economy gains",
+        "Only the government gains and everyone else is unaffected",
+        "Consumers gain and producers lose"
+      ],
+      "answer": 0,
+      "why": "There is also a net deadweight welfare loss, because production shifts to higher-cost domestic producers and some consumption is lost.",
+      "whyNot": [
+        "",
+        "Consumers pay more and consume less.",
+        "Producers gain and consumers lose.",
+        "Consumers face higher prices."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-06",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "Why is a quota generally worse for national welfare than an equivalent tariff?",
+      "options": [
+        "No government revenue is raised, and the gain accrues to whoever holds the import licences",
+        "A quota raises the price by more than a tariff always does",
+        "A quota cannot be enforced",
+        "A quota harms domestic producers"
+      ],
+      "answer": 0,
+      "why": "The licence holders may be foreign producers, in which case the gain leaves the country entirely.",
+      "whyNot": [
+        "",
+        "The price effect can be equivalent by construction.",
+        "Quotas are enforced at the border.",
+        "Domestic producers gain from a quota as from a tariff."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-07",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "What is distinctive about the burden of a subsidy to domestic producers?",
+      "options": [
+        "The cost falls on taxpayers rather than consumers, and the domestic price does not rise",
+        "The cost falls on consumers through higher prices",
+        "The cost falls on foreign producers",
+        "There is no cost, because it is only a transfer"
+      ],
+      "answer": 0,
+      "why": "That makes subsidies politically easier and no less distorting, and it means consumers are not the losers here.",
+      "whyNot": [
+        "",
+        "A subsidy lowers producers' costs without raising the price.",
+        "Foreign producers lose market share, not money to the government.",
+        "The taxpayer bears a real cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-08",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "Why have non-tariff barriers grown as tariffs have fallen?",
+      "options": [
+        "They are hard to challenge as protectionist when presented as consumer protection",
+        "They raise more government revenue than tariffs",
+        "The WTO requires members to use them",
+        "They are cheaper for exporters to comply with"
+      ],
+      "answer": 0,
+      "why": "Their cost is compliance and delay rather than a visible tax, so the effect is real and invisible in trade statistics.",
+      "whyNot": [
+        "",
+        "They raise no revenue at all.",
+        "The WTO does not require them.",
+        "Compliance and redesign can cost more than a tariff."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-09",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "Why is protection usually described as regressive between income groups?",
+      "options": [
+        "Tariffs fall most heavily on goods forming a large share of low-income households' spending",
+        "Tariffs are levied only on luxury goods",
+        "Tariffs are paid entirely by high earners",
+        "Tariffs reduce the prices of necessities"
+      ],
+      "answer": 0,
+      "why": "Food and clothing are the clearest cases. Against that, the jobs protected are often lower-skilled and regionally concentrated, so protection can reduce inequality between regions.",
+      "whyNot": [
+        "",
+        "Tariffs commonly apply to food and clothing.",
+        "The burden falls on all consumers of the taxed good.",
+        "Tariffs raise prices."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-10",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "hard",
+      "stem": "Why is protecting a domestic industry that produces an input especially costly?",
+      "options": [
+        "It raises costs throughout the economy for every industry that buys from it",
+        "It reduces the protected industry's own output",
+        "It raises the exchange rate automatically",
+        "It prevents the industry from exporting"
+      ],
+      "answer": 0,
+      "why": "A tariff on steel protects steelmakers and raises costs for every manufacturer that buys steel, and that loss is often larger in aggregate than the gain.",
+      "whyNot": [
+        "",
+        "The protected industry supplies more, not less.",
+        "There is no automatic exchange rate effect.",
+        "It may raise the industry's costs of imported inputs, but exporting is not prevented."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-11",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "hard",
+      "stem": "Why does the infant industry argument so often fail in practice?",
+      "options": [
+        "Protection removes the pressure to become efficient and the industry lobbies to keep it",
+        "Infant industries never reach economies of scale",
+        "It is prohibited under WTO rules",
+        "Consumers refuse to buy domestically produced goods"
+      ],
+      "answer": 0,
+      "why": "There is also no reliable mechanism to identify which infant industries would eventually succeed.",
+      "whyNot": [
+        "",
+        "Some do reach scale; the problem is the incentive to remain protected.",
+        "Limited protection is permitted in various forms.",
+        "Consumers buy the protected good because the alternative is dearer."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-12",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "hard",
+      "stem": "Why is a tariff generally ineffective at correcting a current account deficit?",
+      "options": [
+        "Many imports are inputs, so restriction raises domestic costs, and retaliation reduces exports",
+        "Tariffs cannot be applied to services",
+        "Current account deficits are always caused by the exchange rate",
+        "Tariffs increase the volume of imports"
+      ],
+      "answer": 0,
+      "why": "It also treats the symptom rather than the cause, which is usually a competitiveness or a savings-investment problem.",
+      "whyNot": [
+        "",
+        "Barriers apply to services in other forms.",
+        "Deficits have several causes.",
+        "Tariffs reduce imports; the problem is the side effects."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-13",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "hard",
+      "stem": "When can protection be justified, according to the most defensible version of the argument?",
+      "options": [
+        "Where there is an identifiable market failure and a credible plan to remove the protection",
+        "Whenever an existing industry faces import competition",
+        "Whenever the current account is in deficit",
+        "Whenever government revenue needs to rise"
+      ],
+      "answer": 0,
+      "why": "Where it exists simply to preserve the position of an existing industry, the cost falls on consumers and on the rest of the economy.",
+      "whyNot": [
+        "",
+        "That describes protection with no exit and no market failure.",
+        "Protection treats the symptom of a deficit.",
+        "Revenue can be raised in less distorting ways."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-14",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "What happens to domestic consumption when a tariff is imposed?",
+      "options": [
+        "It falls, because the domestic price has risen",
+        "It rises, because domestic output has risen",
+        "It is unchanged, because demand is fixed",
+        "It rises, because the tariff revenue is returned to consumers"
+      ],
+      "answer": 0,
+      "why": "Domestic supply rises, consumption falls, and imports are squeezed from both directions.",
+      "whyNot": [
+        "",
+        "Higher output serves a smaller total market.",
+        "Demand responds to price.",
+        "Revenue accrues to the government."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-15",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "hard",
+      "stem": "Why is preventing dumping a difficult basis for an anti-dumping duty?",
+      "options": [
+        "Proving that a price is below cost is genuinely difficult, and the accusation is easily misused",
+        "Dumping has never been observed",
+        "The WTO prohibits all anti-dumping measures",
+        "Dumping benefits the importing country permanently"
+      ],
+      "answer": 0,
+      "why": "Anti-dumping actions are widely used as disguised protection against efficient competitors.",
+      "whyNot": [
+        "",
+        "Predatory pricing does occur.",
+        "The WTO permits anti-dumping duties.",
+        "Predatory pricing harms consumers once competitors have been driven out."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-5-16",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "difficulty": "medium",
+      "stem": "Why do some governments rely on tariffs for revenue?",
+      "options": [
+        "They are administratively simple to collect where income tax capacity is limited",
+        "They raise more revenue than any other tax",
+        "They are the only tax permitted by the WTO",
+        "They fall entirely on foreign producers"
+      ],
+      "answer": 0,
+      "why": "The revenue comes from domestic consumers, and it is a regressive way of raising it.",
+      "whyNot": [
+        "",
+        "Income and consumption taxes usually raise far more.",
+        "The WTO does not restrict domestic taxation in this way.",
+        "The duty is paid by the importer and passed to consumers."
+      ]
+    }
+  ]
+}

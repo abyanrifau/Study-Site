@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.5.1",
+  "topicTitle": "Public expenditure",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-5-1-01",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "easy",
+      "stem": "Which of the following is capital expenditure?",
+      "options": [
+        "Building a new hospital",
+        "Paying nurses' salaries",
+        "Paying a state pension",
+        "Buying medicines for a clinic"
+      ],
+      "answer": 0,
+      "why": "Capital expenditure creates assets that last beyond the current period, and it raises aggregate supply as well as aggregate demand.",
+      "whyNot": [
+        "",
+        "Salaries are current expenditure.",
+        "A pension is a transfer payment.",
+        "Consumables are current expenditure."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-02",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "easy",
+      "stem": "Which of the following is a transfer payment?",
+      "options": [
+        "Unemployment benefit",
+        "A teacher's salary",
+        "A new railway line",
+        "School textbooks"
+      ],
+      "answer": 0,
+      "why": "A transfer payment is made with no good or service received in return.",
+      "whyNot": [
+        "",
+        "That is current expenditure on a service.",
+        "That is capital expenditure.",
+        "That is current expenditure."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-03",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines crowding out?",
+      "options": [
+        "The reduction in private sector activity caused by government borrowing raising interest rates",
+        "The increase in private investment caused by public investment",
+        "The displacement of imports by domestic production",
+        "The movement of workers from the public to the private sector"
+      ],
+      "answer": 0,
+      "why": "It also occurs through the public sector absorbing resources the private sector would have used.",
+      "whyNot": [
+        "",
+        "That is crowding in.",
+        "That is import substitution.",
+        "That is a labour market shift."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-04",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the dependency ratio?",
+      "options": [
+        "The ratio of the non-working population to the working population",
+        "The ratio of government spending to GDP",
+        "The ratio of benefits to wages",
+        "The ratio of imports to exports"
+      ],
+      "answer": 0,
+      "why": "An ageing population raises it, which raises spending on pensions, health and social care.",
+      "whyNot": [
+        "",
+        "That is the size of the state.",
+        "That is a replacement rate.",
+        "That is a trade ratio."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-05",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Why does capital expenditure have a different long-run effect from a transfer payment?",
+      "options": [
+        "Capital expenditure shifts aggregate supply to the right as well as aggregate demand",
+        "Transfer payments raise aggregate supply and capital expenditure does not",
+        "Transfer payments have no effect on aggregate demand",
+        "Neither affects aggregate demand"
+      ],
+      "answer": 0,
+      "why": "Capital spending creates productive capacity, so the same sum has a very different long-run effect from spending on transfers.",
+      "whyNot": [
+        "",
+        "It is the other way round.",
+        "Recipients have a high marginal propensity to consume, so AD rises.",
+        "Both raise AD."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-06",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Why does public spending tend to rise as a share of GDP as economies develop?",
+      "options": [
+        "Demand for health, education and transport is income elastic, so it rises more than proportionately",
+        "Public services become cheaper to provide",
+        "Tax rates automatically rise with income",
+        "Populations become younger as incomes rise"
+      ],
+      "answer": 0,
+      "why": "Citizens of richer countries demand more and better public services, which is sometimes called Wagner's law.",
+      "whyNot": [
+        "",
+        "Public service costs tend to rise faster than average prices.",
+        "Rates are set by policy.",
+        "Populations typically age as incomes rise."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-07",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Why can the same demographic argument produce different spending patterns?",
+      "options": [
+        "An ageing population raises pension and health spending, while a young one raises education spending",
+        "Demographics have no effect on spending composition",
+        "All populations age at the same rate",
+        "Age distribution affects only tax revenue"
+      ],
+      "answer": 0,
+      "why": "So the answer depends on which stage of development the country in the source is at.",
+      "whyNot": [
+        "",
+        "Age structure directly drives the composition of spending.",
+        "Ageing rates differ substantially.",
+        "It affects both spending and revenue."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-08",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Under what condition is crowding out weakest?",
+      "options": [
+        "In a deep recession with spare capacity and unemployed resources",
+        "When the economy is at full capacity",
+        "When private investment is highly interest sensitive",
+        "When the government borrows entirely from domestic banks"
+      ],
+      "answer": 0,
+      "why": "Government spending then uses resources that would otherwise be idle, which is the central Keynesian point.",
+      "whyNot": [
+        "",
+        "Full capacity is when crowding out is strongest.",
+        "High interest sensitivity makes crowding out larger.",
+        "The source of borrowing matters, but capacity is the key condition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-09",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines crowding in?",
+      "options": [
+        "Public investment raising the return on private investment, so private investment rises",
+        "Government borrowing raising interest rates",
+        "The private sector taking over public services",
+        "Workers moving into the public sector"
+      ],
+      "answer": 0,
+      "why": "Naming it is a strong evaluative move, because it works in the opposite direction to crowding out.",
+      "whyNot": [
+        "",
+        "That is crowding out.",
+        "That is privatisation.",
+        "That is a labour market shift."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-10",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "hard",
+      "stem": "Why is it said that the composition of public spending matters more than its level?",
+      "options": [
+        "Capital spending on infrastructure and education raises long-run capacity; poorly targeted subsidies do not",
+        "The level cannot be measured accurately",
+        "All public spending has identical effects",
+        "The level is determined internationally"
+      ],
+      "answer": 0,
+      "why": "Countries with high spending and high productivity exist, and so do countries with high spending and low productivity.",
+      "whyNot": [
+        "",
+        "It is measured as a share of GDP routinely.",
+        "The effects differ sharply by type.",
+        "It is a national policy choice."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-11",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "hard",
+      "stem": "Why would a market fail to provide public goods such as law and defence?",
+      "options": [
+        "Because of the free rider problem: people can consume them without paying",
+        "Because they are too cheap to be profitable",
+        "Because governments prohibit private provision",
+        "Because demand for them is very low"
+      ],
+      "answer": 0,
+      "why": "No productive economy functions without them, which is why their provision is an argument for public spending regardless of its level.",
+      "whyNot": [
+        "",
+        "They are expensive, and the problem is non-excludability.",
+        "Some private provision exists; the problem is under-provision.",
+        "Demand is high; the problem is charging for it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-12",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "hard",
+      "stem": "Why is borrowing to fund capital spending more defensible than borrowing for transfers?",
+      "options": [
+        "The asset created is still there for future generations to use, so they receive the benefit with the cost",
+        "Capital spending is cheaper than transfers",
+        "Transfers cannot legally be funded by borrowing",
+        "Capital spending has no effect on the debt"
+      ],
+      "answer": 0,
+      "why": "That distinction between borrowing to invest and borrowing to consume is the key point on intergenerational equity.",
+      "whyNot": [
+        "",
+        "Cost is not the argument.",
+        "Both can be funded by borrowing.",
+        "Both add to the debt."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-13",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "hard",
+      "stem": "Why do public service costs tend to rise faster than average prices?",
+      "options": [
+        "They are labour-intensive and productivity growth in them is slow",
+        "Public sector workers are always paid more",
+        "Governments deliberately overpay suppliers",
+        "Public services are subject to higher indirect taxes"
+      ],
+      "answer": 0,
+      "why": "This is the Baumol effect, and it means maintaining the same level of service requires rising spending over time.",
+      "whyNot": [
+        "",
+        "Relative pay varies and is not the mechanism.",
+        "Procurement problems exist but are not the general explanation.",
+        "Taxation of public services is not the mechanism."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-14",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Which of the following is an argument that higher public spending reduces productivity growth?",
+      "options": [
+        "Public sector productivity growth is generally slower, so a larger public sector lowers the average",
+        "Public spending never funds infrastructure",
+        "Public goods reduce private output",
+        "Education spending reduces human capital"
+      ],
+      "answer": 0,
+      "why": "Higher taxation to fund it and the risk of government failure are the other arguments.",
+      "whyNot": [
+        "",
+        "Infrastructure is a major category of public capital spending.",
+        "Public goods are a precondition for private output.",
+        "It raises human capital."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-15",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "hard",
+      "stem": "Why is the boundary between current spending and investment in capacity less sharp than the classification implies?",
+      "options": [
+        "Teachers' salaries are current expenditure and they produce human capital",
+        "Capital spending is always recorded as current spending",
+        "Transfers are classified as capital spending",
+        "The classification is chosen arbitrarily each year"
+      ],
+      "answer": 0,
+      "why": "Making that point shows real understanding of what the classification does and does not capture.",
+      "whyNot": [
+        "",
+        "The two are recorded separately.",
+        "Transfers are a distinct third category.",
+        "The classification follows consistent definitions."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-1-16",
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a free rider?",
+      "options": [
+        "Someone who consumes a public good without paying for it",
+        "Someone who receives a transfer payment",
+        "Someone who uses public transport without a ticket",
+        "Someone who avoids paying income tax"
+      ],
+      "answer": 0,
+      "why": "Non-excludability means the market cannot charge, which is why public goods must be publicly funded.",
+      "whyNot": [
+        "",
+        "Transfers are received under entitlement rules.",
+        "That is fare evasion from an excludable service.",
+        "That is tax evasion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.6.2",
+  "topicTitle": "Constraints on growth and development",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-6-2-01",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "easy",
+      "stem": "What is the Harrod-Domar growth formula?",
+      "options": [
+        "Growth rate = Savings ratio / Capital-output ratio",
+        "Growth rate = Capital-output ratio / Savings ratio",
+        "Growth rate = Savings ratio x Capital-output ratio",
+        "Growth rate = Investment / GDP"
+      ],
+      "answer": 0,
+      "why": "Growth can be raised either by increasing the savings ratio or by using capital more efficiently, meaning a lower capital-output ratio.",
+      "whyNot": [
+        "",
+        "That inverts the formula.",
+        "The two are divided, not multiplied.",
+        "That is the investment ratio, one input to the model."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-02",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the savings gap?",
+      "options": [
+        "The shortfall between savings available domestically and the investment needed for growth",
+        "The difference between planned and actual saving",
+        "The gap between the interest rate on savings and on loans",
+        "The shortfall in foreign exchange needed to buy imports"
+      ],
+      "answer": 0,
+      "why": "Low income means most of it must be consumed, so the savings ratio is low, which is the circularity of the poverty trap.",
+      "whyNot": [
+        "",
+        "That is a disequilibrium in saving.",
+        "That is the interest rate spread.",
+        "That is the foreign currency gap."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-03",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the foreign currency gap?",
+      "options": [
+        "A shortage of foreign exchange to pay for necessary imports and debt service",
+        "A shortage of domestic savings for investment",
+        "A difference between the official and market exchange rates",
+        "A shortage of foreign workers in an economy"
+      ],
+      "answer": 0,
+      "why": "Capital equipment, fuel and technology must be imported, and that requires foreign currency, which debt service competes for directly.",
+      "whyNot": [
+        "",
+        "That is the savings gap.",
+        "That is a parallel market premium.",
+        "That is a labour shortage."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-04",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following is a non-economic constraint named in the specification?",
+      "options": [
+        "Corruption",
+        "Volatility of commodity prices",
+        "The savings gap",
+        "Capital flight"
+      ],
+      "answer": 0,
+      "why": "The five non-economic constraints are corruption, poor governance, civil wars, migration and terrorism.",
+      "whyNot": [
+        "",
+        "That is an economic constraint.",
+        "That is an economic constraint.",
+        "That is an economic constraint."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-05",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "A savings ratio of 6% and a capital-output ratio of 4. What is the growth rate?",
+      "options": [
+        "1.5%",
+        "24%",
+        "0.67%",
+        "10%"
+      ],
+      "answer": 0,
+      "why": "6 / 4 = 1.5% a year. With population growing at 2.2%, income per head would be falling.",
+      "whyNot": [
+        "",
+        "That multiplies rather than divides.",
+        "That inverts the formula.",
+        "That adds the two figures."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-06",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "The savings ratio rises to 12% and the capital-output ratio falls to 3. What is the growth rate?",
+      "options": [
+        "4.0%",
+        "3.0%",
+        "1.5%",
+        "36%"
+      ],
+      "answer": 0,
+      "why": "12 / 3 = 4.0%. Growth can be raised by more investment or by using capital more efficiently, and the second is cheaper.",
+      "whyNot": [
+        "",
+        "That uses a capital-output ratio of 4.",
+        "That uses the original savings ratio.",
+        "That multiplies the figures."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-07",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "Why are commodity prices so volatile?",
+      "options": [
+        "Both supply and demand are price inelastic in the short run, so a small shift moves price a lot",
+        "Supply and demand are both highly elastic",
+        "Governments fix commodity prices",
+        "Commodity markets have very few buyers"
+      ],
+      "answer": 0,
+      "why": "Supply depends on harvests and long investment lead times; demand is derived or a necessity.",
+      "whyNot": [
+        "",
+        "Elastic curves would produce small price movements.",
+        "Most commodity prices are market determined.",
+        "Commodity markets typically have many participants."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-08",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "Why is volatility a problem even when the average commodity price is adequate?",
+      "options": [
+        "Export earnings and government revenue swing unpredictably, which makes planning impossible",
+        "Volatility reduces the average price over time",
+        "Volatility prevents any trade from occurring",
+        "Volatility only affects importers"
+      ],
+      "answer": 0,
+      "why": "It also deters investment, because returns are unpredictable, and destabilises producers' incomes.",
+      "whyNot": [
+        "",
+        "Volatility concerns variation around the average.",
+        "Trade continues at fluctuating prices.",
+        "It affects exporters most directly."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-09",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "What is the low value added problem in primary product dependency?",
+      "options": [
+        "Exporting raw cocoa rather than chocolate means the processing profit and skilled jobs accrue elsewhere",
+        "Primary products cannot be sold at a profit",
+        "Primary products have no international market",
+        "Primary production requires no labour"
+      ],
+      "answer": 0,
+      "why": "That is the argument for moving up the value chain rather than simply diversifying into other primary products.",
+      "whyNot": [
+        "",
+        "They are profitable, at volatile prices.",
+        "World markets for them are large.",
+        "It is often highly labour-intensive."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-10",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "What is the strongest limitation of the Harrod-Domar model?",
+      "options": [
+        "It assumes capital is the only constraint, when skills, institutions and infrastructure may bind harder",
+        "It cannot be calculated from available data",
+        "It ignores the savings ratio",
+        "It applies only to developed economies"
+      ],
+      "answer": 0,
+      "why": "It also assumes investment is productive, which depends on governance, and ignores technology.",
+      "whyNot": [
+        "",
+        "The inputs are routinely estimated.",
+        "The savings ratio is its numerator.",
+        "It was developed with developing economies in mind."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-11",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "Why is capital flight self-reinforcing?",
+      "options": [
+        "The depreciation it causes prompts further outflows",
+        "It raises domestic interest rates permanently",
+        "It increases foreign exchange reserves",
+        "It attracts inward investment"
+      ],
+      "answer": 0,
+      "why": "It also frequently coincides with inward aid, so the country loses private capital while receiving public transfers.",
+      "whyNot": [
+        "",
+        "Rates may rise in response, but that is not the self-reinforcement.",
+        "It depletes reserves.",
+        "It signals loss of confidence, which deters investment."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-12",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "What is the demographic dividend, and what does realising it require?",
+      "options": [
+        "A large working-age cohort supporting few dependants, requiring education and available jobs",
+        "A high birth rate raising total output automatically",
+        "An ageing population reducing the dependency ratio",
+        "Emigration reducing the size of the labour force"
+      ],
+      "answer": 0,
+      "why": "Without the education and the jobs, the dividend becomes youth unemployment.",
+      "whyNot": [
+        "",
+        "A high birth rate raises the dependency ratio.",
+        "Ageing raises the dependency ratio.",
+        "Emigration reduces the workforce rather than creating a dividend."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-13",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "Why is poor governance arguably the binding constraint on development?",
+      "options": [
+        "It determines whether any of the economic remedies work: aid is stolen, investment stays away, taxes go uncollected",
+        "It is the easiest constraint to measure",
+        "It only affects the public sector",
+        "It has no effect on private investment"
+      ],
+      "answer": 0,
+      "why": "Countries with similar resources and very different institutions have diverged enormously, which is the strongest evidence on this point.",
+      "whyNot": [
+        "",
+        "It is among the hardest to measure.",
+        "It affects contract enforcement and property rights throughout the economy.",
+        "Insecure property rights are a major deterrent to private investment."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-14",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "Which of the following describes how constraints reinforce each other?",
+      "options": [
+        "Debt service consumes the foreign currency needed to import the capital goods that would raise export earnings",
+        "Each constraint operates entirely independently",
+        "Removing one constraint removes all the others",
+        "Constraints only affect the public sector"
+      ],
+      "answer": 0,
+      "why": "That interaction paragraph is the strongest available in a constraints essay, and few candidates write it.",
+      "whyNot": [
+        "",
+        "They interact, which is why poverty traps persist.",
+        "Removing the binding constraint helps; others remain.",
+        "They affect the whole economy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-15",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "Why does low education prevent technology transfer even when FDI arrives?",
+      "options": [
+        "Without skills, workers and local firms cannot absorb and use the technology",
+        "Foreign investors are prohibited from training local staff",
+        "Technology cannot be used in developing economies",
+        "Education has no effect on productivity"
+      ],
+      "answer": 0,
+      "why": "Education is the constraint whose removal loosens the most other constraints, which is why it is worth prioritising.",
+      "whyNot": [
+        "",
+        "Training is common and often required.",
+        "It is used widely where skills exist.",
+        "It is a direct determinant of productivity."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-16",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "medium",
+      "stem": "Why is infrastructure a particularly stubborn constraint?",
+      "options": [
+        "It needs very large capital sums with long payback, which a country facing a savings gap cannot fund",
+        "Infrastructure is cheap and quick to build",
+        "Infrastructure has no effect on business costs",
+        "The private sector always provides it adequately"
+      ],
+      "answer": 0,
+      "why": "It is also largely a public good, so private provision is inadequate, requiring a state with the revenue and competence to build it.",
+      "whyNot": [
+        "",
+        "It is expensive and slow.",
+        "Poor transport and power raise costs for every firm.",
+        "Non-excludability means under-provision."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-2-17",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "difficulty": "hard",
+      "stem": "Why is migration not purely a loss for a developing economy?",
+      "options": [
+        "Remittances are large and reliable, returning migrants bring skills, and the prospect can raise enrolment in training",
+        "Emigration has no effect on the labour force",
+        "Skilled workers never emigrate",
+        "Remittances are recorded as aid"
+      ],
+      "answer": 0,
+      "why": "The brain drain is real, and the offsetting effects mean the net position has to be judged rather than assumed.",
+      "whyNot": [
+        "",
+        "It reduces the labour force directly.",
+        "The brain drain concerns exactly those workers.",
+        "Remittances are secondary income on the current account."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "topicRef": "3.3.3.2",
+  "topicTitle": "Investment appraisal",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-3-2-01",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of the payback period?",
+      "options": [
+        "The time taken for net cash inflows to cover the initial cost of an investment",
+        "The average annual return as a percentage of the investment",
+        "The total of discounted future cash flows minus the investment",
+        "The interest rate used to discount future cash flows"
+      ],
+      "answer": 0,
+      "why": "Payback measures how soon the money comes back, which is a measure of risk and liquidity rather than profitability.",
+      "whyNot": [
+        "",
+        "That is the average rate of return.",
+        "That is net present value.",
+        "That is the discount rate."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-02",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "An investment costs $400,000. Cumulative cash flow is negative $120,000 after year 2, and year 3 brings in $180,000. What is the payback period?",
+      "options": [
+        "2 years 8 months",
+        "2 years 4 months",
+        "3 years",
+        "2.67 years only"
+      ],
+      "answer": 0,
+      "why": "(120 / 180) x 12 = 8 months, so payback is 2 years and 8 months.",
+      "whyNot": [
+        "",
+        "This appears to divide the wrong way: 180/120 rather than 120/180.",
+        "Payback occurs part way through year 3, not at the end of it.",
+        "The figure is right as a decimal, and the question expects years and months."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-03",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "Total cash inflows over four years are $600,000 on an investment of $400,000. What is the average annual profit?",
+      "options": [
+        "$50,000",
+        "$150,000",
+        "$100,000",
+        "$200,000"
+      ],
+      "answer": 0,
+      "why": "Total net profit = 600,000 - 400,000 = $200,000. Average annual profit = 200,000 / 4 = $50,000.",
+      "whyNot": [
+        "",
+        "This divides total inflows by four without deducting the investment.",
+        "This appears to divide the net profit by two rather than four.",
+        "That is total net profit, not the annual average."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-04",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "Average annual profit is $50,000 on an investment of $400,000. What is the ARR?",
+      "options": [
+        "12.5%",
+        "8%",
+        "800%",
+        "$50,000"
+      ],
+      "answer": 0,
+      "why": "ARR = (50,000 / 400,000) x 100 = 12.5%.",
+      "whyNot": [
+        "",
+        "This divides 400,000 by 50,000 incorrectly.",
+        "This divides the wrong way round.",
+        "ARR is a percentage, not a money amount."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-05",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "easy",
+      "stem": "Which method accounts for the time value of money?",
+      "options": [
+        "Net present value",
+        "Payback period",
+        "Average rate of return",
+        "All three"
+      ],
+      "answer": 0,
+      "why": "Only NPV discounts future cash flows to present value. Payback and ARR both ignore when the money arrives.",
+      "whyNot": [
+        "",
+        "Payback measures speed of return but does not discount.",
+        "ARR uses all cash flows and ignores their timing.",
+        "Only NPV does."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-06",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "Discounted present values total $472,200 and the initial investment was $400,000. What is the NPV, and what should the business do?",
+      "options": [
+        "Positive $72,200, so accept the project",
+        "Negative $72,200, so reject the project",
+        "Positive $872,200, so accept the project",
+        "The NPV cannot be calculated from this information"
+      ],
+      "answer": 0,
+      "why": "NPV = 472,200 - 400,000 = +$72,200. A positive NPV means the project returns more than the discount rate used, so it should be accepted.",
+      "whyNot": [
+        "",
+        "472,200 exceeds 400,000, so the NPV is positive.",
+        "This adds the investment instead of subtracting it.",
+        "Both figures needed are given."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-07",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "What is the main weakness of the payback method?",
+      "options": [
+        "It ignores all cash flows after the payback point",
+        "It cannot be calculated without discount factors",
+        "It always gives a negative answer",
+        "It only works for very large investments"
+      ],
+      "answer": 0,
+      "why": "A project paying back in three years then earning nothing looks better than one paying back in four years then earning for a decade. Payback also ignores the time value of money and gives no measure of profitability.",
+      "whyNot": [
+        "",
+        "It needs no discount factors.",
+        "It gives a time period.",
+        "It applies to investments of any size."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-08",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "medium",
+      "stem": "What is the main weakness of the average rate of return?",
+      "options": [
+        "It ignores the timing of the cash flows",
+        "It ignores cash flows after payback",
+        "It cannot be compared with interest rates",
+        "It requires discount factors"
+      ],
+      "answer": 0,
+      "why": "A project earning most of its money in year one scores identically to one earning it in year four, which understates the value of early returns.",
+      "whyNot": [
+        "",
+        "ARR uses all the cash flows; that is payback's weakness.",
+        "Being a percentage is precisely what makes it comparable with interest rates.",
+        "It needs no discount factors."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-09",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "hard",
+      "stem": "Why is a project whose returns come late hurt most by discounting?",
+      "options": [
+        "Later cash flows are multiplied by smaller discount factors, so they are worth much less today",
+        "Late cash flows are always smaller",
+        "Discounting only applies to the final year",
+        "Late returns are ignored entirely"
+      ],
+      "answer": 0,
+      "why": "A factor of 0.68 in year 4 against 0.91 in year 1 means the same nominal amount is worth far less. That is exactly the weakness payback and ARR cannot capture.",
+      "whyNot": [
+        "",
+        "They may be any size; it is the factor applied to them that falls.",
+        "It applies to every future year.",
+        "They are included, at a reduced value."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-10",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "hard",
+      "stem": "What limitation applies to all three appraisal methods?",
+      "options": [
+        "They all rely on forecast cash flows, which are estimates and often optimistic",
+        "They all require a computer",
+        "They all ignore the initial investment",
+        "They all give the same answer"
+      ],
+      "answer": 0,
+      "why": "A precise NPV calculated from guesses is still a guess. All three are also purely financial and ignore staff, reputation, strategic fit and environmental impact.",
+      "whyNot": [
+        "",
+        "All three can be done by hand.",
+        "All three include it.",
+        "They frequently disagree, which is why businesses use more than one."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-2-11",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "difficulty": "hard",
+      "stem": "Why should a seasonal business weight payback heavily in its appraisal?",
+      "options": [
+        "Loan repayments fall due in months with little revenue, so getting the money back quickly reduces risk",
+        "Payback is the most accurate method",
+        "Seasonal businesses cannot calculate NPV",
+        "Payback accounts for the time value of money"
+      ],
+      "answer": 0,
+      "why": "Payback measures liquidity risk, which is the binding constraint when income arrives in a few months and obligations arrive in all twelve.",
+      "whyNot": [
+        "",
+        "It is the least sophisticated measure of profitability.",
+        "They can, and should.",
+        "It does not; only NPV does."
+      ]
+    }
+  ]
+}

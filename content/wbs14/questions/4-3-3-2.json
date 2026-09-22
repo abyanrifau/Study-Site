@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.2",
+  "topicTitle": "Niche markets",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-3-2-01",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a niche market?",
+      "options": [
+        "A small, specialised segment of a larger market with distinct needs",
+        "A market served by only one very small business",
+        "A market in a single country only",
+        "A market for very expensive products"
+      ],
+      "answer": 0,
+      "why": "The defining feature is specialisation, not size of the firm or the price charged.",
+      "whyNot": [
+        "",
+        "The business serving a niche may be large.",
+        "A niche can be global.",
+        "Price is not the defining feature."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-02",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a global niche market?",
+      "options": [
+        "A niche too small to be viable in one country that becomes viable when served in many",
+        "A market for products sold in every country in the world",
+        "The largest segment of a global market",
+        "A market served only through exports"
+      ],
+      "answer": 0,
+      "why": "Going global is therefore the way an unviable niche becomes a viable business, which is the core of this topic.",
+      "whyNot": [
+        "",
+        "That would be a mass market.",
+        "A niche is by definition not the largest segment.",
+        "The route to market is not the definition."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-03",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines cultural diversity?",
+      "options": [
+        "The existence of different interests, values and behaviours among groups across the world",
+        "The number of languages spoken in a country",
+        "The proportion of a workforce born abroad",
+        "The variety of products available in a market"
+      ],
+      "answer": 0,
+      "why": "Because groups hold different interests and values, there are specialised needs that no mass-market product serves.",
+      "whyNot": [
+        "",
+        "Language count is one narrow indicator.",
+        "That is workforce composition.",
+        "That is product choice."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-04",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "easy",
+      "stem": "Which of the following is a feature of a niche market?",
+      "options": [
+        "Lower price sensitivity, so premium pricing is usually possible",
+        "Very high price sensitivity, forcing low prices",
+        "Large volumes in each country",
+        "Intense competition from mass-market firms"
+      ],
+      "answer": 0,
+      "why": "Customers who cannot get the product elsewhere will pay for it, so margins are high.",
+      "whyNot": [
+        "",
+        "Niche customers are typically less price sensitive.",
+        "Volumes in each country are small.",
+        "Large firms usually judge the segment too small to bother with."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-05",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "What made global niche markets reachable at acceptable cost?",
+      "options": [
+        "Search, social media and e-commerce, which allow direct international selling",
+        "The reduction of tariffs by the WTO",
+        "The growth of trading blocs",
+        "The standardisation of shipping containers"
+      ],
+      "answer": 0,
+      "why": "Reaching 0.5% of forty countries used to require distributors and marketing in forty countries, which cost more than the niche was worth.",
+      "whyNot": [
+        "",
+        "Tariff reductions helped trade generally but did not solve the reach problem.",
+        "Blocs help regional trade rather than dispersed niche customers.",
+        "Containers cut bulk shipping cost, not the cost of finding niche customers."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-06",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "What is the main barrier to entry protecting a niche business?",
+      "options": [
+        "Specialist expertise rather than scale",
+        "Very large production capacity",
+        "Government licensing in every market",
+        "Ownership of national distribution networks"
+      ],
+      "answer": 0,
+      "why": "The knowledge required to serve the niche well is what protects it.",
+      "whyNot": [
+        "",
+        "Scale is the mass-market barrier.",
+        "Licensing applies to particular regulated sectors.",
+        "Niche businesses usually sell direct rather than through national networks."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-07",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "Which is the defining practical problem of a global niche?",
+      "options": [
+        "Customers are geographically dispersed, so logistics and returns are costly",
+        "Customers are unwilling to pay a premium",
+        "Competitors are numerous and aggressive",
+        "The product must be adapted for every country"
+      ],
+      "answer": 0,
+      "why": "Shipping cost and time to many countries, customs paperwork and international returns can consume the margin on small orders.",
+      "whyNot": [
+        "",
+        "Niche customers are usually willing to pay a premium.",
+        "Direct competition is typically limited.",
+        "The specialism itself is what the customer wants, so heavy adaptation is unusual."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-08",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "Which promotional channel is most valuable for a global niche?",
+      "options": [
+        "Word of mouth within the interest community",
+        "National television advertising",
+        "Billboards in major cities",
+        "Mass-market print advertising"
+      ],
+      "answer": 0,
+      "why": "It cuts both ways, because a niche community also circulates complaints quickly.",
+      "whyNot": [
+        "",
+        "Broad media reach mostly people outside the niche.",
+        "Outdoor advertising is untargeted.",
+        "Mass-market print is similarly untargeted."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-09",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of a niche strategy?",
+      "options": [
+        "Limited total size, so growth eventually stops",
+        "Very low margins on every sale",
+        "High promotional cost per customer reached",
+        "The impossibility of premium pricing"
+      ],
+      "answer": 0,
+      "why": "The niche is finite, which is a real constraint on a business that needs to keep growing.",
+      "whyNot": [
+        "",
+        "Niche margins are usually high.",
+        "Targeted promotion is cheap per relevant customer reached.",
+        "Premium pricing is normally available."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-10",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "hard",
+      "stem": "Why is focus both the strength and the risk of a niche strategy?",
+      "options": [
+        "Everything depends on one segment continuing to exist",
+        "Focus prevents the business from making a profit",
+        "Focus always means very high costs",
+        "Focus removes the need for any marketing"
+      ],
+      "answer": 0,
+      "why": "A change of fashion or technology removes the whole market, and there is nothing to fall back on.",
+      "whyNot": [
+        "",
+        "Focus is usually highly profitable in a niche.",
+        "Costs depend on the product, not on focus itself.",
+        "Targeted marketing is still required."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-11",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "hard",
+      "stem": "Why is a growing niche not a safe niche?",
+      "options": [
+        "If it grows enough, a mass-market firm may enter with far greater resources",
+        "Growth always raises the cost of production",
+        "Niche customers become more price sensitive as a market grows",
+        "Growth removes the need for specialist expertise"
+      ],
+      "answer": 0,
+      "why": "Success attracts entrants, which is why the protection of a niche is never permanent.",
+      "whyNot": [
+        "",
+        "Growth usually improves scale, not worsens it.",
+        "Sensitivity depends on the competition that arrives, not on growth itself.",
+        "Expertise remains the basis of the offer."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-12",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "hard",
+      "stem": "Why do niche businesses not benefit from economies of scale?",
+      "options": [
+        "Volumes stay small, so unit costs stay high and the strategy depends on the premium price holding",
+        "Niche products are always handmade",
+        "Scale economies are only available to exporters",
+        "Niche businesses refuse to grow"
+      ],
+      "answer": 0,
+      "why": "This is why a niche strategy is a poor fit for a business whose advantage is scale.",
+      "whyNot": [
+        "",
+        "Many niche products are manufactured conventionally.",
+        "Scale economies depend on volume, not on export status.",
+        "They grow within the limits of the niche."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-13",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "hard",
+      "stem": "Which business is a global niche strategy least suited to?",
+      "options": [
+        "One whose competitive advantage is scale and low cost",
+        "One with genuine specialist expertise",
+        "One able to sell and ship internationally online",
+        "One with a distinctive, highly specialised product"
+      ],
+      "answer": 0,
+      "why": "The strategy suits expertise-based advantage, not cost-based advantage.",
+      "whyNot": [
+        "",
+        "That is exactly the profile it suits.",
+        "That capability is a requirement for the strategy.",
+        "That is exactly the profile it suits."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-14",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "Why is delivered price a particular concern for a global niche business?",
+      "options": [
+        "Shipping, duty and returns can be a large proportion of a small order",
+        "Niche customers will not pay any delivery charge",
+        "Duty is charged at a higher rate on niche products",
+        "International orders cannot be priced in advance"
+      ],
+      "answer": 0,
+      "why": "Free returns on international orders can eliminate the margin entirely.",
+      "whyNot": [
+        "",
+        "Many will pay, but the cost still erodes the margin.",
+        "Duty depends on the goods, not their niche status.",
+        "Prices can be set in advance."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-15",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "hard",
+      "stem": "Why can a specialist diving operator in a small island economy be a good example of a global niche?",
+      "options": [
+        "The segment is tiny in any one country and substantial worldwide, and marketing runs through specialist communities",
+        "Diving holidays are a mass-market product",
+        "The operator competes on price with general tour operators",
+        "Demand is unaffected by economic conditions"
+      ],
+      "answer": 0,
+      "why": "High margins and high concentration of risk sit together, since demand depends on long-haul discretionary spending and on the reef itself.",
+      "whyNot": [
+        "",
+        "It is a specialised segment, not a mass market.",
+        "It competes on specialisation, not price.",
+        "Long-haul discretionary demand is highly cyclical."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-2-16",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Niche markets",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines premium pricing?",
+      "options": [
+        "Setting a price above the market average to reflect quality, exclusivity or specialisation",
+        "Setting a price below cost to gain market share",
+        "Charging different prices in different countries",
+        "Setting a price equal to the market leader's"
+      ],
+      "answer": 0,
+      "why": "It is normally available in a niche because competition is limited and demand is relatively inelastic.",
+      "whyNot": [
+        "",
+        "That is destroyer or predatory pricing.",
+        "That is price discrimination.",
+        "That is competitive or going-rate pricing."
+      ]
+    }
+  ]
+}

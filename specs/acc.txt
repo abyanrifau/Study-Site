@@ -1,0 +1,2025 @@
+INTERNATIONAL ADVANCED LEVEL
+
+ACCOUNTING
+
+SPECIFICATION
+
+Pearson Edexcel International Advanced Subsidiary in Accounting (XAC11)
+Pearson Edexcel International Advanced Level in Accounting (YAC11)
+First teaching September 2015
+First examination from June 2016
+First certification from August 2016 (International Advanced Subsidiary) and
+August 2017 (International Advanced Level)
+Issue 2
+Edexcel, BTEC and LCCI qualifications
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK's largest awarding
+body offering academic and vocational qualifications that are globally recognised and
+benchmarked. For further information, please visit our qualification website at
+qualifications.pearson.com. Alternatively, you can get in touch with us using the details on
+our contact us page at qualifications.pearson.com/contactus
+About Pearson
+Pearson is the world's leading learning company, with 35,000 employees in more than
+70 countries working to help people of all ages to make measurable progress in their lives
+through learning. We put the learner at the centre of everything we do, because wherever
+learning flourishes, so do people. Find out more about how we can help you and your
+learners at qualifications.pearson.com
+
+Acknowledgements
+This specification has been produced by Pearson on the basis of consultation with teachers,
+examiners, consultants and other interested parties. Pearson would like to thank all those
+who contributed their time and expertise to the specification's development.
+
+References to third party material made in this specification are made in good faith. Pearson
+does not endorse, approve or accept responsibility for the content of materials, which may
+be subject to change, or any opinions expressed therein. (Material may include textbooks,
+journals, magazines and other publications and websites.)
+
+All information in this specification is correct at time of going to publication.
+
+ISBN 978 1 446 95129 3
+All the material in this publication is copyright
+© Pearson Education Limited 2018
+Summary of Pearson Edexcel International Advanced
+Subsidiary/Advanced Level in Accounting Specification
+Issue 2 changes
+
+Summary of changes made between previous issue and this current                 Page
+issue                                                                           number
+
+The `About this specification' section has been corrected to show that          2
+assessment opportunities are January, June and October                          8, 9
+                                                                                13, 14
+The `Content and assessment overview' section has been updated to show
+the assessment opportunities are January, June and October                      23
+                                                                                25
+Content in Unit 1: 1.3 Financial statements of organisations has been           38, 39
+updated for 1.3.1, 1.3.7, 1.3.8 and 1.3.9 to say `Statements of profit or loss  and 40
+and other comprehensive income...' rather than `Statements of                   41
+comprehensive income...'.
+
+Assessment objective weightings have been amended
+
+Resitting of units section has been updated to reflect the correct rules
+
+Appendix 6: Glossary of International Accounting Standards (IAS)
+terminology has been updated to use the correct terminology. These changes
+have been reflected in the content for Unit 1 and Unit 2.
+
+In Appendix 7: Formulae the first formula has been amended to say `1 Gross
+Profit as a Percentage of revenue (sales margin) = (Gross Profit/Revenue) x
+100' rather than `Gross Profit as a Percentage of revenue = (Gross
+Profit/Revenue) x 100'.
+
+If you need further information on these changes or what they mean, contact us via our
+wbsite at: qualifications.pearson.com/en/support/contact-us.html.
+Contents
+
+About this specification                                          2
+
+Why choose Edexcel qualifications?                                4
+
+Why choose Pearson Edexcel International Advanced
+
+Subsidiary/Advanced Level qualifications in Accounting?           5
+
+Supporting you in planning and implementing these qualifications 6
+
+Qualification at a glance                                         7
+
+Accounting content                                                10
+
+Unit 1: The Accounting System and Costing                         11
+
+Unit 2: Corporate and Management Accounting                       16
+
+Assessment information                                            22
+
+Administration and general information                            25
+
+Entries and resitting of units                                    25
+
+Access arrangements, reasonable adjustments, special
+
+consideration and malpractice                                     25
+
+Awarding and reporting                                            27
+
+Student recruitment and progression                               28
+
+Appendices                                                        29
+
+Appendix 1: Codes                                                 30
+
+Appendix 2: Pearson World Class Qualification design principles   31
+
+Appendix 3: Transferable skills                                   33
+
+Appendix 4: Level 3 Extended Project qualification                35
+
+Appendix 5: Glossary                                              37
+
+Appendix 6: Glossary of International Accounting Standards (IAS)
+
+terminology                                                       38
+
+Appendix 7: Formulae                                              41
+
+Appendix 8: Command words used in examinations                    43
+
+Appendix 9: Use of calculators                                    44
+About this specification
+
+The Pearson Edexcel International Advanced Subsidiary in Accounting and the Pearson
+Edexcel International Advanced Level in Accounting are part of a suite of International
+Advanced Level qualifications offered by Pearson.
+These qualifications are not accredited or regulated by any UK regulatory body.
+
+Key features
+
+This specification includes the following key features.
+
+Structure
+The Pearson Edexcel International Advanced Level in Accounting is a modular qualification.
+However, the Pearson Edexcel International Advanced Subsidiary in Accounting is not a
+modular qualification. The Advanced Subsidiary can be claimed on completion of the
+International Advanced Subsidiary (IAS) unit. The International Advanced Level can be
+claimed on completion of both units (IAS and IA2 units).
+
+Content
+The content is engaging and relevant to international customers using International
+Accounting Standard (IAS) terminology and requiring presentation in International Standard
+format.
+
+Assessment
+100% external assessment, with January, June and October assessment opportunities.
+
+Approach
+This qualification has been designed using Pearson's Efficacy Framework, developed in line
+with world-class principles.
+Students who successfully complete these qualifications will have a good knowledge and
+understanding of the principles, concepts and techniques of accounting. These qualifications
+provide a secure foundation for further study. They also provide a worthwhile course for
+students who will end their study at the International Advanced Subsidiary or International
+Advanced Level stage.
+
+Specification updates
+
+This specification is Issue 2 and is valid for first teaching from September 2015. If there are
+any significant changes to the specification, we will inform centres in writing. Changes will
+also be posted on our website.
+For more information please visit qualifications.pearson.com
+
+2  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+   - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Using this specification
+
+This specification gives teachers guidance and encourages effective delivery of these
+qualifications. The following information will help you get the most out of the content
+and guidance.
+Compulsory content: as a minimum, all the bulleted content must be taught.
+Teachers should deliver the qualification using a good range of examples to support the
+assessment of the unit content.
+Students need to demonstrate knowledge of technical language where required.
+Depth and breadth of content: teachers should use the full range of content and all the
+assessment objectives given in the assessment information section.
+
+Qualification aims and objectives
+
+The aims and objectives of these qualifications are to enable students to develop:
+· an understanding of the importance of effective accounting information systems and an
+
+    awareness of their limitations through a critical consideration of current financial issues
+    and modern business practices
+· an understanding of the purposes, principles, concepts and techniques of accounting
+· transferable skills of numeracy, communication, ICT, application, presentation,
+    interpretation, analysis and evaluation in an accounting context
+· an appreciation of the effects of economic, legal, ethical, social, environmental and
+    technological influences on accounting decisions
+· methodical and critical thought which would serve as an end in itself, as well as a basis
+    for further study of accounting and other subjects.
+
+Qualification abbreviations used in this specification
+
+The following abbreviations appear in this specification:
+International Advanced Subsidiary - IAS
+International A2 - IA2 (the additional content required for an IAL)
+International Advanced Level - IAL.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -                 3
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Why choose Edexcel qualifications?
+
+Pearson - the world's largest education company
+
+Edexcel academic qualifications are from Pearson, the UK's largest awarding organisation.
+With over 3.4 million students studying our academic and vocational qualifications
+worldwide, we offer internationally recognised qualifications to schools, colleges and
+employers globally.
+
+Pearson is recognised as the world's largest education company, allowing us to drive
+innovation and provide comprehensive support for Edexcel students to acquire the
+knowledge and skills they need for progression in study, work and life.
+
+A heritage you can trust
+
+The background to Pearson becoming the UK's largest awarding organisation began in 1836,
+when a royal charter gave the University of London its first powers to conduct exams and
+confer degrees on its students. With over 150 years of international education experience,
+Edexcel qualifications have a firm academic foundation, built on the traditions and rigour
+associated with Britain's educational system.
+
+To find out more about our Edexcel heritage please visit our website:
+qualifications.pearson.com/en/about-us/about-pearson/our-history
+
+Results you can trust
+
+Pearson's leading online marking technology has been shown to produce exceptionally
+reliable results, demonstrating that at every stage, Edexcel qualifications maintain the
+highest standards.
+
+Developed to Pearson's world-class qualifications standards
+
+Pearson's world-class standards mean that all Edexcel qualifications are developed to be
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of
+educational thought-leaders and assessment experts to ensure that Edexcel qualifications
+are globally relevant, represent world-class best practice and maintain a consistent
+standard.
+
+For more information on the world-class qualification process and principles please go to
+Appendix 2: Pearson World Class Qualification design principles or visit our website:
+uk.pearson.com/world-class-qualifications.
+
+4  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+   - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Why choose Pearson Edexcel International
+Advanced Subsidiary/Advanced Level qualifications
+in Accounting?
+
+We have listened to feedback from all parts of the international school subject community,
+including a large number of teachers. We have made changes that will engage international
+learners and give them skills that will support their progression to further study of
+Accounting and to a wide range of other subjects.
+
+Key qualification features
+
+Structure - two units comprising one IAS unit and one IA2 unit.
+
+Content: Updated, engaging and relevant to international students using International
+Accounting Standard (IAS) terminology and requiring presentation in International Standard
+format.
+
+Approach - These qualifications were designed using Pearson's Efficacy Framework. They
+were developed in line with World-Class Design principles giving students who successfully
+complete the qualifications the opportunity to acquire a good knowledge and understanding
+of the principles, concepts and techniques of accounting. These qualifications provide a
+secure foundation for further study. They also provide a worthwhile course for students who
+will end their study at the International Advanced Subsidiary or International Advanced
+Level stage.
+
+Assessment: 100% external assessment with examinations available in January, June and
+October series.
+
+Clear and straightforward question papers - our question papers are clear and
+accessible for students of all ability ranges. Our mark schemes are straightforward so that
+the assessment requirements are clear.
+
+Consistent and updated command word taxonomy - we have updated the command
+words used in the assessment and applied a consistent mark tariff.
+
+Broad and deep development of learners' skills - we designed the International
+Advanced Level qualifications to extend learners' knowledge by broadening and deepening
+skills, for example learners will have an opportunity to develop:
+
+Decision-making - students must have been able to carry out problem solving, analysis and
+interpretation
+
+Ethics - the whole of Accounting involves presenting a true and fair representation of
+information
+
+Inter-personal skills - required to obtain data, work within a team, discuss outcomes and
+make recommendations.
+
+Progression - International Advanced Level qualifications enable successful progression to
+undergraduate studies, further education and work.
+
+Increased level of support - Getting Started Guide with scheme of work, exemplar
+answers with commentaries Student Book and training. Additional planned resources include
+online digital resources.
+
+Our Accounting sits within our wider subject offer for Business, Economics and Commerce.
+
+More information is available on our website (qualifications.pearson.com) on the
+Edexcel International Advanced Level pages.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  5
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Supporting you in planning and implementing
+these qualifications
+
+Planning
+· Our Getting Started Guide gives you an overview of the Pearson Edexcel International
+
+    Advanced Subsidiary/Advanced Level in Accounting qualifications to help you understand
+    the changes to content and assessment, and what these changes mean for you and your
+    students. This guide incorporates the scheme of work.
+
+Teaching and learning
+Our skills maps will highlight opportunities to develop:
+· Decision-making processes making use of problem solving, analysis and interpretation
+
+    skills
+· Ethics as the whole of Accounting involves presenting a true and fair representation of
+
+    available information
+· Inter-personal skills which are required to obtain data, work within a team, discuss
+
+    outcomes and make recommendations
+· Free teaching and learning materials including marked exemplar scripts with examiner
+
+    commentaries to give indications of standards required to achieve marks across levels.
+
+Preparing for exams
+We also provide a range of resources to help you prepare your students for the
+assessments, including:
+· examiner reports following each examination series
+· example marked scripts with examiner commentaries.
+
+ResultsPlus
+ResultsPlus provides the most detailed analysis available of your students' examination
+performance. It can help you identify the topics and skills where further learning would
+benefit your students.
+
+Training events
+In addition to online training, we host a series of training events each year for teachers to
+deepen their understanding of our qualifications.
+
+Get help and support
+Our subject advisor service will ensure that you receive help and guidance from us. Click
+here to sign up to receive qualification updates and product and service news.
+
+6  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+   - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Qualification at a glance
+
+Qualification overview
+
+Pearson Edexcel International Advanced Subsidiary in Accounting
+This qualification consists of one externally-examined unit.
+The International Advanced Subsidiary is the first half of the International Advanced Level
+qualification and consists of one IAS unit, Unit 1. This qualification may be awarded as a
+discrete qualification or may contribute 50 per cent towards the International Advanced
+Level qualification.
+
+Pearson Edexcel International Advanced Level in Accounting
+This qualification consists of two externally-examined units.
+The International Advanced Level consists of the one IAS unit (Unit 1) plus one IA2 unit
+(Unit 2). Students wishing to take the International Advanced Level must, therefore,
+complete all two units.
+
+Course of study
+
+The structure of these qualifications allows teachers to construct a course of study that can
+be taught and assessed as either:
+· a linear course assessed in its entirety at the end for the Pearson Edexcel International
+
+    Advanced Subsidiary or Advanced Level in Accounting; or
+· distinct modules of teaching and learning with related units of assessment taken at
+
+    appropriate stages during the course for the Pearson Edexcel International Advanced
+    Level in Accounting.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -               7
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Content and assessment overview
+
+IAS                                                            *Unit code:
+Unit 1: The Accounting System and Costing                      WAC11/01
+
+Externally assessed                                            100% of      50% of
+Written examination: 3 hours                                   the total    the total
+Availability: January, June and October                        IAS          IAL
+
+First assessment: June 2016
+
+200 marks
+
+Content overview
+
+Students will be assessed on their knowledge, understanding and skills of accounting
+systems and costing.
+
+This unit is divided into six topics:
+
+1. Principles of accounting and double entry bookkeeping
+
+2. Control procedures
+
+3. Financial statements of organisations
+
+4. Introduction to costing
+
+5. Analysis of accounting statements
+
+6. Social and ethical accounting.
+
+Assessment overview
+
+The paper is split into two sections. Students must complete:
+
+· Section A - Two compulsory 55-mark, multi-part questions based on given data.
+
+· Section B - Three optional 30-mark, multi-part questions from a choice of four.
+
+· There will be a resource booklet that accompanies the examination paper.
+
+8                           Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                             - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+IA2                                                                               *Unit code:
+Unit 2: Corporate and Management Accounting                                       WAC12/01
+
+Externally assessed                                                               100% of    50% of
+Written examination: 3 hours                                                      the total  the total
+Availability: January, June and October                                           IA2        IAL
+
+First assessment: June 2017
+
+200 marks
+
+Content overview
+
+Students will be assessed on their knowledge and understanding of and skills in corporate
+and management accounting.
+
+This unit is divided into nine topics:
+
+1. Limited companies
+
+2. Investment ratios
+
+3. Statement of cash flows
+
+4. Budgeting
+
+5. Standard costing
+
+6. Project appraisal
+
+7. Break-even analysis
+
+8. Marginal costing and absorption costing
+9. Information and communication technology (ICT) in accounting.
+
+Assessment overview
+
+The paper is split into two sections. Students must complete:
+
+· Section A - Two compulsory 55-mark, multi-part questions based on given data.
+
+· Section B - Three optional 30-mark, multi-part questions from a choice of four.
+
+· There will be a resource booklet that accompanies the examination paper.
+
+*See Appendix 1: Codes for a description of this code and all other codes relevant to
+  these qualifications.
+
+Calculators
+
+Calculators may be used in the examinations. Please see Appendix 9: Use of calculators.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -                        9
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Accounting content
+
+    Unit 1: The Accounting System and Costing    11
+
+    Unit 2: Corporate and Management Accounting  16
+
+10  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Unit 1: The Accounting System and Costing
+
+ IAS compulsory unit
+ Externally assessed
+
+Unit description
+
+                  Students will be assessed on their knowledge and understanding
+                  of, and skills in, accounting systems and costing.
+                  This unit is divided into six topics:
+                  1. Principles of accounting and double entry bookkeeping
+                  2. Control procedures
+                  3. Financial statements of organisations
+                  4. Introduction to costing
+                  5. Analysis of accounting statements
+                  6. Social and ethical accounting.
+
+Assessment information
+
+                                         · First assessment: June 2016.
+
+                                         · The assessment is 3 hours.
+                                         · The assessment is out of 200 marks.
+                                         · The paper is split into two sections. Students must complete:
+
+                                             o Section A - Two compulsory 55-mark, multi-part questions
+                                                  based on given data.
+
+                                             o Section B - Three optional 30-mark, multi-part questions
+                                                  from a choice of four.
+
+                                         · There will be a resource booklet that accompanies the
+                                             examination paper.
+
+                                         · Calculators may be used in the examination. Please see
+                                             Appendix 9: Use of calculators.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  11
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Unit content
+
+1.1 Principles of accounting and double entry bookkeeping
+
+What students need to learn
+
+Role and purpose of  1.1.1   The role of accounting as a need to record, analyse and
+accounting           1.1.2   communicate accounting information to users.
+Double entry system  1.1.3
+                     1.1.4   The purpose of accounting information as an aid to the
+Accounting concepts  1.1.5   management of a business.
+and conventions      1.1.6
+                             Transaction recording in books of account.
+Capital expenditure  1.1.7
+and revenue                  Transaction recording in books of prime entry.
+expenditure          1.1.8
+Non-current asset    1.1.9   End of period transfers and adjustments.
+depreciation         1.1.10
+                     1.1.11  Ledger accounts to create and maintain allowance for
+                     1.1.12  irrecoverable debts, including calculation from a schedule
+                             of trade receivables.
+                     1.1.13
+                     1.1.14  The use of information and communication technology
+                     1.1.15  (ICT) in recording transactions and preparing
+                     1.1.16  reconciliations (control accounts, trial balance) and
+                     1.1.17  financial statements. Note: candidates will not be
+                     1.1.18  examined on the use of specific applications or software
+                     1.1.19  packages.
+                     1.1.20
+                             The concepts of going concern, prudence, accruals and
+                             consistency.
+
+                             The concepts and conventions of historic cost, materiality,
+                             money measurement, realisation and business entity.
+
+                             The use of International Accounting Standards (IAS).
+
+                             Capital expenditure and revenue expenditure.
+
+                             The correct accounting treatment of capital expenditure
+                             and revenue expenditure with reference to relevant
+                             accounting concepts.
+
+                             The causes of depreciation of non-current assets.
+
+                             The reasons for charging depreciation on non-current
+                             assets.
+
+                             The depreciation of non-current assets using reducing
+                             balance, straight line and revaluation methods.
+
+                             Ledger accounts for non-current assets and provisions of
+                             depreciation.
+
+                             The effect on profit of different methods of depreciation.
+
+                             The effect on profit of a change in the method of
+                             depreciation.
+
+                             Disposal and disposal accounts for non-current assets.
+
+                             Schedule of non-current assets.
+
+12                   Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                     - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+1.2 Control procedures
+
+What students need to learn
+
+Trial balance         1.2.1  The trial balance.
+Control accounts      1.2.2  The limitations of a trial balance.
+                      1.2.3  Control accounts as an independent check on receivable
+Correction of errors         and payable ledgers.
+                      1.2.4  Control accounts for trade receivable and trade payable
+                             ledgers.
+                      1.2.5  The errors that do and do not affect the balancing of the
+                             trial balance.
+                      1.2.6  Journal entries to correct errors.
+                      1.2.7  The suspense account.
+                      1.2.8  Statements of revised profit.
+                      1.2.9  Correction of errors in control accounts.
+
+1.3 Financial statements of organisations
+
+What students need to learn
+
+Financial statements  1.3.1  Statements of profit or loss (and other comprehensive
+of sole traders              income) showing the gross profit and profit for the year.
+                      1.3.2
+Year-end              1.3.3  Statements of financial position.
+adjustments           1.3.4
+                      1.3.5  Prepaid or accrued income or expenditure.
+                      1.3.6
+                             The nature and use of provisions.
+Departmental          1.3.7
+records                      Provisions for depreciation.
+
+Incomplete records 1.3.8     Irrecoverable debts and allowances for irrecoverable
+                             debts.
+
+                             Statements of profit or loss (and other comprehensive
+                             income) in columnar format to show departmental
+                             profits/losses.
+
+                             Statements of profit or loss (and other comprehensive
+                             income) and statements of financial position from
+                             incomplete records and information.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  13
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Partnership            1.3.9   Statements of profit or loss (and other comprehensive
+                       1.3.10  income) and appropriation accounts.
+Clubs and non-profit-  1.3.11
+making                 1.3.12  Partners' current accounts and capital accounts on a fixed
+organisations                  or floating basis.
+                       1.3.13
+Manufacturers          1.3.14  Use of the Partnership Agreement in appropriation of
+                       1.3.15  profit/loss.
+                       1.3.16
+                       1.3.17  Provisions of Section 24 of the Partnership Act 1890 in
+                       1.3.18  relation to partners' salaries, division of profit or loss,
+                       1.3.19  interest on loans, capital and drawings.
+                       1.3.20
+                       1.3.21  Introduction (or retirement) of a partner, including the
+                       1.3.22  introduction of assets and treatment of goodwill.
+
+                               Receipts and payments accounts.
+
+                               Trading accounts of different activities.
+
+                               Subscription accounts.
+
+                               Long-term/ life membership.
+
+                               Losses of inventory or cash.
+
+                               Income and expenditure accounts and statements of
+                               financial position.
+
+                               Manufacturing accounts with subheadings for prime cost,
+                               factory overhead, work in progress and production cost.
+
+                               Allocation and apportionment of costs between products
+                               and functions.
+
+                               Unrealised profit resulting from goods manufactured.
+
+1.4 Introduction to costing
+
+What students need to learn
+
+Valuation of           1.4.1   Characteristics of Last In First Out (LIFO), First In First
+inventory                      Out (FIFO) and Net Realisable Value (NRV) as methods of
+                       1.4.2   inventory valuation.
+Labour costs           1.4.3
+                               Inventory valuations using FIFO and LIFO on a perpetual
+                       1.4.4   and periodic basis.
+                       1.4.5
+                       1.4.6   The effect of different methods of inventory valuation on
+                               profit and the statements of financial position inventory
+                               value.
+
+                               Labour productivity.
+
+                               Methods of remuneration, day work, piecework, individual
+                               and group bonus schemes.
+
+                               Employer cost and employee earnings under different
+                               remuneration methods.
+
+14                     Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                       - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Overhead costs     1.4.7   The characteristics of overhead expenses, fixed, semi-
+Job costing                fixed, semi-variable and variable.
+                   1.4.8   Allocation, apportionment and absorption of overheads.
+                   1.4.9   Apportionment and continuous allotment of service
+                           departments.
+                   1.4.10  Machine hour and labour hour rates per hour.
+                   1.4.11  Over absorption and under absorption of overheads.
+                   1.4.12  Characteristics of job costing.
+                   1.4.13  Job costing of batch production and customer orders.
+
+1.5 Analysis of accounting statements
+
+What students need to learn
+
+Ratios             1.5.1   Ratios:
+                           · gross profit as a percentage of revenue
+                   1.5.2   · percentage mark-up
+                   1.5.3   · profit for the year as a percentage of revenue
+                           · return on capital employed (percentage)
+                           · non-current assets to revenue
+                           · inventory turnover
+                           · current ratio
+                           · liquid (acid test) ratio
+                           · trade payables payment period
+                           · trade receivables collection period.
+                           The profitability, liquidity and use of asset ratios in
+                           appraising sole traders and partnership financial
+                           statements.
+                           Use of ratios to make future financial projections.
+
+1.6 Social and ethical accounting
+
+What students need to learn
+
+Social accounting  1.6.1   The implications of accounting decisions in the social
+Ethics                     context of the local community, environment, workforce,
+                   1.6.2   health and safety, and use of natural resources.
+                   1.6.3
+                   1.6.4   Significance of non-financial factors.
+
+                           Effect of accounting decisions on different stakeholders.
+
+                           Ethics in accounting analysis and decision making.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -    15
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Unit 2: Corporate and Management Accounting
+
+ IA2 compulsory unit
+ Externally assessed
+
+Unit description
+
+                  Students will be assessed on their knowledge and understanding
+                  of and skills in accounting systems and costing.
+                  The unit is divided into nine topics:
+                  1. Limited companies
+                  2. Investment ratios
+                  3. Statement of cash flows
+                  4. Budgeting
+                  5. Standard costing
+                  6. Project appraisal
+                  7. Break-even analysis
+                  8. Marginal costing and absorption costing
+                  9. Information and communication technology (ICT) in
+
+                       accounting.
+
+Assessment information
+
+                                         · First assessment: June 2017.
+                                         · The assessment is 3 hours.
+                                         · The assessment is out of 200 marks.
+
+                                         · The paper is split into two sections. Students must complete:
+                                             o Section A - Two compulsory 55-mark, multi-part questions
+                                                  based on given data.
+
+                                             o Section B - Three optional 30-mark, multi-part questions
+                                                  from a choice of four.
+
+                                         · There will be a resource booklet that accompanies the
+                                             examination paper.
+
+                                         · Calculators may be used in the examination. Please see
+                                             Appendix 9: Use of calculators.
+
+16                Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                  - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Unit content
+
+2.1 Limited companies
+
+What students need to learn
+
+Financial statements  2.1.1   Financial statements in accordance with International
+Capital structure             Accounting Standards (IAS) 1:
+                      2.1.2   · statement of comprehensive income
+                      2.1.3   · statement of changes in equity
+                      2.1.4   · statement of financial position.
+                      2.1.5   The role of the auditor and content and importance of the
+                              Auditors' Report and the Directors' Report, including the
+                      2.1.6   role of the auditor in corporate governance.
+                      2.1.7   The importance of disclosing continuing and discontinued
+                      2.1.8   activities and the significance of exceptional items.
+                              Capital reserves and revenue reserves.
+                      2.1.9   How the following reserves are created and utilised:
+                      2.1.10  · retained earnings
+                      2.1.11  · general
+                              · foreign exchange
+                              · share premium
+                              · revaluation
+                              · capital redemption.
+                              Authorised, issued and called-up share capital.
+                              Rights issues and bonus issues.
+                              Ledger accounts and journal entries to record the issue of
+                              new shares, bonus issues and rights issues.
+                              Note: Candidates will not be examined on the forfeiture of
+                              shares.
+                              The features of shares and debentures.
+                              Capital gearing and its implications.
+                              The creation and features of provisions.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  17
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Merger or purchase    2.1.12  Journal entries and ledger accounts for the purchase of a
+of limited companies          limited company or the merger of two companies:
+                      2.1.13  · revaluation account
+                      2.1.14  · realisation account
+                      2.1.15  · sundry shareholders' account
+                              · acquisition account
+                              · purchase of a limited company using shares or cash
+                              · merger of limited companies using shares or cash.
+                              Calculation of purchase price of a company:
+                              revaluation of assets and liabilities
+                              Statement of financial position of a limited company
+                              following purchase of or the merger with another
+                              company.
+                              The calculation and correct treatment of goodwill.
+
+2.2 Investment ratios
+
+What students need to learn
+
+Investment ratios     2.2.1   Investment ratios:
+                      Note:   · earnings per share
+                              · price earnings
+                              · dividend per share
+                              · dividend yield.
+                              · dividend cover
+                              · return on capital employed.
+                              Candidates will need to be familiar with ratios relating to
+                              profitability, liquidity and use of assets tested in Unit 1.
+
+2.3 Statement of cash flows
+
+What students need to learn
+
+Statement of cash     2.3.1   Statement of cash flows in accordance with International
+flows                 2.3.2   Accounting Standard (IAS) 7.
+
+                              The importance of liquidity to a company.
+
+18                    Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                      - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+2.4 Budgeting
+
+What students need to learn
+
+Budgeting         2.4.1  The role of budgeting as a management tool for planning,
+                  2.4.2  forecasting and control.
+                  2.4.3  The process of budget preparation.
+                         Budgets for:
+                  2.4.4  · revenue
+                  2.4.5  · production
+                         · purchases
+                         · inventory
+                         · trade receivables
+                         · trade payables
+                         · capital
+                         · cash.
+                         Budgeted statement of comprehensive income and
+                         statement of financial position.
+                         Flexible budgets for variations in activity level.
+
+2.5 Standard costing
+
+What students need to learn
+
+Standard costing  2.5.1  The purpose of standard costing.
+                  2.5.2  The stages in establishing a standard costing system
+                  2.5.3  collection of data from accounting records.
+                         Variances:
+                  2.5.4  · material variances (price, usage and total)
+                  2.5.5  · labour variances (rate, efficiency and total)
+                  2.5.6  · total fixed overhead variance
+                         · total variable overhead variance.
+                         Possible reasons for variances.
+                         Possible interrelationships between variances.
+                         The principle of management by exception to variance
+                         analysis.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  19
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+2.6 Project appraisal
+
+What students need to learn
+
+Project appraisal    2.6.1  The application of:
+                     2.6.2  · net present value
+                            · weighted average cost of capital
+                            · profitability index
+                            · internal rate of return.
+                            The application of the non-discounted methods:
+                            average rate of return (accounting rate of return)
+                            payback period.
+
+2.7 Break-even analysis
+
+What students need to learn
+
+Break-even analysis  2.7.1  Calculation of fixed, semi-fixed, semi-variable, variable
+                            costs, selling price and net profit.
+                     2.7.2  Contribution, break-even point and margin of safety.
+                     2.7.3  Graphical representation of break-even analysis:
+                            · fixed costs
+                            · total costs
+                            · sales revenue
+                            · break-even point
+                            · margin of safety
+                            · angle of incidence
+                            · area of profit or loss.
+
+20                   Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                     - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+2.8 Marginal costing and absorption costing
+
+What students need to learn
+
+Marginal costing and  2.8.1  The concepts of marginal costing and absorption costing.
+absorption costing    2.8.2
+                             The advantages and disadvantages of marginal costing
+                      2.8.3  and absorption costing.
+
+                      2.8.4  The valuation of inventory using marginal costing and
+                             absorption costing.
+                      2.8.5
+                      2.8.6  Marginal costing in decision making for:
+
+                             · the acceptance/refusal of new orders
+
+                             · make or buy decisions
+
+                             the continuation/discontinuation of a service or
+                             manufacture of a product.
+
+                             Profit and loss statements using marginal costing and
+                             absorption costing.
+
+                             The preferred course of action when there are limiting
+                             factors.
+
+2.9 Information and communication technology (ICT) in
+       accounting
+
+What students need to learn
+
+Information and       2.9.1  The uses of ICT in accounting in relation to costing
+communication         2.9.2  products or services and the provision of management
+technology (ICT) in          information:
+accounting
+                             · spreadsheets, e.g. for budgeting
+
+                             · software packages available for producing invoices,
+                                   debtors list, payroll, tax returns etc.
+
+                             · Electronic Point of Sale for a stock control system.
+
+                             Advantages and disadvantages of using ICT in
+                             accounting, including audit trail, financial aspects,
+                             technical aspects, human aspects.
+
+                             Note: Candidates will not be examined on the use of
+                             specific applications or software packages.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -     21
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Assessment information
+
+Assessment requirements
+
+The Pearson Edexcel International Advanced Subsidiary in Accounting consist of one
+externally-examined unit.
+
+The Pearson Edexcel International Advanced Level in Accounting consists of two externally-
+examined units.
+
+Students must complete all assessments.
+
+Please see the Assessment availability and first award section for information on when the
+assessment for each unit will be available from.
+
+Unit               IAS or  Assessment information               Number of raw
+Unit 1: The        IA2                                          marks allocated
+Accounting System  IAS     · The assessment is 3 hours.         in the unit
+and Costing                                                     200 marks
+                   IA2     · The paper is split into two
+Unit 2: Corporate              sections. Students must          200 marks
+and Management                 complete:
+Accounting
+                               o Section A - Two compulsory
+                                   55-mark, multi-part
+                                   questions based on given
+                                   data.
+
+                               o Section B - Three optional
+                                   30-mark, multi-part
+                                   questions from a choice of
+                                   four.
+
+                           · There will be a resource booklet
+                               that accompanies the
+                               examination paper.
+
+                           · Calculators may be used in the
+                               examination. Please see
+                               Appendix 9: Use of calculators.
+
+                           · Same as Unit 1
+
+Sample assessment materials
+
+Sample papers and mark schemes can be found in the Pearson Edexcel International
+Advanced Subsidiary/Advanced Level in Accounting Sample Assessment Materials (SAMs)
+document.
+
+A full list of command words that will be used in the assessments can be found in
+Appendix 8: Command words used in examinations.
+
+22                 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                   - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Assessment objectives and weightings
+
+                                                                                  % in   % in   % in
+                                                                                   IAS   IA2     IAL
+                                                                                    30
+AO1  Demonstrate knowledge of accounting procedures                                      24-25 27-28
+AO2  and techniques and an understanding of the                                   43-44
+     principles and concepts upon which they are based                                   41-42 42-43
+AO3                                                                                 17
+AO4  Select and apply knowledge and understanding of                              9-10   23-24 20-21
+     accounting procedures, techniques, concepts and
+     principles to a variety of accounting situations.                                   10-11  10
+     Present accounting information in an appropriate
+     format
+
+     Analyse financial information, interpret financial data
+     and information and communicate reasoning,
+     showing understanding
+
+     Evaluate financial and non-financial evidence and
+     make informed recommendations and decisions
+
+Relationship of assessment objectives to unit for the
+International Advanced Subsidiary qualification
+
+Unit number                  Assessment objective
+
+                     AO1     AO2                                           AO3            AO4
+                                                                                         9-10%
+Unit 1               30%     43-44%                                        17%           9-10%
+                     30%     43-44%                                        17%
+Total for
+International
+Advanced Subsidiary
+
+Relationship of assessment objectives to units for the
+International Advanced Level qualification
+
+Unit number                  Assessment objective
+
+                     AO1     AO2                                                  AO3           AO4
+                                                                                                4-5%
+Unit 1                 15%   21-22%                                         8-9%                5-6%
+                     12-13%  20-21%                                        11-12%               10%
+Unit 2               27-28%  42-43%                                        20-21%
+
+Total for
+International
+Advanced Level
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -                      23
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Assessment availability and first award
+
+Unit       June 2016  October  January   June 2017  October
+                        2016     2017                 2017
+1                                                        
+2                                                        
+IAS award                                                
+IAL award                                                
+
+From June 2017, all two units will be assessed in January, June and October for the
+lifetime of the qualifications.
+
+From June 2017 IAL and IAS will both be awarded in January, June and October for the
+lifetime of the qualifications.
+
+24         Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                      - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Administration and general information
+
+Entries and resitting of units
+
+Entries
+
+Details of how to enter students for the examinations for these qualifications can be found in
+our International Information Manual. A copy is made available to all examinations officers
+and is available on our website, qualifications.pearson.com.
+
+Resitting of units
+
+Students can resit any unit irrespective of whether the qualification is to be cashed in. If a
+student resits a unit more than once, only the better of the two most recent attempts of that
+unit will be available for aggregation to a qualification grade. Please refer to the
+Entry, Aggregation and Certification document on our website:
+qualifications.pearson.com/IAL-entry-certification-procedures.
+
+Access arrangements, reasonable adjustments,
+special consideration and malpractice
+
+Equality and fairness are central to our work. Our equality policy requires all students to
+have equal opportunity to access our qualifications and assessments, and our qualifications
+to be awarded in a way that is fair to every student.
+We are committed to making sure that:
+· students with a protected characteristic (as defined by the UK Equality Act 2010) are not,
+
+    when they are undertaking one of our qualifications, disadvantaged in comparison to
+    students who do not share that characteristic
+· all students achieve the recognition they deserve for undertaking a qualification and that
+    this achievement can be compared fairly to the achievement of their peers.
+
+Language of assessment
+
+Assessment of these qualifications will be available in English only. All student work must be
+in English.
+We recommend that students are able to read and write in English at Level B2 of the
+Common European Framework of Reference for Languages.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  25
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Access arrangements
+
+Access arrangements are agreed before an assessment. They allow students with special
+educational needs, disabilities or temporary injuries to:
+
+· access the assessment
+
+· show what they know and can do without changing the demands of the assessment.
+
+The intention behind an access arrangement is to meet the particular needs of an individual
+student with a disability without affecting the integrity of the assessment. Access
+arrangements are the principal way in which awarding bodies comply with the duty under
+the Equality Act 2010 to make `reasonable adjustments'.
+
+Access arrangements should always be processed at the start of the course. Students will
+then know what is available and have the access arrangement(s) in place for assessment.
+
+Reasonable adjustments
+
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments
+where a student with a disability would be at a substantial disadvantage in undertaking an
+assessment. The awarding organisation is required to take reasonable steps to overcome
+that disadvantage.
+
+A reasonable adjustment for a particular student may be unique to that individual and
+therefore might not be in the list of available access arrangements.
+
+Whether an adjustment will be considered reasonable will depend on a number of factors,
+including:
+
+· the needs of the student with the disability
+
+· the effectiveness of the adjustment
+
+· the cost of the adjustment; and
+
+· the likely impact of the adjustment on the student with the disability and other students.
+
+An adjustment will not be approved if it involves unreasonable costs to the awarding
+organisation, timeframes or affects the security or integrity of the assessment. This is
+because the adjustment is not `reasonable'.
+
+Special consideration
+
+Special consideration is a post-examination adjustment to a student's mark or grade to
+reflect temporary injury, illness or other indisposition at the time of the
+examination/assessment, which has had, or is reasonably likely to have had, a material
+effect on a candidate's ability to take an assessment or demonstrate their level of attainment
+in an assessment.
+
+Further information
+
+Please see our website for further information about how to apply for access arrangements
+and special consideration.
+
+For further information about access arrangements, reasonable adjustments and special
+consideration please refer to the JCQ website: www.jcq.org.uk.
+
+26  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Candidate malpractice
+
+Candidate malpractice refers to any act by a candidate that compromises or seeks to
+compromise the process of assessment or which undermines the integrity of the
+qualifications or the validity of results/certificates.
+
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 190 High
+Holborn, London, WC1V 7BH. Please provide as much information and supporting
+documentation as possible. Note that the final decision regarding appropriate sanctions lies
+with Pearson.
+
+Failure to report malpractice constitutes staff or centre malpractice.
+
+Staff/centre malpractice
+
+Staff and centre malpractice includes both deliberate malpractice and maladministration of
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that
+compromises or seeks to compromise the process of assessment or which undermines the
+integrity of the qualifications or the validity of results/certificates.
+
+All cases of suspected staff malpractice and maladministration must be reported
+immediately, before any investigation is undertaken by the centre, to Pearson on a JCQ
+Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice).
+
+The form, supporting documentation and as much information as possible can be emailed to
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 190 High
+Holborn, London, WC1V 7BH. Note that the final decision regarding appropriate sanctions
+lies with Pearson.
+
+Failure to report malpractice itself constitutes malpractice.
+
+More-detailed guidance on malpractice can be found in the latest version of the document
+JCQ General and vocational qualifications Suspected Malpractice in Examinations and
+Assessments, available at www.jcq.org.uk/exams-office/malpractice.
+
+Awarding and reporting
+
+The Pearson Edexcel International Advanced Subsidiary in Accounting will be graded on a
+five-grade scale from A to E. The Pearson Edexcel International Advanced Level in
+Accounting will be graded on a six-point scale A* to E. Individual unit results will be
+reported. Only Unit 1 will contribute to the International Advanced Subsidiary grade. Both
+units will contribute to the International Advanced Level grade.
+
+The first certification opportunity for the Pearson Edexcel International Advanced Subsidiary
+in Accounting will be in August 2016. The first certification opportunity for the Pearson
+Edexcel International Advanced Level in Accounting will be in August 2017. A pass in an
+International Advanced Subsidiary subject is indicated by one of the five grades A, B, C, D,
+E, of which grade A is the highest and grade E the lowest. A pass in an International
+Advanced Level subject is indicated by one of the six grades A*, A, B, C, D, E, of which
+grade A* is the highest and grade E the lowest. Students whose level of achievement is
+below the minimum judged by Pearson to be of sufficient standard to be recorded on a
+certificate will receive an unclassified U result.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  27
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Unit results
+
+Students will receive a uniform mark between 0 and the maximum uniform mark for
+each unit.
+
+The uniform marks at each grade threshold for each unit are:
+
+Units 1 and 2
+
+Unit grade Maximum A B C D                                                              E
+                            uniform mark                                              120
+
+               300           240  210                         180          150
+
+Qualification results
+
+The minimum uniform marks required for each grade:
+
+International Advanced Subsidiary (cash-in code: XAC11)
+
+Qualification Maximum A B C                                                 D           E
+grade          uniform mark                                                150        120
+
+               300           240  210                         180
+
+Students with a uniform mark in the range 0-119 will be Unclassified (U).
+
+International Advanced Level (cash-in code: YAC11)
+
+Qualification Maximum A B C D E
+grade          uniform mark
+
+               600           480  420                         360          300        240
+
+Students with a uniform mark in the range 0-239 will be Unclassified (U).
+
+To be awarded an A*, students will need to achieve an A for the International Advanced
+Level qualification (at least 480 uniform marks) and at least 90% of the total uniform mark
+available across the IA2 units combined (at least 270 uniform marks).
+
+Student recruitment and progression
+
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that:
+· they must be available to anyone who is capable of reaching the required standard
+· they must be free from barriers that restrict access and progression
+· equal opportunities exist for all students.
+
+Prior learning and other requirements
+
+Students who would benefit most from studying these qualifications are likely to have a
+Level 2 qualification such as an International GCSE in Accounting at grades 9 to 4 or
+A* to C.
+
+Progression
+
+These qualifications supports progression into further education, training or employment.
+
+28                     Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                       - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendices
+
+Appendix 1: Codes                                                                 30
+
+Appendix 2: Pearson World Class Qualification design principles                   31
+
+Appendix 3: Transferable skills                                                   33
+
+Appendix 4: Level 3 Extended Project qualification                                35
+
+Appendix 5: Glossary                                                              37
+
+Appendix 6: Glossary of International Accounting Standards (IAS)
+
+terminology                                                                       38
+
+Appendix 7: Formulae                                                              41
+
+Appendix 8: Command words used in examinations                                    43
+
+Appendix 9: Use of calculators                                                    44
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  29
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 1: Codes
+
+Type of code   Use of code                              Code
+Unit codes                                              Unit 1: WAC11/01
+               Each unit is assigned a unit code. This  Unit 2: WAC12/01
+Cash in codes  unit code is used as an entry code to
+               indicate that a student wishes to take   International Advanced
+Entry codes    the assessment for that unit. Centres    Subsidiary - XAC11
+               will need to use the entry codes only    International Advanced
+               when entering students for their         Level - YAC11
+               examination.
+                                                        Please refer to the
+               The cash-in code is used as an entry     Pearson Information
+               code to aggregate the student's unit     Manual, available on
+               scores to obtain the overall grade for   our website.
+               the qualification. Centres will need to
+               use the entry codes only when entering
+               students for their qualification.
+
+               The entry codes are used to:
+
+               · enter a student for the assessment
+                   of a unit
+
+               · aggregate the student's unit scores
+                   to obtain the overall grade for the
+                   qualification.
+
+30             Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+               - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 2: Pearson World Class Qualification
+design principles
+
+Pearson's World Class Qualification design principles mean that all Edexcel qualifications are
+developed to be rigorous, demanding, inclusive and empowering.
+
+We work collaboratively to gain approval from an external panel of educational
+thought-leaders and assessment experts from across the globe. This is to ensure that
+Edexcel qualifications are globally relevant, represent world-class best practice in
+qualification and assessment design, maintain a consistent standard and support learner
+progression in today's fast-changing world.
+
+Pearson's Expert Panel for World-Class Qualifications is chaired by Sir Michael Barber, a
+leading authority on education systems and reform. He is joined by a wide range of key
+influencers with expertise in education and employability.
+
+"I'm excited to be in a position to work with the global leaders in curriculum and assessment
+to take a fresh look at what young people need to know and be able to do in the 21st
+century, and to consider how we can give them the opportunity to access that sort of
+education." Sir Michael Barber.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  31
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Endorsement from Pearson's Expert Panel for World Class
+Qualifications for the International Advanced Subsidiary
+(IAS)/International Advanced Level (IAL) development process
+
+December 2015
+
+"We were chosen, either because of our expertise in the UK education system, or because of
+our experience in reforming qualifications in other systems around the world as diverse as
+Singapore, Hong Kong, Australia and a number of countries across Europe.
+
+We have guided Pearson through what we judge to be a rigorous world class qualification
+development process that has included, where appropriate:
+
+· extensive international comparability of subject content against the highest-performing
+    jurisdictions in the world
+
+· benchmarking assessments against UK and overseas providers to ensure that they are at
+    the right level of demand
+
+· establishing External Subject Advisory Groups, drawing on independent subject-specific
+    expertise to challenge and validate our qualifications.
+
+Importantly, we have worked to ensure that the content and learning is future oriented, and
+that the design has been guided by Pearson's Efficacy Framework. This is a structured,
+evidenced process which means that learner outcomes have been at the heart of this
+development throughout.
+
+We understand that ultimately it is excellent teaching that is the key factor to a learner's
+success in education but as a result of our work as a panel we are confident that we have
+supported the development of Edexcel IAS and IAL qualifications that are outstanding for
+their coherence, thoroughness and attention to detail and can be regarded as representing
+world-class best practice."
+
+Sir Michael Barber (Chair)                    Professor Lee Sing Kong
+Chief Education Advisor, Pearson plc          Dean and Managing Director, National
+                                              Institute of Education International,
+Dr Peter Hill                                 Singapore
+Former Chief Executive ACARA
+Professor Jonathan Osborne                    Bahram Bekhradnia
+Stanford University                           President, Higher Education Policy Institute
+
+Professor Dr Ursula Renold                    Dame Sally Coates
+Federal Institute of Technology, Switzerland  Director of Academies (South), United
+Professor Janice Kay                          Learning Trust
+Provost, University of Exeter
+                                              Professor Bob Schwartz
+Jason Holt                                    Harvard Graduate School of Education
+CEO, Holts Group
+                                              Jane Beine
+                                              Head of Partner Development, John Lewis
+                                              Partnership
+
+All titles correct as at December 2015.
+
+32  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 3: Transferable skills
+
+The need for transferable skills
+
+In recent years, higher-education institutions and employers have consistently flagged the
+need for students to develop a range of transferable skills to enable them to respond with
+confidence to the demands of undergraduate study and the world of work.
+
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or
+competencies, as `the bundle of knowledge, attributes and capacities that can be learned
+and that enable individuals to successfully and consistently perform an activity or task and
+can be built upon and extended through learning.'[1]
+
+To support the design of our qualifications, the Pearson Research Team selected and
+evaluated seven global 21st-century skills frameworks. Following on from this process, we
+identified the National Research Council's (NRC) framework [2] as the most evidence-based
+and robust skills framework, and have used this as a basis for our adapted skills framework.
+
+The framework includes cognitive, intrapersonal skills and interpersonal skills.
+
+The NRC framework is included alongside literacy and numeracy skills.
+
+The skills have been interpreted for this specification to ensure they are appropriate for the
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or
+assessment of the qualifications. Some skills are directly assessed. Pearson materials will
+support you in identifying these skills and developing these skills in students.
+
+The table overleaf sets out the framework and gives an indication of the skills that can be
+found in accounting and indicates the interpretation of the skill in this area. A full subject
+interpretation of each skill, with mapping to show opportunities for student development is
+given on the subject pages of our website: qualifications.pearson.com
+
+1 OECD - Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012)
+2 Koenig, J. A. (2011) Assessing 21st Century Skills: Summary of a Workshop, (National Academies Press, 2011)
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -                               33
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+    Cognitive skills      Cognitive          · Critical thinking                    In order to make good decisions,
+                          processes and      · Problem solving                      students will require a good level
+    Intrapersonal skills  strategies         · Analysis                             of analysis, problem solving and
+                                             · Reasoning/argumentation              interpretation.
+    Interpersonal skills  Creativity         · Interpretation
+                          Intellectual       · Decision making                      Developing an awareness of the
+                          openness           · Adaptive learning                    ethical values in society and in
+                                             · Executive function                   accounting. Accounting involves
+                          Work ethic/        · Creativity                           presenting a true and fair
+                          conscientiousness  · Innovation                           representation of the information.
+                                             · Adaptability
+                          Positive core      · Personal and social responsibility   Students are required to obtain
+                          self-evaluation    · Continuous learning                  data, work within a team, discuss
+                          Teamwork and       · Intellectual interest and curiosity  outcomes and make
+                          collaboration      · Initiative                           recommendations
+                                             · Self-direction
+                          Leadership         · Responsibility
+                                             · Perseverance
+                                             · Productivity
+                                             · Self-regulation (metacognition,
+
+                                                  forethought, reflection)
+                                             · Ethics
+                                             · Integrity
+                                             · Self-monitoring/self-
+
+                                                  evaluation/self-reinforcement
+                                             · Communication
+                                             · Collaboration
+                                             · Teamwork
+                                             · Cooperation
+                                             · Empathy/perspective taking
+                                             · Negotiation
+                                             · Responsibility
+                                             · Assertive communication
+                                             · Self-presentation
+
+34                                           Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                                             - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 4: Level 3 Extended Project qualification
+
+What is the Extended Project?
+
+The Extended Project is a standalone qualification that can be taken alongside International
+Advanced Level (IAL) qualifications. It supports the development of independent learning
+skills and helps to prepare students for their next step - whether that be higher education or
+employment. The qualification:
+
+· is recognised by higher education for the skills it develops
+
+· is worth half of an International Advanced Level (IAL) qualification at grades A*-E
+
+· carries UCAS points for university entry.
+
+The Extended Project encourages students to develop skills in the following areas: research,
+critical thinking, extended writing and project management. Students identify and agree a
+topic area of their choice for in-depth study (which may or may not be related to an IAL
+subject they are already studying), guided by their teacher.
+
+Students can choose from one of four approaches to produce:
+
+· a dissertation (for example an investigation based on predominately secondary research)
+
+· an investigation/field study (for example a practical experiment)
+
+· a performance (for example in music, drama or sport)
+
+· an artefact (for example creating a sculpture in response to a client brief or solving an
+    engineering problem).
+
+The qualification is non-examination assessment based and students are assessed on the
+skills of managing, planning and evaluating their project. Students will research their topic,
+develop skills to review and evaluate the information, and then present the final outcome of
+their project.
+
+The Extended Project has 120 guided learning hours (GLH) consisting of a 40-GLH taught
+element that includes teaching the technical skills (for example research skills) and an
+80-GLH guided element that includes mentoring students through the project work. The
+qualification is 100% internally assessed and externally moderated.
+
+How to link the Extended Project with Accounting
+
+The Extended Project creates the opportunity to develop transferable skills for progression to
+higher education and to the workplace through the exploration of either an area of personal
+interest or a topic of interest from within the accounting qualification content.
+
+Through the Extended Project, students will develop skills that support their study of
+accounting, including:
+
+· conducting, organising and using research
+
+· independent reading in the subject area
+
+· planning, project management and time management
+
+· defining a hypothesis to be tested in investigations or developing a design brief
+
+· collecting, handling and interpreting data and evidence
+
+· evaluating arguments and processes, including arguments in favour of alternative
+    interpretations of data and evaluation of experimental methodology
+
+· critical thinking.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  35
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+In the context of the Extended Project, critical thinking refers to the ability to identify and
+develop arguments for a point of view or hypothesis and to consider and respond to
+alternative arguments. This supports the development of evaluative skills, through
+evaluating accounting arguments and using qualitative and quantitative evidence to support
+informed judgements and propose evidence-based solutions to accounting issues.
+
+Types of Extended Project related to Accounting
+
+Students may produce a dissertation on any topic that can be researched and argued, for
+example:
+
+· the impact of Information and communication technology (ICT) in accounting
+
+· an investigation into the ease of Social and ethical accounting
+
+The dissertation uses secondary research sources to provide a reasoned defence or a point
+of view, with consideration of counter-arguments.
+
+An alternative might be an investigative project or field study involving the collection of data
+from primary research, for example:
+
+· a study of the impact of Principles of accounting and double entry bookkeeping on a
+    business
+
+· a statistical survey of Limited companies
+
+A field study might consider an issue that lends itself to primary research, for example an
+investigation into the role of budgeting as a management tool for planning, forecasting and
+control.
+
+Using the Extended Project to support breadth and depth
+
+In the Extended Project, students are assessed on the quality of the work they produce and
+the skills they develop and demonstrate through completing this work. Students should
+demonstrate that they have extended themselves in some significant way beyond what they
+have been studying in accounting. Students can demonstrate extension in one or more
+dimensions:
+
+· deepening understanding - where a student explores a topic in greater depth than in
+    the specification content.
+
+· broadening skills - where a student learns a new skill. This might be learning how to
+    design a website or learning a new statistical technique that can be used in the analysis of
+    either primary or secondary data collected by the student
+
+· widening perspectives - where the student's project spans different subjects. A
+    student studying accounting with geography may wish to research the impact of tourism
+    on a particular region or locality. A student studying accounting with mathematics may
+    wish to use statistical techniques to analyse market data and research one aspect of a
+    market in more detail.
+
+A wide range of information to support the delivery and assessment of the Extended Project,
+including the specification, teacher guidance for all aspects, an editable scheme of work and
+exemplars for all four approaches, can be found on our website.
+
+36  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 5: Glossary
+
+Term                      Definition
+Assessment objectives
+                          The requirements that students need to meet to succeed in
+External assessment       the qualification. Each assessment objective has a unique
+International Advanced    focus, which is then targeted in examinations or coursework.
+Subsidiary                Assessment objectives may be assessed individually or in
+International Advanced    combination.
+Level
+International A2 (IA2)    An examination that is held at the same time and place in a
+Linear                    global region.
+
+Modular                   Abbreviated to IAS.
+
+Raw marks                 Abbreviated to IAL.
+
+Uniform Mark Scale (UMS)  The additional content required for an IAL.
+
+Unit                      Linear qualifications have all assessments at the end of a
+                          course of study. It is not possible to take one assessment
+                          earlier in the course of study.
+
+                          Modular qualifications contain units of assessment.
+                          These units can be taken during the course of study.
+                          The final qualification grade is worked out from the
+                          combined unit results.
+
+                          Raw marks are the actual marks that students achieve when
+                          taking an assessment. When calculating an overall grade,
+                          raw marks often need to be converted so that it is possible
+                          to see the proportionate achievement of a student across all
+                          units of study.
+
+                          Student actual marks (or raw marks) will be converted into
+                          a UMS mark so that it is possible to see the proportionate
+                          result of a student. Two units may each be worth 25% of a
+                          total qualification. The raw marks for each unit may differ,
+                          but the uniform mark will be the same.
+
+                          A modular qualification will be divided into a number of
+                          units. Each unit will have its own assessment.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  37
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 6: Glossary of International Accounting
+Standards (IAS) terminology
+
+The following is a glossary of the comparison between IAS (International Accounting
+Standards) terminology and UK GAAP (Generally Accepted Accounting Practice in the UK)
+terminology. Examiners will use the IAS terms throughout Unit 1 and Unit 2 and candidate
+responses should use these terms.
+
+IAS terminology                         Previously used UK GAAP terminology
+Financial statements                    Final accounts
+
+Statement of profit or loss and other   Trading and profit and loss account
+comprehensive income
+We will accept `Statement of Profit or  Sales
+Loss' in examination answers            Purchases
+Revenue                                 Raw materials
+Purchases                               Work in progress
+Raw materials                           Cost of goods sold
+Work in progress                        Stock
+Cost of sales                           Gross profit
+Inventory                               Sundry expenses
+Gross profit                            Bad debts
+Other operating expenses                Provision for doubtful debts
+Irrecoverable debts                     Sundry income
+Allowance for irrecoverable debts       Interest receivable
+Other operating income                  Interest payable
+Finance income                          Net profit (loss)
+Finance costs                           Profit/loss balance
+Profit (or loss) for the year
+Retained earnings
+
+38                    Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                      - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+IAS terminology                          Previously used UK GAAP terminology
+
+Statement of changes in equity           Appropriation account (limited
+(limited companies)                      companies)
+
+Statement of financial position          Balance sheet
+
+Non-current assets                       Fixed assets
+Property                                 Land and buildings
+Plant and equipment                      Plant and equipment
+Investments                              Investments
+Intangible assets                        Goodwill
+
+Current assets                           Current assets
+                                         Stock
+Inventory                                Debtors
+                                         Prepayments
+Trade receivables
+
+Other receivables
+
+Cash and cash equivalents (limited
+companies - Statement of cash flow,
+IAS7)
+
+Current liabilities                      Current liabilities/creditors: amounts
+                                         due within 12 months
+Trade payables
+Other payables                           Creditors
+Bank overdraft and loans (repayable      Accruals
+within 12 months)                        Loans repayable within 12 months
+
+Non-current liabilities                  Long-term liabilities/creditors:
+                                         amounts falling due after 12 months
+Bank (and other) loans (repayable after
+12 months)                               Loans repayable after 12 months
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  39
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+IAS terminology                                Previously used UK GAAP terminology
+
+Capital (sole traders and                      Capital
+partnerships)
+
+Or
+
+Equity (sole traders and partnerships)
+
+Equity (limited companies)                     Share Capital
+
+Statement of cash flows                        Cash flow statement
+
+Control Accounts                               Sales ledger control account and
+                                               purchases ledger control account
+Trade receivables ledger control account
+and a trade payables ledger control
+account
+
+Accounting ratios                              Gross profit as a percentage of revenue
+Gross profit as a percentage of revenue
+
+Profit for the year as a percentage of         Net profit margin
+revenue
+
+Return on capital employed (percentage)        Percentage return on capital employed
+                                               Current ratio
+Current (working capital) ratio                Quick (acid test) ratio
+
+Quick (acid test) ratio or liquid (acid test)
+ratio
+
+Other terms                                    Stock take
+Inventory count                                Net book value
+Carrying value
+
+40               Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+                           - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 7: Formulae
+
+The formulae below will not be supplied in the examinations. Please note that a formula may
+be applied in more than one section.
+
+Profitability
+
+1 Gross Profit as a Percentage of revenue (sales margin) = (Gross Profit/Revenue) x 100
+
+2 Percentage Mark-up = (Gross Profit as a Percentage of revenue/cost of sales) x 100
+
+3 Net Profit for the Year as a Percentage of Revenue = (Net Profit for the Year/Revenue)
+     x 100
+
+4 Return on Capital Employed (percentage) = (Net Profit Before Interest (NPBI)/Capital
+     Employed) x 100
+
+For a sole trader or partnership (Capital Employed = Capital + Non-current Liabilities
+(NCL))
+
+5 Return on Capital Employed (percentage) for Corporate Bodies = (Net Profit Before
+     Interest (NPBI)/Capital Employed) x 100
+
+For a Company (Capital Employed = Issued Shares + Reserves + Non-current Liabilities)
+
+Liquidity
+
+6 Current Ratio = Current Assets/Current Liabilities
+
+7 Liquid Ratio (Acid Test) = (Current Assets - Inventory)/Current Liabilities
+
+8 Rate of Inventory Turnover = Cost of Sales/Average Inventory (Times per
+     Accounting Period)
+
+9 Trade Payables Payment Period = (Trade Payables/Credit Purchases) x 365
+
+10 Trade Receivables Collection Period = (Trade Receivables/Credit Sales) x 365
+
+Use of assets
+
+11 Revenue to Non-current Assets = Revenue/Non-current Assets
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -          41
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Investment
+
+12 Gearing Ratio = (Fixed Cost Capital (Debt))/(Total Capital Employed (Debt + Equity))
+     x 100
+
+13 Earnings per Share = (Net Profit after Tax - Preference Share Dividend)/Number of
+     Issued Ordinary Shares
+
+14 Price Earnings Ratio = Market Price per Share/Earnings per Share
+
+15 Dividend per Share = Total Ordinary Dividend Paid/Number of Issued Ordinary Shares
+
+16 Dividend Yield = Dividend Paid per Share/Market Price of Share
+
+17 Dividend Cover = Profit after Tax - Preference Dividends/Total Ordinary Dividend Paid
+
+42  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 8: Command words used in examinations
+
+The following table lists the command words used in the external assessments.
+
+Command word  Definition
+Calculate
+Comment       This will involve working out a numerical problem using
+Complete      mathematical processes and formulae, showing relevant
+Define        working.
+Evaluate
+              The answer must include a simple statement based on the
+Explain       scenario and also a summary of why/how that statement is
+Identify      important to the scenario.
+Prepare
+Recommend     This requires the completion of a table or structure. This may
+State         include a calculation which will then be required to fill the
+              incomplete table/structure.
+
+              To state the precise meaning of an accounting term and/or
+              provide a description.
+
+              This will involve reviewing information and then bringing it
+              together to form a conclusion, drawing on evidence including
+              strengths, weaknesses, alternative actions, relevant data or
+              information. A supported judgement/decision will be reached in
+              relation to its context.
+
+              This requires a linked justification/exemplification of a point.
+
+              This requires information to be selected from a range of
+              possibilities, list or given stimulus.
+
+              This will involve arranging financial information into a standard
+              format.
+
+              This will involve suggesting a solution/decision by reviewing
+              information from a scenario and providing a
+              justification/exemplification for that choice.
+
+              This requires the recall of one or more pieces of information.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -  43
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+Appendix 9: Use of calculators
+
+Students may use a calculator in assessments for these qualifications. Centres are
+responsible for making sure that calculators used by their students meet the requirements
+given in the table below.
+
+Students must be familiar with the requirements before their assessments for these
+qualifications.
+
+Calculators must be:               Calculators must not:
+· of a size suitable for use on a
+                                   · be designed or adapted to offer any of these
+    desk                               facilities:
+· either battery or solar powered      o language translators
+· free of lids, cases and covers       o symbolic algebraic manipulation
+                                       o symbolic differentiation or integration
+    that contain printed               o communication with other machines or the
+    instructions or formulae.              internet
+
+The candidate is responsible       · be borrowed from another candidate during an
+for the following:                     examination for any reason*
+· the calculator's power supply
+· the calculator's working         · have retrievable information stored in them. This
+                                       includes:
+    condition                          o databanks
+· clearing anything stored in the      o dictionaries
+                                       o mathematical formulae
+    calculator.                        o text.
+
+*An invigilator may give a student a calculator.
+
+Further information can be found in the JCQ documents Instructions for conducting
+examinations and Information for candidates for written examinations, available at
+www.jcq.org.uk/exams-office.
+
+44  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting
+
+    - Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+sb210918 Alfresco\International A Level\9781446951293_IAL_ACCOUNT_ISS2.DOCX.1-50/1
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting -    45
+
+Specification - Issue 2 - September 2018 © Pearson Education Limited 2018
+FOR INFORMATION ABOUT EDEXCEL, BTEC OR LCCI QUALIFICATIONS
+VISIT QUALIFICATIONS.PEARSON.COM
+
+EDEXCEL IS A REGISTERED TRADEMARK OF PEARSON EDUCATION LIMITED
+
+PEARSON EDUCATION LIMITED. REGISTERED IN ENGLAND AND WALES NO. 872828
+REGISTERED OFFICE: 80 STRAND, LONDON WC2R 0RL
+VAT REG NO GB 278 537121
+
+GETTY IMAGES: ALEX BELMONLINSKY
+

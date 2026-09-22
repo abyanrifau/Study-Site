@@ -1,0 +1,253 @@
+---
+ref: "2.6.1"
+title: "Project appraisal"
+unit: "WAC12"
+section: "Project appraisal"
+oneMinute:
+  - "Two non-discounted methods: payback period and average rate of return."
+  - "Four discounted methods: net present value, weighted average cost of capital, profitability index, internal rate of return."
+  - "Discounting recognises that a dollar received in five years is worth less than a dollar today."
+  - "The discount rate used should be the weighted average cost of capital."
+  - "Accept a project if NPV is positive, the profitability index exceeds 1, or the IRR exceeds the cost of capital."
+keyTerms:
+  - term: "Payback period"
+    definition: "The time taken for the net cash inflows from a project to repay the initial investment."
+  - term: "Average rate of return"
+    definition: "The average annual profit from a project expressed as a percentage of the average investment, also called the accounting rate of return."
+  - term: "Net present value (NPV)"
+    definition: "The total present value of a project's future cash flows less the initial investment."
+  - term: "Discount factor"
+    definition: "The figure by which a future cash flow is multiplied to convert it to its present value."
+  - term: "Weighted average cost of capital (WACC)"
+    definition: "The average return a company must earn on its investments, weighted by the proportion of each source of finance in its capital structure."
+  - term: "Profitability index"
+    definition: "The present value of a project's future cash inflows divided by the initial investment."
+  - term: "Internal rate of return (IRR)"
+    definition: "The discount rate at which a project's net present value is zero."
+  - term: "Capital rationing"
+    definition: "A situation in which a company has insufficient finance to undertake all the projects with a positive net present value."
+formulas:
+  - name: "Payback period"
+    formula: "Years before recovery + (Amount still to recover ÷ Cash flow in the recovery year) × 12 months"
+  - name: "Average rate of return"
+    formula: "(Average annual profit ÷ Average investment) × 100"
+    note: "Average investment = (Initial cost + Residual value) ÷ 2. Average annual PROFIT is after depreciation, unlike the cash flows used in NPV."
+  - name: "Net present value"
+    formula: "Σ (Cash flow × Discount factor) − Initial investment"
+  - name: "Weighted average cost of capital"
+    formula: "Σ (Proportion of each source × Cost of that source)"
+  - name: "Profitability index"
+    formula: "Present value of future cash inflows ÷ Initial investment"
+  - name: "Internal rate of return (interpolation)"
+    formula: "Lower rate + [NPV at lower rate ÷ (NPV at lower rate − NPV at higher rate)] × (Higher rate − Lower rate)"
+commandWords:
+  - "Calculate"
+  - "Explain"
+  - "Assess"
+  - "Evaluate"
+---
+
+## The two non-discounted methods
+
+<Chunk title="Payback period" open>
+
+How long the project takes to repay its cost, calculated from **cumulative net cash flows**.
+
+**For:** simple, easily understood, and it addresses risk and liquidity directly, which matters most to a company that is short of cash or operating in a fast-changing market.
+
+**Against:** it **ignores everything after payback**, so a project that pays back in three years and then earns nothing beats one that pays back in four and earns for a decade. It also **ignores the time value of money** and gives no measure of profitability.
+
+</Chunk>
+
+<Chunk title="Average rate of return">
+
+The average annual **profit** as a percentage of the **average** investment.
+
+**For:** it is expressed as a percentage, so it can be compared directly with ROCE and with the cost of capital, and it uses the whole life of the project.
+
+**Against:** it **ignores the time value of money**, it uses accounting profit rather than cash, and averaging conceals the pattern, so a project earning most of its return late looks identical to one earning it early.
+
+**The trap:** ARR uses **profit after depreciation**, while NPV and payback use **cash flow**. The question usually gives cash flows, so you must deduct depreciation yourself to get profit. Forgetting to do so is the commonest error in this topic.
+
+</Chunk>
+
+<Worked title="Worked example: payback and ARR">
+
+A machine costs **$400,000**, has a five-year life and a residual value of **$50,000**. Net cash inflows: year 1 **$90,000**, year 2 **$120,000**, year 3 **$140,000**, year 4 **$130,000**, year 5 **$110,000**.
+
+**Payback.**
+
+| Year | Cash flow $ | Cumulative $ |
+| --- | --- | --- |
+| 0 | (400,000) | (400,000) |
+| 1 | 90,000 | (310,000) |
+| 2 | 120,000 | (190,000) |
+| 3 | 140,000 | (50,000) |
+| 4 | 130,000 | 80,000 |
+
+Payback falls in year 4, with **$50,000** still to recover from an inflow of $130,000.
+
+`Payback = 3 years + (50,000 ÷ 130,000) × 12 = 3 years + 4.6 months ≈ 3 years 5 months`
+
+**Average rate of return.**
+
+`Total cash inflows = 90 + 120 + 140 + 130 + 110 = $590,000`
+
+`Total depreciation = 400,000 − 50,000 = $350,000`
+
+`Total profit = 590,000 − 350,000 = $240,000`
+
+`Average annual profit = 240,000 ÷ 5 = $48,000`
+
+`Average investment = (400,000 + 50,000) ÷ 2 = $225,000`
+
+`ARR = (48,000 ÷ 225,000) × 100 = 21.3%`
+
+**Interpretation:** if the company's cost of capital is below 21.3% the project looks acceptable on this measure, but neither figure has allowed for the fact that the later inflows are worth less than the earlier ones.
+
+</Worked>
+
+## Weighted average cost of capital
+
+The discount rate should be what the company must pay for its finance, weighted by how much of each source it uses.
+
+<Worked title="Worked example: WACC">
+
+| Source | Amount $ | Proportion | Cost | Weighted |
+| --- | --- | --- | --- | --- |
+| Ordinary shares | 600,000 | 0.60 | 12% | 7.20% |
+| Preference shares | 150,000 | 0.15 | 8% | 1.20% |
+| Debentures | 250,000 | 0.25 | 6% | 1.50% |
+| **Total** | **1,000,000** | **1.00** | | **9.90%** |
+
+`WACC = (0.60 × 12) + (0.15 × 8) + (0.25 × 6) = 7.20 + 1.20 + 1.50 = 9.9%`
+
+**What it means.** The company must earn at least **9.9%** on any project simply to satisfy its providers of finance. A project earning less destroys value even if it is profitable in accounting terms. Note that debt is the cheapest source, which is the link to gearing in topic 2.1: more debt lowers WACC up to the point where the added risk raises the cost of everything.
+
+</Worked>
+
+## Net present value
+
+<Formula name="Net present value" note="The initial investment at time 0 is NOT discounted; its discount factor is 1. Discount factors are given in the question or in tables, so you do not need to calculate them.">
+NPV = Σ (Cash flow in each year × Discount factor for that year) − Initial investment
+
+Decision rule: accept if NPV is positive.
+</Formula>
+
+<Worked title="Worked example: NPV, profitability index and IRR">
+
+The same machine: cost **$400,000**, inflows as above, plus the **$50,000** residual value received at the end of year 5. Cost of capital **10%**.
+
+| Year | Cash flow $ | DF at 10% | Present value $ |
+| --- | --- | --- | --- |
+| 1 | 90,000 | 0.909 | 81,810 |
+| 2 | 120,000 | 0.826 | 99,120 |
+| 3 | 140,000 | 0.751 | 105,140 |
+| 4 | 130,000 | 0.683 | 88,790 |
+| 5 | 110,000 + 50,000 = 160,000 | 0.621 | 99,360 |
+| | | **Total PV** | **474,220** |
+
+`NPV = 474,220 − 400,000 = +$74,220`
+
+**Decision:** accept. The project returns $74,220 more than the $400,000 invested, after allowing for the 10% required return.
+
+**Profitability index.**
+
+`PI = 474,220 ÷ 400,000 = 1.19`
+
+**Decision:** accept, because it exceeds 1. The PI says the project returns $1.19 of present value for every $1 invested, which is exactly what is needed to rank projects under **capital rationing**: with limited funds, choose the projects with the highest PI, because that maximises NPV per dollar available.
+
+**Internal rate of return.** Discount again at a higher rate, say **18%**:
+
+| Year | Cash flow $ | DF at 18% | Present value $ |
+| --- | --- | --- | --- |
+| 1 | 90,000 | 0.847 | 76,230 |
+| 2 | 120,000 | 0.718 | 86,160 |
+| 3 | 140,000 | 0.609 | 85,260 |
+| 4 | 130,000 | 0.516 | 67,080 |
+| 5 | 160,000 | 0.437 | 69,920 |
+| | | **Total PV** | **384,650** |
+
+`NPV at 18% = 384,650 − 400,000 = −$15,350`
+
+`IRR = 10 + [74,220 ÷ (74,220 + 15,350)] × (18 − 10)`
+
+`IRR = 10 + (74,220 ÷ 89,570) × 8 = 10 + 6.6 = 16.6%`
+
+**Decision:** accept, because 16.6% comfortably exceeds the 10% cost of capital. The margin of 6.6 percentage points is the **cushion**: the cost of capital could rise to about 16.6% before the project stopped being worthwhile, which is a useful way of expressing risk.
+
+**Note that the denominator adds the two NPVs** because one is negative. Subtracting a negative gives 74,220 + 15,350, and getting this wrong is the standard IRR error.
+
+</Worked>
+
+## Comparing the methods
+
+| | Time value of money | Uses cash or profit | Measures | Main weakness |
+| --- | --- | --- | --- | --- |
+| **Payback** | no | cash | time to recover | ignores everything after payback |
+| **ARR** | no | profit | percentage return | ignores timing; uses accounting profit |
+| **NPV** | yes | cash | absolute value added | needs a discount rate; absolute, so hard to compare unequal projects |
+| **PI** | yes | cash | value per dollar invested | assumes projects are divisible |
+| **IRR** | yes | cash | percentage return | can give multiple answers; interpolation is an approximation |
+
+**Why NPV is theoretically the best.** It allows for the time value of money, uses cash rather than accounting profit, includes the whole life of the project, and measures the absolute amount of value added, which is the shareholders' objective.
+
+**Why the others are still used.** Payback is what a cash-constrained company actually cares about. ARR is comparable with the ROCE the business already reports. IRR is a percentage, which non-financial managers find easier to grasp than an absolute NPV, and it does not require the cost of capital to be known in advance.
+
+**Where NPV and IRR disagree.** With projects of very different size, IRR can favour the smaller one: a small project earning 40% may add less value than a large one earning 15%. When they conflict, **follow NPV**, because absolute value added is the objective. Under capital rationing, however, rank by **profitability index**.
+
+**Limitations common to all of them:**
+
+- **The cash flow forecasts are estimates**, and the later years are the least reliable while carrying much of the value.
+- **The discount rate is an estimate**, and NPV is sensitive to it.
+- **Non-financial factors are excluded:** staff morale, reputation, environmental impact, strategic fit, and whether the company has the skills to run the project.
+- **Risk is not explicitly measured**, only implicitly through the discount rate.
+- **Sensitivity analysis is the standard remedy**, testing what happens if inflows are 10% lower or the discount rate 2% higher.
+
+<Tip>
+
+**How this topic is tested.** Usually a Section B 30-mark question and a strong candidate for Section A. Typical parts: calculate payback and ARR (6–8 marks), calculate NPV (6–8), calculate WACC, PI or IRR (4–8), then evaluate whether to proceed (10–12 marks).
+
+**Method:**
+
+1. **Build one table** with a row per year and columns for cash flow, discount factor and present value. Everything comes out of that table.
+2. **Do not discount the year 0 outflow.**
+3. **Add the residual value to the final year's cash flow** before discounting, unless the question says otherwise.
+4. **For ARR, convert cash flows to profit** by deducting total depreciation, and use the **average** investment.
+5. **Round money to the nearest dollar, percentages to one decimal place**, and state the unit.
+6. **Always state the decision**, not just the number. A correct NPV with no conclusion loses the easiest mark on the paper.
+
+**Structuring the evaluation:**
+
+1. **State each result and what it says**, in a single sentence each.
+2. **Say which method you would rely on and why.** NPV, because it measures value added with the time value of money.
+3. **Explain any conflict** between the methods, and resolve it.
+4. **Quantify the risk.** Compare the IRR with the cost of capital and express the difference as the cushion.
+5. **Bring in the non-financial factors** the source mentions: capacity, skills, strategic fit, environmental impact, effect on staff.
+6. **Recommend**, and state the condition: the decision depends on the reliability of the later cash flows and on whether finance is available at the assumed cost.
+
+**Getting evaluation marks:**
+
+- **NPV is theoretically superior**, and payback answers the question a cash-constrained company is actually asking.
+- **Compare the IRR with the WACC**, not with zero.
+- **Later cash flows are the least reliable and carry much of the NPV.**
+- **Use the profitability index under capital rationing.**
+- **Follow NPV when NPV and IRR conflict.**
+- **Non-financial factors can outweigh a positive NPV**, and vice versa.
+
+</Tip>
+
+<Mistakes>
+
+- **Discounting the initial investment.** Its factor is 1.
+- **Using cash flow instead of profit in ARR**, or forgetting to deduct depreciation.
+- **Using the initial investment instead of the average investment in ARR.**
+- **Omitting the residual value** from the final year of the NPV, or from the ARR depreciation calculation.
+- **Subtracting rather than adding the negative NPV** in the IRR interpolation formula.
+- **Calculating payback in whole years** when the question expects months.
+- **Forgetting to weight the costs in WACC**, and simply averaging them.
+- **Stating a number with no decision.**
+- **Choosing the project with the highest IRR** when NPV points the other way.
+- **Ignoring non-financial factors entirely** in an evaluation question.
+
+</Mistakes>

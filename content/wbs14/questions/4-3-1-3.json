@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.3",
+  "topicTitle": "Factors contributing to increased globalisation",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-1-3-01",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines globalisation?",
+      "options": [
+        "The increasing integration of national economies through trade, investment, migration and information flows",
+        "The growth of international trade in goods only",
+        "The spread of one country's culture across the world",
+        "The creation of trading blocs between neighbouring countries"
+      ],
+      "answer": 0,
+      "why": "Globalisation covers investment, migration and information as well as trade, which is why a trade-only definition loses marks.",
+      "whyNot": [
+        "",
+        "Trade is only one dimension.",
+        "Cultural spread is a consequence, not the definition.",
+        "Trading blocs are one regional form of integration."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-02",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "easy",
+      "stem": "What are the three roles of the World Trade Organization?",
+      "options": [
+        "Administering trade rules, providing a forum for negotiation, and settling disputes",
+        "Setting the tariff rates that all members must apply",
+        "Lending money to countries with trade deficits",
+        "Fixing exchange rates between member currencies"
+      ],
+      "answer": 0,
+      "why": "Members set their own tariffs within the agreed rules; the WTO administers those rules rather than setting the rates.",
+      "whyNot": [
+        "",
+        "Members set their own tariffs.",
+        "Lending is the role of the International Monetary Fund and World Bank.",
+        "Exchange rates are not within the WTO's remit."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-03",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines containerisation?",
+      "options": [
+        "The use of standard-sized containers to move goods, which cut the cost and time of shipping",
+        "Packaging goods in smaller units for sale in lower-income markets",
+        "Storing inventory in a central warehouse",
+        "Producing goods in sealed factories to protect quality"
+      ],
+      "answer": 0,
+      "why": "Standardised handling turned loading a ship into a matter of hours rather than days.",
+      "whyNot": [
+        "",
+        "That is pack-size adaptation in marketing.",
+        "That is centralised warehousing.",
+        "That is unrelated to shipping."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-04",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines structural change?",
+      "options": [
+        "A long-term shift in the relative importance of the primary, secondary and tertiary sectors",
+        "A change in a company's organisational hierarchy",
+        "A change in the rate of corporation tax",
+        "A change in a country's exchange rate regime"
+      ],
+      "answer": 0,
+      "why": "Manufacturing fell as a share of developed economies while services grew, and the losses were concentrated in particular industries and regions.",
+      "whyNot": [
+        "",
+        "That is organisational restructuring, a different topic.",
+        "That is a fiscal change.",
+        "That is a monetary arrangement."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-05",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Why is it argued that falling communication costs mattered more than falling tariffs?",
+      "options": [
+        "Cheap communication made global supply chains possible, not just global selling",
+        "Communication costs fell further in percentage terms",
+        "Tariffs have never fallen significantly",
+        "Communication is not affected by government policy"
+      ],
+      "answer": 0,
+      "why": "Without cheap coordination a business could export but could not manage production it did not stand next to.",
+      "whyNot": [
+        "",
+        "The size of the fall is not the argument; the capability created is.",
+        "Average tariffs have fallen substantially over decades.",
+        "Policy does affect telecommunications, but that is not the point."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-06",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is an opportunity globalisation creates for a business?",
+      "options": [
+        "Extending a product's life cycle by selling a mature product into a growing market",
+        "Freedom from all exchange rate exposure",
+        "Protection from low-cost foreign competitors",
+        "Shorter and simpler supply chains"
+      ],
+      "answer": 0,
+      "why": "The development cost is already sunk, so the same product generates growth again in a market where it is still at the growth stage.",
+      "whyNot": [
+        "",
+        "Operating internationally increases currency exposure.",
+        "Globalisation removes such protection.",
+        "Supply chains typically become longer and more complex."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-07",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a threat globalisation creates for a business?",
+      "options": [
+        "Reputational exposure, because conditions anywhere in the supply chain can become news everywhere",
+        "A reduction in the size of its accessible market",
+        "The impossibility of raising finance internationally",
+        "A guaranteed fall in economies of scale"
+      ],
+      "answer": 0,
+      "why": "This is why international business ethics matters commercially and not only morally.",
+      "whyNot": [
+        "",
+        "Globalisation enlarges the accessible market.",
+        "International capital markets become more accessible.",
+        "Higher volume generally improves scale economies."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-08",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "What effect did the growth of the global labour force have?",
+      "options": [
+        "It held down wages for lower-skilled work in developed economies and raised them where the work moved",
+        "It raised wages everywhere equally",
+        "It had no measurable effect on wages",
+        "It reduced the total amount of work available worldwide"
+      ],
+      "answer": 0,
+      "why": "The opening of large economies roughly doubled the labour available to internationally mobile capital.",
+      "whyNot": [
+        "",
+        "The effects ran in opposite directions in different places.",
+        "The wage effects are among the most studied consequences of globalisation.",
+        "Total employment rose rather than fell."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-09",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Why is globalisation described as a trend rather than a law?",
+      "options": [
+        "Tariffs have been reimposed, investment screened and supply chains deliberately shortened",
+        "It has never actually increased",
+        "It applies only to developed economies",
+        "It is prohibited by the WTO"
+      ],
+      "answer": 0,
+      "why": "Policy risk is real, so a business built entirely on current tariff levels and open supply chains carries that risk.",
+      "whyNot": [
+        "",
+        "Integration increased substantially over decades.",
+        "It affects all economies.",
+        "The WTO exists to facilitate trade, not prohibit integration."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-10",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "hard",
+      "stem": "Why does the political pressure for protectionism arise even when trade raises total output?",
+      "options": [
+        "The gains are spread thinly while the losses are concentrated in particular industries and regions",
+        "Trade always reduces total output",
+        "Consumers never benefit from trade",
+        "Governments are legally required to protect industry"
+      ],
+      "answer": 0,
+      "why": "Concentrated losses are politically visible and organised; diffuse gains are not, which is the origin of the pressure.",
+      "whyNot": [
+        "",
+        "Trade raises total output, which is the premise of the question.",
+        "Consumers benefit through lower prices and wider choice.",
+        "No such legal requirement exists."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-11",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "hard",
+      "stem": "Which of the following is a limitation of the WTO?",
+      "options": [
+        "Multilateral negotiation has largely stalled, so liberalisation now happens mainly through regional deals",
+        "It has no members among developed economies",
+        "It cannot settle disputes at all",
+        "It sets no rules, so trade is entirely unregulated"
+      ],
+      "answer": 0,
+      "why": "Enforcement also depends on the willingness of large members to comply, and critics argue the rules have favoured developed economies.",
+      "whyNot": [
+        "",
+        "Developed economies are among its most active members.",
+        "Dispute settlement is one of its three core roles.",
+        "It administers an extensive body of agreed rules."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-12",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "hard",
+      "stem": "How has globalisation affected jobs once thought safe from international competition?",
+      "options": [
+        "Services such as software, accounting and design can now be delivered remotely from anywhere",
+        "Only manufacturing jobs have ever been affected",
+        "Service jobs cannot be performed across borders",
+        "Remote delivery has made services more expensive"
+      ],
+      "answer": 0,
+      "why": "Cheap reliable communication made this possible, which is a sharper version of structural change than the manufacturing story.",
+      "whyNot": [
+        "",
+        "Services are now heavily traded.",
+        "Many services are routinely delivered internationally.",
+        "Remote delivery generally lowered the cost."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-13",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "hard",
+      "stem": "Why is the judgement on globalisation usually conditional on the type of business?",
+      "options": [
+        "It benefits firms that can reach new markets or source more cheaply, and threatens firms whose advantage was protection",
+        "It affects all businesses identically",
+        "It benefits only multinational corporations",
+        "It threatens only businesses that export"
+      ],
+      "answer": 0,
+      "why": "Saying which type the business in the source is, and why, is the answer the question is looking for.",
+      "whyNot": [
+        "",
+        "The effects vary enormously between businesses.",
+        "Small firms selling online have also benefited substantially.",
+        "Firms that only sell domestically face new competitors too."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-14",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines migration in this context?",
+      "options": [
+        "The movement of people between or within countries, usually in search of work",
+        "The relocation of a business's production to another country",
+        "The movement of capital between financial markets",
+        "The transfer of technology from one firm to another"
+      ],
+      "answer": 0,
+      "why": "Migration fills skill gaps, affects wage growth in receiving countries and generates remittances for sending ones.",
+      "whyNot": [
+        "",
+        "That is off-shoring.",
+        "That is a capital flow.",
+        "That is technology transfer."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-15",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "medium",
+      "stem": "Which political change contributed most directly to globalisation?",
+      "options": [
+        "Economies that were closed opening to trade and investment",
+        "The introduction of income tax in developed economies",
+        "The growth of local government spending",
+        "The standardisation of national holidays"
+      ],
+      "answer": 0,
+      "why": "Central planning was abandoned in many countries, import substitution gave way to export-led strategies and capital controls were relaxed.",
+      "whyNot": [
+        "",
+        "Domestic taxation is not a driver of globalisation.",
+        "Local spending is unrelated.",
+        "That has no bearing on international integration."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-3-16",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Factors contributing to increased globalisation",
+      "difficulty": "hard",
+      "stem": "What is meant by saying a substantial share of world trade is between parts of the same company?",
+      "options": [
+        "Multinationals move components and services between their own subsidiaries across borders",
+        "Companies trade only with their direct competitors",
+        "All trade is conducted through government agencies",
+        "Trade statistics exclude multinational activity"
+      ],
+      "answer": 0,
+      "why": "This is what the increased significance of MNCs means in practice, and it is also why transfer pricing matters.",
+      "whyNot": [
+        "",
+        "Intra-firm trade is trade within one group, not between competitors.",
+        "Most trade is conducted by private businesses.",
+        "Multinational activity is a large part of recorded trade."
+      ]
+    }
+  ]
+}

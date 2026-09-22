@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.5.3",
+  "topicTitle": "Public sector borrowing and public sector debt",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-5-3-01",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "easy",
+      "stem": "What is the difference between a fiscal deficit and the national debt?",
+      "options": [
+        "A deficit is a flow in one period; the debt is the accumulated stock",
+        "A deficit is the stock; the debt is the flow",
+        "A deficit applies to central government and the debt to local government",
+        "They are the same thing"
+      ],
+      "answer": 0,
+      "why": "A deficit of $40bn this year adds $40bn to the debt.",
+      "whyNot": [
+        "",
+        "The definitions are the other way round.",
+        "Both usually refer to the whole public sector.",
+        "One is annual borrowing, the other cumulative."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-02",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "easy",
+      "stem": "The deficit falls from $60bn to $40bn. What happens to the debt?",
+      "options": [
+        "It rises by $40bn",
+        "It falls by $20bn",
+        "It is unchanged",
+        "It falls by $40bn"
+      ],
+      "answer": 0,
+      "why": "Government borrowing is falling and total debt is still growing. The debt only falls if there is a surplus.",
+      "whyNot": [
+        "",
+        "A smaller deficit still adds to the debt.",
+        "Any deficit adds to the debt.",
+        "That would require a surplus."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-03",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines an automatic stabiliser?",
+      "options": [
+        "A feature of the tax and benefit system that moderates the cycle without any deliberate decision",
+        "A deliberate change in tax rates to influence the economy",
+        "A central bank rule for setting interest rates",
+        "A limit on the size of the fiscal deficit"
+      ],
+      "answer": 0,
+      "why": "In a recession revenue falls and benefit spending rises, both supporting demand and widening the deficit automatically.",
+      "whyNot": [
+        "",
+        "That is discretionary fiscal policy.",
+        "That is a monetary policy rule.",
+        "That is a fiscal rule."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-04",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a structural deficit?",
+      "options": [
+        "The part of a deficit that would remain even at trend output",
+        "The part of a deficit caused by the economy running below trend",
+        "A deficit caused by a one-off event such as a pandemic",
+        "A deficit funded by borrowing from abroad"
+      ],
+      "answer": 0,
+      "why": "It reflects a permanent gap between committed spending and what the tax system raises, so it will not disappear with recovery.",
+      "whyNot": [
+        "",
+        "That is the cyclical deficit.",
+        "That is a temporary shock.",
+        "The funding source does not define it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-05",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "A deficit is $40bn and GDP is $800bn. What is the deficit as a share of GDP?",
+      "options": [
+        "5.0%",
+        "2.0%",
+        "20%",
+        "0.5%"
+      ],
+      "answer": 0,
+      "why": "(40 / 800) x 100 = 5.0%. Both the deficit and the debt should always be expressed as a share of GDP.",
+      "whyNot": [
+        "",
+        "That uses an incorrect calculation.",
+        "That inverts part of the calculation.",
+        "That misplaces the decimal point."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-06",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "Why does a cyclical deficit require no corrective action?",
+      "options": [
+        "It disappears automatically as the economy recovers, and tightening would deepen the recession",
+        "It is too small to matter",
+        "It is not counted in the national debt",
+        "It is funded by the central bank"
+      ],
+      "answer": 0,
+      "why": "Tightening to close it reduces revenue further and may not reduce the deficit at all, which is the central criticism of austerity in a downturn.",
+      "whyNot": [
+        "",
+        "It can be very large in a deep recession.",
+        "It adds to the debt like any other borrowing.",
+        "Funding does not determine the classification."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-07",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "What is the practical difficulty with the cyclical and structural distinction?",
+      "options": [
+        "Trend output is not observable, and estimates of it are revised substantially",
+        "Neither concept has a definition",
+        "Governments are not allowed to publish the split",
+        "The two are identical in practice"
+      ],
+      "answer": 0,
+      "why": "So the policy conclusion rests on an estimate nobody can verify at the time, which is an excellent evaluation point.",
+      "whyNot": [
+        "",
+        "Both are precisely defined.",
+        "Estimates are routinely published.",
+        "They behave very differently."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-08",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "How can a debt-to-GDP ratio fall while the debt itself rises?",
+      "options": [
+        "If GDP grows faster than the debt",
+        "If the deficit rises faster than GDP",
+        "If interest rates rise",
+        "Only if the government runs a surplus"
+      ],
+      "answer": 0,
+      "why": "Historically this is how most large debt ratios have fallen, through growth and inflation rather than surpluses.",
+      "whyNot": [
+        "",
+        "That would raise the ratio.",
+        "Higher rates raise debt servicing and the deficit.",
+        "A surplus is not required if growth is fast enough."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-09",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "What is the main limitation of automatic stabilisers?",
+      "options": [
+        "They only moderate the cycle and do not correct a deep recession",
+        "They act too slowly to be useful",
+        "They require a decision each time",
+        "They are unavailable in developed economies"
+      ],
+      "answer": 0,
+      "why": "They are also weaker where the tax system is less progressive and benefits less generous, which is typical of developing economies.",
+      "whyNot": [
+        "",
+        "Their advantage is that they act immediately.",
+        "They operate without any decision.",
+        "They are strongest in developed economies."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-10",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "hard",
+      "stem": "Which condition determines whether a debt ratio is on a rising or falling path?",
+      "options": [
+        "Whether nominal GDP grows faster than the interest rate on the debt",
+        "Whether the deficit is above or below 3% of GDP",
+        "Whether the debt is held domestically or abroad",
+        "Whether the government runs a primary surplus"
+      ],
+      "answer": 0,
+      "why": "If growth exceeds the interest rate, the ratio falls even with a deficit. This is the technical heart of debt sustainability.",
+      "whyNot": [
+        "",
+        "Fixed thresholds are policy conventions, not economic conditions.",
+        "That affects the risk, not the arithmetic of the path.",
+        "A primary surplus helps, and the growth-interest comparison is the general condition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-11",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "hard",
+      "stem": "Why is the three lags problem a limitation of discretionary fiscal policy?",
+      "options": [
+        "Recognition, decision and implementation lags mean the measure may take effect after the recession has ended",
+        "Discretionary policy cannot be targeted",
+        "Discretionary policy is prohibited during a recession",
+        "Discretionary policy has no multiplier effect"
+      ],
+      "answer": 0,
+      "why": "A stimulus arriving after recovery adds to inflation instead of supporting output.",
+      "whyNot": [
+        "",
+        "Its advantage is that it can be large and targeted.",
+        "It is the standard response to a recession.",
+        "It has a multiplier effect; the issue is timing."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-12",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "hard",
+      "stem": "Why is foreign currency debt more dangerous than domestic currency debt?",
+      "options": [
+        "A depreciation raises the real burden of servicing it, often when export earnings have fallen",
+        "Foreign currency debt carries no interest",
+        "It cannot be rescheduled",
+        "It is not counted in the national debt"
+      ],
+      "answer": 0,
+      "why": "This is a serious vulnerability for developing economies and connects to the foreign currency gap.",
+      "whyNot": [
+        "",
+        "It carries interest like any debt.",
+        "It can be rescheduled, as debt relief programmes show.",
+        "It is counted."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-13",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "hard",
+      "stem": "Why have several high-debt countries borrowed at historically low rates?",
+      "options": [
+        "The relationship between borrowing and interest rates depends on capacity, the central bank and confidence",
+        "High debt always lowers interest rates",
+        "Interest rates are set by the WTO",
+        "Investors do not observe debt levels"
+      ],
+      "answer": 0,
+      "why": "Rates rise when markets doubt the debt is sustainable, and that judgement is partly self-fulfilling rather than mechanical.",
+      "whyNot": [
+        "",
+        "There is no such automatic relationship.",
+        "The WTO does not set interest rates.",
+        "Investors watch them closely."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-14",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "Why is debt servicing described as an opportunity cost?",
+      "options": [
+        "Money spent on interest cannot fund health, education or infrastructure",
+        "Interest payments are not a real cost",
+        "Debt servicing raises the exchange rate",
+        "Interest is paid only in a surplus year"
+      ],
+      "answer": 0,
+      "why": "It is the first claim on tax revenue, and for developing economies it can consume a very large share of export earnings.",
+      "whyNot": [
+        "",
+        "They are a substantial real cost.",
+        "There is no such automatic effect.",
+        "Interest is contractual and due every year."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-15",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "hard",
+      "stem": "Which argument suggests debt is less of a burden on future generations than it appears?",
+      "options": [
+        "Debt is mostly owed by a government to its own citizens, so it is partly an internal transfer",
+        "Future generations will have no taxes to pay",
+        "Debt is written off automatically after a fixed period",
+        "Interest payments are not made to anyone"
+      ],
+      "answer": 0,
+      "why": "Future generations are also typically richer, and failing to invest now imposes a cost on them too.",
+      "whyNot": [
+        "",
+        "They will service the debt through taxation.",
+        "Debt is repaid or refinanced, not automatically written off.",
+        "Interest is paid to bondholders."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-3-16",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "difficulty": "medium",
+      "stem": "Which factor is the principal source of structural fiscal pressure in most developed economies?",
+      "options": [
+        "An ageing population raising pension, health and social care spending",
+        "Falling debt interest costs",
+        "A growing informal economy",
+        "Rising commodity prices"
+      ],
+      "answer": 0,
+      "why": "The working population funding those commitments shrinks at the same time, which is what makes the pressure structural.",
+      "whyNot": [
+        "",
+        "Interest costs rise with debt.",
+        "That is more significant in developing economies.",
+        "That affects commodity importers cyclically."
+      ]
+    }
+  ]
+}

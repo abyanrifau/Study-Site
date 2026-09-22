@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.1.1",
+  "topicTitle": "Planning",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-1-1-01",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a business plan?",
+      "options": [
+        "A document setting out a business's objectives, market, operations and financial forecasts",
+        "A legal requirement for registering a new business",
+        "A forecast of the cash flowing into and out of a business",
+        "A guarantee that a business will succeed"
+      ],
+      "answer": 0,
+      "why": "The plan covers what the business does, who it sells to, how it operates and what the numbers look like. Its main practical use is persuading a lender.",
+      "whyNot": [
+        "",
+        "Business plans are not generally a legal requirement.",
+        "That is a cash flow forecast, which is one section within the plan.",
+        "No plan guarantees success, and saying so is a good evaluation point."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-02",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "easy",
+      "stem": "What is the main practical use of a business plan for a new business?",
+      "options": [
+        "Persuading a lender or investor to provide finance",
+        "Satisfying a legal obligation",
+        "Replacing the need for market research",
+        "Guaranteeing the sales forecast is accurate"
+      ],
+      "answer": 0,
+      "why": "No bank lends and no investor invests without one, because the plan is the evidence the founder has thought it through and can service the debt.",
+      "whyNot": [
+        "",
+        "It is not a legal obligation in most jurisdictions.",
+        "The plan is built on research; it does not replace it.",
+        "The plan contains the forecast; it does not make it accurate."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-03",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a short opening section summarising the whole business plan?",
+      "options": [
+        "Executive summary",
+        "SWOT analysis",
+        "Cash flow forecast",
+        "Sales forecast"
+      ],
+      "answer": 0,
+      "why": "Written last and read first. It exists because the reader, usually a lender, may read nothing else.",
+      "whyNot": [
+        "",
+        "A SWOT analysis assesses strengths, weaknesses, opportunities and threats.",
+        "A cash flow forecast projects cash in and out.",
+        "A sales forecast estimates future sales."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-04",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "medium",
+      "stem": "Which part of a business plan is usually the weakest link?",
+      "options": [
+        "The sales forecast, because everything else is built on it",
+        "The executive summary, because it is written last",
+        "The owner's background, because it cannot be verified",
+        "The SWOT analysis, because it is subjective"
+      ],
+      "answer": 0,
+      "why": "Costs, staffing and cash flow all follow from the sales figure, so one optimistic assumption at the top invalidates everything below it. Attacking the sales forecast is the most reliable evaluation move on this topic.",
+      "whyNot": [
+        "",
+        "Being written last is sensible, not a weakness.",
+        "It can be verified through references and history, and it is not what the rest of the plan depends on.",
+        "Subjective but not load-bearing in the way the sales forecast is."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-05",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "medium",
+      "stem": "How can writing a business plan be valuable even if the business is never started?",
+      "options": [
+        "It forces the founder to test their assumptions, which may show the idea does not work",
+        "It can be sold to another entrepreneur",
+        "It reduces the tax the founder pays",
+        "It counts as market research"
+      ],
+      "answer": 0,
+      "why": "Writing down a forecast and a cost base drags the optimism into the open. A plan that kills its own idea has saved the founder a great deal of money, cheaply.",
+      "whyNot": [
+        "",
+        "Not a realistic or standard benefit.",
+        "No connection to tax.",
+        "The plan uses research; it is not itself research."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-06",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "medium",
+      "stem": "What is the main risk of following a business plan too rigidly?",
+      "options": [
+        "The market may change, making the original plan the wrong course of action",
+        "Lenders will withdraw their finance",
+        "The plan becomes a legal contract",
+        "It prevents the business from making a profit"
+      ],
+      "answer": 0,
+      "why": "A plan is a forecast made at one point in time. A founder who sticks to it when conditions have changed is worse off than one who never wrote it, which is why it should be treated as a living document.",
+      "whyNot": [
+        "",
+        "Lenders expect sensible adaptation, not blind adherence.",
+        "A business plan is not a contract.",
+        "Rigidity may reduce profit, but it is not automatic."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-07",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "hard",
+      "stem": "A guesthouse plan forecasts occupancy as an annual average. Why is that a weakness?",
+      "options": [
+        "It hides the months when revenue is low but loan repayments still fall due",
+        "Averages cannot be calculated for occupancy",
+        "Lenders never look at occupancy figures",
+        "Annual averages always understate revenue"
+      ],
+      "answer": 0,
+      "why": "Seasonal businesses can hit the annual average and still be unable to pay in the wet season. Forecasting by season shows the lender the owner has understood the cash flow risk, which is more persuasive than a higher headline profit.",
+      "whyNot": [
+        "",
+        "They can, which is precisely the problem: the average conceals the variation.",
+        "Occupancy is the key number a lender examines.",
+        "An average neither over nor understates the total; it conceals the distribution."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-08",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of a business plan?",
+      "options": [
+        "It cannot account for events nobody could have predicted",
+        "It cannot include financial forecasts",
+        "It cannot be shown to a bank",
+        "It cannot be changed once written"
+      ],
+      "answer": 0,
+      "why": "A plan handles risk, which can be estimated, and cannot handle uncertainty, which cannot. That distinction links straight back to WBS11 topic 1.3.1.1.",
+      "whyNot": [
+        "",
+        "Forecasts are one of its central sections.",
+        "Showing it to a bank is its main purpose.",
+        "It can and should be revised."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-1-09",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Planning",
+      "difficulty": "medium",
+      "stem": "Which section of a business plan gives an honest assessment of internal strengths and weaknesses and external opportunities and threats?",
+      "options": [
+        "SWOT analysis",
+        "Executive summary",
+        "Personnel",
+        "Costings and finance"
+      ],
+      "answer": 0,
+      "why": "Strengths and weaknesses are internal; opportunities and threats are external. Including it signals to a lender that the founder has looked at the risks as well as the upside.",
+      "whyNot": [
+        "",
+        "The summary condenses the whole plan.",
+        "Personnel covers who is needed and what they cost.",
+        "That section covers start-up costs and finance required."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "unit": "WEC14",
+  "intro": "WEC14 is 2 hours for 80 marks: six multiple choice (6), a five-part data question (34) and two 20-mark essays from a choice of three (40). That means 40 of the 80 marks are essays and 34 come from a source booklet, so essay technique and data handling are worth 74 of the 80 marks.\n\nWork through the planners FIRST without looking at the model answer. Fill in each step in note form, then read the model and compare the STRUCTURE rather than the wording. What separates a 14 from a 19 is almost never knowledge: it is chaining each point two or three steps further, quoting the data, using a diagram in the argument rather than beside it, and reaching a conclusion that states what the judgement depends on.\n\nTiming: about 24 minutes for each 20-mark essay and about 40 minutes for the data question, leaving 5 minutes for the multiple choice and 7 in reserve. Spend the first 3 minutes of an essay planning. An essay with four chained points and a judgement beats an essay with eight undeveloped ones.",
+  "questions": [
+    {
+      "id": "wec14-w-01",
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Country X has a floating exchange rate. Over the last year its currency has depreciated by 18% against the currencies of its main trading partners, following a fall in the world price of copper, which makes up 61% of its exports. Its current account deficit is 5.2% of GDP. Inflation is 6.4% and rising. Unemployment is 11%, and the central bank estimates there is a negative output gap of about 3%. Manufacturers report that 48% of their input costs are imported.",
+      "question": "Evaluate the likely effects of the depreciation of Country X's currency on its economy.",
+      "planner": [
+        {
+          "label": "Define and set up (2 minutes)",
+          "prompt": "Depreciation: a fall in the value of the currency caused by market forces. Say WHY it fell here, which the source gives you: the copper price fell, so demand for X's currency fell. Draw the currency market diagram, showing the leftward shift in demand for the currency."
+        },
+        {
+          "label": "First effect: the current account",
+          "prompt": "Chain it. Exports cheaper abroad, so export volumes rise; imports dearer at home, so import volumes fall; net exports rise, so the 5.2% deficit narrows. THEN qualify it immediately with the Marshall-Lerner condition and the J-curve, and draw the J-curve. With 61% of exports being copper, ask whether copper demand is price elastic for a single supplier, and with 48% of inputs imported, ask whether import demand can actually fall."
+        },
+        {
+          "label": "Second effect: growth and employment",
+          "prompt": "Higher net exports raise AD, so output and employment rise with a multiplier effect. Draw AD/AS. The 3% negative output gap and 11% unemployment are the key data here: with spare capacity, the AD rise produces mostly output rather than prices. Quote both figures."
+        },
+        {
+          "label": "Third effect: inflation",
+          "prompt": "The counterweight, and the source hands it to you. Import prices rise directly, giving cost-push inflation, on top of 6.4% and rising. With 48% of input costs imported, the pass-through is large. Then make the key point: enough inflation erodes the competitiveness gain entirely, returning the REAL exchange rate to where it started."
+        },
+        {
+          "label": "Fourth effect, briefly: the financial account",
+          "prompt": "Cheaper assets attract FDI, and a falling currency may signal weakness and prompt outflows. One or two sentences only; do not let this displace the evaluation."
+        },
+        {
+          "label": "Evaluation paragraph",
+          "prompt": "Pick THREE, not all of them: elasticities and Marshall-Lerner; the J-curve time lag; the 48% import content limiting the gain; the spare capacity making the output response likely; the inflation risk given the existing 6.4%; and whether the movement is permanent, which depends on the copper price."
+        },
+        {
+          "label": "Conclude",
+          "prompt": "Commit to a judgement AND state the condition. Something like: beneficial for output and employment in the short run given the spare capacity, and the current account improvement is uncertain because of the high import content, and the inflation risk is the binding constraint. The answer depends on whether the copper price recovery is expected."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 Knowledge + AO2 Application",
+          "text": "A depreciation is a fall in the value of a currency caused by market forces under a floating exchange rate system. In Country X the fall of 18% follows the drop in the world copper price: because copper is 61% of exports, lower copper earnings reduce the demand for X's currency on the foreign exchange market, shifting the demand curve left and lowering the equilibrium rate.",
+          "note": "Defines the term, then explains the specific cause from the source rather than describing depreciation in general. The diagram is introduced as part of the argument."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "The depreciation should improve the current account, which stands at a deficit of 5.2% of GDP. Exports become cheaper in foreign currency, so export volumes should rise, while imports become dearer in domestic currency, so import volumes should fall. Higher net exports narrow the deficit.",
+          "note": "Three linked steps, ending at the variable the question is about. Note the deficit figure is quoted, not just mentioned."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "However, this outcome requires the Marshall-Lerner condition to hold: the sum of the price elasticities of demand for exports and imports must exceed one. Both are questionable here. With 48% of manufacturers' input costs imported, much import demand is derived from production and has no domestic substitute, so import volumes may fall very little while the import bill rises immediately. On the export side, copper is a homogeneous commodity, so a single supplier's exports may in fact be highly price elastic, which helps. The J-curve effect also means that in the first months contracts are already priced and volumes cannot adjust, so the current account will worsen before it improves.",
+          "note": "This is the paragraph that separates the top band. It names the condition, applies BOTH elasticities to the specific data, and adds the timing point. Notice the export elasticity is argued to help while the import elasticity is argued to hinder, rather than assuming both go one way."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "The rise in net exports raises aggregate demand, and the resulting increase in output generates further income and spending through the multiplier, so employment should rise from its current 11%. The effect on output rather than prices depends on spare capacity, and the central bank's estimate of a 3% negative output gap suggests there is a substantial amount: the AS curve is relatively flat at this level of output, so the rightward shift in AD raises real output considerably more than it raises the price level.",
+          "note": "The output gap figure is doing real analytical work here, not decorating the paragraph. This is what applying data means."
+        },
+        {
+          "earns": "AO3 Analysis + AO4 Evaluation",
+          "text": "Against this, the depreciation is inflationary. Import prices rise immediately, which is cost-push inflation, and with 48% of input costs imported the pass-through into domestic prices will be large. Inflation is already 6.4% and rising, so the depreciation risks accelerating it further, particularly if workers respond with higher wage demands. This matters beyond the price level itself: if domestic costs rise by as much as the currency has fallen, the real exchange rate returns to where it started and the entire competitiveness gain is lost, leaving the economy with higher inflation and no improvement in the current account.",
+          "note": "The strongest point in the essay. It does not just say depreciation is inflationary; it explains why the inflation cancels the benefit, which is a two-step chain into the original objective."
+        },
+        {
+          "earns": "AO4 Evaluation + judgement",
+          "text": "On balance the depreciation is likely to be beneficial in the short run, because the 3% negative output gap and 11% unemployment mean the economy has the spare capacity to convert higher net export demand into output and jobs rather than into prices. The improvement in the current account is far less certain, because the 48% imported input content limits how much import volumes can fall. The binding constraint is inflation: with the rate already at 6.4% and rising, the risk is that the price level absorbs the depreciation and no real gain remains. The judgement therefore depends heavily on whether the copper price fall is temporary or permanent. If temporary, the currency will recover and the economy should simply absorb the shock. If permanent, the depreciation represents a genuine loss of national income, and X needs supply-side measures to diversify away from a single commodity rather than relying on the exchange rate to do the work.",
+          "note": "Commits to a judgement, distinguishes the three effects by confidence, names the binding constraint, and states the condition it depends on. The final sentence links forward to diversification without waffling."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): defines depreciation, the Marshall-Lerner condition, the J-curve, cost-push inflation.",
+        "AO2 (4): uses the source data throughout, specifically the 18%, 61%, 5.2%, 6.4%, 11%, 3% and 48% figures.",
+        "AO3 (6): at least two chains of three or more linked steps, supported by a currency market diagram and an AD/AS diagram referred to in the text.",
+        "AO4 (6): a supported judgement with explicit conditions, weighing the three effects by confidence rather than listing them."
+      ]
+    },
+    {
+      "id": "wec14-w-02",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Country Y is a low-income economy. GNI per capita is $1,240 at PPP and HDI is 0.48. Agriculture employs 64% of the workforce and produces 28% of GDP. Two commodities, cocoa and gold, account for 71% of export earnings. The savings ratio is 7% and the capital-output ratio is estimated at 4. External debt service consumes 22% of export earnings. Adult literacy is 58%. Only 31% of the rural population has access to reliable electricity. The government has been offered a package of aid for infrastructure, and a foreign mining company has proposed a joint venture.",
+      "question": "Evaluate the strategies Country Y could use to promote economic growth and development.",
+      "planner": [
+        {
+          "label": "Diagnose before prescribing (3 minutes)",
+          "prompt": "This is the step that decides the grade and most candidates skip it. Work out the binding constraints FROM THE DATA: savings gap (7% / 4 = 1.75% growth, barely above population growth); primary product dependency at 71%; debt service at 22% of export earnings, which is a foreign currency gap; literacy at 58%; and rural electricity at 31%. Name two or three as the constraints your strategies must address."
+        },
+        {
+          "label": "Strategy one: infrastructure, funded by the aid offer",
+          "prompt": "Chain it: reliable electricity raises rural productivity and allows processing, which raises output and AS, which raises incomes and the tax base. Use the 31% figure. Note it also loosens the savings gap because the aid is external finance. Then evaluate: aid depends on governance, may be tied, is volatile, and maintenance is routinely underfunded."
+        },
+        {
+          "label": "Strategy two: human capital",
+          "prompt": "Chain it: education raises literacy from 58%, which raises human capital and productivity, which enables movement up the value chain from raw cocoa to processed goods, which raises export earnings and reduces the 71% dependency. Then evaluate: it takes a generation, it is expensive, and trained workers may emigrate."
+        },
+        {
+          "label": "Strategy three: the joint venture",
+          "prompt": "Chain it: FDI fills the savings gap AND the foreign currency gap at once, and a joint venture forces technology and skills transfer to a local partner while retaining more profit domestically. Then evaluate: profit repatriation, the risk of Dutch disease from mining earnings appreciating the currency, and that it deepens rather than reduces commodity dependency."
+        },
+        {
+          "label": "The interaction paragraph",
+          "prompt": "The strongest paragraph available and almost nobody writes it. Show how the constraints reinforce each other: debt service at 22% consumes the foreign currency needed to import the capital goods that would raise export earnings to service the debt; and low literacy prevents the technology transfer that would allow movement away from primary products, which are what generate the volatile revenue that prevents funding education. So isolated interventions achieve little."
+        },
+        {
+          "label": "Judge and sequence",
+          "prompt": "Do not conclude 'a mixture of both'. Prioritise WITH REASONS, and sequence: debt relief or infrastructure first because they act quickly and free resources, education alongside because it takes a generation and must start now, and the joint venture accepted only with conditions on local sourcing and training. Then state the governance condition."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO2 Application + AO1 Knowledge",
+          "text": "Country Y's data identifies several constraints. Applying the Harrod-Domar model, a savings ratio of 7% and a capital-output ratio of 4 imply a growth rate of only 1.75% a year, which is barely above likely population growth, so income per head is close to stagnant. At the same time 71% of export earnings come from two commodities, so the economy is exposed to volatile prices and, if the Prebisch-Singer hypothesis holds, to a long-run decline in its terms of trade. Debt service consuming 22% of export earnings represents a foreign currency gap, since it competes directly with imports of the capital goods development requires. The strategy chosen must address these constraints rather than growth in the abstract.",
+          "note": "This is the diagnosis paragraph. It uses a model, does the arithmetic, and names the constraints from the data. Everything afterwards refers back to it."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "The offered infrastructure aid addresses the most immediate constraint. With only 31% of the rural population having reliable electricity, and 64% of the workforce in agriculture, rural power would allow irrigation, storage and processing. Processing cocoa domestically rather than exporting it raw captures value added within Y, which raises export earnings per tonne and creates skilled employment. The investment raises aggregate demand now and shifts aggregate supply right later, and because it is externally financed it does not require Y to find the savings it does not have.",
+          "note": "Five linked steps from electricity to export earnings, with two source figures doing real work, plus the AD and AS distinction."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The effectiveness of aid, however, depends heavily on governance: where institutions are weak, funds are misallocated or lost, which is why the evidence suggests aid works well in reasonably governed countries and achieves little elsewhere. If the aid is tied to purchases from the donor it is worth materially less than its face value, and infrastructure maintenance is routinely underfunded, so assets built with aid frequently deteriorate within a decade. Aid is also volatile, which makes it a poor basis for a long-term programme.",
+          "note": "Four specific, non-generic criticisms, each with a mechanism. Note it does not say 'aid can be corrupt' and stop."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "Investment in human capital addresses a deeper constraint. Adult literacy of 58% limits productivity directly and, more importantly, limits the country's capacity to absorb technology: foreign investment transfers skills only where there are workers able to use them. Raising literacy and technical training would allow Y to move from exporting raw commodities towards processing and light manufacturing, which would reduce the 71% dependency and with it the exposure to commodity price volatility. Education is the constraint whose removal loosens the greatest number of others.",
+          "note": "Links education to the dependency problem rather than treating them as separate strategies. That connection is worth a mark by itself."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The difficulty is timing. Educating a cohort takes a generation, and Y needs growth now: a policy whose benefits arrive in twenty years does not address a savings ratio of 7% today. It is also expensive, competing for the same revenue that debt service is consuming, and there is a real risk that newly trained workers emigrate, so that Y bears the cost of training while another economy receives the productivity. That argues for prioritising basic literacy and vocational training, where returns are highest and emigration least likely, rather than higher education.",
+          "note": "The timing conflict is the key evaluation, and the final sentence turns the criticism into a refinement of the policy rather than a rejection of it. That is sophisticated."
+        },
+        {
+          "earns": "AO3 Analysis + AO4 Evaluation",
+          "text": "The proposed joint venture is attractive because it fills the savings gap and the foreign currency gap simultaneously, and the joint venture structure specifically addresses the standard criticism of foreign direct investment by requiring technology and management practice to be transferred to a local partner, while retaining a greater share of the profit within Y. Against this, mining is capital-intensive and will create relatively few jobs for a workforce that is 64% agricultural; profit repatriation will be a permanent debit on the current account; and, most seriously, it deepens the very commodity dependency that the data identifies as a structural problem. Large mining earnings also risk Dutch disease, appreciating the currency and making Y's cocoa and any future manufactured exports uncompetitive.",
+          "note": "Gives the strategy its strongest case and then the strongest objection, including the point that it worsens the constraint identified in the diagnosis. Dutch disease is precisely applied rather than name-dropped."
+        },
+        {
+          "earns": "AO4 Evaluation, interaction",
+          "text": "These constraints reinforce one another, which is why isolated measures achieve so little. Debt service of 22% of export earnings consumes the foreign exchange needed to import the capital goods that would raise the export earnings from which the debt would be serviced. Low literacy prevents the technology transfer that would allow diversification away from commodities, while commodity dependence produces the volatile revenue that makes long-term funding of education impossible. Any single strategy therefore has to be judged by whether it breaks one of these circles.",
+          "note": "The interaction paragraph. Two concrete circles, each closed, each drawn from the source data. This is the paragraph that takes an essay from 15 to 19."
+        },
+        {
+          "earns": "AO4 Evaluation, judgement",
+          "text": "Country Y should sequence rather than choose. Debt relief or rescheduling should come first, because releasing 22% of export earnings acts immediately and requires nothing of the domestic economy, and the freed foreign exchange can fund the capital imports that infrastructure requires. The aid-funded rural electrification should follow, because it raises productivity for the 64% of the workforce in agriculture and enables the domestic processing that would reduce commodity dependency. Investment in basic literacy and vocational training must begin at the same time precisely because it takes a generation. The joint venture should be accepted only with binding conditions on local sourcing, local employment above supervisory level and transparent taxation, since without them it deepens dependency while exporting most of the benefit. The whole programme depends on governance: every one of these strategies requires a state capable of managing revenue and maintaining assets, and where that capacity is absent the market-orientated alternatives are safer because they demand less of government.",
+          "note": "Prioritises with a reason for each position in the sequence, attaches conditions to the riskiest option, and ends on the single condition that determines whether any of it works. No 'mixture of both'."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): Harrod-Domar, Prebisch-Singer, the savings and foreign currency gaps, Dutch disease, technology transfer.",
+        "AO2 (4): diagnoses constraints from the data and quotes the 7%, 4, 71%, 22%, 58%, 31% and 64% figures where they do analytical work.",
+        "AO3 (6): at least three chains of three or more steps, plus the interaction between constraints.",
+        "AO4 (6): a prioritised and sequenced judgement, conditions attached to the joint venture, and the governance condition stated."
+      ]
+    },
+    {
+      "id": "wec14-w-03",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "commandWord": "Assess",
+      "marks": 20,
+      "context": "Country Z is a developed economy. Since 1995 its manufacturing employment has fallen from 19% to 8% of total employment, while service employment has risen from 68% to 81%. Real GDP per capita has grown 42% over the period. The Gini coefficient has risen from 0.29 to 0.36. Import prices of clothing and consumer electronics have fallen by 34% in real terms. Three former industrial regions have unemployment rates between 9% and 13%, against a national rate of 4.5%.",
+      "question": "Assess the impact of globalisation on Country Z.",
+      "planner": [
+        {
+          "label": "Define and set up the structure (2 minutes)",
+          "prompt": "Define globalisation covering trade, investment and migration, not just trade. Then announce the structure you will use: separate the EFFICIENCY question from the DISTRIBUTION question. That single sentence organises the whole essay and signals a judgement is coming."
+        },
+        {
+          "label": "Efficiency: the benefits, chained",
+          "prompt": "Two benefits with the data. Real GDP per capita up 42%: trade and FDI raise AD and AS, so output rises without inflationary pressure. Import prices of clothing and electronics down 34%: real incomes rise and consumer surplus rises. Then make the point most candidates miss: the proportional gain is largest for LOW-INCOME households, because they spend a larger share of income on traded goods."
+        },
+        {
+          "label": "Distribution: the costs, chained",
+          "prompt": "Manufacturing employment from 19% to 8%: displaced workers face STRUCTURAL unemployment, because the skills and location mismatch means they cannot follow the new service jobs. The regional figures (9-13% against 4.5%) are the evidence for concentration. Then the Gini from 0.29 to 0.36: demand rose for skills and capital and fell for routine work."
+        },
+        {
+          "label": "The tension in the data",
+          "prompt": "This is the analytical heart. The SAME imports that cost the manufacturing jobs are the ones whose 34% price fall raised real incomes for the poorest. So globalisation both raised and lowered the living standards of low-income households, through different channels. Say that explicitly."
+        },
+        {
+          "label": "Evaluation",
+          "prompt": "Pick three: aggregate gains with concentrated losses explains the politics; the counterfactual, since technology also destroys routine jobs and would have done so without trade; inequality between countries has fallen while within Z it has risen; and the Gini rise may have other causes such as tax changes and declining union power."
+        },
+        {
+          "label": "Conclude",
+          "prompt": "Judge on efficiency (clear net gain), judge on distribution (clear net cost for a specific group), and give the policy implication: the answer is compensation and retraining, not reversal, because reversal would give up the 42% and the 34% while doing nothing for the three regions."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 Knowledge + structure",
+          "text": "Globalisation is the increasing integration of national economies through trade, investment, migration and the flow of information. Assessing its impact on Country Z is best done by separating two questions: whether it has raised total output and welfare, which is a question about efficiency, and how those gains and losses have been distributed, which is a question about distribution. The data suggests the answers point in different directions.",
+          "note": "Defines fully, then announces the analytical structure. The last sentence tells the examiner a judgement is coming."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "On efficiency, the evidence is favourable. Real GDP per capita has grown 42% since 1995. Access to larger markets and cheaper inputs raises productivity, and inward investment raises both aggregate demand, through the investment itself, and aggregate supply, through additional productive capacity. Because aggregate supply shifts right as well as aggregate demand, output can rise without the inflationary pressure that a demand-side expansion alone would produce, which is consistent with Z combining substantial growth with the structural change shown in the employment data.",
+          "note": "The AD and AS point is doing real work: it explains why growth did not come with inflation, which is a genuine use of the framework rather than a decoration."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "Consumers have also gained directly. Import prices of clothing and consumer electronics have fallen 34% in real terms, which raises real incomes and consumer surplus. The distributional dimension of this is important and frequently overlooked: low-income households spend a larger proportion of their income on these traded goods, so the proportional gain from cheaper clothing and electronics is greatest for the poorest, which partly offsets the increase in measured income inequality.",
+          "note": "This is the point that lifts the essay. It takes a benefit and connects it to the distribution question the essay is structured around."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "On distribution, the costs are clear and concentrated. Manufacturing employment has fallen from 19% to 8% of total employment as production moved to lower-cost economies. The resulting unemployment is structural rather than cyclical: the displaced workers' skills and, critically, their locations do not match the service jobs that replaced them, so the unemployment persists. The regional data confirms this, with three former industrial regions showing unemployment of 9% to 13% against a national rate of 4.5%. The national labour market has adjusted; those regions have not.",
+          "note": "Identifies the TYPE of unemployment and uses the regional figures as evidence for the mechanism, not just as decoration. The last sentence is the analytical payoff."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "Income inequality has widened, with the Gini coefficient rising from 0.29 to 0.36. Globalisation raises demand for skilled labour and for capital, both of which are mobile, while reducing demand for routine lower-skilled work, which is not. Since capital can relocate and labour largely cannot, bargaining power shifts towards capital, raising the profit share of national income and widening the wage distribution.",
+          "note": "Explains the mechanism behind the Gini figure rather than simply reporting that inequality rose."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The two sides of the evidence are connected in a way that complicates the judgement. The imports that eliminated manufacturing employment in those three regions are the same imports whose 34% price fall raised the real incomes of low-income households nationally. Globalisation has therefore both raised and lowered the living standards of the same broad group, through different channels and in different places. That, rather than any aggregate figure, explains why the political reaction has been so much stronger than the measured net effect: the gains are spread thinly across all consumers while the losses are concentrated in identifiable places and industries.",
+          "note": "The strongest paragraph. It resolves an apparent contradiction in the data and uses it to explain something the data alone cannot."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "Two qualifications should be entered. First, the counterfactual is uncertain: automation has reduced demand for routine manufacturing labour in every developed economy, including in sectors facing no import competition, so some of the fall from 19% to 8% would have occurred without trade and attributing all of it to globalisation overstates the effect. Second, the rise in the Gini coefficient has other plausible causes, including changes in tax and benefit systems and the decline in collective bargaining, so it cannot all be attributed to globalisation either. It is also worth noting that while inequality within Z has risen, inequality between countries has fallen substantially over the same period, so a global assessment reaches a different conclusion from a national one.",
+          "note": "Genuine evaluation: it questions the attribution of causation in the data rather than just listing counter-arguments. The final sentence widens the frame, which is a strong closing move."
+        },
+        {
+          "earns": "AO4 Evaluation, judgement",
+          "text": "Overall, globalisation has raised aggregate welfare in Country Z, evidenced by 42% growth in real income per capita and a 34% fall in the real price of major consumer goods, and it has simultaneously imposed severe and persistent costs on a specific minority defined by industry and region. The appropriate conclusion is not that the integration should be reversed, since reversal would sacrifice the growth and the cheaper goods while doing nothing to restore employment in the three regions, whose problem is now a skills and location mismatch rather than import competition. It is that the distribution should be addressed directly, through retraining, regional investment and the tax and benefit system. The judgement depends on the government's willingness and capacity to fund that redistribution: without it, the aggregate gains are real and irrelevant to the people who bore the cost.",
+          "note": "Separate judgements on the two questions the essay set up, a policy conclusion with a reason for rejecting the alternative, and a condition. The final clause is a genuine evaluative sentence rather than a summary."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): globalisation, structural unemployment, consumer surplus, the Gini coefficient.",
+        "AO2 (4): uses the 42%, 34%, 19% to 8%, 0.29 to 0.36 and regional unemployment figures where each does analytical work.",
+        "AO3 (6): mechanisms explained for both the benefits and the costs, including why the unemployment is structural and why inequality widened.",
+        "AO4 (6): the efficiency and distribution split, the connection between the two sides of the data, the counterfactual, and a conditional judgement."
+      ]
+    },
+    {
+      "id": "wec14-w-04",
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Country W has a fiscal deficit of 6.8% of GDP and national debt of 94% of GDP. The central bank estimates the output gap at minus 2.5%. Unemployment is 8.9%. Nominal GDP growth is 3.1% and the average interest rate on government debt is 2.4%. 78% of the debt is held domestically and denominated in W's own currency. Debt interest is 4.2% of total public spending. Capital expenditure is 11% of public spending, and the government is considering cutting it by half to reduce the deficit.",
+      "question": "Evaluate whether Country W should act now to reduce its fiscal deficit.",
+      "planner": [
+        {
+          "label": "Measure and diagnose (3 minutes)",
+          "prompt": "State the deficit and debt as shares of GDP. Then do the step that decides the grade: split the deficit into CYCLICAL and STRUCTURAL using the minus 2.5% output gap and 8.9% unemployment. A substantial part is cyclical and will disappear with recovery. Also compare nominal growth (3.1%) with the interest rate (2.4%): growth exceeds the interest rate, so the debt RATIO falls even with a deficit."
+        },
+        {
+          "label": "The case for acting now",
+          "prompt": "Chain it: lower borrowing reduces upward pressure on interest rates, which supports private investment; and lower future debt interest frees revenue for public services. Use the 4.2% figure. Add credibility: markets may demand a higher risk premium at 94% of GDP."
+        },
+        {
+          "label": "The case against acting now",
+          "prompt": "Chain it further: spending cuts or tax rises reduce AD, with a multiplier effect, so output and employment fall from an already weak position; that reduces tax revenue and raises benefit spending, so the deficit may not fall as much as intended. Draw AD/AS. Then use the data: crowding out requires the economy to be near capacity, and at minus 2.5% it is not; and 78% domestically held in its own currency means low default and currency risk."
+        },
+        {
+          "label": "The composition point",
+          "prompt": "Attack the specific proposal. Halving capital expenditure cuts the deficit by about 5.5% of public spending and destroys long-run capacity, because capital spending shifts AS right. Use the borrowing-to-invest against borrowing-to-consume distinction for intergenerational equity: the asset would have been there for future taxpayers; the cut removes both the debt AND the asset."
+        },
+        {
+          "label": "Evaluation",
+          "prompt": "Pick three: the cyclical-structural split cannot be measured reliably, so the whole case rests on an unverifiable estimate; growth exceeding the interest rate means the ratio is already on a falling path; the multiplier is larger in a downturn; and confidence matters more than arithmetic and can shift quickly."
+        },
+        {
+          "label": "Conclude",
+          "prompt": "Do not sit on the fence. Something like: address the structural part gradually over the cycle rather than now, protect capital spending, and let the cyclical part close through recovery. State the condition: if market confidence deteriorates, the calculation changes immediately."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 Knowledge + AO2 Application",
+          "text": "A fiscal deficit is the annual excess of government spending over revenue, while the national debt is the accumulated stock of past borrowing. Country W's deficit of 6.8% of GDP and debt of 94% of GDP are both high by historical standards. The critical question, however, is not the size of the deficit but its composition. With an output gap of minus 2.5% and unemployment at 8.9%, a substantial part of the deficit is cyclical: revenue is depressed and benefit spending elevated because the economy is operating below trend, and this element will disappear as the economy recovers without any policy action at all.",
+          "note": "Defines both terms, then immediately reframes the question around the cyclical-structural split. That reframing is the single most valuable move in this essay."
+        },
+        {
+          "earns": "AO2 Application + AO3 Analysis",
+          "text": "A second piece of the data is equally important. Nominal GDP growth of 3.1% exceeds the average interest rate on the debt of 2.4%. Where nominal growth exceeds the effective interest rate, the debt-to-GDP ratio falls over time even while the government continues to run a deficit, because the denominator grows faster than the numerator. On current parameters, therefore, W's debt burden is already on a declining path without consolidation.",
+          "note": "Most candidates never make this point. It uses two numbers from the source to reach a conclusion that changes the entire answer."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "There is nonetheless a case for acting. Sustained borrowing at this level raises the demand for loanable funds, which can raise interest rates and reduce private investment and consumption, so public borrowing partly displaces private activity. Debt interest already absorbs 4.2% of public spending, and every year of additional borrowing raises that first claim on revenue, which is a direct opportunity cost: money paid in interest cannot fund health, education or infrastructure. At 94% of GDP there is also a credibility argument, since markets may at some point demand a higher risk premium, which would raise the cost of all future borrowing.",
+          "note": "Three distinct arguments for consolidation, each with a mechanism. The opportunity cost point uses the 4.2% figure properly."
+        },
+        {
+          "earns": "AO3 Analysis + AO2 Application",
+          "text": "Against this, consolidation now would be contractionary. Cutting spending or raising taxes reduces aggregate demand, and the fall in output generates further falls in income and spending through the multiplier, so output and employment would fall from an already weak position with unemployment at 8.9%. That has a fiscal consequence as well as a real one: lower output reduces tax revenue and raises benefit spending, so the deficit falls by considerably less than the size of the measures, and in a deep enough downturn may barely fall at all. The multiplier is larger precisely when the economy has spare capacity, which is the situation the minus 2.5% output gap describes.",
+          "note": "The self-defeating nature of austerity in a downturn is chained properly: measures to output to revenue back to the deficit. That circularity is the point."
+        },
+        {
+          "earns": "AO4 Evaluation + AO2 Application",
+          "text": "The crowding out argument is also weaker than it appears here. Crowding out requires the economy to be operating near full capacity, so that government borrowing competes for genuinely scarce funds and resources; at an output gap of minus 2.5% with 8.9% unemployment, government spending draws on resources that would otherwise be idle. Furthermore, 78% of the debt is held domestically and denominated in W's own currency, which means W faces neither the currency risk nor the sudden-stop risk that makes high debt dangerous for an economy borrowing in foreign currency. Whose currency and whose money the debt is in matters as much as its level.",
+          "note": "Two uses of source data to attack a standard argument. The final sentence is a memorable formulation of a genuine point."
+        },
+        {
+          "earns": "AO3 Analysis + AO4 Evaluation",
+          "text": "The specific proposal is the weakest part of the plan. Halving capital expenditure would reduce total public spending by only about 5.5%, a modest contribution to a deficit of 6.8% of GDP, while doing disproportionate long-run damage. Capital spending is the component that shifts aggregate supply to the right by creating productive capacity, so cutting it lowers future output, future tax revenue and therefore future fiscal capacity. It also inverts the intergenerational equity argument. Borrowing to invest is defensible because the asset created remains for future taxpayers to use alongside the debt they service; cancelling the investment removes the asset while leaving them a weaker economy. Borrowing to fund current consumption is the case that is hard to defend, and it is not what is being cut.",
+          "note": "Quantifies the proposal's effect, then uses the borrowing-to-invest distinction to show the cut is the wrong instrument. This paragraph alone can carry several marks."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "Two limitations qualify all of this. The cyclical and structural split cannot be measured reliably, because trend output is not observable and estimates of the output gap are revised substantially and often after the decision has been taken. The entire case for waiting therefore rests on an estimate that may prove wrong. Second, market confidence matters more than the arithmetic and can change quickly: the fact that W can currently borrow at 2.4% is the market's own verdict on sustainability, but that verdict is partly self-fulfilling and a loss of confidence would raise the interest rate above the growth rate and put the debt ratio back on a rising path.",
+          "note": "Genuine evaluation of the evidence base, not of the policy. Acknowledging that its own central argument rests on an unverifiable estimate is what a top-band answer does."
+        },
+        {
+          "earns": "AO4 Evaluation, judgement",
+          "text": "Country W should not undertake significant consolidation now. With nominal growth of 3.1% exceeding the 2.4% interest rate, the debt ratio is already falling; with an output gap of minus 2.5%, a substantial part of the deficit will close as the economy recovers; and with 78% of the debt domestically held in its own currency, the risk of a financing crisis is low. The appropriate approach is to address the structural component gradually over the cycle rather than within a downturn, and to protect capital expenditure while doing so, since halving it would contribute little to the deficit and materially reduce the future output from which the debt must ultimately be serviced. This judgement is conditional on two things: that the output gap estimate is broadly right, and that market confidence holds. If the interest rate on the debt rose above the growth rate, or if the gap proved to be smaller than estimated, the case for earlier and larger action would become much stronger.",
+          "note": "Commits clearly, gives three numbered reasons from the data, rejects the specific proposal with a reason, and states exactly what would change the conclusion. That final sentence is what 'evaluate' asks for."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): deficit against debt, cyclical against structural, crowding out, the multiplier, intergenerational equity.",
+        "AO2 (4): uses the 6.8%, 94%, minus 2.5%, 8.9%, 3.1%, 2.4%, 78%, 4.2% and 11% figures where each does analytical work.",
+        "AO3 (6): the self-defeating chain of austerity in a downturn, and the AS effect of cutting capital spending, supported by AD/AS.",
+        "AO4 (6): the growth-against-interest-rate condition, the unreliability of the output gap estimate, and a conditional judgement naming what would change it."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wec14-c-01",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "title": "Terms of trade, the percentage change, and what it means in real terms",
+      "given": [
+        "Base year: export price index 100, import price index 100",
+        "Year 2:   export price index 114, import price index 105",
+        "Year 3:   export price index 106, import price index 128"
+      ],
+      "steps": [
+        {
+          "label": "1. Terms of trade in year 2",
+          "working": "ToT = (export price index / import price index) x 100\n    = (114 / 105) x 100\n    = 108.6",
+          "note": "Export prices on TOP. An improvement of 8.6% against the base year."
+        },
+        {
+          "label": "2. Terms of trade in year 3",
+          "working": "ToT = (106 / 128) x 100\n    = 82.8",
+          "note": "A deterioration. Export prices rose 6% while import prices rose 28%."
+        },
+        {
+          "label": "3. Percentage change from year 2 to year 3",
+          "working": "% change = ((new - old) / old) x 100\n         = ((82.8 - 108.6) / 108.6) x 100\n         = (-25.8 / 108.6) x 100\n         = -23.8%",
+          "note": "Divide by the ORIGINAL figure, 108.6, not by the new one."
+        },
+        {
+          "label": "4. Say what it means, which is where the marks are",
+          "working": "A 23.8% deterioration means a unit of exports now buys\nabout 24% fewer imports than in year 2.\n\nIf the country exports coffee and imports oil, it must\nexport roughly a quarter more coffee to buy the same oil.",
+          "note": "Real national income falls even though nothing has changed in the volume produced. A correct number with no interpretation earns half the marks."
+        }
+      ],
+      "answer": "Year 2: 108.6 (an improvement). Year 3: 82.8 (a deterioration). Change from year 2 to year 3: -23.8%.",
+      "tryIt": {
+        "given": [
+          "Year 1: export price index 100, import price index 100",
+          "Year 2: export price index 121, import price index 108",
+          "Year 3: export price index 112, import price index 134"
+        ],
+        "answer": "Year 2 = (121/108) x 100 = 112.0, an improvement. Year 3 = (112/134) x 100 = 83.6, a deterioration. Change year 2 to year 3 = ((83.6 - 112.0)/112.0) x 100 = -25.4%. A unit of exports now buys about a quarter fewer imports than in year 2."
+      }
+    },
+    {
+      "id": "wec14-c-02",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "title": "Building the current account from its components",
+      "given": [
+        "Exports of goods            118",
+        "Imports of goods            156",
+        "Exports of services          64",
+        "Imports of services          41",
+        "Primary income balance      -14",
+        "Secondary income balance     +9",
+        "GDP                         420",
+        "All figures $bn"
+      ],
+      "steps": [
+        {
+          "label": "1. Trade in goods",
+          "working": "118 - 156 = -38",
+          "note": "A goods deficit of $38bn."
+        },
+        {
+          "label": "2. Trade in services",
+          "working": "64 - 41 = +23",
+          "note": "A services surplus of $23bn. The economy is competitive in services and not in goods."
+        },
+        {
+          "label": "3. Balance of trade",
+          "working": "-38 + 23 = -15",
+          "note": "Goods AND services together. Do not stop at the goods figure."
+        },
+        {
+          "label": "4. Current account balance",
+          "working": "Balance of trade      -15\nPrimary income        -14\nSecondary income       +9\n                     ----\nCurrent account       -20",
+          "note": "Primary income is profit, interest and wages; secondary is aid and remittances. Both are part of the current account."
+        },
+        {
+          "label": "5. As a share of GDP",
+          "working": "(20 / 420) x 100 = 4.8% of GDP",
+          "note": "ALWAYS do this if GDP is given. A money figure is uninterpretable; 4.8% is large enough to matter."
+        },
+        {
+          "label": "6. Read the structure, not just the total",
+          "working": "Goods deficit    -38  -> uncompetitive in manufacturing\nServices surplus +23  -> competitive in services\nPrimary income   -14  -> substantial foreign ownership, profits leaving\nSecondary income  +9  -> significant remittances or aid inflows",
+          "note": "This is the analysis. The structure tells you far more than the -20 does."
+        }
+      ],
+      "answer": "Balance of trade -$15bn. Current account -$20bn, which is 4.8% of GDP.",
+      "tryIt": {
+        "given": [
+          "Exports of goods 94, imports of goods 131",
+          "Exports of services 78, imports of services 46",
+          "Primary income -11, secondary income +16",
+          "GDP 510, all $bn"
+        ],
+        "answer": "Goods -37. Services +32. Balance of trade -5. Current account = -5 - 11 + 16 = 0, a balanced current account, or 0% of GDP. Note that a large goods deficit is fully offset by services, remittances and aid, which is a very different economy from the first example."
+      }
+    },
+    {
+      "id": "wec14-c-03",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "title": "Comparative advantage, the gain from trade, and the range of terms of trade",
+      "given": [
+        "Output per worker per week:",
+        "              Wheat (tonnes)   Cloth (metres)",
+        "Country A          40               20",
+        "Country B          15               30",
+        "Each country has 100 workers"
+      ],
+      "steps": [
+        {
+          "label": "1. Absolute advantage",
+          "working": "Wheat: A 40 > B 15  -> A has the absolute advantage\nCloth: B 30 > A 20  -> B has the absolute advantage",
+          "note": "State it in one line and move on. This is NOT what the question is about."
+        },
+        {
+          "label": "2. Opportunity costs: four calculations, all shown",
+          "working": "In A: 1 wheat costs 20/40 = 0.5 cloth\nIn A: 1 cloth costs 40/20 = 2.0 wheat\n\nIn B: 1 wheat costs 30/15 = 2.0 cloth\nIn B: 1 cloth costs 15/30 = 0.5 wheat",
+          "note": "For 1 unit of X, divide the OTHER good's output by X's output. Show all four or you cannot compare."
+        },
+        {
+          "label": "3. Identify comparative advantage",
+          "working": "Wheat: A gives up 0.5 cloth, B gives up 2.0 cloth\n   -> A has the comparative advantage in wheat\n\nCloth: A gives up 2.0 wheat, B gives up 0.5 wheat\n   -> B has the comparative advantage in cloth",
+          "note": "Lower opportunity cost wins. Quote the figures that prove it."
+        },
+        {
+          "label": "4. Show the gain: before trade, 50 workers on each good",
+          "working": "         Wheat    Cloth\nA:  50 x 40 = 2,000   50 x 20 = 1,000\nB:  50 x 15 =   750   50 x 30 = 1,500\nWorld:        2,750             2,500",
+          "note": "Build the before table first so there is something to compare with."
+        },
+        {
+          "label": "5. After trade: complete specialisation",
+          "working": "         Wheat    Cloth\nA: 100 x 40 = 4,000        0\nB:      0          100 x 30 = 3,000\nWorld:        4,000             3,000\n\nGAIN: +1,250 wheat and +500 cloth from the SAME resources",
+          "note": "That extra output is the gain from trade. Without this table the answer is a definition, not an analysis."
+        },
+        {
+          "label": "6. The range of mutually beneficial terms of trade",
+          "working": "A will not accept less than 0.5 cloth per tonne of wheat\n(it can get that at home)\nB will not pay more than 2.0 cloth per tonne of wheat\n(it can produce at that rate at home)\n\nSo any rate between 0.5 and 2.0 cloth per wheat benefits BOTH",
+          "note": "Where it settles in that range decides how the gain is DIVIDED. The theory gives the size of the gain, not its distribution. This step is what separates a top answer."
+        }
+      ],
+      "answer": "A has the comparative advantage in wheat (0.5 cloth against 2.0), B in cloth (0.5 wheat against 2.0). Complete specialisation raises world output by 1,250 wheat and 500 cloth. Mutually beneficial terms of trade lie between 0.5 and 2.0 cloth per tonne of wheat.",
+      "tryIt": {
+        "given": [
+          "Output per worker per week:",
+          "              Rice (tonnes)   Steel (tonnes)",
+          "Country P          60               12",
+          "Country Q          20               20",
+          "Each country has 100 workers"
+        ],
+        "answer": "In P: 1 rice costs 12/60 = 0.2 steel; 1 steel costs 60/12 = 5 rice. In Q: 1 rice costs 20/20 = 1 steel; 1 steel costs 1 rice. P has the comparative advantage in rice (0.2 < 1), Q in steel (1 < 5). Before trade at 50/50: world rice 3,000 + 1,000 = 4,000 and steel 600 + 1,000 = 1,600. After complete specialisation: rice 6,000, steel 2,000. Gain: +2,000 rice and +400 steel. Terms of trade beneficial to both lie between 0.2 and 1 steel per tonne of rice."
+      }
+    },
+    {
+      "id": "wec14-c-04",
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "title": "Harrod-Domar: growth, population and the effect of efficiency",
+      "given": [
+        "Savings ratio                7% of GDP",
+        "Capital-output ratio         4",
+        "Population growth            2.2% a year",
+        "Aid and FDI would raise the investment ratio to 14%",
+        "Better project selection would cut the capital-output ratio to 3"
+      ],
+      "steps": [
+        {
+          "label": "1. Current growth rate",
+          "working": "Growth = savings ratio / capital-output ratio\n       = 7 / 4\n       = 1.75% a year",
+          "note": "Savings on top. Inverting it gives 0.57% and loses the mark."
+        },
+        {
+          "label": "2. Growth in income per head",
+          "working": "1.75% output growth - 2.2% population growth\n= -0.45% a year",
+          "note": "Income per head is FALLING despite positive growth. This is the point the model exists to make."
+        },
+        {
+          "label": "3. Raise the investment ratio to 14%",
+          "working": "Growth = 14 / 4 = 3.5%\nPer head = 3.5 - 2.2 = +1.3% a year",
+          "note": "Doubling investment turns a falling income per head into a rising one."
+        },
+        {
+          "label": "4. Now also improve efficiency",
+          "working": "Growth = 14 / 3 = 4.67%\nPer head = 4.67 - 2.2 = +2.47% a year",
+          "note": "Cutting the capital-output ratio from 4 to 3 adds more growth than the entire original 7% savings ratio delivered."
+        },
+        {
+          "label": "5. The evaluative point",
+          "working": "Efficiency (the denominator) matters as much as volume\n(the numerator), and it is CHEAPER.\n\nA country that raises investment while wasting it on\npoorly chosen projects gains far less than the arithmetic\nsuggests - and corruption raises the capital-output ratio\ndirectly, because money spent on a project never completed\nproduces no output at all.",
+          "note": "This is the strongest use of the model in an essay: it turns a formula into an argument about governance."
+        }
+      ],
+      "answer": "Current growth 1.75%, so income per head falls 0.45% a year. At a 14% investment ratio, growth 3.5% and income per head +1.3%. With the capital-output ratio also cut to 3, growth 4.67% and income per head +2.47%.",
+      "tryIt": {
+        "given": [
+          "Savings ratio 9%",
+          "Capital-output ratio 5",
+          "Population growth 1.8%",
+          "Investment ratio could rise to 15%; capital-output ratio could fall to 3.5"
+        ],
+        "answer": "Now: 9/5 = 1.8% growth, so income per head is flat at 1.8 - 1.8 = 0%. With investment at 15%: 15/5 = 3.0%, per head +1.2%. With the capital-output ratio also at 3.5: 15/3.5 = 4.29%, per head +2.49%. Note again that the efficiency improvement contributes more than half of the total gain."
+      }
+    },
+    {
+      "id": "wec14-c-05",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "title": "Unit labour costs, the exchange rate, and wages against productivity",
+      "given": [
+        "                        Country X      Country Y",
+        "Annual wage per worker   $9,000        $46,000",
+        "Output per worker        1,500 units    9,200 units",
+        "Y's currency then appreciates 25%",
+        "Separately: Y's wages rise 10% and productivity rises 4%"
+      ],
+      "steps": [
+        {
+          "label": "1. Unit labour cost in each country",
+          "working": "X: 9,000 / 1,500 = $6.00 per unit\nY: 46,000 / 9,200 = $5.00 per unit",
+          "note": "Y pays a wage more than five times higher and is MORE competitive, because productivity is over six times greater. Comparing wages alone reverses the answer."
+        },
+        {
+          "label": "2. Now apply the 25% appreciation to Y",
+          "working": "Y's unit labour cost in buyers' currency\n= 5.00 x 1.25\n= $6.25 per unit\n\nX at $6.00 is now the cheaper producer",
+          "note": "Nothing real has changed in Y: not wages, not productivity, not quality. Competitiveness must always be measured in RELATIVE terms adjusted for the exchange rate."
+        },
+        {
+          "label": "3. Wages up 10%, productivity up 4%",
+          "working": "New wage       = 46,000 x 1.10 = $50,600\nNew output     =  9,200 x 1.04 =  9,568 units\nNew unit cost  = 50,600 / 9,568 = $5.29\n\nChange = (5.29 - 5.00) / 5.00 = +5.8%",
+          "note": "Roughly, 1.10 / 1.04 = 1.058. Competitiveness is lost whenever wage growth exceeds productivity growth: that single relationship is the most useful in the topic."
+        },
+        {
+          "label": "4. What this tells you for an essay",
+          "working": "Three routes to lower unit labour costs:\n  cut wages         -> lowers living standards\n  depreciate        -> raises import prices, temporary\n  raise productivity-> raises BOTH competitiveness\n                       and living standards",
+          "note": "Only the third does both, and only the third lasts. That is the conclusion of almost every competitiveness essay."
+        }
+      ],
+      "answer": "X $6.00, Y $5.00 per unit, so Y is more competitive despite far higher wages. After a 25% appreciation Y rises to $6.25 and X becomes cheaper. With wages up 10% and productivity up 4%, Y's unit labour cost rises 5.8% to $5.29.",
+      "tryIt": {
+        "given": [
+          "Country M: wage $14,000, output 2,000 units",
+          "Country N: wage $52,000, output 8,000 units",
+          "Then N's currency depreciates 15%",
+          "Separately: M's wages rise 8% and productivity rises 2%"
+        ],
+        "answer": "M: 14,000/2,000 = $7.00. N: 52,000/8,000 = $6.50, so N is more competitive. After a 15% depreciation N falls to 6.50 x 0.85 = $5.53, widening its advantage. M's wages up 8% with productivity up 2% gives 1.08/1.02 = +5.9%, so M's unit labour cost rises to about $7.41 and it becomes less competitive still."
+      }
+    },
+    {
+      "id": "wec14-c-06",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "title": "Progressive, regressive, and the marginal against the average rate",
+      "given": [
+        "Income tax: $10,000 tax-free, then 20% up to $40,000, then 40% above $40,000",
+        "Sales tax: 15% on all spending",
+        "Person A earns $25,000 and spends all of it",
+        "Person B earns $80,000 and spends $50,000"
+      ],
+      "steps": [
+        {
+          "label": "1. Income tax paid by A",
+          "working": "Taxable = 25,000 - 10,000 = 15,000\nTax     = 15,000 x 20% = $3,000\nAverage rate = 3,000 / 25,000 = 12.0%\nMarginal rate = 20%",
+          "note": "Band the income. Applying 20% to the whole $25,000 gives $5,000 and loses the mark."
+        },
+        {
+          "label": "2. Income tax paid by B",
+          "working": "Taxable = 80,000 - 10,000 = 70,000\nTax = (30,000 x 20%) + (40,000 x 40%)\n    = 6,000 + 16,000 = $22,000\nAverage rate = 22,000 / 80,000 = 27.5%\nMarginal rate = 40%",
+          "note": "The 20% band covers the first $30,000 of TAXABLE income, taking B up to $40,000 of gross income. Then 40% on the rest."
+        },
+        {
+          "label": "3. Classify the income tax",
+          "working": "Average rate rises from 12.0% to 27.5%\n-> PROGRESSIVE",
+          "note": "A tax is progressive when it takes a rising PROPORTION, not a rising amount. B paying more in total proves nothing."
+        },
+        {
+          "label": "4. Sales tax as a share of income",
+          "working": "A: spends 25,000, tax = 25,000 x 15% = $3,750\n   as a share of income = 3,750 / 25,000 = 15.0%\n\nB: spends 50,000, tax = 50,000 x 15% = $7,500\n   as a share of income = 7,500 / 80,000 =  9.4%",
+          "note": "Note that B pays twice as much in money terms. The proportion is what classifies the tax."
+        },
+        {
+          "label": "5. Classify the sales tax",
+          "working": "Share of income falls from 15.0% to 9.4%\n-> REGRESSIVE\n\nBecause the poorest spend a larger PROPORTION of\ntheir income, they pay a larger proportion in tax.",
+          "note": "This arithmetic is the clearest way to demonstrate regressivity. Learn to reproduce it."
+        },
+        {
+          "label": "6. The evaluative point",
+          "working": "Marginal rate drives INCENTIVES (B faces 40%)\nAverage rate drives the BURDEN (B pays 27.5%)\n\nAnd: the distributional effect of a tax cannot be judged\nfrom the tax alone. A regressive tax funding services\nused mainly by the poorest can be redistributive overall.",
+          "note": "Two points that convert a calculation into an evaluation. The second is the one most often missed."
+        }
+      ],
+      "answer": "Income tax: A pays $3,000 (average 12.0%), B pays $22,000 (average 27.5%), so the tax is progressive. Sales tax: A pays $3,750 (15.0% of income), B pays $7,500 (9.4% of income), so the tax is regressive.",
+      "tryIt": {
+        "given": [
+          "Income tax: $12,000 tax-free, then 25% up to $50,000, then 45% above",
+          "Sales tax 18% on all spending",
+          "Person C earns $30,000 and spends all of it",
+          "Person D earns $100,000 and spends $60,000"
+        ],
+        "answer": "C: taxable 18,000, tax = $4,500, average 15.0%, marginal 25%. D: taxable 88,000, tax = (38,000 x 25%) + (50,000 x 45%) = 9,500 + 22,500 = $32,000, average 32.0%, marginal 45%. Progressive. Sales tax: C pays 30,000 x 18% = $5,400 = 18.0% of income; D pays 60,000 x 18% = $10,800 = 10.8% of income. Regressive."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "points": [
+        "Separate the EFFICIENCY question from the DISTRIBUTION question. On efficiency there is little dispute; the argument is about who gained. That single structural move organises the whole essay.",
+        "The gains are spread thinly across all consumers while the losses are concentrated in identifiable industries and regions, which is why the political reaction exceeds the measured net effect.",
+        "Inequality BETWEEN countries has fallen while inequality WITHIN many countries has risen, so a global assessment and a national one reach different conclusions.",
+        "Lower import prices benefit low-income households most in proportional terms, because they spend a larger share of income on traded goods. This partly offsets the inequality criticism and almost nobody mentions it.",
+        "The tax revenue benefit and the transfer pricing cost work against each other, so the net fiscal effect is genuinely uncertain.",
+        "Globalisation shifts AS as well as AD, which is why the decades of fastest integration combined growth with low inflation.",
+        "Check the counterfactual: automation reduced demand for routine labour in sectors facing no import competition, so attributing all deindustrialisation to trade overstates it.",
+        "The policy conclusion is compensation and retraining, not reversal, because reversal gives up the gains without restoring the lost jobs.",
+        "It depends on the stage of development: the effects on a developing, an emerging and a developed economy differ sharply."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "points": [
+        "A country with an absolute disadvantage in BOTH goods still has a comparative advantage in one, because it cannot be relatively worse at both. State this result explicitly.",
+        "The theory determines the SIZE of the gain, not its DISTRIBUTION, which depends on where the terms of trade settle within the mutually beneficial range.",
+        "Factor immobility is the most damaging assumption, because it converts a theoretical gain into real structural unemployment, and adjustment takes years while the model treats it as instantaneous.",
+        "Economies of scale can lock in an advantage regardless of underlying opportunity costs, so the first country into an industry may keep it.",
+        "Comparative advantage is dynamic: wages, education, technology and exchange rates all move it, so today's specialism may be tomorrow's problem.",
+        "Over-specialisation creates volatility and dependence, which the static theory ignores entirely. That is why diversification appears in development strategy even where the advantage is clear.",
+        "Trade based on unpriced environmental costs is not a genuine comparative advantage; it is a cost shifted onto third parties.",
+        "Transport costs can exceed the cost advantage for bulky or low-value goods, which removes the gain altogether."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "points": [
+        "An improvement in the terms of trade is NOT automatically good news, because it usually means lost price competitiveness.",
+        "Almost everything that improves the terms of trade worsens competitiveness, and vice versa. Higher inflation improves the ratio; higher productivity worsens it. Say so explicitly.",
+        "The effect on export revenue depends entirely on PED, so state your elasticity assumption and justify it from what the country exports.",
+        "The CAUSE matters as much as the movement: a commodity price rise and a currency appreciation can move the index identically with completely different implications.",
+        "Elasticities are lower in the short run, so effects grow over time. Refer to the Marshall-Lerner condition when the question concerns the trade balance.",
+        "Prebisch-Singer gives a long-run structural argument for diversification, and the evidence is contested, so present it as a hypothesis with reasoning rather than as a law.",
+        "For a commodity exporter, volatility may matter more than the level, because it makes budgeting and long-term investment impossible."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "points": [
+        "Trade CREATION against trade DIVERSION is the core welfare test: a bloc raises welfare if creation exceeds diversion.",
+        "Creation is more likely to dominate where members are already substantial trading partners, where the external tariff is low, and where the economies are complementary rather than identical.",
+        "Removing barriers works in both directions: a larger market also brings stronger competitors into the home market.",
+        "Deeper integration means less policy independence, which matters most when a member's economic cycle diverges from the bloc's.",
+        "Non-members lose from diversion, particularly developing countries excluded from the major blocs.",
+        "Building blocks or stumbling blocks: blocs liberalise faster than the WTO has managed, and preferential regional access reduces the incentive to pursue global liberalisation.",
+        "Transaction cost savings are unglamorous and substantial, and they matter most to small firms for whom compliance is a large fixed cost.",
+        "Gains within a bloc are uneven, so the aggregate effect hides the distribution between members."
+      ]
+    },
+    {
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Restrictions on free trade",
+      "points": [
+        "A quota is worse than an equivalent tariff for national welfare, because no revenue is raised and the gain may accrue to foreign licence holders.",
+        "A subsidy shifts the cost from consumers to taxpayers and does not raise the domestic price, so the distributional effect is completely different from a tariff's.",
+        "Protection of an INPUT raises costs throughout the economy, and that loss is often larger in aggregate than the gain to the protected industry.",
+        "Retaliation harms industries that were never protected, so the jobs saved must be weighed against jobs lost elsewhere.",
+        "Temporary protection rarely ends, because the protected industry acquires both the incentive and the resources to lobby for its continuation.",
+        "Protection is regressive between income groups, since tariffs fall on food and clothing, and may reduce inequality between regions, since the jobs protected are regionally concentrated.",
+        "Always mark the deadweight welfare loss on the tariff diagram and explain what it represents.",
+        "It depends on whether there is an identifiable market failure and a credible timetable for removing the protection."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "points": [
+        "How a deficit is FINANCED matters more than its size: long-term FDI into productive capacity is sustainable, short-term hot money can reverse overnight.",
+        "A deficit can be a symptom of strong growth rather than weakness, because rising incomes raise import spending.",
+        "The current account balance equals national saving minus investment, so a deficit is as much about domestic saving as about trade competitiveness.",
+        "A surplus is not automatically good: it may reflect suppressed domestic consumption and exports demand deficiency to the rest of the world.",
+        "Expenditure reducing improves the account by causing a recession; expenditure switching is inflationary and invites retaliation; only supply-side policy addresses the cause, and it takes years.",
+        "Read the STRUCTURE of the account, not just the total: which component is in deficit tells you what kind of problem it is.",
+        "Always express the deficit as a share of GDP. Above roughly 4 to 5% is usually regarded as needing attention.",
+        "There is a conflict between objectives: improving the current account usually costs growth, employment or price stability."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.2",
+      "topicTitle": "Exchange rates",
+      "points": [
+        "Marshall-Lerner and the J-curve together answer whether and WHEN a depreciation improves the current account. Use both, and draw the J-curve.",
+        "Elasticities are lower in the short run, so the condition may fail immediately and hold later.",
+        "A depreciation is inflationary, and enough inflation returns the REAL exchange rate to where it started, erasing the entire competitiveness gain.",
+        "It depends on spare capacity: with none, higher export demand produces inflation rather than output. Quote the output gap or unemployment rate.",
+        "It depends on import dependence: a country whose production relies on imported inputs gains far less, and its import demand is inelastic.",
+        "Competitive devaluation is a negative-sum game, because competitiveness is relative and retaliation leaves relative rates unchanged with higher inflation everywhere.",
+        "A depreciation substitutes for productivity improvement, which is the only durable source of competitiveness.",
+        "Volatility deters FDI regardless of direction, because it makes returns unpredictable.",
+        "Distinguish devaluation and revaluation (policy, fixed or managed) from depreciation and appreciation (market, floating). Use the right word for the system in the question."
+      ]
+    },
+    {
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "points": [
+        "High wages are entirely compatible with high competitiveness if productivity is high enough. Use unit labour costs, never wage rates alone.",
+        "Competitiveness is lost whenever wage growth exceeds productivity growth. That single relationship answers many questions.",
+        "The exchange rate changes competitiveness without changing anything real, which is why it is the quickest and least durable route.",
+        "Non-price competitiveness explains how high-cost economies compete successfully, and it is the point most frequently omitted.",
+        "Deregulation can create market failure, so less regulation is not automatically better: some regulation raises the quality and human capital competitiveness depends on.",
+        "Supply-side policies work over a decade, and a country in immediate difficulty cannot wait that long.",
+        "Competitiveness is relative, so it also depends on what competitors do.",
+        "Only productivity growth raises competitiveness and living standards together. Lower wages and a weaker currency buy competitiveness by reducing living standards."
+      ]
+    },
+    {
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "points": [
+        "Absolute poverty can in principle be eliminated; relative poverty cannot, because it is defined against the average.",
+        "The PATTERN of growth matters more than its rate: growth concentrated in a capital-intensive enclave can leave absolute poverty almost unchanged and raise relative poverty.",
+        "A policy can reduce absolute poverty while raising relative poverty, and vice versa. Say which measure the question concerns.",
+        "Measured relative poverty can FALL in a recession, because median income falls and the poverty line falls with it.",
+        "Transfers are fast and treat the symptom; education is slow and treats the cause. They are complements, not alternatives.",
+        "Incentive effects and the poverty trap limit how far benefits can go: the effective marginal rate at the bottom can exceed that at the top.",
+        "Nothing works during conflict, so where the source mentions it, address it first.",
+        "Aid works where governance is reasonable and achieves little where it is not, which is why aid effectiveness rather than volume is the live question."
+      ]
+    },
+    {
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "points": [
+        "Wealth is always more unequally distributed than income, and the two reinforce each other across generations.",
+        "Two very different distributions can share the same Gini coefficient, and the policy responses differ completely.",
+        "Check whether a Gini coefficient is before or after taxes and benefits: the difference is the measure of redistribution.",
+        "Inequality may raise aggregate saving and reduce aggregate demand at the same time, so its effect on investment is genuinely ambiguous.",
+        "Unequal education is INEFFICIENT as well as unjust, because the economy loses the productivity of people who would have been capable.",
+        "Some inequality is necessary for incentives, so the question is never whether but HOW MUCH, and whether it reflects contribution or inherited position.",
+        "Low interest rates can reduce income inequality through employment while raising wealth inequality through asset prices.",
+        "Kuznets is a possible pattern, not a law: several developed economies have seen inequality rise again."
+      ]
+    },
+    {
+      "topicRef": "4.3.5.1",
+      "topicTitle": "Public expenditure",
+      "points": [
+        "Composition matters more than level. Capital spending on infrastructure and education raises long-run capacity; the same sum on poorly targeted subsidies does not.",
+        "Capital expenditure shifts AS right as well as AD, so it has a completely different long-run effect from a transfer payment.",
+        "Crowding out requires the economy to be near capacity, so it is weak in a recession with spare resources. Quote the output gap.",
+        "Crowding in is the counter-argument: public investment raises the return on private investment and can raise it rather than displace it.",
+        "Borrowing to INVEST is far more defensible than borrowing to CONSUME, because the asset created remains for the future taxpayers who service the debt.",
+        "Government failure may mean the spending does not achieve its purpose: poor project selection, political rather than economic priorities, and weak maintenance.",
+        "Public service costs rise faster than average prices because they are labour-intensive, so maintaining the same service requires rising spending."
+      ]
+    },
+    {
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "points": [
+        "Marginal and average rates do different work: marginal drives incentives, average drives the burden. Say which is relevant.",
+        "Income and substitution effects pull in opposite directions, so a tax cut need not raise hours worked, particularly for higher earners.",
+        "The effective marginal rate at the bottom can exceed that at the top because of benefit withdrawal, which is the poverty trap.",
+        "Nobody knows where the revenue-maximising rate is, and it is much lower for mobile tax bases such as corporate profit than for employees' wages.",
+        "The distributional effect of a tax cannot be judged in isolation from what the revenue funds: a regressive tax funding services used by the poorest can be redistributive overall.",
+        "A rise in an indirect tax is a one-off increase in the PRICE LEVEL, not continuing inflation, unless it triggers wage responses.",
+        "Indirect taxes can be made much less regressive by exempting or zero-rating necessities.",
+        "Developing countries rely on indirect taxes because of administrative capacity, not preference, which is why their systems are less progressive."
+      ]
+    },
+    {
+      "topicRef": "4.3.5.3",
+      "topicTitle": "Public sector borrowing and public sector debt",
+      "points": [
+        "A falling deficit still ADDS to the debt. The debt only falls if there is a surplus, though the debt RATIO can fall if GDP grows faster.",
+        "Compare nominal GDP growth with the interest rate on the debt: if growth is faster, the debt ratio falls even with a deficit. This is the technical heart of sustainability.",
+        "Tightening into a CYCLICAL deficit deepens the recession, reduces revenue and may not reduce the deficit at all.",
+        "The cyclical and structural split cannot be measured reliably, because trend output is unobservable and estimates are revised, so the whole policy case rests on an unverifiable number.",
+        "Whose currency and whose money the debt is in matters as much as its level: domestically held debt in the country's own currency carries neither currency nor sudden-stop risk.",
+        "Confidence matters more than the arithmetic, and it can shift quickly and partly self-fulfillingly.",
+        "Cutting capital expenditure is the cheapest cut politically and the most expensive economically, because it removes future capacity as well as the debt."
+      ]
+    },
+    {
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "points": [
+        "DIAGNOSE before prescribing. Demand-pull or cost-push; cyclical or structural; demand shock or supply shock. The right policy depends entirely on the cause, and most candidates skip this step.",
+        "Every policy conflicts with another objective, and naming the conflict is the most reliable evaluation point available.",
+        "Time lags mean a discretionary policy acts on a different economy from the one it was designed for.",
+        "Policy is set using estimates of unobservable quantities from data that will later be revised. This one sentence evaluates any recommendation.",
+        "There is no demand-side answer to a negative supply shock that improves both output and prices. Saying so is the correct answer, not a failure to answer.",
+        "Only supply-side policy raises capacity, and it is the slowest, so sequence: demand-side now, supply-side alongside.",
+        "Unilateral action on TNCs is limited, because the problem arises from the interaction of national systems. Transparency and a minimum rate address the cause.",
+        "Credibility and expectations determine how well a policy works: a credible policy works better than an identical policy that is not believed.",
+        "Resilience beats precision, because shocks cannot be forecast: automatic stabilisers, reserves, diversification and fiscal space all help without requiring correct forecasts."
+      ]
+    },
+    {
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "points": [
+        "Growth is a means; development is the end. Open with that distinction.",
+        "HDI uses a GEOMETRIC mean, so a very low score on one dimension drags the index down and cannot be bought off with income.",
+        "It uses GNI rather than GDP per capita, which matters where a large share of domestic output is produced by foreign-owned firms whose profits leave.",
+        "Its three most important omissions are inequality, the environment and political freedom.",
+        "Years of schooling measure quantity, not quality: nothing in HDI captures what was actually learned.",
+        "Averages hide regional and gender differences, which matters enormously in geographically dispersed or unequal countries.",
+        "No single indicator is sufficient. Choose several to suit the question, and say what gap each one fills.",
+        "Data quality is weakest in exactly the countries the index most needs to measure.",
+        "HDI changes slowly, because life expectancy and mean years of schooling are stocks, so it is insensitive to recent policy."
+      ]
+    },
+    {
+      "topicRef": "4.3.6.2",
+      "topicTitle": "Constraints on growth and development",
+      "points": [
+        "The constraints REINFORCE one another, which is why poverty traps persist. Write the interaction paragraph: it is the strongest one available and almost nobody does.",
+        "Volatility is a constraint independent of the price level, because it makes government budgeting and private investment impossible.",
+        "Governance may be the binding constraint, since it determines whether any other remedy works: aid is stolen, investment stays away, taxes go uncollected.",
+        "Education is the constraint whose removal loosens the greatest number of others, including the capacity to absorb transferred technology.",
+        "Harrod-Domar shows that efficiency matters as much as the volume of investment, because the capital-output ratio is the denominator. Corruption raises it directly.",
+        "Prebisch-Singer is a hypothesis with contested evidence, interrupted by long commodity booms. Present the reasoning, not a law.",
+        "Primary product dependency is three problems at once: volatility, a long-run terms of trade decline, and low value added.",
+        "Migration has offsetting effects: brain drain against remittances, which for several economies exceed aid.",
+        "Nothing functions during conflict, and its effects persist for decades after the fighting ends."
+      ]
+    },
+    {
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "points": [
+        "The right strategy depends on the BINDING constraint, so diagnose from the data before recommending anything.",
+        "Governance determines whether interventionist strategies are viable at all. Where capacity is absent, market-orientated strategies are safer because they demand less of government.",
+        "The successful cases combined both: market-orientated in prices, competition and openness, interventionist in education, infrastructure and coordination. Do not write 'a mixture of both' without saying which functions go where.",
+        "Tied aid is worth substantially less than its face value, and aid works where governance is reasonable and achieves little where it is not.",
+        "The development benefit of tourism depends on LEAKAGE: how much of each tourist dollar stays in the country after imported food and repatriated profit.",
+        "For a resource exporter, what matters is what is done with the revenue: a sovereign fund and human capital, or consumption. Add Dutch disease and the resource curse.",
+        "Buffer stock schemes are attractive in theory and have a poor record, because a band set above the long-run average exhausts the fund. Stabilisation funds have worked better.",
+        "Microfinance relieves hardship reliably and transforms economies rarely.",
+        "Replace universal subsidies with targeted transfers, PROVIDED the administrative capacity exists to deliver them.",
+        "Sequence the strategies: debt relief and infrastructure act quickly, education must start now because it takes a generation, and FDI should carry conditions on local sourcing and training.",
+        "The Lewis model assumes industry is labour-intensive and profits are reinvested domestically. Modern industry often is not, and profits may be repatriated."
+      ]
+    }
+  ]
+}

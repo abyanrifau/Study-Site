@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Past papers ARE committed, so they are viewable inside the deployed site.
+# See the copyright and privacy note in README.md before deploying publicly.
+
+# Generated from /content by scripts/build-content.mjs
+public/data/

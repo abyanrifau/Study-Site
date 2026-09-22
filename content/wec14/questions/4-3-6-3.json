@@ -1,0 +1,406 @@
+{
+  "topicRef": "4.3.6.3",
+  "topicTitle": "Measures to promote growth and development",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-6-3-01",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following is a market-orientated strategy named in the specification?",
+      "options": [
+        "Microfinance schemes",
+        "Buffer stock schemes",
+        "Managed exchange rates",
+        "Protectionism"
+      ],
+      "answer": 0,
+      "why": "The six named market-orientated strategies are trade liberalisation, promoting FDI, removing subsidies, privatisation, floating exchange rates and microfinance.",
+      "whyNot": [
+        "",
+        "That is interventionist.",
+        "That is interventionist.",
+        "That is interventionist."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-02",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following is an interventionist strategy named in the specification?",
+      "options": [
+        "Promoting joint ventures with TNCs",
+        "Trade liberalisation",
+        "Privatisation",
+        "Floating exchange rates"
+      ],
+      "answer": 0,
+      "why": "The six named interventionist strategies are human capital development, protectionism, managed exchange rates, infrastructure, joint ventures with TNCs and buffer stocks.",
+      "whyNot": [
+        "",
+        "That is market-orientated.",
+        "That is market-orientated.",
+        "That is market-orientated."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-03",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines microfinance?",
+      "options": [
+        "The provision of very small loans and other financial services to people without access to conventional banking",
+        "Lending by the IMF to governments in crisis",
+        "Lending by commercial banks to small firms at market rates",
+        "Government grants to small businesses"
+      ],
+      "answer": 0,
+      "why": "It breaks the credit constraint and reaches women in particular, with strong evidence of effects on children's health and schooling.",
+      "whyNot": [
+        "",
+        "That is IMF lending.",
+        "Microfinance serves those excluded from conventional banking.",
+        "Grants are not loans."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-04",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "easy",
+      "stem": "What is the difference between the World Bank and the IMF?",
+      "options": [
+        "The Bank lends long-term for development projects; the Fund lends short-term for balance of payments crises",
+        "The Bank lends short-term; the Fund lends long-term",
+        "The Bank lends to firms; the Fund lends to governments",
+        "They perform identical functions"
+      ],
+      "answer": 0,
+      "why": "Both attach conditions, and the IMF's conditionality has been the more heavily criticised.",
+      "whyNot": [
+        "",
+        "The roles are the other way round.",
+        "Both primarily lend to governments.",
+        "Their mandates are distinct."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-05",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines tied aid?",
+      "options": [
+        "Aid given on condition that it is spent on goods or services from the donor country",
+        "Aid that must be repaid with interest",
+        "Aid restricted to emergency relief",
+        "Aid delivered through NGOs rather than governments"
+      ],
+      "answer": 0,
+      "why": "It is worth substantially less than its face value, because the donor's goods may not be the cheapest.",
+      "whyNot": [
+        "",
+        "That would be a loan.",
+        "That is humanitarian aid.",
+        "That is a delivery channel."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-06",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "What is the standard resolution to the problem of removing a universal subsidy?",
+      "options": [
+        "Replace it with a targeted cash transfer, if the administrative capacity exists",
+        "Remove it without any replacement, since the poorest will adjust",
+        "Increase the subsidy instead",
+        "Replace it with a tariff on the same good"
+      ],
+      "answer": 0,
+      "why": "Universal subsidies are regressive in absolute terms, since the wealthy consume more fuel, so targeting protects the poorest at far lower cost.",
+      "whyNot": [
+        "",
+        "Removal has repeatedly triggered unrest, and it raises the price of necessities.",
+        "That worsens the fiscal cost.",
+        "A tariff would raise the price further."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-07",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "Why is a privatised natural monopoly a concern?",
+      "options": [
+        "It may exploit market power rather than become efficient, and regulatory capacity is often what is lacking",
+        "It is prohibited by the World Bank",
+        "It always makes losses",
+        "It cannot raise any revenue for the government"
+      ],
+      "answer": 0,
+      "why": "Assets are also frequently sold below value, and services to unprofitable rural areas may be withdrawn.",
+      "whyNot": [
+        "",
+        "The Bank has often encouraged privatisation.",
+        "A monopoly is typically profitable.",
+        "Sale proceeds do raise revenue."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-08",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "What does the Lewis dual-sector model describe?",
+      "options": [
+        "Surplus labour moving from low-productivity agriculture to higher-productivity industry",
+        "Labour moving from industry back to agriculture as wages rise",
+        "The division of an economy into public and private sectors",
+        "The split between formal and informal credit markets"
+      ],
+      "answer": 0,
+      "why": "Because the workers who leave were adding almost nothing, total output rises without agricultural output falling.",
+      "whyNot": [
+        "",
+        "The model describes movement into industry.",
+        "The two sectors are agriculture and industry.",
+        "That is financial dualism, a different idea."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-09",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "What is the strongest limitation of the Lewis model?",
+      "options": [
+        "It assumes industry is labour-intensive, whereas modern industry often is not, so it creates far fewer jobs",
+        "It assumes agriculture has no surplus labour",
+        "It assumes profits are never reinvested",
+        "It applies only to developed economies"
+      ],
+      "answer": 0,
+      "why": "It also assumes industrial profits are reinvested domestically rather than repatriated or lost to capital flight.",
+      "whyNot": [
+        "",
+        "It assumes there is surplus labour, which is itself questionable at harvest.",
+        "It assumes profits are reinvested, which may not happen.",
+        "It was developed to describe developing economies."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-10",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "Why do buffer stock schemes usually fail?",
+      "options": [
+        "If the band is set above the long-run average, the agency buys continuously until its funds are exhausted",
+        "Commodity prices never vary enough to require them",
+        "Producers refuse to sell to them",
+        "Storage costs nothing"
+      ],
+      "answer": 0,
+      "why": "Storage is expensive, commodities perish, and schemes can be undermined by producers outside them. Stabilisation funds have worked better.",
+      "whyNot": [
+        "",
+        "Commodity prices are highly volatile.",
+        "Producers are willing sellers at a guaranteed price.",
+        "Storage is a substantial cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-11",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "What is the most useful evaluation point on developing tourism?",
+      "options": [
+        "The development benefit depends on how much of each tourist dollar stays in the country",
+        "Tourism always creates high-skilled permanent employment",
+        "Tourism is unaffected by conditions in other countries",
+        "Tourism requires no infrastructure"
+      ],
+      "answer": 0,
+      "why": "Leakage through imported food and foreign-owned hotels repatriating profit can remove much of the apparent benefit.",
+      "whyNot": [
+        "",
+        "Work is often seasonal and low paid.",
+        "It depends on incomes abroad, exchange rates and security.",
+        "It requires transport, power and water."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-12",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "What is Dutch disease?",
+      "options": [
+        "Commodity earnings appreciate the currency and make all other exports uncompetitive",
+        "A decline in agricultural productivity caused by industrialisation",
+        "A fall in commodity prices caused by oversupply",
+        "A disease affecting export crops"
+      ],
+      "answer": 0,
+      "why": "It is part of the resource-curse pattern, alongside the association of resource wealth with corruption and weak institutions.",
+      "whyNot": [
+        "",
+        "That is structural change.",
+        "That is a market effect, not Dutch disease.",
+        "The term is economic, not literal."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-13",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "What is the moral hazard objection to debt relief?",
+      "options": [
+        "It may encourage further imprudent borrowing by debtors and lending by creditors",
+        "It reduces the recipient's foreign exchange earnings",
+        "It is prohibited by the IMF",
+        "It has no effect on government revenue"
+      ],
+      "answer": 0,
+      "why": "Conditionality on transparent use of the freed revenue is the standard resolution.",
+      "whyNot": [
+        "",
+        "It frees foreign exchange rather than reducing it.",
+        "The IMF has participated in relief initiatives.",
+        "It frees revenue for other uses."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-14",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "Why is promoting joint ventures with TNCs described as the answer to a criticism of FDI?",
+      "options": [
+        "It forces technology and skills transfer to a local partner and retains more profit domestically",
+        "It removes the need for any foreign investment",
+        "It guarantees the local partner controls the venture",
+        "It eliminates all political risk"
+      ],
+      "answer": 0,
+      "why": "It may deter some investors, and the local partner may lack capability or the arrangement may become a vehicle for patronage.",
+      "whyNot": [
+        "",
+        "It is a form of foreign investment.",
+        "Control is shared, and the terms vary.",
+        "Political risk remains."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-15",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "What is the main criticism of IMF conditionality?",
+      "options": [
+        "Austerity, devaluation and liberalisation required at the point of crisis deepened recessions and hit the poorest hardest",
+        "It required countries to raise tariffs",
+        "It prevented countries from borrowing at all",
+        "It required an immediate move to a fixed exchange rate"
+      ],
+      "answer": 0,
+      "why": "The criticism is widely accepted, including in later IMF assessments of its own programmes.",
+      "whyNot": [
+        "",
+        "It generally required liberalisation.",
+        "The IMF is the lender of last resort in such situations.",
+        "Devaluation and floating were more commonly required."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-16",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "What is the correct synthesis of the market and interventionist approaches?",
+      "options": [
+        "Successful cases were market-orientated in prices and openness and interventionist in education, infrastructure and coordination",
+        "The market approach has always succeeded and intervention always failed",
+        "Intervention has always succeeded and markets always failed",
+        "Neither approach has any effect on development"
+      ],
+      "answer": 0,
+      "why": "So the question is not market against state but which functions belong to each, and the answer depends on the constraint and on state capacity.",
+      "whyNot": [
+        "",
+        "Pure market approaches have often produced volatility without structural change.",
+        "Intervention without market discipline has produced rent-seeking.",
+        "Both have had substantial effects."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-17",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "hard",
+      "stem": "Which condition determines whether interventionist strategies are viable?",
+      "options": [
+        "Governance: they require a competent, reasonably honest state",
+        "The size of the country's population",
+        "Whether the country has a floating exchange rate",
+        "Whether the country is a WTO member"
+      ],
+      "answer": 0,
+      "why": "Where that does not exist, market-orientated strategies are safer because they demand less of government. That is the most important conditional judgement in this topic.",
+      "whyNot": [
+        "",
+        "Population size is not the determinant.",
+        "The exchange rate regime is one policy among many.",
+        "Membership does not determine state capacity."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-18",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "What is the honest verdict on microfinance?",
+      "options": [
+        "It relieves hardship reliably and transforms economies rarely",
+        "It reliably transforms economies",
+        "It has no effect on borrowers at all",
+        "It is the single most effective development strategy"
+      ],
+      "answer": 0,
+      "why": "Interest rates are high, it can create over-indebtedness, and most loans fund consumption smoothing or petty trade rather than transformative investment.",
+      "whyNot": [
+        "",
+        "The evidence for economy-wide transformation is weak.",
+        "There is good evidence of effects on children's health and schooling.",
+        "Education and infrastructure have stronger claims."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-3-19",
+      "topicRef": "4.3.6.3",
+      "topicTitle": "Measures to promote growth and development",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of relying on NGOs?",
+      "options": [
+        "They are small in scale, not democratically accountable, and can substitute for building state capacity",
+        "They cannot reach remote communities",
+        "They are always more expensive than government provision",
+        "They are prohibited in most developing countries"
+      ],
+      "answer": 0,
+      "why": "Many uncoordinated NGOs also duplicate effort and impose administrative burdens.",
+      "whyNot": [
+        "",
+        "Reaching communities governments do not is one of their strengths.",
+        "They are often more cost-effective on small projects.",
+        "They operate widely."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.3.4",
+  "topicTitle": "Critical path analysis",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-3-4-01",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of the critical path?",
+      "options": [
+        "The longest route through the network, which determines the shortest possible project duration",
+        "The shortest route through the network",
+        "The route with the most activities",
+        "The sequence of the most expensive activities"
+      ],
+      "answer": 0,
+      "why": "The project cannot finish faster than its longest path, however quickly the other activities are done.",
+      "whyNot": [
+        "",
+        "The shortest route has float and does not constrain the project.",
+        "It is the longest in TIME, not in number of activities.",
+        "Cost is not what defines it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-02",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "easy",
+      "stem": "What is the formula for total float?",
+      "options": [
+        "LFT − Duration − EST",
+        "EST − Duration − LFT",
+        "LFT + Duration + EST",
+        "Duration − LFT − EST"
+      ],
+      "answer": 0,
+      "why": "Latest finish time minus the duration minus the earliest start time. Activities on the critical path have a float of zero.",
+      "whyNot": [
+        "",
+        "This reverses the terms.",
+        "Float is a difference, not a sum.",
+        "The order is wrong."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-03",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "medium",
+      "stem": "When calculating earliest start times where two paths merge, you take:",
+      "options": [
+        "the highest figure",
+        "the lowest figure",
+        "the average",
+        "the first path calculated"
+      ],
+      "answer": 0,
+      "why": "The activity cannot start until ALL preceding activities are finished, so it waits for the slowest one. Highest going forwards, lowest coming back, is the rule examiners check.",
+      "whyNot": [
+        "",
+        "That is the rule for latest finish times, working backwards.",
+        "Averaging has no meaning here.",
+        "Order of calculation is irrelevant."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-04",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "medium",
+      "stem": "When calculating latest finish times where two paths split, you take:",
+      "options": [
+        "the lowest figure",
+        "the highest figure",
+        "the average",
+        "the last path calculated"
+      ],
+      "answer": 0,
+      "why": "The activity must finish in time for the earliest of the activities that follow it, so the lowest LFT applies.",
+      "whyNot": [
+        "",
+        "That is the rule for earliest start times, working forwards.",
+        "Averaging has no meaning here.",
+        "Order of calculation is irrelevant."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-05",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "medium",
+      "stem": "An activity has a duration of 2 days, an EST of 3 and an LFT of 10. What is its total float?",
+      "options": [
+        "5 days",
+        "8 days",
+        "11 days",
+        "0 days"
+      ],
+      "answer": 0,
+      "why": "Float = 10 - 2 - 3 = 5 days. The activity could be delayed by up to five days without delaying the project.",
+      "whyNot": [
+        "",
+        "This subtracts only the duration.",
+        "This adds instead of subtracting.",
+        "Zero float would mean it is critical, which a five-day float is not."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-06",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "medium",
+      "stem": "An activity has a total float of zero. What does this mean?",
+      "options": [
+        "It is on the critical path, so any delay delays the whole project",
+        "It can be delayed indefinitely",
+        "It takes no time to complete",
+        "It has no predecessors"
+      ],
+      "answer": 0,
+      "why": "Zero float is the test for a critical activity. Calculating float is how you prove which activities are critical.",
+      "whyNot": [
+        "",
+        "Zero float means no delay is possible without consequence.",
+        "Duration and float are different things.",
+        "Float is unrelated to predecessors."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-07",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "hard",
+      "stem": "Why does a critical path analysis need constant updating?",
+      "options": [
+        "One delay can make a previously non-critical path critical",
+        "The formula changes over time",
+        "Networks can only be drawn once",
+        "Durations are fixed by law"
+      ],
+      "answer": 0,
+      "why": "If an activity with five days of float is delayed by seven, its path becomes the longest and therefore critical. The whole analysis then has to be redone.",
+      "whyNot": [
+        "",
+        "The formula is fixed.",
+        "They are redrawn as the project changes.",
+        "Durations are estimates made by the business."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-08",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "medium",
+      "stem": "What is a limitation of critical path analysis?",
+      "options": [
+        "It assumes resources are available whenever each activity is due to start",
+        "It cannot identify the project duration",
+        "It cannot be used for large projects",
+        "It guarantees the project finishes on time"
+      ],
+      "answer": 0,
+      "why": "In reality the same team may be needed on two activities at once. CPA also ignores cost, so it does not say whether shortening the path is worth the overtime it requires.",
+      "whyNot": [
+        "",
+        "Identifying the minimum duration is its main purpose.",
+        "It is used mainly on large projects, though the networks become unwieldy.",
+        "It is a plan, not a guarantee."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-4-09",
+      "topicRef": "3.3.3.4",
+      "topicTitle": "Critical path analysis",
+      "difficulty": "hard",
+      "stem": "Why might rushing a critical activity be counterproductive?",
+      "options": [
+        "Rushing can create rework that costs more time than was saved",
+        "Critical activities cannot be shortened",
+        "Shortening an activity is free",
+        "The critical path never changes"
+      ],
+      "answer": 0,
+      "why": "CPA ignores quality. Saving a day by rushing and then spending a week fixing the result makes the project later, not earlier.",
+      "whyNot": [
+        "",
+        "They can be, usually at a cost.",
+        "Shortening usually requires overtime or extra resources.",
+        "It can change whenever durations change."
+      ]
+    }
+  ]
+}

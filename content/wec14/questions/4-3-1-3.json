@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.3",
+  "topicTitle": "Effects of globalisation",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-1-3-01",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines consumer surplus?",
+      "options": [
+        "The difference between what consumers are willing to pay and what they actually pay",
+        "The total amount consumers spend on a good",
+        "The profit a firm makes on each sale",
+        "The excess supply of a good in a market"
+      ],
+      "answer": 0,
+      "why": "Globalisation raises consumer surplus by lowering prices through imports, competition and economies of scale.",
+      "whyNot": [
+        "",
+        "That is consumer expenditure.",
+        "That is producer surplus or profit.",
+        "That is a surplus of output, not consumer surplus."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-02",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following is a benefit of globalisation named in the specification?",
+      "options": [
+        "Lower prices and higher consumer surplus",
+        "Higher income inequality within countries",
+        "Displaced workers in import-competing industries",
+        "Loss of tax revenue from transfer pricing"
+      ],
+      "answer": 0,
+      "why": "The six named benefits are growth, tax revenue, economies of scale, lower prices and consumer surplus, more choice, and higher living standards.",
+      "whyNot": [
+        "",
+        "That is a named cost.",
+        "That is a named cost.",
+        "That is a named cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-03",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following is a cost of globalisation named in the specification?",
+      "options": [
+        "The influence of TNCs on domestic economic policy",
+        "Increased economic growth",
+        "Wider consumer choice",
+        "Economies of scale for producers"
+      ],
+      "answer": 0,
+      "why": "The six named costs are displaced workers, exploitation, environmental impact, lost tax revenue, higher inequality within countries, and TNC influence on policy.",
+      "whyNot": [
+        "",
+        "That is a named benefit.",
+        "That is a named benefit.",
+        "That is a named benefit."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-04",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines structural unemployment?",
+      "options": [
+        "Unemployment caused by a mismatch between workers' skills or location and the jobs available",
+        "Unemployment caused by a fall in aggregate demand during a recession",
+        "Unemployment caused by workers moving between jobs",
+        "Unemployment caused by seasonal changes in demand"
+      ],
+      "answer": 0,
+      "why": "It is what displaced workers experience after a shift in the pattern of trade, and it persists because the mismatch is not quickly resolved.",
+      "whyNot": [
+        "",
+        "That is cyclical unemployment.",
+        "That is frictional unemployment.",
+        "That is seasonal unemployment."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-05",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Why can globalisation raise output without raising the price level?",
+      "options": [
+        "It shifts aggregate supply to the right as well as aggregate demand",
+        "It reduces aggregate demand while raising aggregate supply",
+        "It has no effect on aggregate demand",
+        "It fixes prices through international agreement"
+      ],
+      "answer": 0,
+      "why": "Investment, technology and cheaper imported inputs raise productive capacity, which is why the decades of fastest integration combined growth with low inflation.",
+      "whyNot": [
+        "",
+        "It raises AD through exports and investment.",
+        "Exports and FDI both raise AD directly.",
+        "Prices are not fixed by agreement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-06",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Why do lower import prices benefit low-income households most in proportional terms?",
+      "options": [
+        "They spend a larger share of their income on traded goods such as clothing and food",
+        "They receive a direct subsidy from importers",
+        "They buy a greater absolute quantity of imports",
+        "They pay no indirect taxes on imports"
+      ],
+      "answer": 0,
+      "why": "This partly offsets the inequality criticism of globalisation and is frequently missed in essays.",
+      "whyNot": [
+        "",
+        "No such subsidy exists.",
+        "Higher-income households buy more in absolute terms.",
+        "They pay the same indirect taxes."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-07",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines transfer pricing?",
+      "options": [
+        "Setting the prices at which parts of the same company trade with each other",
+        "Charging different prices in different countries",
+        "Transferring ownership of a firm to a foreign buyer",
+        "The price paid for a transfer of government assets"
+      ],
+      "answer": 0,
+      "why": "It allows a company to report costs in high-tax countries and profits in low-tax ones, reducing tax revenue.",
+      "whyNot": [
+        "",
+        "That is price discrimination.",
+        "That is an acquisition.",
+        "That is a privatisation receipt."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-08",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Why is the environmental impact of increased trade described as a negative externality?",
+      "options": [
+        "The cost falls on third parties and is not reflected in the price, so the market over-produces",
+        "The cost is paid entirely by the producer",
+        "The cost is recorded in the balance of payments",
+        "The cost only arises in developed economies"
+      ],
+      "answer": 0,
+      "why": "Emissions from shipping, relocation to weaker regulatory regimes and resource depletion are all unpriced costs.",
+      "whyNot": [
+        "",
+        "If the producer paid it, it would be an internal cost, not an externality.",
+        "Environmental costs are not recorded there.",
+        "They arise wherever production and transport occur."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-09",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Why is the tax revenue effect of globalisation described as uncertain?",
+      "options": [
+        "Higher output widens the tax base while transfer pricing and tax competition reduce receipts",
+        "Tax revenue cannot be measured accurately",
+        "Globalisation has no effect on output",
+        "Tax rates are fixed by international agreement"
+      ],
+      "answer": 0,
+      "why": "The benefit and the cost work against each other, which is why the net effect is genuinely uncertain.",
+      "whyNot": [
+        "",
+        "Revenue is measured routinely.",
+        "It raises output substantially.",
+        "Rates are set nationally, and competition has driven them down."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-10",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "hard",
+      "stem": "Which statement about globalisation and inequality is correct?",
+      "options": [
+        "Inequality between countries has fallen while inequality within many countries has risen",
+        "Inequality has risen both between and within countries",
+        "Inequality has fallen both between and within countries",
+        "Globalisation has had no measurable effect on inequality"
+      ],
+      "answer": 0,
+      "why": "Fast growth in Asia narrowed the gap between countries, while lower-skilled workers in developed economies lost ground within them.",
+      "whyNot": [
+        "",
+        "Between-country inequality has fallen.",
+        "Within-country inequality has risen in many economies.",
+        "The effects are large and well documented."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-11",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "hard",
+      "stem": "Why does the political reaction against globalisation exceed its measured aggregate cost?",
+      "options": [
+        "The gains are spread thinly while the losses are concentrated in particular industries and regions",
+        "The aggregate cost has been understated in all official data",
+        "Consumers do not benefit from trade at all",
+        "Total output falls as a result of trade"
+      ],
+      "answer": 0,
+      "why": "Concentrated losses are visible and organised; diffuse gains are not, which is the central political economy point.",
+      "whyNot": [
+        "",
+        "The issue is distribution rather than measurement.",
+        "Consumers gain through lower prices and choice.",
+        "Total output rises."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-12",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "hard",
+      "stem": "What is the standard policy conclusion of a balanced essay on globalisation?",
+      "options": [
+        "Compensate and retrain the losers rather than reverse the integration",
+        "Reverse the integration through tariffs and capital controls",
+        "Do nothing, because the aggregate gains are positive",
+        "Subsidise the industries that have lost competitiveness indefinitely"
+      ],
+      "answer": 0,
+      "why": "Education and training, regional policy and the tax and benefit system address the distribution without giving up the efficiency gains.",
+      "whyNot": [
+        "",
+        "Reversal would give up the aggregate gains.",
+        "Doing nothing ignores the concentrated losses.",
+        "Permanent subsidy delays adjustment at continuing cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-13",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "hard",
+      "stem": "What is the counter-argument to the claim that globalisation exploits workers in developing countries?",
+      "options": [
+        "Wages in export sectors are frequently above the local average, and the local alternative is often worse",
+        "Working conditions in export sectors are always excellent",
+        "No workers in developing countries are employed by exporters",
+        "Exploitation is impossible where wages are paid in cash"
+      ],
+      "answer": 0,
+      "why": "The response to that counter-argument is that the local alternative is not the only relevant standard, and safety and child labour are not matters of local preference.",
+      "whyNot": [
+        "",
+        "Conditions are often poor by international standards.",
+        "Export sectors are major employers.",
+        "The form of payment is irrelevant."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-14",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following explains how economies of scale arise from globalisation?",
+      "options": [
+        "Firms serving world rather than national markets spread fixed costs over greater volume",
+        "Firms reduce their output to raise prices",
+        "Governments subsidise exporters to lower their costs",
+        "Firms merge with their suppliers to avoid tax"
+      ],
+      "answer": 0,
+      "why": "Lower long-run average cost then lowers prices and improves competitiveness.",
+      "whyNot": [
+        "",
+        "Lower output raises unit costs.",
+        "Subsidy is not the same as a scale economy.",
+        "Vertical integration is a different mechanism."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-15",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "hard",
+      "stem": "Which structure produces the strongest essay on the effects of globalisation?",
+      "options": [
+        "Separate the efficiency question from the distribution question",
+        "List all six benefits and then all six costs",
+        "Discuss only the effects on consumers",
+        "Argue that the effects cannot be judged"
+      ],
+      "answer": 0,
+      "why": "On efficiency there is little dispute; the disputes are about distribution, and that structure produces a genuine judgement rather than a verdict.",
+      "whyNot": [
+        "",
+        "An unweighted list caps the marks at the lower bands.",
+        "Consumers are one group among several.",
+        "The effects are extensively documented and can be judged."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-3-16",
+      "topicRef": "4.3.1.3",
+      "topicTitle": "Effects of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a race to the bottom?",
+      "options": [
+        "Competition between countries to attract investment by lowering labour, tax or environmental standards",
+        "Competition between firms to charge the lowest price",
+        "A fall in a currency's value against others",
+        "A decline in a country's GDP per capita"
+      ],
+      "answer": 0,
+      "why": "Each government's action is individually rational and all end up worse off, which is a collective action problem.",
+      "whyNot": [
+        "",
+        "That is price competition.",
+        "That is depreciation.",
+        "That is falling income per head."
+      ]
+    }
+  ]
+}

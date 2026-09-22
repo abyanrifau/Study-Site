@@ -1,0 +1,175 @@
+{
+  "topicRef": "2.3.5.2",
+  "topicTitle": "Legislation",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-5-2-01",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "easy",
+      "stem": "Which intellectual property right protects a new invention or process?",
+      "options": [
+        "A patent",
+        "Copyright",
+        "A trademark",
+        "A licence"
+      ],
+      "answer": 0,
+      "why": "Patents protect inventions for a fixed period. Copyright protects creative work, and trademarks protect names and logos.",
+      "whyNot": [
+        "",
+        "Copyright protects original written, musical, artistic and software work.",
+        "A trademark protects a name, logo or slogan.",
+        "A licence is permission to trade or to use someone else's property."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-02",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "easy",
+      "stem": "Which right protects a business's name, logo or slogan?",
+      "options": [
+        "A trademark",
+        "A patent",
+        "Copyright",
+        "A quality standard"
+      ],
+      "answer": 0,
+      "why": "Trademarks stop a competitor trading under your name, which is what makes brand investment worth making.",
+      "whyNot": [
+        "",
+        "Patents protect inventions.",
+        "Copyright protects creative works.",
+        "A quality standard is a measurable level of quality, not a legal right."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-03",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of competition policy?",
+      "options": [
+        "Laws preventing businesses from abusing market power, such as price fixing or predatory pricing",
+        "Laws requiring goods to be fit for purpose",
+        "Laws setting minimum wages",
+        "Laws limiting emissions and waste"
+      ],
+      "answer": 0,
+      "why": "Competition policy protects the market from abuse of dominance. It helps small businesses far more than it hinders them.",
+      "whyNot": [
+        "",
+        "That is consumer protection.",
+        "That is employee protection.",
+        "That is environmental protection."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-04",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "medium",
+      "stem": "Why is intellectual property legislation mostly a benefit to a business?",
+      "options": [
+        "It makes a USP defensible, so innovation is worth funding",
+        "It reduces the cost of raw materials",
+        "It removes the need to advertise",
+        "It guarantees a monopoly forever"
+      ],
+      "answer": 0,
+      "why": "Without a patent a competitor copies the invention immediately, and without a trademark anyone can trade under your name. Protection is what makes investment in innovation rational.",
+      "whyNot": [
+        "",
+        "No connection to input costs.",
+        "A protected brand still has to be communicated.",
+        "Patents last a fixed period, not forever."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-05",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit to a business of employee protection legislation?",
+      "options": [
+        "Better motivated staff and lower labour turnover",
+        "A lower wage bill",
+        "Complete freedom to dismiss staff",
+        "No need to provide contracts"
+      ],
+      "answer": 0,
+      "why": "Better treated staff are more motivated and stay longer, which reduces the recruitment and training cycle. It connects directly to staff as an asset in WBS11 topic 1.3.4.1.",
+      "whyNot": [
+        "",
+        "It typically raises the wage bill through minimum wage and entitlements.",
+        "It restricts dismissal, requiring fair procedure.",
+        "Contracts are a legal requirement."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-06",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "hard",
+      "stem": "Why is environmental legislation closer to protecting revenue than imposing a burden in a tourism-dependent economy?",
+      "options": [
+        "A damaged reef or polluted lagoon destroys the product the industry sells",
+        "Environmental laws are not enforced in tourism",
+        "Tourism produces no waste",
+        "Environmental compliance is free"
+      ],
+      "answer": 0,
+      "why": "Where the environment IS the product, protecting it protects long-term revenue. No marketing recovers a destroyed reef, which makes this a strong example for the balanced argument about legislation.",
+      "whyNot": [
+        "",
+        "Waste, sewage and construction rules are enforced precisely because the stakes are high.",
+        "Resorts and guesthouses generate substantial waste and sewage.",
+        "Compliance costs real money; the point is what it protects."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-07",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "medium",
+      "stem": "Why does the burden of legislation fall hardest on small businesses?",
+      "options": [
+        "They have no legal or HR department, so compliance takes the owner's own time",
+        "The law applies only to small businesses",
+        "Small businesses pay higher fines",
+        "Large businesses are exempt from most laws"
+      ],
+      "answer": 0,
+      "why": "Compliance is largely a fixed cost, so it is proportionately heavier for a small firm, and it consumes the owner's time, which is their scarcest resource.",
+      "whyNot": [
+        "",
+        "It applies to businesses of all sizes.",
+        "Fines are usually scaled to size or turnover.",
+        "Large businesses face more regulation, not less."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-2-08",
+      "topicRef": "2.3.5.2",
+      "topicTitle": "Legislation",
+      "difficulty": "medium",
+      "stem": "What is the strongest argument that compliance is worth the cost?",
+      "options": [
+        "Fines, compensation and reputational damage generally exceed the cost of doing it properly",
+        "Compliance is always free",
+        "Non-compliance is never detected",
+        "Legislation has no cost at all"
+      ],
+      "answer": 0,
+      "why": "Comparing the cost of compliance with the cost of breach is the balanced argument, and it is what turns a list of costs into an evaluation.",
+      "whyNot": [
+        "",
+        "Compliance has real costs.",
+        "Detection is common, particularly in regulated sectors.",
+        "It clearly does have costs; the point is the comparison."
+      ]
+    }
+  ]
+}

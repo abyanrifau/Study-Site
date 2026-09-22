@@ -1,0 +1,217 @@
+{
+  "topicRef": "2.3.3.1",
+  "topicTitle": "Profit",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-3-1-01",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of gross profit?",
+      "options": [
+        "Revenue minus cost of sales",
+        "Revenue minus all costs",
+        "Operating profit minus interest and tax",
+        "Revenue minus operating expenses"
+      ],
+      "answer": 0,
+      "why": "Gross profit deducts only the direct cost of the goods sold. It answers whether the product itself makes money.",
+      "whyNot": [
+        "",
+        "That is profit for the year.",
+        "That is profit for the year, calculated from operating profit.",
+        "Operating expenses are deducted after gross profit to give operating profit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-02",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "easy",
+      "stem": "Revenue is $840,000 and cost of sales is $504,000. What is gross profit?",
+      "options": [
+        "$336,000",
+        "$1,344,000",
+        "$504,000",
+        "$40%"
+      ],
+      "answer": 0,
+      "why": "Gross profit = revenue - cost of sales = 840,000 - 504,000 = $336,000.",
+      "whyNot": [
+        "",
+        "This adds the two figures.",
+        "That is cost of sales, which is what you subtract.",
+        "That is the margin as a percentage, not the profit figure, and it is written incorrectly."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-03",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "easy",
+      "stem": "Gross profit is $336,000 and revenue is $840,000. What is the gross profit margin?",
+      "options": [
+        "40%",
+        "250%",
+        "$504,000",
+        "2.5%"
+      ],
+      "answer": 0,
+      "why": "Gross profit margin = (gross profit / revenue) x 100 = (336,000 / 840,000) x 100 = 40%.",
+      "whyNot": [
+        "",
+        "This divides revenue by gross profit, the wrong way round.",
+        "That is cost of sales, not a margin.",
+        "This looks like a decimal point error. 336/840 is 0.4, so 40%."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-04",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "medium",
+      "stem": "Which figure is deducted to move from operating profit to profit for the year?",
+      "options": [
+        "Interest and tax",
+        "Cost of sales",
+        "Operating expenses",
+        "Revenue"
+      ],
+      "answer": 0,
+      "why": "Operating profit is before financing and tax. Deducting interest and tax leaves what is actually available to the owners.",
+      "whyNot": [
+        "",
+        "Cost of sales is deducted from revenue to give gross profit.",
+        "Operating expenses are deducted from gross profit to give operating profit.",
+        "Revenue is the starting point, not a deduction."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-05",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "medium",
+      "stem": "A business's gross margin is unchanged but its operating margin has fallen. What does this tell you?",
+      "options": [
+        "Operating expenses have risen",
+        "The selling price has fallen",
+        "Cost of sales has risen",
+        "Interest costs have risen"
+      ],
+      "answer": 0,
+      "why": "An unchanged gross margin means pricing and direct costs are fine. The deterioration must be between gross and operating profit, which is overheads. Identifying which margin moved is the most valuable skill in this topic.",
+      "whyNot": [
+        "",
+        "A lower price would reduce the GROSS margin, which has not changed.",
+        "Higher cost of sales would also reduce the gross margin.",
+        "Interest is deducted after operating profit, so it would affect the profit-for-the-year margin, not the operating margin."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-06",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "medium",
+      "stem": "Why are margins more useful than absolute profit figures for comparison?",
+      "options": [
+        "They express profit as a percentage of revenue, so businesses of different sizes can be compared",
+        "They are easier to calculate",
+        "They always produce a higher number",
+        "They remove the effect of tax"
+      ],
+      "answer": 0,
+      "why": "A $50,000 profit means nothing without knowing the revenue it came from. Margins standardise for size, which allows comparison across years and against competitors.",
+      "whyNot": [
+        "",
+        "Both are simple; usefulness is the point.",
+        "Margins are percentages and can be low or high.",
+        "The profit-for-the-year margin includes the effect of tax."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-07",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "medium",
+      "stem": "Which action would most directly improve the gross profit margin?",
+      "options": [
+        "Negotiating a lower price from suppliers of raw materials",
+        "Reducing the marketing budget",
+        "Renegotiating the rent on the premises",
+        "Repaying a loan to reduce interest"
+      ],
+      "answer": 0,
+      "why": "Cost of sales is the only cost deducted before gross profit, so reducing direct material costs is what moves the gross margin. Everything else sits lower down the statement.",
+      "whyNot": [
+        "",
+        "Marketing is an operating expense, so it affects the operating margin.",
+        "Rent is an operating expense.",
+        "Interest is deducted after operating profit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-08",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "hard",
+      "stem": "A guesthouse has a gross margin above 80% but a much lower operating margin. Why?",
+      "options": [
+        "Almost all of its costs are below the gross profit line: salaries, electricity and interest",
+        "Its cost of sales is unusually high",
+        "It charges very low prices",
+        "It has no fixed costs"
+      ],
+      "answer": 0,
+      "why": "The direct cost of a room night is small, perhaps $15 on a $95 rate, so the gross margin is huge. The salaried staff, the building and the loan all sit in operating expenses and interest, which is where the margin is consumed.",
+      "whyNot": [
+        "",
+        "Its cost of sales is unusually LOW, which is why the gross margin is high.",
+        "Room rates are relatively high; the margin structure is about where the costs sit.",
+        "It has very high fixed costs, which is exactly the point."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-09",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "hard",
+      "stem": "Why might cutting the marketing budget raise profit this year and reduce it next year?",
+      "options": [
+        "Lower spending raises current profit, and weaker demand later reduces revenue",
+        "Marketing costs are always recovered in full",
+        "Marketing has no effect on demand",
+        "Marketing is part of cost of sales"
+      ],
+      "answer": 0,
+      "why": "It is the short-run against long-run trade-off, and it is reliable evaluation material whenever a question proposes a cost cut.",
+      "whyNot": [
+        "",
+        "There is no guarantee marketing spending is recovered.",
+        "Effective marketing shifts the demand curve right; that is its purpose.",
+        "Marketing is an operating expense, not cost of sales."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-1-10",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Profit",
+      "difficulty": "medium",
+      "stem": "Why should you never state that profit and cash are the same?",
+      "options": [
+        "Revenue includes credit sales not yet collected, and cash includes payments that are not costs",
+        "Profit is always larger than cash",
+        "Cash is always larger than profit",
+        "They are the same in most businesses"
+      ],
+      "answer": 0,
+      "why": "A sale counts as revenue when the goods go out and as cash when the customer pays. Asset purchases and loan repayments are cash outflows that are not costs. Confusing the two is the most heavily penalised error in WBS12.",
+      "whyNot": [
+        "",
+        "Either can be larger, depending on timing and non-cash items.",
+        "Also not a rule.",
+        "They differ in almost every business that gives or takes credit."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "topicRef": "1.3.1.3",
+  "topicTitle": "Market positioning",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-1-3-01",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of added value?",
+      "options": [
+        "The difference between the price charged and the cost of bought-in materials and services",
+        "The profit a business makes after all of its costs have been deducted",
+        "The total revenue a business earns in a year",
+        "The amount a business spends on improving its products"
+      ],
+      "answer": 0,
+      "why": "Added value takes off only the bought-in inputs. It measures how much more the business can sell something for than it paid for the materials and services that went into it.",
+      "whyNot": [
+        "",
+        "That is profit. Profit also deducts the business's own costs such as wages, rent and marketing, which added value does not.",
+        "That is total revenue, which is price multiplied by quantity. Added value is a per-unit difference between price and input cost.",
+        "Spending on improvement may create added value, but it is not the definition of it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-02",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "easy",
+      "stem": "A restaurant buys the ingredients for a dish for $3.40 and sells it for $12.00. What is the added value per dish?",
+      "options": ["$8.60", "$12.00", "$3.40", "$15.40"],
+      "answer": 0,
+      "why": "Added value = selling price − cost of bought-in materials = $12.00 − $3.40 = $8.60 per dish.",
+      "whyNot": [
+        "",
+        "That is the selling price. Added value is the difference between price and input cost, not the price itself.",
+        "That is the cost of the ingredients, which is what you subtract rather than the answer.",
+        "This adds the two figures instead of subtracting. Added value is always a difference."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-03",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: an approach in which a business researches what customers want and then designs its products to meet those needs?",
+      "options": ["Market orientation", "Product orientation", "Market positioning", "Market segmentation"],
+      "answer": 0,
+      "why": "Market orientation starts from the customer. Research comes first, the product second, which lowers the risk of launching something nobody wants.",
+      "whyNot": [
+        "",
+        "Product orientation is the opposite: the business makes what it believes in or is good at, then looks for customers.",
+        "Positioning is where a product sits in customers' minds relative to rivals. It is an outcome, not an approach to designing products.",
+        "Segmentation is dividing customers into groups. It is a technique a market-oriented business would use, not the orientation itself."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-04",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of market segmentation?",
+      "options": [
+        "Dividing a market into groups of customers with similar characteristics or needs",
+        "Plotting competing products against two characteristics on a diagram",
+        "Making a product distinct from those of competitors",
+        "Reducing the price of a product to win customers"
+      ],
+      "answer": 0,
+      "why": "Segmentation is about the customers: splitting them into groups that behave similarly, so each group can be targeted with the right marketing mix.",
+      "whyNot": [
+        "",
+        "That is market mapping. A map plots products; segmentation groups customers.",
+        "That is product differentiation. It is about the product, not about dividing up the customers.",
+        "That is a pricing decision. It may be aimed at a particular segment, but it is not what segmentation means."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-05",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of competitive advantage?",
+      "options": [
+        "A feature of a business or its product that allows it to outperform rivals",
+        "The largest market share in an industry",
+        "Selling at a lower price than every competitor",
+        "Having no competitors in a market"
+      ],
+      "answer": 0,
+      "why": "Competitive advantage is whatever lets a business do better than its rivals, whether that is lower costs, a stronger brand, better service or a feature nobody else has. It is the result of successful differentiation or cost leadership.",
+      "whyNot": [
+        "",
+        "A large share may be evidence of competitive advantage, but it is not the advantage itself. A firm can hold a large share and still be losing ground.",
+        "Being cheapest is one route to competitive advantage, but not the only one. Differentiating enough to charge more is the other.",
+        "Having no competitors is a monopoly position, which describes the market rather than an advantage the business itself possesses."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-06",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "A market map shows an empty space at high quality and high price. What is the most valid conclusion?",
+      "options": [
+        "There may be a gap, but the space could be empty because there is no demand there",
+        "There is definitely a profitable gap the business should fill",
+        "The market is not segmented properly",
+        "Every competitor has positioned itself incorrectly"
+      ],
+      "answer": 0,
+      "why": "An empty space on a map is a hypothesis, not a plan. It may be empty because customers do not want a product there, or because it cannot be produced profitably at that price. Saying so is one of the most reliable evaluation points on this topic.",
+      "whyNot": [
+        "",
+        "A map cannot show profitability or demand, only where existing products sit. Treating every gap as an opportunity is the standard weak answer here.",
+        "A map plots products, not customer groups, so it says nothing about whether segmentation has been done well.",
+        "Competitors may have positioned themselves deliberately and correctly, having already judged that the empty space is not viable."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-07",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "A business calculates that its added value per unit has risen. Why does this NOT prove that its profit has risen?",
+      "options": [
+        "Added value ignores the business's own costs, such as wages and rent",
+        "Added value is measured in units rather than currency",
+        "Added value only applies to service businesses",
+        "Profit is always equal to revenue minus bought-in materials"
+      ],
+      "answer": 0,
+      "why": "Added value deducts only bought-in materials and services. Wages, rent, energy and marketing are all still to come. If those rose faster than added value, profit could fall even as added value rises.",
+      "whyNot": [
+        "",
+        "Added value is measured in currency per unit, the same as price and cost. That is not the issue.",
+        "It applies to any business that buys inputs and sells outputs, manufacturing or service.",
+        "This is the definition of added value, not of profit. Profit deducts all costs, which is exactly why the two differ."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-08",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit of market segmentation for a small business?",
+      "options": [
+        "It can concentrate on dominating one segment instead of competing across the whole market",
+        "It removes the need to carry out market research",
+        "It guarantees a higher market share overall",
+        "It lowers the cost of producing each unit"
+      ],
+      "answer": 0,
+      "why": "A small firm rarely has the resources to fight for a whole market. Focusing on one segment lets it match that group's needs closely and build a strong position where the largest rivals are less interested.",
+      "whyNot": [
+        "",
+        "Segmentation depends on research. You cannot identify meaningful segments without data on customers.",
+        "Segmentation usually means a smaller overall share by choice, in return for a stronger position within the chosen segment.",
+        "Serving several segments often raises unit costs, because it means more product versions and shorter production runs."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-09",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a feature of a product that competitors do not have, giving customers a specific reason to choose it?",
+      "options": ["Unique selling point", "Added value", "Market share", "Competitive market"],
+      "answer": 0,
+      "why": "A unique selling point, or USP, is the specific thing only your product offers. It is the most direct form of differentiation.",
+      "whyNot": [
+        "",
+        "Added value is the difference between price and bought-in costs. A USP may create added value, but it is not the same thing.",
+        "Market share is the proportion of total market sales a business holds, which is a measure of size rather than a product feature.",
+        "That describes a market with many rivals, not a feature of one product."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-10",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "hard",
+      "stem": "A business positioned at low price and basic quality wants to reposition as premium and high price. What is the most significant obstacle?",
+      "options": [
+        "Its whole cost base and brand were built for the low-price position",
+        "Market maps cannot be redrawn once a business is plotted on them",
+        "Repositioning is not permitted once a brand is established",
+        "Premium positions always have lower added value"
+      ],
+      "answer": 0,
+      "why": "Repositioning is not a pricing decision, it is a whole-business decision. Premium customers expect quality, service and brand that the low-cost operation was never built to deliver, and acquiring all of that raises costs long before any higher price arrives.",
+      "whyNot": [
+        "",
+        "A market map is just a diagram. It is redrawn whenever positions change; it does not constrain anything.",
+        "There is no such restriction. Airlines, retailers and car makers reposition regularly. It is difficult, not forbidden.",
+        "Premium positions usually have much higher added value per unit. That is the attraction of moving there."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-11",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "A firm sells 4,000 units at $9 each. Bought-in materials cost $3.50 per unit. What is the total added value?",
+      "options": ["$22,000", "$36,000", "$14,000", "$50,000"],
+      "answer": 0,
+      "why": "Added value per unit = $9.00 − $3.50 = $5.50. Total added value = $5.50 × 4,000 = $22,000.",
+      "whyNot": [
+        "",
+        "That is total revenue ($9 × 4,000). You still need to deduct the bought-in materials.",
+        "That is the total cost of bought-in materials ($3.50 × 4,000), which is what you subtract, not the answer.",
+        "This adds revenue and materials cost together. Added value is the difference between them, not the sum."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-12",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "Which of the following is a drawback of product orientation?",
+      "options": [
+        "The business may produce something customers do not actually want",
+        "It prevents the business from ever charging a premium price",
+        "It requires more market research than market orientation",
+        "It cannot be used by large businesses"
+      ],
+      "answer": 0,
+      "why": "Product orientation starts from what the business believes in rather than from evidence about demand. That is how genuinely new categories appear, and also how expensive failures happen.",
+      "whyNot": [
+        "",
+        "A strongly differentiated, product-led design can command a high premium. Positioning, not orientation, determines price.",
+        "It requires less research, not more. Market orientation is the research-led approach.",
+        "Large firms use it too, particularly in technology, where customers cannot describe a product that does not yet exist."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-13",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "In the Construct command word, a question asks you to draw a market map. Which omission would cost the most marks?",
+      "options": [
+        "Leaving the axes unlabelled",
+        "Drawing the dots as squares rather than circles",
+        "Using a ruler rather than freehand",
+        "Plotting the products in a different order from the source"
+      ],
+      "answer": 0,
+      "why": "The axes are what give a market map its meaning. Without labels showing what each axis measures and what each end represents, the diagram communicates nothing and earns almost no marks.",
+      "whyNot": [
+        "",
+        "The shape used to mark a product is irrelevant, as long as each one is clearly identified.",
+        "Neatness helps readability but carries no marks of its own.",
+        "There is no required order. What matters is that each product is plotted in the right position relative to the axes."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-14",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "hard",
+      "stem": "Which statement best explains the link between differentiation, competitive advantage and added value?",
+      "options": [
+        "Differentiation is the cause, competitive advantage is the result, and added value is how it shows up in the numbers",
+        "Added value causes differentiation, which then creates competitive advantage",
+        "They are three different names for the same idea",
+        "Competitive advantage causes differentiation, which reduces added value"
+      ],
+      "answer": 0,
+      "why": "Making the product genuinely distinct is the action. Customers then choosing you over rivals is the advantage. Being able to charge more than your inputs cost is how that advantage appears financially. Showing this chain is what earns analysis marks.",
+      "whyNot": [
+        "",
+        "The causation runs the other way. You differentiate first; the higher added value follows from customers being willing to pay more.",
+        "They are distinct ideas: an action, an outcome, and a financial measure. Treating them as synonyms loses the chain of reasoning.",
+        "Both halves are wrong. Differentiation leads to advantage, not the reverse, and successful differentiation raises added value rather than reducing it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-15",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "medium",
+      "stem": "Which of the following is an example of segmenting a market demographically?",
+      "options": [
+        "Targeting households with an annual income above $60,000",
+        "Targeting customers who value environmental sustainability",
+        "Targeting customers who buy at least once a week",
+        "Targeting customers living in coastal regions"
+      ],
+      "answer": 0,
+      "why": "Income is a demographic characteristic, alongside age, gender, family size and occupation. Demographic segmentation uses measurable facts about who the customer is.",
+      "whyNot": [
+        "",
+        "Values and attitudes are psychographic segmentation, which is about how customers think rather than measurable facts about them.",
+        "Purchase frequency is behavioural segmentation, based on how customers act rather than who they are.",
+        "Location is geographic segmentation."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-3-16",
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "difficulty": "hard",
+      "stem": "Why is a unique selling point often a weaker source of long-term competitive advantage than it first appears?",
+      "options": [
+        "Most USPs can be copied by competitors once they are seen to work",
+        "A USP always forces the business to charge a lower price",
+        "Customers cannot recognise a USP without advertising",
+        "A USP prevents a business from segmenting its market"
+      ],
+      "answer": 0,
+      "why": "A successful USP advertises itself to rivals. Unless it is protected by a patent, a brand built over years, or a cost structure others cannot match, competitors imitate it and the advantage erodes. Saying how long an advantage might last is exactly the judgement examiners reward.",
+      "whyNot": [
+        "",
+        "A USP normally supports a higher price, because it gives customers a reason to choose you that is not about cost.",
+        "Advertising helps communicate a USP, but some are immediately obvious in the product itself. This is not the main long-term weakness.",
+        "The two are unrelated. A business can have a USP aimed specifically at one segment."
+      ]
+    }
+  ]
+}

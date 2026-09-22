@@ -1,0 +1,924 @@
+{
+  "unit": "WAC12",
+  "intro": "WAC12 is 3 hours for 200 marks: Section A has two compulsory 55-mark multi-part questions from given data, and Section B has three optional 30-mark questions from a choice of four. A resource booklet accompanies the paper and calculators are allowed.\n\nThat works out at roughly 54 seconds per mark, so a 55-mark question deserves about 50 minutes and a 30-mark question about 27. Read all four Section B questions before choosing three: pick on the basis of the written parts as much as the calculations, because the written parts are where marks are most often lost.\n\nWork each drill below WITHOUT looking at the solution, then compare your layout as well as your answer. Presentation earns marks in this paper: correct headings, subtotals in the right places, workings labelled W1 and W2, and a stated conclusion after every calculation. A correct figure with no interpretation loses the easiest marks on the paper.",
+  "questions": [
+    {
+      "id": "wac12-w-01",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "commandWord": "Evaluate",
+      "marks": 12,
+      "context": "Harbour Marine plc plans to spend $900,000 on new equipment expected to earn an operating return of 14% a year. It can either issue 9% debentures for $900,000 or make a rights issue of 750,000 ordinary shares of $0.50 at $1.20 each. Current position: ordinary share capital $1,200,000 (2,400,000 shares of $0.50); reserves $760,000; existing 8% debentures $400,000. Operating profit last year was $340,000. The directors between them own 38% of the shares.",
+      "question": "Evaluate whether Harbour Marine plc should finance the equipment by issuing debentures or by making a rights issue.",
+      "planner": [
+        {
+          "label": "Do the arithmetic first (5 minutes)",
+          "prompt": "Gearing now: fixed-return capital 400,000 / total 2,360,000 = 16.9%. Under debentures: 1,300,000 / 3,260,000 = 39.9%. Under the rights issue: 400,000 / 3,260,000 = 12.3%. Then interest: new debenture interest 900,000 x 9% = $81,000 a year, on top of the existing $32,000. And the return: 900,000 x 14% = $126,000 a year."
+        },
+        {
+          "label": "The single most important comparison",
+          "prompt": "Return of 14% against the cost of debt at 9%. The project earns $126,000 and the interest costs $81,000, so debt finance leaves $45,000 a year for the ordinary shareholders. State that figure."
+        },
+        {
+          "label": "The case for debentures",
+          "prompt": "Return exceeds the cost, interest is tax deductible, no dilution of the directors' 38% holding, and no permanent claim on profits once repaid. Quote the gearing figure."
+        },
+        {
+          "label": "The case for the rights issue",
+          "prompt": "No obligatory interest, so no risk in a bad year; gearing falls to 12.3%; and it raises 750,000 x $1.20 = $900,000, exactly what is needed. Note the dilution point: if the directors do not take up their rights, their 38% falls."
+        },
+        {
+          "label": "Evaluate",
+          "prompt": "Pick three: how stable are Harbour Marine's profits, since interest must be paid whatever happens; whether shareholders will take up the rights; whether the 14% return is certain; and what gearing of 39.9% does to the cost of any future borrowing."
+        },
+        {
+          "label": "Judge with a condition",
+          "prompt": "Commit. Then say what it depends on: the stability of operating profit and the reliability of the 14% estimate. Quote your own figures in the conclusion."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2: the calculations",
+          "text": "Capital gearing is currently (400,000 / 2,360,000) x 100 = 16.9%, which is low. A debenture issue would raise fixed-return capital to $1,300,000 and total long-term capital to $3,260,000, giving gearing of 39.9%. A rights issue would leave fixed-return capital unchanged at $400,000 while raising total capital to $3,260,000, reducing gearing to 12.3%.",
+          "note": "All three figures calculated and stated before any argument. Do the numbers first; they drive everything."
+        },
+        {
+          "earns": "AO2 + AO3: the decisive comparison",
+          "text": "The project is expected to earn 14% on $900,000, which is $126,000 a year. New debenture interest would be $81,000 a year, so debt finance would leave $45,000 a year of additional profit attributable to the ordinary shareholders, on top of the return on their existing capital. Because the return exceeds the cost of the debt, borrowing adds value: this is the central financial test and it points towards the debentures.",
+          "note": "The comparison of ROCE with the cost of borrowing, quantified. Most candidates state the two percentages without computing the surplus in money terms."
+        },
+        {
+          "earns": "AO3: the case for equity",
+          "text": "Against this, debenture interest is contractual and must be paid whether or not the company makes a profit. Total interest would rise to $113,000 a year against operating profit of $340,000 last year, so a third of current operating profit would be committed before any ordinary dividend. A rights issue creates no such obligation: dividends can be reduced or passed in a poor year. It also reduces gearing to 12.3%, preserving the capacity to borrow later.",
+          "note": "Quantifies the risk as a proportion of existing profit, which is far stronger than saying interest is a fixed cost."
+        },
+        {
+          "earns": "AO4: evaluation",
+          "text": "Three factors determine the choice. First, the stability of operating profit: a marine business with seasonal and weather-dependent revenue faces a real risk of a year in which $113,000 of interest is difficult to cover, and that argues against gearing of nearly 40%. Second, the reliability of the 14% estimate: if the actual return were below 9%, debt finance would reduce rather than increase shareholders' returns, and the fixed interest would still be payable. Third, the rights issue carries a dilution risk for the directors, who hold 38%: if they cannot take up their rights the holding falls and control is weakened, which may make them prefer debt for reasons that are not purely financial.",
+          "note": "Three distinct, applied evaluation points. The third identifies a conflict of interest between the directors and the company, which is a sophisticated observation."
+        },
+        {
+          "earns": "AO4: judgement",
+          "text": "On balance Harbour Marine should use the rights issue, despite the debentures appearing cheaper on the arithmetic. The $45,000 annual advantage of debt finance is modest relative to the risk of committing a third of current operating profit to fixed interest in a business whose revenue is seasonal, and the rights issue leaves gearing at 12.3%, preserving borrowing capacity for future opportunities. The judgement depends principally on how reliable the 14% return is: if the earnings from the equipment were contractually secured, for example under a long-term charter, the case for debentures would become much stronger.",
+          "note": "Commits against the arithmetic with a stated reason, and names the single condition that would reverse the decision. That is what 'evaluate' asks for."
+        }
+      ],
+      "markScheme": [
+        "Calculation of gearing before and under both options (3).",
+        "Comparison of the 14% return with the 9% cost, quantified (2).",
+        "Development of the risk of fixed interest relative to current operating profit (3).",
+        "Evaluation with applied conditions, including profit stability and dilution of control (4)."
+      ]
+    },
+    {
+      "id": "wac12-w-02",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "commandWord": "Evaluate",
+      "marks": 12,
+      "context": "Cove Products makes one product selling at $60. Variable production cost is $34 a unit and fixed production overhead is $150,000 a year, absorbed on a budgeted output of 10,000 units. A retailer has offered to buy 2,000 units at $41 each, delivered, as a one-off order. Cove is currently producing 8,600 units a year and has capacity for 11,000. Delivery for this order would cost Cove $3,400 in total. The retailer sells in the same region as Cove's existing customers.",
+      "question": "Evaluate whether Cove Products should accept the order at $41 per unit.",
+      "planner": [
+        {
+          "label": "Get the relevant cost right (3 minutes)",
+          "prompt": "Full cost is 34 + 15 = $49, which is above $41. Do NOT reject on that basis. The relevant cost is the VARIABLE cost of $34, because the $150,000 of fixed overhead is being incurred anyway. Then remember the delivery cost, which IS relevant because it only arises with this order."
+        },
+        {
+          "label": "Calculate the contribution",
+          "prompt": "Contribution per unit = 41 - 34 = $7. Total = 2,000 x 7 = $14,000. Less the specific delivery cost of $3,400 gives a net gain of $10,600. Getting the delivery cost in is what distinguishes a careful answer."
+        },
+        {
+          "label": "Check the capacity condition",
+          "prompt": "8,600 + 2,000 = 10,600, which is within the 11,000 capacity. So no existing sales are displaced. State that explicitly: the whole decision turns on it."
+        },
+        {
+          "label": "The qualitative factors, where the marks are",
+          "prompt": "The source plants the key one: the retailer sells in the SAME region, so existing customers may discover the $41 price and demand it. Quantify the risk: existing contribution is $26 a unit on 8,600 units = $223,600, so even a small concession swamps the $10,600 gain."
+        },
+        {
+          "label": "Other factors",
+          "prompt": "Is it genuinely one-off? At $41 it does not cover full cost, so it cannot be a permanent price. Does it open a new channel? Does it use capacity needed for a better opportunity?"
+        },
+        {
+          "label": "Judge with a condition",
+          "prompt": "Commit, and attach the condition that actually matters: acceptance only if the price can be kept confidential and the order is genuinely one-off."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2",
+          "text": "The absorption cost per unit is $34 variable plus $15 of absorbed fixed overhead, a full cost of $49, so the offer of $41 is $8 below full cost. That comparison is not the relevant one. The $150,000 of fixed production overhead will be incurred whether or not the order is accepted, so it is not a relevant cost of this decision. The relevant costs are the variable cost of $34 a unit and the $3,400 of delivery, which arises only if the order is taken.",
+          "note": "States the misleading comparison, explains why it is misleading, then identifies the relevant costs including the incremental delivery cost."
+        },
+        {
+          "earns": "AO2: the calculation",
+          "text": "Contribution per unit is $41 - $34 = $7, giving total contribution of 2,000 x $7 = $14,000. Deducting the $3,400 of delivery cost specific to the order leaves a net increase in profit of $10,600.",
+          "note": "Clean, laid out, and the delivery cost is deducted rather than forgotten."
+        },
+        {
+          "earns": "AO2 + AO3: the capacity condition",
+          "text": "This gain is only available if the capacity is genuinely spare. Current output is 8,600 units and the order would take production to 10,600 units, within the capacity of 11,000, so no existing full-price sales would be displaced. Had the order exceeded capacity, the contribution forgone on displaced sales of $26 a unit would have far outweighed the $7 earned on the order.",
+          "note": "Tests the condition against the data and states the counterfactual, which shows understanding rather than luck."
+        },
+        {
+          "earns": "AO4: the decisive risk, quantified",
+          "text": "The most serious risk is that the retailer sells in the same region as Cove's existing customers, who may discover the $41 price and demand equivalent terms. Existing sales of 8,600 units earn contribution of $26 each, or $223,600 a year. A price concession of just $2 a unit across those sales would cost $17,200, which already exceeds the $10,600 gained from the order. The downside is therefore an order of magnitude larger than the upside.",
+          "note": "This is the paragraph that earns the top marks. It converts a qualitative worry into a quantified comparison using figures the candidate derived, not figures given."
+        },
+        {
+          "earns": "AO4: judgement with a condition",
+          "text": "Cove should accept the order only on strict conditions. Financially it adds $10,600 with no displacement of existing sales, which is worth having. But because the retailer operates in the same region, acceptance should depend on the price being confidential and on the order being genuinely one-off, since $41 does not cover the full cost of $49 and could not be sustained as a general price. If confidentiality cannot be secured, Cove should decline: the $10,600 gain is not worth risking a fraction of $223,600 of existing contribution.",
+          "note": "Conditional acceptance, with the condition drawn from the source and the reasoning quantified. Far stronger than a plain yes or no."
+        }
+      ],
+      "markScheme": [
+        "Identifies the relevant costs and explains why fixed overhead is excluded (3).",
+        "Calculates contribution and the net gain including the incremental delivery cost (3).",
+        "Tests the spare capacity condition against the data (2).",
+        "Evaluation quantifying the risk to existing contribution, with a conditional judgement (4)."
+      ]
+    },
+    {
+      "id": "wac12-w-03",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "commandWord": "Assess",
+      "marks": 10,
+      "context": "Reef Trading's statement of cash flows shows: operating profit $210,000; depreciation added back $85,000; profit on disposal deducted $9,000; inventory up $56,000; receivables up $57,000; payables up $12,000; cash generated from operations $185,000; interest paid $18,000; tax paid $42,000; net cash from operating activities $125,000. Investing: equipment purchased $260,000, proceeds of disposal $34,000. Financing: debentures issued $150,000, dividends paid $60,000. Cash fell from $26,000 to $15,000 over the year. Revenue grew 24% during the year.",
+      "question": "Assess the liquidity position of Reef Trading.",
+      "planner": [
+        {
+          "label": "State the paradox (1 minute)",
+          "prompt": "Operating profit $210,000 and cash FELL by $11,000. Open with that, because it is the whole point of the question, then explain it."
+        },
+        {
+          "label": "Identify what absorbed the cash",
+          "prompt": "Working capital took $101,000: inventory up 56,000 and receivables up 57,000 against only 12,000 more credit from suppliers. With revenue up 24%, that is the classic signature of growth consuming cash."
+        },
+        {
+          "label": "Check how the investment was financed",
+          "prompt": "Net investing outflow was 260,000 - 34,000 = $226,000. Long-term finance raised was $150,000. So $76,000 of long-term investment came out of short-term resources. Name it: a financing mismatch."
+        },
+        {
+          "label": "Check the dividend",
+          "prompt": "Dividends of $60,000 against net operating cash of $125,000. Covered, but they consumed nearly half the operating cash in a year when the company also needed to fund $226,000 of investment."
+        },
+        {
+          "label": "Distinguish repeatable from one-off",
+          "prompt": "The $150,000 debenture issue and the $34,000 disposal proceeds cannot be repeated next year. Operating cash of $125,000 is the recurring figure, and it does not cover $226,000 of investment."
+        },
+        {
+          "label": "Judge and recommend",
+          "prompt": "Say whether this is a cash problem or a profit problem. It is a timing and financing problem, not a profitability problem. Recommend: tighter credit control, inventory reduction, longer-term finance for long-term assets, a smaller dividend. Add what further information you would want: a cash budget."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO2: the paradox",
+          "text": "Reef Trading generated an operating profit of $210,000 and yet its cash balance fell by $11,000, from $26,000 to $15,000. The statement of cash flows explains why, and the explanation is more informative than the profit figure.",
+          "note": "Opens on the tension the question is really about."
+        },
+        {
+          "earns": "AO3: what absorbed the cash",
+          "text": "Working capital absorbed $101,000. Inventory rose by $56,000 and receivables by $57,000, a combined $113,000, offset by only $12,000 of additional credit from suppliers. With revenue up 24% over the year, this is characteristic of growth: expansion requires more stock to be held and gives customers more credit, and both consume cash before the corresponding sales are collected. Rising profit and falling cash are therefore entirely consistent.",
+          "note": "Connects the working capital movement to the revenue growth figure. That link is the analysis."
+        },
+        {
+          "earns": "AO3: the financing mismatch",
+          "text": "More seriously, the company spent $226,000 net on non-current assets while raising only $150,000 of long-term finance. The remaining $76,000 of long-term investment was funded from short-term resources, which is a financing mismatch: assets that will generate returns over many years have been paid for out of working capital that is needed for day-to-day trading.",
+          "note": "Names the mismatch and quantifies it. This is the point that earns the higher marks."
+        },
+        {
+          "earns": "AO4: repeatable against one-off",
+          "text": "The sustainability of the position depends on distinguishing recurring from one-off cash flows. The $150,000 debenture issue and the $34,000 of disposal proceeds are both one-off: neither can be repeated next year. The recurring figure is net cash from operating activities of $125,000, which is positive and healthy, and it does not cover capital expenditure of the order of $226,000. Dividends of $60,000 also consumed almost half of that operating cash in a year when the company needed to fund substantial investment.",
+          "note": "The repeatability distinction is a strong evaluative move that few candidates make."
+        },
+        {
+          "earns": "AO4: judgement and recommendation",
+          "text": "Reef Trading has a liquidity and financing problem rather than a profitability problem: it is profitable, growing and short of cash, which is the position of an overtrading business. A closing balance of $15,000 leaves very little margin for error. The appropriate responses are to finance long-life assets with long-term borrowing or leasing rather than trading cash, to tighten credit control so that receivables do not continue to grow faster than revenue, to reduce inventory where possible, and to consider a smaller dividend while the investment programme continues. To judge the urgency, a cash budget for the coming year would be far more informative than this historical statement, since it would show whether and when the balance goes negative.",
+          "note": "Diagnoses the type of problem, recommends four specific actions each tied to an identified cause, and names the further information needed."
+        }
+      ],
+      "markScheme": [
+        "Identifies and explains the gap between operating profit and the fall in cash (3).",
+        "Quantifies the working capital absorption and links it to revenue growth (2).",
+        "Identifies the financing mismatch with figures (2).",
+        "Judgement distinguishing a liquidity from a profitability problem, with specific recommendations (3)."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wac12-c-01",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "title": "Rights issue, then bonus issue, with a check on total equity",
+      "given": [
+        "Opening position:",
+        "  400,000 ordinary shares of $0.50 each   $200,000",
+        "  Share premium                            $90,000",
+        "  Retained earnings                       $260,000",
+        "Step 1: rights issue, 1 for 4, at $1.20 per share",
+        "Step 2: bonus issue, 1 for 5, using share premium first"
+      ],
+      "steps": [
+        {
+          "label": "1. The rights issue: shares and cash",
+          "working": "Shares issued = 400,000 / 4 = 100,000\nCash received = 100,000 x $1.20 = $120,000\nShare capital = 100,000 x $0.50 = $50,000\nShare premium = 100,000 x ($1.20 - $0.50) = $70,000",
+          "note": "SPLIT the proceeds. Crediting the whole $120,000 to share capital is the most penalised error in this topic."
+        },
+        {
+          "label": "2. Journal for the rights issue",
+          "working": "Dr Bank                  120,000\n  Cr Ordinary share capital   50,000\n  Cr Share premium            70,000",
+          "note": "Share premium is now 90,000 + 70,000 = $160,000. Shares in issue are 500,000."
+        },
+        {
+          "label": "3. The bonus issue",
+          "working": "Shares issued = 500,000 / 5 = 100,000\nNominal value = 100,000 x $0.50 = $50,000\n\nDr Share premium          50,000\n  Cr Ordinary share capital  50,000",
+          "note": "NO cash. A bonus issue converts reserves into share capital."
+        },
+        {
+          "label": "4. Closing equity",
+          "working": "Share capital (600,000 x $0.50)     300,000\nShare premium (160,000 - 50,000)    110,000\nRetained earnings                   260,000\n                                    -------\nTotal equity                        670,000",
+          "note": "Lay it out as it would appear in the statement of financial position."
+        },
+        {
+          "label": "5. The check that catches errors",
+          "working": "Opening equity = 200,000 + 90,000 + 260,000 = 550,000\nClosing equity = 670,000\nIncrease      = 120,000  = exactly the rights issue cash",
+          "note": "The bonus issue changed the MIX and not the total. If your increase is not exactly the cash raised, the bonus issue has been done wrongly."
+        }
+      ],
+      "answer": "Share capital $300,000; share premium $110,000; retained earnings $260,000; total equity $670,000. The increase of $120,000 equals the cash from the rights issue.",
+      "tryIt": {
+        "given": [
+          "600,000 ordinary shares of $0.25 each  $150,000",
+          "Share premium $70,000; retained earnings $310,000",
+          "Rights issue 1 for 3 at $0.90; then bonus issue 1 for 4 using share premium then retained earnings"
+        ],
+        "answer": "Rights: 200,000 shares, cash $180,000, capital $50,000, premium 200,000 x 0.65 = $130,000. Premium now $200,000; shares 800,000. Bonus: 200,000 shares at $0.25 nominal = $50,000, all from share premium. Closing: share capital (1,000,000 x 0.25) $250,000; share premium (200,000 - 50,000) $150,000; retained earnings $310,000; total equity $710,000. Check: 530,000 + 180,000 = 710,000. Correct."
+      }
+    },
+    {
+      "id": "wac12-c-02",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "title": "All six investment ratios from one set of data",
+      "given": [
+        "Operating profit                          340,000",
+        "Finance costs                            (40,000)",
+        "Profit before tax                         300,000",
+        "Taxation                                 (60,000)",
+        "Profit after tax                          240,000",
+        "Ordinary share capital: 800,000 shares of $0.50   400,000",
+        "8% preference shares of $1                150,000",
+        "Reserves                                  510,000",
+        "10% debentures                            400,000",
+        "Ordinary dividend paid                     96,000",
+        "Market price per ordinary share             $2.40"
+      ],
+      "steps": [
+        {
+          "label": "1. Earnings available to ORDINARY shareholders",
+          "working": "Preference dividend = 150,000 x 8% = 12,000\nEarnings available  = 240,000 - 12,000 = 228,000",
+          "note": "Always deduct the preference dividend first. Forgetting it is the commonest error in this topic."
+        },
+        {
+          "label": "2. Earnings per share",
+          "working": "EPS = 228,000 / 800,000 shares\n    = $0.285, or 28.5 cents",
+          "note": "Number of SHARES, not the $400,000 of capital. With shares of $0.50, the count is double the dollar figure."
+        },
+        {
+          "label": "3. Price earnings ratio",
+          "working": "P/E = 2.40 / 0.285\n    = 8.4 times",
+          "note": "Price divided by earnings. Inverting it is an easy mark to lose."
+        },
+        {
+          "label": "4. Dividend per share and dividend yield",
+          "working": "DPS   = 96,000 / 800,000 = $0.12, or 12 cents\nYield = (0.12 / 2.40) x 100 = 5.0%",
+          "note": "Yield uses the MARKET price, not the nominal value."
+        },
+        {
+          "label": "5. Dividend cover",
+          "working": "Cover = 228,000 / 96,000 = 2.4 times\nCheck = EPS / DPS = 0.285 / 0.12 = 2.4  (agrees)",
+          "note": "Two routes to the same figure. Use the check; it costs ten seconds."
+        },
+        {
+          "label": "6. Return on capital employed",
+          "working": "Capital employed = equity + non-current liabilities\n = (400,000 + 150,000 + 510,000) + 400,000\n = 1,460,000\n\nROCE = (340,000 / 1,460,000) x 100 = 23.3%",
+          "note": "OPERATING profit on top, because the debt that generates the interest is in the denominator."
+        },
+        {
+          "label": "7. Interpret, which is where the marks are",
+          "working": "Cover 2.4 times -> retention ratio = 1 - (1/2.4) = 58%\n  so well over half of earnings is reinvested\n\nROCE 23.3% against debentures at 10%\n  so borrowing to invest is adding value",
+          "note": "A number with no interpretation earns almost nothing. The ROCE against cost of capital comparison is the key evaluative move."
+        }
+      ],
+      "answer": "EPS 28.5c; P/E 8.4 times; DPS 12c; yield 5.0%; cover 2.4 times; ROCE 23.3%.",
+      "tryIt": {
+        "given": [
+          "Profit after tax 315,000; 6% preference shares of $1: 200,000",
+          "1,500,000 ordinary shares of $0.20 (capital 300,000); reserves 620,000",
+          "9% debentures 500,000; ordinary dividend paid 121,500; market price $1.86",
+          "Operating profit 420,000"
+        ],
+        "answer": "Preference dividend $12,000; earnings available $303,000. EPS = 303,000/1,500,000 = $0.202 (20.2c). P/E = 1.86/0.202 = 9.2 times. DPS = 121,500/1,500,000 = $0.081 (8.1c). Yield = (0.081/1.86) x 100 = 4.4%. Cover = 303,000/121,500 = 2.5 times. Capital employed = 300,000 + 200,000 + 620,000 + 500,000 = 1,620,000. ROCE = (420,000/1,620,000) x 100 = 25.9%, well above the 9% cost of the debentures."
+      }
+    },
+    {
+      "id": "wac12-c-03",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "title": "Operating activities: the signs, in the order that catches errors",
+      "given": [
+        "Operating profit                      210,000",
+        "Depreciation charged                   85,000",
+        "Profit on disposal of equipment         9,000",
+        "Proceeds of disposal                   34,000",
+        "Interest paid                          18,000",
+        "Tax paid                               42,000",
+        "                      Opening    Closing",
+        "Inventory             140,000    196,000",
+        "Trade receivables     118,000    175,000",
+        "Trade payables         92,000    104,000"
+      ],
+      "steps": [
+        {
+          "label": "1. Working capital movements, with signs, BEFORE anything else",
+          "working": "Inventory   196,000 - 140,000 = +56,000 rise -> -56,000\nReceivables 175,000 - 118,000 = +57,000 rise -> -57,000\nPayables    104,000 -  92,000 = +12,000 rise -> +12,000",
+          "note": "Cash moves OPPOSITE to an asset and WITH a liability. Do this small table first; most errors are sign errors."
+        },
+        {
+          "label": "2. Non-cash adjustments",
+          "working": "Depreciation        +85,000  (add back: no cash left)\nProfit on disposal   -9,000  (deduct: the full\n                              proceeds appear in\n                              investing activities)",
+          "note": "A LOSS on disposal would be added back. A profit is deducted, or the $34,000 is counted twice."
+        },
+        {
+          "label": "3. Cash generated from operations",
+          "working": "Operating profit              210,000\nDepreciation                  +85,000\nProfit on disposal             -9,000\nIncrease in inventory         -56,000\nIncrease in receivables       -57,000\nIncrease in payables          +12,000\n                             --------\nCash generated from operations 185,000",
+          "note": "Use exactly this order and these labels. Presentation earns marks."
+        },
+        {
+          "label": "4. Net cash from operating activities",
+          "working": "Cash generated from operations 185,000\nInterest paid                  -18,000\nTax paid                       -42,000\n                              --------\nNet cash from operating        125,000",
+          "note": "Interest paid sits HERE, after cash generated from operations. Dividends paid do NOT: they go in financing."
+        },
+        {
+          "label": "5. The gap that is the whole point",
+          "working": "Operating profit               210,000\nNet cash from operating        125,000\nDifference                      85,000\n\nWorking capital absorbed 101,000 of cash\nwhile depreciation added back 85,000.",
+          "note": "Always state and explain the gap. That sentence is the analysis the examiner is looking for."
+        }
+      ],
+      "answer": "Cash generated from operations $185,000; net cash from operating activities $125,000, against an operating profit of $210,000.",
+      "tryIt": {
+        "given": [
+          "Operating profit 164,000; depreciation 62,000; LOSS on disposal 7,000",
+          "Interest paid 21,000; tax paid 35,000",
+          "Inventory 88,000 to 71,000; receivables 143,000 to 166,000; payables 79,000 to 64,000"
+        ],
+        "answer": "Inventory FELL 17,000 -> +17,000. Receivables rose 23,000 -> -23,000. Payables FELL 15,000 -> -15,000. Cash generated = 164,000 + 62,000 + 7,000 (loss is added back) + 17,000 - 23,000 - 15,000 = $212,000. Net cash from operating = 212,000 - 21,000 - 35,000 = $156,000. Note the loss on disposal is ADDED, and that here cash generated EXCEEDS operating profit because inventory was run down."
+      }
+    },
+    {
+      "id": "wac12-c-04",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "title": "Production and purchases budgets, then a three-month cash budget",
+      "given": [
+        "Sales:     January 80,000   February 95,000   March 110,000",
+        "December sales were 70,000",
+        "30% of sales are cash; 70% received the month after sale",
+        "Purchases are 60% of NEXT month's sales, paid the month after purchase",
+        "December purchases were 48,000",
+        "Wages 14,000 a month, paid in the month",
+        "Other overheads 9,000 a month, including 2,000 depreciation",
+        "Equipment costing 40,000 is paid for in February",
+        "Opening cash at 1 January: 12,000",
+        "All figures in $"
+      ],
+      "steps": [
+        {
+          "label": "1. Receipts, month by month",
+          "working": "Jan: cash 80,000 x 30%      = 24,000\n     credit from Dec 70,000 x 70% = 49,000\n     Total                      = 73,000\n\nFeb: cash 95,000 x 30%      = 28,500\n     credit from Jan 80,000 x 70% = 56,000\n     Total                      = 84,500\n\nMar: cash 110,000 x 30%     = 33,000\n     credit from Feb 95,000 x 70% = 66,500\n     Total                      = 99,500",
+          "note": "Do receipts on a separate working. Forgetting the December credit sales loses the January mark."
+        },
+        {
+          "label": "2. Payments to suppliers: identify which purchase is paid when",
+          "working": "Purchases are 60% of NEXT month's sales:\n  Dec purchases (given)                     = 48,000\n  Jan purchases = 60% of Feb 95,000         = 57,000\n  Feb purchases = 60% of Mar 110,000        = 66,000\n\nPaid one month later:\n  January pays for December  = 48,000\n  February pays for January  = 57,000\n  March pays for February    = 66,000",
+          "note": "Two lags at once: purchases lead sales by a month, and payment lags purchase by a month. Write both lines out."
+        },
+        {
+          "label": "3. Overheads actually paid",
+          "working": "9,000 - 2,000 depreciation = 7,000 a month",
+          "note": "Cross out the depreciation in the question as soon as you see it."
+        },
+        {
+          "label": "4. The cash budget",
+          "working": "                      Jan       Feb       Mar\nOpening balance     12,000    15,000  (18,500)\nReceipts            73,000    84,500    99,500\n                   -------   -------   -------\nAvailable           85,000    99,500    81,000\n\nSuppliers          (48,000)  (57,000)  (66,000)\nWages              (14,000)  (14,000)  (14,000)\nOverheads           (7,000)   (7,000)   (7,000)\nEquipment                -   (40,000)        -\n                   -------   -------   -------\nPayments           (69,000) (118,000)  (87,000)\n\nClosing balance     15,000  (18,500)  (24,500)",
+          "note": "Carry each closing balance forward as the next opening balance. An error here cascades through the whole budget."
+        },
+        {
+          "label": "5. What the budget is telling management",
+          "working": "Sales rise every month and cash gets WORSE every month.\n\nTwo causes:\n 1. The 40,000 equipment was paid for out of\n    trading cash in a single month.\n 2. Growth means supplier payments rise a month\n    AHEAD of the receipts from the sales they support.\n\nWorst month: March, overdraft of 24,500 needed.",
+          "note": "This is a TIMING problem, not a profitability problem. Saying which is the sharpest single point available."
+        },
+        {
+          "label": "6. What to do about it",
+          "working": "- Finance the equipment by loan or lease over its life\n- Arrange an overdraft facility BEFORE March\n- Tighten credit terms or offer a settlement discount\n- Negotiate longer credit from suppliers\n\nNote: none of these involves selling more.",
+          "note": "Each remedy attacks an identified cause. Chain each one to its effect on the budget."
+        }
+      ],
+      "answer": "Closing balances: January $15,000; February overdrawn $18,500; March overdrawn $24,500. The deficit is caused by paying for the equipment out of trading cash and by growth requiring supplier payment ahead of receipts.",
+      "tryIt": {
+        "given": [
+          "Sales: April 60,000; May 72,000; June 84,000; March sales were 54,000",
+          "40% cash, 60% received the following month",
+          "Purchases 50% of next month's sales, paid the following month; March purchases 30,000",
+          "Wages 11,000 a month; overheads 8,000 including 1,500 depreciation",
+          "A van costing 26,000 is paid for in May; opening cash 9,000"
+        ],
+        "answer": "Receipts: Apr 24,000 + 32,400 = 56,400; May 28,800 + 36,000 = 64,800; Jun 33,600 + 43,200 = 76,800. Purchases: Mar 30,000 (given); Apr = 50% of May 72,000 = 36,000; May = 50% of Jun 84,000 = 42,000. Paid: Apr 30,000; May 36,000; Jun 42,000. Overheads paid 6,500. April: 9,000 + 56,400 - 30,000 - 11,000 - 6,500 = 17,900. May: 17,900 + 64,800 - 36,000 - 11,000 - 6,500 - 26,000 = 3,200. June: 3,200 + 76,800 - 42,000 - 11,000 - 6,500 = 20,500. The balance stays positive but falls to only 3,200 in May because of the van purchase."
+      }
+    },
+    {
+      "id": "wac12-c-05",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "title": "Flexing a budget, and why the naive comparison is meaningless",
+      "given": [
+        "Budget prepared for 10,000 units:",
+        "  Materials      60,000",
+        "  Labour         40,000",
+        "  Rent           25,000",
+        "  Maintenance    18,000, of which 8,000 is fixed",
+        "  Total         143,000",
+        "Actual results at 12,000 units:",
+        "  Materials      74,400",
+        "  Labour         49,000",
+        "  Rent           25,000",
+        "  Maintenance    20,500",
+        "  Total         168,900"
+      ],
+      "steps": [
+        {
+          "label": "1. Classify each cost and find the rate per unit",
+          "working": "Materials   variable: 60,000 / 10,000 = $6.00 per unit\nLabour      variable: 40,000 / 10,000 = $4.00 per unit\nRent        fixed: 25,000, do NOT flex\nMaintenance semi-variable:\n   fixed 8,000; variable 10,000 / 10,000 = $1.00 per unit",
+          "note": "Split the semi-variable cost BEFORE flexing, and flex only the variable part."
+        },
+        {
+          "label": "2. Flex the budget to 12,000 units",
+          "working": "Materials    12,000 x 6.00        =  72,000\nLabour       12,000 x 4.00        =  48,000\nRent         fixed                =  25,000\nMaintenance  8,000 + (12,000 x 1) =  20,000\n                                    -------\nFlexed budget                       165,000",
+          "note": "Rent stays at 25,000 and the 8,000 fixed element of maintenance stays at 8,000."
+        },
+        {
+          "label": "3. Compare with actual",
+          "working": "               Flexed    Actual   Variance\nMaterials      72,000    74,400   2,400 A\nLabour         48,000    49,000   1,000 A\nRent           25,000    25,000       -\nMaintenance    20,000    20,500     500 A\n              -------   -------   -------\nTotal         165,000   168,900   3,900 A",
+          "note": "Label every variance A or F. An unlabelled variance cannot get full marks."
+        },
+        {
+          "label": "4. The naive comparison, and why it is useless",
+          "working": "Original budget 143,000 against actual 168,900\n= 25,900 adverse\n\nBut 22,000 of that is simply the cost of making\n2,000 more units. The flexed comparison isolates\nthe 3,900 that is genuinely about COST CONTROL.",
+          "note": "This is the whole purpose of flexing. State the naive figure, then show what the flexed comparison strips out."
+        }
+      ],
+      "answer": "Flexed budget at 12,000 units: $165,000. Actual $168,900, so a total variance of $3,900 adverse, against a meaningless $25,900 adverse on the unflexed comparison.",
+      "tryIt": {
+        "given": [
+          "Budget at 8,000 units: materials 48,000; labour 36,000; insurance 14,000;",
+          "  power 22,000 of which 6,000 is fixed. Total 120,000",
+          "Actual at 9,500 units: materials 58,900; labour 41,800; insurance 14,000; power 25,600"
+        ],
+        "answer": "Rates: materials $6.00, labour $4.50, power variable 16,000/8,000 = $2.00 per unit with 6,000 fixed. Flexed at 9,500: materials 57,000; labour 42,750; insurance 14,000; power 6,000 + 19,000 = 25,000. Flexed total 138,750. Variances: materials 1,900 A; labour 950 F; insurance nil; power 600 A. Total 1,550 A. Note labour is FAVOURABLE once flexed, although actual labour cost is higher than the original budget."
+      }
+    },
+    {
+      "id": "wac12-c-06",
+      "topicRef": "2.5.1",
+      "topicTitle": "Standard costing",
+      "title": "Material and labour variances, with the check that catches sign errors",
+      "given": [
+        "Standard cost card per unit:",
+        "  3 kg of material at $4.00 per kg   = 12.00",
+        "  2 hours of labour at $9.00 per hour = 18.00",
+        "Actual results:",
+        "  5,000 units produced",
+        "  16,200 kg of material used, total cost 61,560",
+        "  9,600 labour hours worked, total cost 89,280"
+      ],
+      "steps": [
+        {
+          "label": "1. Derive the actual rates",
+          "working": "Actual price per kg   = 61,560 / 16,200 = $3.80\nActual rate per hour  = 89,280 /  9,600 = $9.30",
+          "note": "Questions give totals, not rates. Derive them before doing anything else."
+        },
+        {
+          "label": "2. Standards for the ACTUAL output",
+          "working": "Standard quantity = 5,000 x 3 kg    = 15,000 kg\nStandard hours    = 5,000 x 2 hours = 10,000 hours",
+          "note": "For the ACTUAL output of 5,000 units, not the budgeted output. This is the commonest error in the topic."
+        },
+        {
+          "label": "3. Material variances",
+          "working": "Price = (std price - actual price) x ACTUAL quantity\n      = (4.00 - 3.80) x 16,200 = 3,240 F\n\nUsage = (std qty for actual output - actual qty) x STD price\n      = (15,000 - 16,200) x 4.00 = 4,800 A\n\nTotal material = 3,240 F - 4,800 A = 1,560 A",
+          "note": "Price-type variance at the ACTUAL quantity; quantity-type variance at the STANDARD price. Standard first in both, so positive means favourable."
+        },
+        {
+          "label": "4. Check the material total",
+          "working": "Std cost of material for actual output\n  = 15,000 x 4.00 = 60,000\nActual cost      = 61,560\nDifference       =  1,560 A   (agrees)",
+          "note": "Ten seconds, and it catches almost every error. Always do it."
+        },
+        {
+          "label": "5. Labour variances",
+          "working": "Rate = (std rate - actual rate) x ACTUAL hours\n     = (9.00 - 9.30) x 9,600 = 2,880 A\n\nEfficiency = (std hrs for actual output - actual hrs) x STD rate\n           = (10,000 - 9,600) x 9.00 = 3,600 F\n\nTotal labour = 2,880 A + 3,600 F = 720 F",
+          "note": "Same rule: rate at actual hours, efficiency at the standard rate."
+        },
+        {
+          "label": "6. Check the labour total",
+          "working": "Std labour cost for actual output\n  = 10,000 x 9.00 = 90,000\nActual cost       = 89,280\nDifference        =    720 F   (agrees)",
+          "note": "Both checks agree, so the four variances are right."
+        },
+        {
+          "label": "7. Read the story, which is where the marks are",
+          "working": "MATERIAL: bought $0.20/kg BELOW standard and used\n1,200 kg MORE than it should have.\n-> a cheaper, poorer-quality material, producing\n   more wastage. The usage loss of 4,800 EXCEEDS the\n   price saving of 3,240, so the purchasing decision\n   cost the company 1,560.\n\nLABOUR: paid $0.30/hour ABOVE standard and used\n400 FEWER hours than standard.\n-> more skilled workers. The efficiency gain of 3,600\n   exceeds the extra wage cost of 2,880, so that\n   decision EARNED 720.",
+          "note": "Pair the variances, name one cause for each pair, and compare the amounts to say whether the decision gained or lost money. That is the analysis."
+        }
+      ],
+      "answer": "Material price $3,240 F; usage $4,800 A; total $1,560 A. Labour rate $2,880 A; efficiency $3,600 F; total $720 F.",
+      "tryIt": {
+        "given": [
+          "Standard per unit: 4 kg at $5.50 per kg; 1.5 hours at $12.00 per hour",
+          "Actual: 4,000 units made; 16,600 kg used costing 89,640; 6,300 hours costing 74,340"
+        ],
+        "answer": "Actual price = 89,640/16,600 = $5.40. Actual rate = 74,340/6,300 = $11.80. Standard quantity = 16,000 kg; standard hours = 6,000. Material price = (5.50 - 5.40) x 16,600 = 1,660 F. Usage = (16,000 - 16,600) x 5.50 = 3,300 A. Total material 1,640 A; check: 16,000 x 5.50 = 88,000 against 89,640 = 1,640 A. Labour rate = (12.00 - 11.80) x 6,300 = 1,260 F. Efficiency = (6,000 - 6,300) x 12.00 = 3,600 A. Total labour 2,340 A; check: 6,000 x 12 = 72,000 against 74,340 = 2,340 A. Here cheaper labour was used and it worked more slowly, and the efficiency loss outweighed the rate saving."
+      }
+    },
+    {
+      "id": "wac12-c-07",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "title": "Payback, ARR, NPV, profitability index and IRR on one project",
+      "given": [
+        "Machine cost                        400,000",
+        "Residual value after 5 years         50,000",
+        "Net cash inflows: Y1 90,000  Y2 120,000  Y3 140,000",
+        "                  Y4 130,000 Y5 110,000",
+        "Cost of capital 10%",
+        "Discount factors at 10%: 0.909  0.826  0.751  0.683  0.621",
+        "Discount factors at 18%: 0.847  0.718  0.609  0.516  0.437"
+      ],
+      "steps": [
+        {
+          "label": "1. Payback, from cumulative CASH flows",
+          "working": "Year  Cash flow   Cumulative\n 0    (400,000)   (400,000)\n 1      90,000    (310,000)\n 2     120,000    (190,000)\n 3     140,000     (50,000)\n 4     130,000      80,000\n\nPayback = 3 years + (50,000 / 130,000) x 12\n        = 3 years + 4.6 months\n        = 3 years 5 months",
+          "note": "Express the part-year in months if the marks justify it."
+        },
+        {
+          "label": "2. Average rate of return, which uses PROFIT",
+          "working": "Total cash inflows = 90+120+140+130+110 = 590,000\nTotal depreciation = 400,000 - 50,000 = 350,000\nTotal profit       = 590,000 - 350,000 = 240,000\nAverage profit     = 240,000 / 5 = 48,000\n\nAverage investment = (400,000 + 50,000) / 2 = 225,000\n\nARR = (48,000 / 225,000) x 100 = 21.3%",
+          "note": "TWO traps: ARR uses profit, so deduct depreciation; and it uses the AVERAGE investment, not the initial cost."
+        },
+        {
+          "label": "3. Net present value at 10%",
+          "working": "Year  Cash flow    DF     Present value\n 1      90,000   0.909      81,810\n 2     120,000   0.826      99,120\n 3     140,000   0.751     105,140\n 4     130,000   0.683      88,790\n 5     160,000   0.621      99,360\n                          --------\nTotal PV                   474,220\nLess investment           (400,000)\nNPV                        +74,220",
+          "note": "Year 5 is 110,000 + 50,000 residual value = 160,000. And the year 0 outflow is NOT discounted."
+        },
+        {
+          "label": "4. Profitability index",
+          "working": "PI = PV of inflows / initial investment\n   = 474,220 / 400,000\n   = 1.19",
+          "note": "Accept above 1. Use PI to RANK projects under capital rationing, because it maximises NPV per dollar available."
+        },
+        {
+          "label": "5. NPV at 18%, for the IRR",
+          "working": "Year  Cash flow    DF     Present value\n 1      90,000   0.847      76,230\n 2     120,000   0.718      86,160\n 3     140,000   0.609      85,260\n 4     130,000   0.516      67,080\n 5     160,000   0.437      69,920\n                          --------\nTotal PV                   384,650\nLess investment           (400,000)\nNPV at 18%                 -15,350",
+          "note": "One NPV positive and one negative, so the IRR lies between 10% and 18%."
+        },
+        {
+          "label": "6. Internal rate of return by interpolation",
+          "working": "IRR = 10 + [74,220 / (74,220 + 15,350)] x (18 - 10)\n    = 10 + (74,220 / 89,570) x 8\n    = 10 + 6.6\n    = 16.6%",
+          "note": "The denominator ADDS the two, because subtracting a negative NPV adds its magnitude. This is the standard IRR error."
+        },
+        {
+          "label": "7. State the decision and the cushion",
+          "working": "NPV +74,220  -> ACCEPT\nPI 1.19      -> ACCEPT (above 1)\nIRR 16.6%    -> ACCEPT (above the 10% cost of capital)\n\nCushion = 16.6 - 10.0 = 6.6 percentage points:\nthe cost of capital could rise that far before the\nproject stopped being worthwhile.",
+          "note": "A correct NPV with no stated decision loses the easiest mark on the paper. The cushion is a neat way to express risk."
+        }
+      ],
+      "answer": "Payback 3 years 5 months; ARR 21.3%; NPV +$74,220; PI 1.19; IRR 16.6%. Accept on every measure, with a cushion of 6.6 percentage points over the cost of capital.",
+      "tryIt": {
+        "given": [
+          "Machine cost 300,000; residual value 30,000 after 4 years",
+          "Inflows: Y1 80,000  Y2 110,000  Y3 120,000  Y4 90,000",
+          "Cost of capital 12%; DFs at 12%: 0.893 0.797 0.712 0.636",
+          "DFs at 20%: 0.833 0.694 0.579 0.482"
+        ],
+        "answer": "Payback: cumulative -300,000, -220,000, -110,000, +10,000, so payback in year 3 = 2 years + (110,000/120,000) x 12 = 2 years 11 months. ARR: total inflows 400,000; depreciation 270,000; total profit 130,000; average 32,500; average investment 165,000; ARR = 19.7%. NPV at 12%: 71,440 + 87,670 + 85,440 + (120,000 x 0.636 = 76,320) = 320,870 less 300,000 = +20,870. Note Y4 is 90,000 + 30,000 = 120,000. PI = 320,870/300,000 = 1.07. NPV at 20%: 66,640 + 76,340 + 69,480 + 57,840 = 270,300 less 300,000 = -29,700. IRR = 12 + [20,870/(20,870+29,700)] x 8 = 12 + 3.3 = 15.3%. Accept, with a cushion of 3.3 points, which is much thinner than the first example."
+      }
+    },
+    {
+      "id": "wac12-c-08",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "title": "Splitting a semi-variable cost, then the full break-even set",
+      "given": [
+        "Selling price per unit            $45",
+        "Materials per unit               $16",
+        "Direct labour per unit            $9",
+        "Variable overhead per unit        $5",
+        "Other fixed costs           $164,000",
+        "Maintenance was 34,000 at 9,000 units",
+        "               and 46,000 at 15,000 units",
+        "Current output              14,000 units",
+        "Target profit                $75,000"
+      ],
+      "steps": [
+        {
+          "label": "1. Split the semi-variable maintenance cost by high-low",
+          "working": "Variable per unit = (46,000 - 34,000) / (15,000 - 9,000)\n                  = 12,000 / 6,000 = $2.00\n\nAt 9,000 units: variable part = 9,000 x 2.00 = 18,000\nFixed part = 34,000 - 18,000 = $16,000\n\nCheck at 15,000: 16,000 + 30,000 = 46,000  (agrees)",
+          "note": "Always check at the other activity level. It takes seconds and confirms the split."
+        },
+        {
+          "label": "2. Build the total variable cost and total fixed cost",
+          "working": "Variable cost per unit:\n  materials            16\n  direct labour         9\n  variable overhead     5\n  maintenance variable  2\n                      ---\n                      $32\n\nFixed costs:\n  other fixed          164,000\n  maintenance fixed     16,000\n                       -------\n                      $180,000",
+          "note": "Every variable element goes into contribution; every fixed element goes into fixed costs. Missing the split is the classic error."
+        },
+        {
+          "label": "3. Contribution",
+          "working": "Contribution per unit = 45 - 32 = $13\nC/S ratio = 13 / 45 = 0.289, or 28.9%",
+          "note": "Calculate contribution before anything else. Every other formula depends on it."
+        },
+        {
+          "label": "4. Break-even, in units and in revenue",
+          "working": "Break-even (units)   = 180,000 / 13 = 13,847 units\n                       (round UP: 13,847)\n\nBreak-even (revenue) = 180,000 / 0.289 = $622,837\nCheck: 13,847 x 45 = $623,115  (agrees to rounding)",
+          "note": "Units uses contribution per unit; revenue uses the C/S ratio. Round break-even output UP, because a part unit does not break even."
+        },
+        {
+          "label": "5. Margin of safety and profit at current output",
+          "working": "Margin of safety = 14,000 - 13,847 = 153 units\n                 = (153 / 14,000) x 100 = 1.1%\n\nProfit = (13 x 14,000) - 180,000\n       = 182,000 - 180,000 = $2,000",
+          "note": "Percentage margin of safety is taken on ACTUAL output. A margin of 1.1% is alarmingly thin."
+        },
+        {
+          "label": "6. Output needed for the target profit",
+          "working": "Output = (fixed costs + target profit) / contribution\n       = (180,000 + 75,000) / 13\n       = 255,000 / 13\n       = 19,616 units",
+          "note": "Then ask the practical question: that is a 40% rise on 14,000 units. Is there capacity, and will the market absorb it without a price cut?"
+        },
+        {
+          "label": "7. Interpret, which earns the marks",
+          "working": "Margin of safety of just 1.1% means a fall in sales\nof about one seventieth wipes out the profit entirely.\n\nLeverage: each extra unit adds $13 of profit, so a 10%\nrise in volume (1,400 units) adds $18,200 - turning a\n$2,000 profit into $20,200, a tenfold increase.\n\nHigh fixed costs magnify movements in BOTH directions.",
+          "note": "The leverage calculation is what turns break-even arithmetic into analysis. Do it."
+        }
+      ],
+      "answer": "Maintenance splits into $16,000 fixed plus $2.00 per unit. Variable cost $32, contribution $13, fixed costs $180,000. Break-even 13,847 units or about $622,800. Margin of safety 153 units or 1.1%. Profit at 14,000 units $2,000. Target profit needs 19,616 units.",
+      "tryIt": {
+        "given": [
+          "Price $80; materials $24; labour $14; variable overhead $6",
+          "Other fixed costs $240,000",
+          "Power was 29,000 at 6,000 units and 41,000 at 10,000 units",
+          "Current output 12,000 units; target profit $120,000"
+        ],
+        "answer": "Power: variable = (41,000-29,000)/(10,000-6,000) = $3.00 per unit; fixed = 29,000 - 18,000 = $11,000. Check at 10,000: 11,000 + 30,000 = 41,000. Variable cost per unit = 24+14+6+3 = $47. Contribution = 80 - 47 = $33. C/S ratio = 41.25%. Fixed costs = 240,000 + 11,000 = $251,000. Break-even = 251,000/33 = 7,606 units, or 251,000/0.4125 = $608,485. Margin of safety = 12,000 - 7,606 = 4,394 units = 36.6%, which is comfortable. Profit = (33 x 12,000) - 251,000 = $145,000. Target output = (251,000 + 120,000)/33 = 11,243 units, which is BELOW current output, so the target is already exceeded."
+      }
+    },
+    {
+      "id": "wac12-c-09",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "title": "Both profit statements, the reconciliation, and under-absorption",
+      "given": [
+        "Selling price per unit                 $60",
+        "Variable production cost per unit      $34",
+        "Fixed production overhead        $150,000 a year",
+        "Budgeted output                  10,000 units",
+        "Fixed administration costs        $40,000",
+        "Actual output                    10,000 units",
+        "Actual sales                      8,500 units",
+        "No opening inventory",
+        "Actual fixed production overhead exactly $150,000"
+      ],
+      "steps": [
+        {
+          "label": "1. The absorption rate and the two unit costs",
+          "working": "Fixed overhead per unit = 150,000 / 10,000 = $15\nMarginal cost per unit   = $34\nAbsorption cost per unit = 34 + 15 = $49\n\nClosing inventory = 10,000 - 8,500 = 1,500 units",
+          "note": "The rate comes from BUDGETED output. Using actual output to set the rate is an error."
+        },
+        {
+          "label": "2. Marginal costing statement",
+          "working": "Sales (8,500 x 60)                510,000\nVariable production (10,000 x 34) 340,000\nClosing inventory (1,500 x 34)    (51,000)\nVariable cost of sales           (289,000)\n                                 --------\nContribution                      221,000\nFixed production overhead\n  INCURRED                       (150,000)\nAdministration                    (40,000)\n                                 --------\nProfit                             31,000",
+          "note": "Inventory at VARIABLE cost. Fixed overhead at the amount INCURRED, with no absorption adjustment at all."
+        },
+        {
+          "label": "3. Absorption costing statement",
+          "working": "Sales (8,500 x 60)                510,000\nFull production cost (10,000 x 49) 490,000\nClosing inventory (1,500 x 49)    (73,500)\nCost of sales                    (416,500)\n                                 --------\nGross profit                       93,500\nOver / under absorption                  -\nAdministration                    (40,000)\n                                 --------\nProfit                             53,500",
+          "note": "Inventory at FULL cost. Here actual output equals budget, so nothing is over- or under-absorbed."
+        },
+        {
+          "label": "4. Reconcile the two profits",
+          "working": "Absorption profit    53,500\nMarginal profit      31,000\nDifference           22,500\n\nCheck: change in inventory x fixed overhead per unit\n     = 1,500 x 15 = 22,500   (agrees)",
+          "note": "Do this check even when the question does not ask for it. It catches errors in seconds."
+        },
+        {
+          "label": "5. What the difference means",
+          "working": "Inventory rose by 1,500 units, and absorption\ncosting carried 22,500 of fixed overhead FORWARD\ninside that inventory instead of charging it\nagainst this year's profit.\n\nNeither figure is wrong; they answer different questions.\nAbsorption is required by IAS 2 for published accounts.\nMarginal is better for internal decisions, because an\ninventory movement cannot change the reported result.",
+          "note": "And the warning: because building inventory raises absorption profit, a manager judged on it has an incentive to OVERPRODUCE."
+        },
+        {
+          "label": "6. Now suppose actual output had been 9,000 units",
+          "working": "Absorbed = 9,000 x 15 = 135,000\nIncurred =              150,000\nUNDER-absorbed          15,000  -> DEDUCT in the\n                                   absorption statement",
+          "note": "Under-absorption arises when actual activity falls below the budget used to set the rate. It is a deduction, never an addition."
+        }
+      ],
+      "answer": "Marginal costing profit $31,000; absorption costing profit $53,500; difference $22,500, equal to 1,500 units of inventory increase at $15 of fixed overhead per unit.",
+      "tryIt": {
+        "given": [
+          "Price $85; variable production cost $52; fixed production overhead $216,000",
+          "Budgeted output 12,000 units; fixed administration $55,000",
+          "Actual output 12,000 units; actual sales 13,400 units",
+          "Opening inventory 2,000 units; actual fixed production overhead $216,000"
+        ],
+        "answer": "Rate = 216,000/12,000 = $18. Absorption cost = $70. Closing inventory = 2,000 + 12,000 - 13,400 = 600 units, so inventory FELL by 1,400 units. Marginal: sales 1,139,000; opening inventory (2,000 x 52) 104,000 + production 624,000 - closing (600 x 52) 31,200 = variable cost of sales 696,800; contribution 442,200; less 216,000 and 55,000 = profit $171,200. Absorption: opening (2,000 x 70) 140,000 + production 840,000 - closing (600 x 70) 42,000 = cost of sales 938,000; gross profit 201,000; less 55,000 = profit $146,000. Difference = 171,200 - 146,000 = $25,200 = 1,400 units x $18. Because inventory FELL, MARGINAL profit is the higher figure this time."
+      }
+    },
+    {
+      "id": "wac12-c-10",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "title": "Limiting factors: ranking by contribution per unit of the scarce resource",
+      "given": [
+        "Only 6,000 machine hours are available",
+        "                        X       Y       Z",
+        "Contribution per unit  $36     $28     $45",
+        "Machine hours per unit  3.0     2.0     4.5",
+        "Maximum demand (units) 1,000   1,200    800"
+      ],
+      "steps": [
+        {
+          "label": "1. Contribution per unit of the SCARCE resource",
+          "working": "X: 36 / 3.0 = $12.00 per machine hour\nY: 28 / 2.0 = $14.00 per machine hour\nZ: 45 / 4.5 = $10.00 per machine hour",
+          "note": "Divide by the scarce resource, never by units of output. This is the entire point of the question."
+        },
+        {
+          "label": "2. Rank",
+          "working": "1st  Y  $14.00\n2nd  X  $12.00\n3rd  Z  $10.00\n\nNote Z has the HIGHEST contribution per unit ($45)\nand is made LAST, because each unit consumes 4.5\nscarce hours.",
+          "note": "Say that out loud in the answer. Ranking by contribution per unit would have produced a materially worse plan."
+        },
+        {
+          "label": "3. Allocate the hours in rank order, stopping at maximum demand",
+          "working": "Y: 1,200 units x 2.0 = 2,400 hours\n   Contribution 1,200 x 28 = 33,600\n   Hours remaining: 6,000 - 2,400 = 3,600\n\nX: 1,000 units x 3.0 = 3,000 hours\n   Contribution 1,000 x 36 = 36,000\n   Hours remaining: 3,600 - 3,000 = 600\n\nZ: 600 hours / 4.5 = 133 units (whole units only)\n   Contribution 133 x 45 = 5,985\n   Hours remaining: 600 - (133 x 4.5) = 0.5",
+          "note": "Stop at MAXIMUM DEMAND for each product. Allocating beyond it is a common error."
+        },
+        {
+          "label": "4. Total contribution from the optimal plan",
+          "working": "Y  33,600\nX  36,000\nZ   5,985\n   ------\n   75,585",
+          "note": "State the plan in units as well as the contribution: 1,200 Y, 1,000 X, 133 Z."
+        },
+        {
+          "label": "5. Show what the wrong ranking would have cost",
+          "working": "Ranking by contribution per UNIT (Z, X, Y):\nZ: 800 x 4.5 = 3,600 hrs, contribution 36,000\nX: 1,000 x 3.0 = 3,000 hrs -> only 2,400 left,\n   so 800 units, contribution 28,800\nY: 0 hours left, contribution 0\nTotal = 64,800\n\nThe wrong ranking costs 75,585 - 64,800 = 10,785",
+          "note": "Quantifying the error is the strongest way to demonstrate you understand why the method matters."
+        },
+        {
+          "label": "6. The qualitative factors",
+          "working": "- Effect on customers of not fully supplying Z\n- Can the limiting factor be relaxed? Overtime,\n  a second shift, subcontracting, buying capacity\n- Are products sold together, so that dropping\n  one damages the sales of another?",
+          "note": "A decision with no qualitative factors caps the marks available in the written part."
+        }
+      ],
+      "answer": "Contribution per machine hour: Y $14.00, X $12.00, Z $10.00. Optimal plan: 1,200 Y, 1,000 X and 133 Z, giving total contribution of $75,585. Ranking by contribution per unit instead would have earned $64,800, a loss of $10,785.",
+      "tryIt": {
+        "given": [
+          "Only 4,800 labour hours available",
+          "                        P       Q       R",
+          "Contribution per unit  $24     $40     $33",
+          "Labour hours per unit   1.5     2.5     2.0",
+          "Maximum demand         900     700   1,100"
+        ],
+        "answer": "Per labour hour: P 24/1.5 = $16.00; Q 40/2.5 = $16.00; R 33/2.0 = $16.50. Rank: R first, then P and Q equal. R: 1,100 x 2.0 = 2,200 hours, contribution 36,300; 2,600 hours left. P: 900 x 1.5 = 1,350 hours, contribution 21,600; 1,250 hours left. Q: 1,250/2.5 = 500 units, contribution 20,000. Total contribution = $77,900. Note P and Q are equally attractive per hour, so either could be taken second; the total is the same."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "points": [
+        "Compare the interest cost with the return expected on the investment. If the return exceeds the cost of the debt, borrowing adds value, and quantify the surplus in money terms rather than just comparing two percentages.",
+        "Quote gearing BEFORE and AFTER each financing option. A gearing figure with no interpretation earns almost nothing.",
+        "Debenture interest must be paid in a bad year while an ordinary dividend need not. Express the interest as a proportion of current operating profit to show how much risk that represents.",
+        "A rights issue avoids fixed charges and dilutes control if not all shareholders take up their rights, which matters where directors hold a substantial stake.",
+        "Capital reserves cannot be paid as a cash dividend but can fund a bonus issue. That one sentence answers a large family of questions.",
+        "Interest is tax deductible and dividends are not, which makes debt cheaper than its headline rate suggests.",
+        "It depends on the stability of profits: a business with seasonal or weather-dependent revenue should carry less fixed interest.",
+        "It depends on whether the expected return is contractually secured or merely forecast."
+      ]
+    },
+    {
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "points": [
+        "Dividend cover and dividend yield conflict: high cover means a low payout and therefore a lower yield. A company cannot maximise both from the same profit, so the recommendation depends on what the investor wants.",
+        "Compare ROCE with the COST of capital, not with zero. A return above the interest rate means borrowing to invest is adding value.",
+        "An unusually high dividend yield is often a warning that the market expects the dividend to be cut, not an opportunity.",
+        "A high P/E ratio means either confidence in future growth or overvaluation, and the ratio itself cannot distinguish them.",
+        "A fall in EPS after a bonus issue is not a deterioration in performance: the share count rose with no new resources.",
+        "One year is not a trend, and every ratio is historical while the investment decision concerns the future.",
+        "Identify what the investor wants before recommending anything: income points to yield, growth points to cover and retention.",
+        "State what further information you would want, such as the industry average or the previous three years."
+      ]
+    },
+    {
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "points": [
+        "Growth CONSUMES cash, so rising profit and falling cash are entirely consistent. Say so explicitly and quote the revenue growth figure if given.",
+        "Profit is an opinion shaped by accounting policy; cash is a fact. That is why the statement is more reliable than the profit figure.",
+        "Distinguish repeatable from one-off cash flows: a debenture issue and asset disposals cannot be repeated next year, so operating cash flow is the recurring figure.",
+        "Long-term assets should be funded by long-term finance. Where the investing outflow exceeds the finance raised, name the financing mismatch and quantify it.",
+        "Check whether the dividend was covered by operating cash flow, not just by profit.",
+        "Say whether the company has a CASH problem or a PROFIT problem. They need completely different remedies, and identifying which is the sharpest point available.",
+        "A single year can be distorted by timing around the year end, and the statement contains no forecast. A cash budget would be far more informative about the future.",
+        "Positive overall cash flow produced by selling non-current assets often shrinks the capacity to earn."
+      ]
+    },
+    {
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "points": [
+        "A budget is only as good as the sales forecast it starts from, because every other budget derives from it.",
+        "Distinguish a timing problem from a profitability problem. A growing, profitable business can run out of cash, and the remedies are completely different.",
+        "Long-term assets should not be bought out of trading cash. Financing the asset over its life is usually the single most effective remedy for a forecast deficit.",
+        "Participation improves accuracy and commitment and invites budgetary slack. The usual answer is participation plus independent review.",
+        "Flexing makes control fair: without it, variances measure volume rather than efficiency. Always state the naive comparison and show what flexing strips out.",
+        "Watch for dysfunctional behaviour: spending the remainder of a budget to protect next year's allocation, or cutting maintenance to meet a cost target.",
+        "An imposed or unattainable target reduces effort rather than raising it.",
+        "Quote the worst month and the size of the deficit, and chain each proposed remedy to its effect on the budget."
+      ]
+    },
+    {
+      "topicRef": "2.5.1",
+      "topicTitle": "Standard costing",
+      "points": [
+        "A favourable variance is NOT automatically good news: it may have been bought at the cost of a larger adverse variance elsewhere, or by sacrificing quality.",
+        "Variances interrelate. A favourable material price with an adverse usage variance usually means a cheaper, poorer-quality material. Compare the two amounts to say whether the decision gained or lost money.",
+        "Poor-quality material also causes adverse labour efficiency through rework, so one purchasing decision can produce three variances.",
+        "An adverse labour rate with favourable efficiency usually means more skilled staff. Again, compare the amounts.",
+        "The variance may arise because the STANDARD is wrong, not because performance was poor. A variance that recurs at a similar level every month points at the standard.",
+        "A favourable total fixed overhead variance can reflect higher output absorbing more overhead rather than better cost control.",
+        "Investigate significant variances in BOTH directions. A favourable variance can signal a wrong standard or a quality shortcut.",
+        "Standard costing is historical, suits repetitive production, and fits varied, service or bespoke work poorly."
+      ]
+    },
+    {
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "points": [
+        "NPV is theoretically superior because it uses cash, allows for the time value of money, covers the whole life and measures absolute value added. But payback answers the question a cash-constrained business is actually asking.",
+        "Compare the IRR with the cost of capital, and express the gap as the cushion: the cost of capital could rise that far before the project stopped being worthwhile.",
+        "The later cash flows are the least reliable and often carry much of the NPV, which is why sensitivity analysis matters.",
+        "Under capital rationing, rank by PROFITABILITY INDEX, because that maximises NPV per dollar available.",
+        "When NPV and IRR conflict, follow NPV: absolute value added is the shareholders' objective, and IRR can favour a small project earning a high percentage on very little.",
+        "Non-financial factors can outweigh a positive NPV: capacity, skills, strategic fit, staff morale, environmental impact and reputation.",
+        "Always state the DECISION, not just the number. A correct NPV with no conclusion loses the easiest mark on the paper.",
+        "Both the cash flows and the discount rate are estimates, and NPV is sensitive to the rate used."
+      ]
+    },
+    {
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "points": [
+        "The margin of safety measures risk, and whether it is adequate depends on how volatile demand is. Quote it as a percentage and judge it.",
+        "High fixed costs magnify movements in profit in BOTH directions. Calculate the effect of a 10% change in volume to show the leverage.",
+        "Fixed costs step up, so a break-even point calculated beyond the next step is invalid.",
+        "The angle of incidence is the visual equivalent of the contribution to sales ratio: a wide angle means profit accumulates quickly beyond break-even.",
+        "The analysis assumes all output is sold, so it misleads for a business building inventory.",
+        "It assumes linearity: in practice bulk discounts lower variable cost per unit at higher volumes and overtime raises it.",
+        "A single-product assumption weakens it badly for a business with a range of products and a changing sales mix.",
+        "If the price or a cost changes, recalculate CONTRIBUTION first and rework everything. Adjusting the old break-even figure does not work."
+      ]
+    },
+    {
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "points": [
+        "Neither profit figure is wrong; they answer different questions. Absorption is required by IAS 2 for published accounts; marginal is better for internal decisions.",
+        "Because building inventory raises absorption profit, a manager judged on absorption profit has an incentive to overproduce. Marginal costing removes that incentive.",
+        "Fixed cost apportionment is arbitrary, so a product showing a loss after apportioned fixed costs may still be worth keeping if its CONTRIBUTION is positive.",
+        "Accepting a price below full cost is a SHORT-RUN decision only. It works once; it cannot be a permanent price.",
+        "Spare capacity is the condition on which a special order decision turns. If the order displaces full-price sales, compare the contributions.",
+        "For a special order, quantify the risk to existing sales: existing volume multiplied by existing contribution is usually far larger than the gain on the order.",
+        "In a make-or-buy decision, include only AVOIDABLE fixed costs, and say that you have excluded the unavoidable ones and why.",
+        "Under a limiting factor, rank by contribution per unit of the SCARCE RESOURCE, not per unit of output, and allocate strictly in rank order up to maximum demand.",
+        "Always add qualitative factors: supplier reliability, quality, loss of expertise, effect on employees, and whether existing customers will learn the price."
+      ]
+    },
+    {
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "points": [
+        "Garbage in, garbage out: speed and accuracy of calculation do not improve the quality of the input data, and errors are propagated instantly and consistently.",
+        "The cost may exceed the benefit for a very small business. It depends on transaction volume, which is the single most useful condition to state.",
+        "Dependence is a real risk: a system failure can halt the accounting function and, with EPOS, trading itself.",
+        "A spreadsheet has almost no audit trail, which is a serious weakness for financial records: a cell can be overwritten with no record of what was there.",
+        "An audit trail is only as good as the access controls. If users share a login, attribution is worthless.",
+        "ICT changes the nature of accounting work rather than removing the need for judgement: staff move from posting to interpreting, which requires different skills.",
+        "Use the four specified headings as the structure of any written answer: audit trail, financial, technical, human. The human aspects are the ones students omit.",
+        "Unreliable power or connectivity is a legitimate technical objection for remote and island operations, not an excuse."
+      ]
+    }
+  ]
+}

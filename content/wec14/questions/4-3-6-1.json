@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.6.1",
+  "topicTitle": "Measures of economic development",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-6-1-01",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "easy",
+      "stem": "What are the three components of the Human Development Index?",
+      "options": [
+        "Education, health and income",
+        "Income, employment and inequality",
+        "Health, environment and income",
+        "Education, income and political freedom"
+      ],
+      "answer": 0,
+      "why": "Education is measured by years of schooling, health by life expectancy, and income by GNI per capita at PPP.",
+      "whyNot": [
+        "",
+        "HDI excludes employment and inequality.",
+        "HDI excludes the environment.",
+        "HDI excludes political freedom."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-02",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "easy",
+      "stem": "How is the income component of HDI measured?",
+      "options": [
+        "GNI per capita at purchasing power parity",
+        "GDP per capita at market exchange rates",
+        "Total GDP in US dollars",
+        "Median household income"
+      ],
+      "answer": 0,
+      "why": "GNI rather than GDP, because GNI counts income accruing to residents wherever it is earned, which matters where profits leave the country.",
+      "whyNot": [
+        "",
+        "It uses GNI, and adjusts for purchasing power.",
+        "It is measured per head.",
+        "Median income is not used."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-03",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "easy",
+      "stem": "How is the health component of HDI measured?",
+      "options": [
+        "Life expectancy at birth",
+        "Infant mortality",
+        "Doctors per thousand people",
+        "Public health spending per head"
+      ],
+      "answer": 0,
+      "why": "It reflects nutrition, sanitation, clean water, health care access and safety all at once, and it is comparatively reliable to measure.",
+      "whyNot": [
+        "",
+        "That is a separate indicator.",
+        "That is one of the other named measures of development.",
+        "Spending is an input, not an outcome."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-04",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines economic development?",
+      "options": [
+        "An improvement in living standards and welfare, including health, education and freedom, as well as income",
+        "An increase in the real output of an economy",
+        "A rise in a country's exports",
+        "An increase in the size of the labour force"
+      ],
+      "answer": 0,
+      "why": "Growth is a means; development is the end.",
+      "whyNot": [
+        "",
+        "That is economic growth.",
+        "That is export growth.",
+        "That is labour force growth."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-05",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why does HDI use two education indicators?",
+      "options": [
+        "Mean years captures the current workforce, expected years captures current provision and the future",
+        "One measures primary and the other secondary schooling",
+        "One measures male and the other female schooling",
+        "Two indicators are used to make the index harder to manipulate"
+      ],
+      "answer": 0,
+      "why": "A country that has recently expanded schooling shows low mean years and high expected years, which tells you the direction of travel.",
+      "whyNot": [
+        "",
+        "Both cover the whole schooling span.",
+        "The index is not disaggregated by gender.",
+        "The reason is informational, not anti-manipulation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-06",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why does HDI use a geometric rather than an arithmetic mean?",
+      "options": [
+        "A very poor score on one dimension drags the whole index down and cannot be offset by another",
+        "It makes the index easier to calculate",
+        "It allows negative values",
+        "It removes the need for a PPP adjustment"
+      ],
+      "answer": 0,
+      "why": "A country cannot buy a high HDI with income alone, which is a deliberate design choice.",
+      "whyNot": [
+        "",
+        "It is slightly harder to calculate.",
+        "The dimension indices lie between 0 and 1.",
+        "The PPP adjustment is still applied."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-07",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why is the income component logged before being scaled?",
+      "options": [
+        "An extra $1,000 matters far more at low income levels, which is diminishing marginal utility",
+        "To make the index easier to interpret",
+        "To remove the effect of inflation",
+        "To convert the figure into a percentage"
+      ],
+      "answer": 0,
+      "why": "Without it, very high incomes would dominate the index.",
+      "whyNot": [
+        "",
+        "It complicates rather than simplifies interpretation.",
+        "Constant prices handle inflation.",
+        "The scaling handles the range."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-08",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Which of the following is the most important omission from HDI?",
+      "options": [
+        "Inequality, so an average can conceal a wealthy minority and a deprived majority",
+        "Life expectancy, which is not included",
+        "Income, which is not included",
+        "Schooling, which is not included"
+      ],
+      "answer": 0,
+      "why": "The environment and political freedom are the other major omissions, and the inequality-adjusted HDI exists partly for this reason.",
+      "whyNot": [
+        "",
+        "Life expectancy is the health component.",
+        "Income is the third component.",
+        "Schooling is the education component."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-09",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why does HDI change slowly?",
+      "options": [
+        "Life expectancy and mean years of schooling are stocks that move over decades",
+        "The data is only collected every ten years",
+        "The index is deliberately smoothed",
+        "Income per head rarely changes"
+      ],
+      "answer": 0,
+      "why": "That makes it insensitive to recent policy, which is a real limitation for assessing a government's record.",
+      "whyNot": [
+        "",
+        "It is published annually.",
+        "No smoothing is applied.",
+        "Income per head can change quickly."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-10",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "hard",
+      "stem": "A country has high income per head but low access to clean water and few doctors. What does this show?",
+      "options": [
+        "Income is not being converted into health provision, so the average conceals where the money goes",
+        "The income data must be inaccurate",
+        "The country must be at war",
+        "HDI cannot be calculated for the country"
+      ],
+      "answer": 0,
+      "why": "Using several indicators together is what reveals this, which is why the specification names six additional measures.",
+      "whyNot": [
+        "",
+        "The data may be accurate and the pattern informative.",
+        "There is no basis for that inference.",
+        "It can be calculated."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-11",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "hard",
+      "stem": "What is the limitation of using the percentage of adult male labour in agriculture?",
+      "options": [
+        "It excludes women's work, which is a serious omission in agricultural economies",
+        "Agriculture cannot be measured",
+        "It applies only to developed economies",
+        "It is identical to GDP per capita"
+      ],
+      "answer": 0,
+      "why": "Some agriculture is also highly productive, so a high figure does not always indicate subsistence farming.",
+      "whyNot": [
+        "",
+        "Employment by sector is measured routinely.",
+        "It is most informative for developing economies.",
+        "It measures structure, not income."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-12",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "hard",
+      "stem": "Why is energy consumption per capita an imperfect development indicator?",
+      "options": [
+        "Higher is not better environmentally, and it rewards inefficiency",
+        "It cannot be measured",
+        "It only applies to oil-producing countries",
+        "It is unrelated to industrialisation"
+      ],
+      "answer": 0,
+      "why": "A country that becomes more energy efficient would appear less developed on this measure.",
+      "whyNot": [
+        "",
+        "It is measured routinely.",
+        "It applies to all countries.",
+        "It correlates with industrialisation, which is why it is used."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-13",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "hard",
+      "stem": "Why is access to mobile phones per thousand people used as a development indicator?",
+      "options": [
+        "It captures communications and increasingly banking through mobile money",
+        "It measures the wealth of the richest households",
+        "It measures the quality of telecommunications regulation",
+        "It measures the size of the manufacturing sector"
+      ],
+      "answer": 0,
+      "why": "Its limitation is that it counts devices rather than people, and many own several.",
+      "whyNot": [
+        "",
+        "It is a population-wide measure.",
+        "It measures access, not regulation.",
+        "It is unrelated to manufacturing size."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-14",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why can growth occur without development?",
+      "options": [
+        "Growth concentrated in a capital-intensive sector owned from abroad can raise GDP without improving health or education",
+        "Growth always reduces living standards",
+        "Development always precedes growth",
+        "GDP cannot be measured in developing economies"
+      ],
+      "answer": 0,
+      "why": "That is why growth is a means and development is the end, and the distinction should open any answer in this topic.",
+      "whyNot": [
+        "",
+        "Growth usually raises living standards, but not necessarily.",
+        "They usually move together, in either order.",
+        "It is measured, with varying accuracy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-15",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "hard",
+      "stem": "What is the right conclusion on whether HDI is a good measure of development?",
+      "options": [
+        "Better than income alone, insufficient by itself, and best used alongside other indicators",
+        "The best possible single measure of development",
+        "Useless, because it omits inequality and the environment",
+        "Equivalent to GDP per capita"
+      ],
+      "answer": 0,
+      "why": "It also depends what the comparison is for: it suits comparing basic living standards and not assessing sustainability or freedom.",
+      "whyNot": [
+        "",
+        "Its omissions are substantial.",
+        "It is a clear improvement on income alone.",
+        "It includes health and education as well as income."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-6-1-16",
+      "topicRef": "4.3.6.1",
+      "topicTitle": "Measures of economic development",
+      "difficulty": "medium",
+      "stem": "Why is HDI data weakest where it matters most?",
+      "options": [
+        "Statistical capacity is lowest in the poorest countries, which the index most needs to measure",
+        "The index is not published for poor countries",
+        "Poor countries deliberately misreport their data",
+        "Life expectancy cannot be estimated at all"
+      ],
+      "answer": 0,
+      "why": "PPP conversions are also imprecise and revised, which adds further uncertainty.",
+      "whyNot": [
+        "",
+        "It is published for almost every country.",
+        "Capacity rather than intent is the general problem.",
+        "It is estimated, with wider margins of error."
+      ]
+    }
+  ]
+}

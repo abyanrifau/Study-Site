@@ -1,0 +1,2749 @@
+INTERNATIONAL ADVANCED LEVEL
+EDEXCEL INTERNATIONAL GCSE
+
+BECUOSNINOMESICSS SPECIFICATION
+
+SPECIFICATION Edexcel International GCSE in Economics (9-1) (4ET0)
+
+Pearson Edexcel International Advanced Subsidiary in Business (XBS11)
+ First examination June
+
+Pearson Edexcel International Advanced Level in Business (YBS11)
+First teaching September 2018
+First examination from January 2019
+First certification from August 2019 (International Advanced Subsidiary) and August 2020 (International
+Advanced Level)
+Edexcel, BTEC and LCCI qualifications
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK's largest awarding
+body offering academic and vocational qualifications that are globally recognised and
+benchmarked. For further information, please visit our qualification website at
+qualifications.pearson.com. Alternatively, you can get in touch with us using the details on
+our contact us page at qualifications.pearson.com/contactus
+About Pearson
+Pearson is the world's leading learning company, with 35,000 employees in more than
+70 countries working to help people of all ages to make measurable progress in their lives
+through learning. We put the learner at the centre of everything we do, because wherever
+learning flourishes, so do people. Find out more about how we can help you and your
+learners at qualifications.pearson.com
+
+Acknowledgements
+This specification has been produced by Pearson on the basis of consultation with teachers,
+examiners, consultants and other interested parties. Pearson would like to thank all those
+who contributed their time and expertise to the specification's development.
+
+References to third party material made in this specification are made in good faith. Pearson
+does not endorse, approve or accept responsibility for the content of materials, which may
+be subject to change, or any opinions expressed therein. (Material may include textbooks,
+journals, magazines and other publications and websites.)
+
+All information in this specification is correct at time of going to publication.
+
+ISBN 978 1 4469 4957 3
+All the material in this publication is copyright
+© Pearson Education Limited 2017
+Contents
+
+About this specification                                         2
+
+Why choose Edexcel qualifications?                               4
+
+Why choose Pearson Edexcel International Advanced
+
+Subsidiary/Advanced Level qualifications in Business?            5
+
+Supporting you in planning and implementing these qualifications 7
+
+Qualification at a glance                                        8
+
+Business content                                                 11
+
+Unit 1: Marketing and people                                     12
+
+Unit 2: Managing business activities                             20
+
+Unit 3: Business decisions and strategy                          26
+
+Unit 4: Global business                                          33
+
+Assessment information                                           38
+
+Administration and general information                           41
+
+Entries and resitting of units                                   41
+
+Access arrangements, reasonable adjustments, special
+
+consideration and malpractice                                    41
+
+Awarding and reporting                                           43
+
+Student recruitment and progression                              45
+
+Appendices                                                       47
+
+Appendix 1: Codes                                                48
+
+Appendix 2: Pearson World Class Qualification design principles  49
+
+Appendix 3: Transferable skills                                  51
+
+Appendix 4: Level 3 Extended Project qualification               52
+
+Appendix 5: Glossary                                             55
+
+Appendix 6: Command words                                        56
+
+Appendix 7: Quantitative skills                                  57
+
+Appendix 8: Glossary of International Accounting Standards       58
+
+Appendix 9: Financial statements and accounting ratios           60
+
+Appendix 10: Use of calculators                                  61
+About this specification
+
+The Pearson Edexcel International Advanced Subsidiary in Business and the Pearson Edexcel
+International Advanced Level in Business are part of a suite of International Advanced Level
+qualifications offered by Pearson.
+These qualifications are not accredited or regulated by any UK regulatory body.
+
+Key features
+
+This specification includes the following key features.
+
+Structure
+The Pearson Edexcel International Advanced Subsidiary in Business and the Pearson Edexcel
+International Advanced Level in Business are modular qualifications.
+The Advanced Subsidiary can be claimed on completion of the International Advanced
+Subsidiary (IAS) units.
+The International Advanced Level can be claimed on completion of all the units
+(IAS and IA2 units).
+
+Content
+These qualifications build on the content covered in the legacy (2013) Pearson Edexcel
+International Advanced Level in Business Studies. They have been updated to align them
+with recent changes in the equivalent AS and A Level qualifications taken in England
+and Wales.
+
+Assessment
+The qualifications are assessed by examination only.
+
+Specification updates
+
+This specification is Issue 1 and is valid for first teaching from September 2018. If there are
+any significant changes to the specification, we will inform centres in writing. Changes will
+also be posted on our website.
+For more information please visit qualifications.pearson.com
+
+2  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+   - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Using this specification
+
+This specification gives teachers guidance and encourages effective delivery of these
+qualifications. The following information will help you get the most out of the content
+and guidance.
+Compulsory content: as a minimum, all the bullet points in the content must be taught.
+The word `including' in content specifies the detail of what must be covered.
+Assessments: teachers should deliver these qualifications using a good range of examples
+to support the assessment of the content.
+Depth and breadth of content: teachers should use the full range of content and all the
+assessment objectives given in the subject content section.
+
+Qualification aims and objectives
+
+The aims and objectives of these qualifications are to enable students to:
+· develop an enthusiasm for studying business
+· gain an holistic understanding of business in a range of contexts
+· develop a critical understanding of organisations and their ability to meet society's needs
+
+    and wants
+· understand that business behaviour can be studied from a range of perspectives
+· generate enterprising and creative approaches to business opportunities, problems
+
+    and issues
+· be aware of the ethical dilemmas and responsibilities faced by organisations
+
+    and individuals
+· acquire a range of relevant business and generic skills, including decision making,
+
+    problem solving, the challenging of assumptions and critical analysis
+· apply numerical skills in a range of business contexts.
+
+Qualification abbreviations used in this specification
+
+The following abbreviations appear in this specification:
+International Advanced Subsidiary - IAS
+International A2 - IA2 (the additional content required for an IAL)
+International Advanced Level - IAL.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                 3
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Why choose Edexcel qualifications?
+
+Pearson - the world's largest education company
+
+Edexcel academic qualifications are from Pearson, the UK's largest awarding organisation.
+With over 3.4 million students studying our academic and vocational qualifications
+worldwide, we offer internationally recognised qualifications to schools, colleges and
+employers globally.
+
+Pearson is recognised as the world's largest education company, allowing us to drive
+innovation and provide comprehensive support for Edexcel students to acquire the
+knowledge and skills they need for progression in study, work and life.
+
+A heritage you can trust
+
+The background to Pearson becoming the UK's largest awarding organisation began in 1836,
+when a royal charter gave the University of London its first powers to conduct exams and
+confer degrees on its students. With over 150 years of international education experience,
+Edexcel qualifications have a firm academic foundation, built on the traditions and rigour
+associated with Britain's educational system.
+
+To find out more about our Edexcel heritage please visit our website:
+qualifications.pearson.com/en/about-us/about-pearson/our-history
+
+Results you can trust
+
+Pearson's leading online marking technology has been shown to produce exceptionally
+reliable results, demonstrating that at every stage, Edexcel qualifications maintain the
+highest standards.
+
+Developed to Pearson's world-class qualifications standards
+
+Pearson's world-class standards mean that all Edexcel qualifications are developed to be
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of
+educational thought-leaders and assessment experts to ensure that Edexcel qualifications
+are globally relevant, represent world-class best practice and maintain a consistent
+standard.
+
+For more information on the world-class qualification process and principles please go to
+Appendix 2: Pearson World Class Qualifications design principles or visit our website:
+uk.pearson.com/world-class-qualifications.
+
+4  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+   - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Why choose Pearson Edexcel International
+Advanced Subsidiary/Advanced Level qualifications
+in Business?
+
+We have listened to feedback from all parts of the international school subject community,
+including a large number of teachers. We have made changes that will engage international
+learners and give them skills that will support their progression to further study of Business
+and to a wide range of other subjects.
+
+Key qualification features:
+
+· Helps develop a holistic understanding of business - the assessment culminates
+    with a final paper that draws on the knowledge and skills students developed from Units
+    1, 2 and 3.
+
+· Development of quantitative skills - students develop these skills throughout the
+    content of the course and are required to apply these skills to relevant business contexts
+    within the assessment.
+
+· Consistent command word taxonomy - we have reduced the number of command
+    words used in the assessment and applied a consistent mark tariff.
+
+· Reflects today's global world - students develop an understanding of current global
+    issues that impact on business, preparing them for their next steps in today's global
+    world.
+
+· Provides a real business focus - students are encouraged to contextualise theory and
+    respond to real-life international business case studies and stimulus material.
+
+· Accessible assessment - to ensure all students are able to access the whole exam
+    paper we have introduced ramping within each question. Questions start with a low mark
+    tariff and become more challenging as students work their way through the paper,
+    helping to build confidence.
+
+· Clear and simple structure - based on your feedback we have taken the opportunity to
+    make some improvements to the clarity and structure of our new specification.
+
+· Clear and straightforward question papers - our question papers are clear and
+    accessible for students of all ability ranges. Our mark schemes are straightforward so that
+    the assessment requirements are clear.
+
+· Increased level of support - Student Book, online digital resources, mapping
+    documents, Scheme of Work, Getting Started Guide, Course Planner and training.
+
+Broad and deep development of learners' skills - we designed the International
+Advanced Level qualifications to extend learners' knowledge by broadening and deepening
+skills, for example learners will:
+
+· develop multitude of skills, including numeracy, communication and an understanding of
+    research methodology and interpretation, helping ease transition on to further study
+
+· read sources to interpret and evaluate business information
+
+· write extended responses
+
+· respond appropriately to a range of question types, including multiple-choice, short-
+    answer, data response and open-ended questions
+
+· develop an understanding of business concepts and apply these concepts to real-life
+    situations.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  5
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Progression - International Advanced Level qualifications enable successful progression to
+further study or the workplace. Through our world-class qualification development process
+we have consulted with higher education to validate the appropriateness of these
+qualifications, including content, skills and assessment structure.
+
+Related qualifications - Our International Advanced Level in Business sits within our wider
+subject offer for Business qualifications. We also offer:
+
+· Pearson Edexcel International Advanced Level in Economics
+
+· Pearson Edexcel International Advanced Level in Accounting.
+
+· Pearson Edexcel Level 3 Advanced Subsidiary GCE in Business
+
+· Pearson Edexcel Level 3 Advanced GCE in Business
+
+· Pearson Edexcel Level 3 Advanced Subsidiary GCE in Economics A
+
+· Pearson Edexcel Level 3 Advanced GCE in Economics A
+
+· Pearson Edexcel Level 3 Advanced Subsidiary GCE in Economics B
+
+· Pearson Edexcel Level 3 Advanced GCE in Economics B
+
+· Pearson BTEC Nationals and Higher Nationals in Business.
+
+More information can be found on our website (qualifications.pearson.com) on the
+Edexcel International Advanced Level pages.
+
+6  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+   - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Supporting you in planning and implementing
+these qualifications
+
+Planning
+· Our Getting Started Guide gives you an overview of the Pearson Edexcel International
+
+    Advanced Subsidiary/Advanced Level in Business to help you understand the changes to
+    content and assessment, and what these changes mean for you and your students.
+· We will provide you with an editable course planner and scheme of work.
+· Our mapping documents highlight key differences from the legacy qualifications.
+
+Teaching and learning
+· Our skills maps will opportunities for students to develop skills that are assessed, as well
+
+    as skills that are not directly assessed.
+· Print and digital learning and teaching resources - promote any time, any place learning
+
+    to improve student motivation and encourage new ways of working.
+
+Preparing for exams
+We will also provide a range of resources to help you prepare your students for the
+assessments, including:
+· examiner commentaries following each examination series.
+
+ResultsPlus
+ResultsPlus provides the most detailed analysis available of your students' examination
+performance. It can help you identify the topics and skills where further learning would
+benefit your students.
+
+examWizard
+A free online resource designed to support students and teachers with examination
+preparation and assessment.
+
+Training events
+In addition to online training, we host a series of training events each year for teachers to
+deepen their understanding of our qualifications.
+
+Get help and support
+Our subject advisor service will ensure that you receive help and guidance from us. You can
+sign up to receive qualification updates and product service news at
+qualifications.pearson.com or email `sign me up' to TeachingBusiness@pearson.com.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                  7
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Qualification at a glance
+
+Qualification overview
+
+Pearson Edexcel International Advanced Subsidiary in Business
+This qualification consists of two externally-examined units.
+The International Advanced Subsidiary is the first half of the International Advanced Level
+qualification and consists of two IAS units, Units 1 and 2. This qualification may be awarded
+as a discrete qualification or may contribute 50 per cent towards the International Advanced
+Level qualification.
+
+Pearson Edexcel International Advanced Level in Business
+This qualification consists of four externally-examined units.
+The International Advanced Level consists of the two IAS units (Units 1 and 2) plus two IA2
+units (Units 3 and 4). Students wishing to take the International Advanced Level must,
+therefore, complete all four units.
+
+Course of study
+
+The structure of these qualifications allows teachers to construct a course of study that can
+be taught and assessed as either:
+· distinct modules of teaching and learning with related units of assessment taken at
+
+    appropriate stages during the course; or
+· a linear course assessed in its entirety at the end.
+
+8  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+   - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Content and assessment overview
+
+IAS                                                                             *Unit code:
+Unit 1: Marketing and people                                                    WBS11/01
+
+Externally assessed                                                             50% of     25% of
+Written examination: 2 hours                                                    the total  the total
+Availability: January, June and October                                         IAS        IAL
+First assessment: January 2019
+80 marks
+
+Content overview
+
+· Meeting customer needs
+
+· The market
+
+· Marketing mix and strategy
+
+· Managing people
+
+· Entrepreneurs and leaders
+
+Assessment overview
+Section A: Short- and extended-response questions based on sources (30 marks).
+Section B: Same format as Section A, based on different sources (30 marks).
+Section C: One 20-mark essay question, based on one or more sources (20 marks).
+
+IAS                                                                             *Unit code:
+Unit 2: Managing business activities                                            WBS12/01
+
+Externally assessed                                                             50% of     25% of
+Written examination: 2 hours                                                    the total  the total
+Availability: January, June and October                                         IAS        IAL
+First assessment: June 2019
+80 marks
+
+Content overview
+
+· Planning a business and raising finance
+
+· Financial planning
+
+· Managing finance
+
+· Resource management
+
+· External influences
+
+Assessment overview
+
+Section A: Short- and extended-response questions based on sources (30 marks).
+
+Section B: Same format as Section A, based on different sources (30 marks).
+
+Section C: One 20-mark essay question, based on one or more sources (20 marks).
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                        9
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+IA2                                                             *Unit code:
+Unit 3: Business decisions and strategy                         WBS13/01
+
+Externally assessed                                             50% of     25% of
+Written examination: 2 hours                                    the total  the total
+Availability: January, June and October                         IA2        IAL
+First assessment: January 2020
+
+80 marks
+
+Content overview
+
+· Business objectives and strategy
+
+· Business growth
+
+· Decision-making techniques
+
+· Influences on business decisions
+
+· Assessing competitiveness
+
+· Managing change
+
+Assessment overview
+
+Section A: Short and extended-response questions, based on sources (40 marks).
+
+Section B: One 20-mark essay question, based on one or more sources (20 marks).
+
+Section C: One 20-mark essay question, based on one or more sources (20 marks).
+
+IA2                                                             *Unit code:
+Unit 4: Global business                                         WBS14/01
+
+Externally assessed                                             50% of     25% of
+Written examination: 2 hours                                    the total  the total
+Availability: January, June and October                         IA2        IAL
+First assessment: June 2020
+
+80 marks
+
+Content overview
+
+· Globalisation
+
+· Global markets and business expansion
+
+· Global marketing
+
+· Global industries and companies (multinational corporations)
+
+Assessment overview
+
+Section A: Short and extended-response questions, based on sources (40 marks).
+
+Section B: One 20-mark essay question, based on one or more sources (20 marks).
+
+Section C: One 20-mark essay question, based on one or more sources (20 marks).
+
+*See Appendix 1: Codes for a description of this code and all other codes relevant to these
+  qualifications.
+
+10                           Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                             - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Business content
+
+Unit 1: Marketing and people                                                    12
+
+Unit 2: Managing business activities                                            20
+
+Unit 3: Business decisions and strategy                                         26
+
+Unit 4: Global business                                                         33
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  11
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Unit 1: Marketing and people
+
+IAS compulsory unit
+
+Externally assessed
+
+1.1 Unit description
+
+                                       In this unit, students are introduced to the market, explore the
+                                       marketing and people functions and investigate entrepreneurs and
+                                       business start-up.
+                                       This unit enables students to understand how businesses identify
+                                       opportunities and to explore how businesses focus on developing a
+                                       competitive advantage through interacting with customers.
+                                       Students develop an understanding of how businesses need to
+                                       adapt their marketing to operate in a dynamic business
+                                       environment. It also considers people, exploring how businesses
+                                       recruit, train, organise and motivate employees, as well as the role
+                                       of enterprising individuals and leaders.
+                                       Students should investigate different types and sizes of
+                                       organisation in various business sectors and environments, and in
+                                       local, national and global contexts.
+                                       Students need to have acquired competence in quantitative skills
+                                       that are relevant to this unit. A full list of quantitative skills can be
+                                       found in Appendix 7: Quantitative skills.
+
+1.2 Assessment information
+
+                                       · First assessment: January 2019.
+                                       · The examination lasts 2 hours.
+                                       · The paper is marked out of 80 marks.
+                                       · The paper will include short-open response and
+
+                                            extended-writing questions, based on sources.
+                                        · The paper will include questions that require students to use
+
+                                            quantitative skills.
+                                       · Calculators may be used in the examination. See Appendix 10
+
+                                            for more information.
+
+12  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3 Unit content
+
+1.3.1 Meeting customer needs
+
+What students need to learn:
+
+1 The market       a) Mass markets and niche markets:
+2 Market research      · characteristics
+                       · market size and market share
+3 Market               · brands.
+   positioning
+                   b) Dynamic markets:
+                       · online retailing
+                       · how markets change
+                       · innovation and market growth
+                       · adapting to change.
+
+                   c) How competition affects the market.
+
+                   d) The difference between risk and uncertainty.
+
+                   a) Primary and secondary market research data (quantitative and
+                       qualitative) used to:
+                       · identify and anticipate customer needs and wants
+                       · quantify likely demand
+                       · gain insight into consumer behaviour.
+
+                   b) Methods of primary market research:
+                       · surveys/questionnaires
+                       · focus groups/consumer panels
+                       · face-to-face/telephone interviews
+                       · product trials/test marketing.
+
+                   c) Methods of secondary market research market research:
+                       · websites/social media
+                       · newspapers/magazines/TV/radio
+                       · reports
+                       · databases.
+
+                   d) Sampling methods:
+                       · random
+                       · quota
+                       · stratified.
+
+                   a) Product and market orientation.
+
+                   b) Market mapping.
+
+                   c) Market segmentation.
+
+                   d) Competitive advantage of a product or service.
+
+                   e) The purpose of product differentiation.
+
+                   f) Adding value to products/services.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -      13
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.2 The market
+
+What students need to learn:
+
+1 Demand               a) Factors leading to a change in demand:
+                           · changes in the prices of substitutes and complementary goods
+2 Supply                   · changes in consumer incomes
+                           · fashions, tastes and preferences
+3 Markets                  · marketing, advertising and branding
+4 Price elasticity of      · demographics
+                           · external shocks
+   demand (PED)            · seasonality.
+
+5 Income elasticity    a) Factors leading to a change in supply:
+   of demand (YED)         · changes in the costs of production
+                           · introduction of new technology
+                           · indirect taxes
+                           · government subsidies
+                           · external shocks.
+
+                       a) The interaction of demand and supply.
+
+                       b) The drawing and interpretation of demand and supply diagrams to
+                           show the causes and consequences of changes in demand and
+                           supply.
+
+                       a) Calculation of price elasticity of demand.
+
+                       b) Interpretation of numerical values of price elasticity
+                           of demand.
+
+                       c) The factors influencing price elasticity of demand.
+
+                       d) The significance of price elasticity of demand to businesses in
+                           terms of implications for pricing.
+
+                       e) Calculation and interpretation of the relationship between price
+                           elasticity of demand and total revenue.
+
+                       a) Calculation of income elasticity of demand.
+
+                       b) Normal and inferior goods.
+
+                       c) Interpretation of numerical values of income elasticity
+                           of demand.
+
+                       d) The factors influencing income elasticity of demand.
+
+                       e) The significance of income elasticity of demand
+                           to businesses.
+
+14                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.3 Marketing mix and strategy
+
+What students need to learn:
+
+1 Marketing        a) Marketing objectives
+   objectives and      · increase market share
+   strategy            · increase revenue
+                       · building a brand.
+2 Product/service
+   design          b) The product life cycle and extension strategies.
+
+3 Promotion and    c) The Boston Matrix and the product portfolio.
+   branding
+                   d) The concept of `marketing mix'.
+
+                   e) Marketing strategies appropriate for different types of market:
+                       · mass markets
+                       · niche markets
+                       · business to business (B2B)
+                       · business to consumer (B2C).
+
+                   f) Consumer behaviour - how businesses develop customer loyalty.
+
+                   a) Design mix:
+                       · function
+                       · aesthetics
+                       · cost/economic manufacture.
+
+                   b) Changes in the elements of the design mix to reflect social trends:
+                       · concern over resource depletion: designing for waste
+                           minimisation, re-use and recycling
+                       · ethical sourcing.
+
+                   a) Types of promotion.
+
+                   b) Types of branding.
+
+                   c) The benefits of strong branding:
+                       · added value
+                       · ability to charge premium prices
+                       · reduced price elasticity of demand.
+
+                   d) Ways to build a brand:
+                       · unique selling points (USPs)/differentiation
+                       · advertising
+                       · sponsorship
+                       · the use of social media.
+
+                   e) Changes in branding and promotion to reflect social trends:
+                       · viral marketing
+                       · social media
+                       · emotional branding.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  15
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.3 Marketing mix and strategy (continued)
+
+What students need to learn:
+
+4 Pricing strategies  a) Types of pricing strategy:
+5 Distribution            · cost plus (mark-up on unit cost)
+                          · price skimming
+                          · penetration
+                          · predatory
+                          · competitive
+                          · psychological.
+
+                      b) Factors that determine the most appropriate pricing strategy for a
+                          particular situation:
+                          · number of USPs/amount of differentiation
+                          · price elasticity of demand
+                          · level of competition in the business environment
+                          · strength of brand
+                          · stage in the product life cycle
+                          · costs and the need to make a profit.
+
+                      c) Changes in pricing to reflect social trends:
+                          · online sales
+                          · price comparison sites.
+
+                      a) Distribution channels:
+
+                          · four stage: producer to wholesaler to retailer to consumer
+                          · three stage: producer to retailer to consumer
+                          · two stage: producer to consumer.
+
+                      b) Changes in distribution methods.
+
+16                    Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                      - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.4 Managing people
+
+What students need to learn:
+
+1 Approaches to   a) Staff as an asset; staff as a cost.
+   staffing
+                  b) Flexible workforce:
+2 Recruitment,        · multi-skilling
+   selection and      · part-time and temporary
+   training           · zero-hour contracts
+                      · flexible hours and home working
+3 Organisational      · outsourcing.
+   design
+                  c) Distinction between dismissal and redundancy.
+
+                  d) Employer/employee relationships
+                      · individual approach
+                      · collective bargaining.
+
+                  a) Recruitment and selection process:
+                      · internal versus external recruitment.
+
+                  b) Costs of recruitment, selection and training
+
+                  c) Types of training:
+                      · induction
+                      · on-the-job
+                      · off-the-job.
+
+                  a) Structure:
+                      · hierarchy
+                      · chain of command
+                      · span of control
+                      · centralised and decentralised.
+
+                  b) Types of structure:
+                      · tall
+                      · flat
+                      · matrix.
+
+                  c) Impact of different organisational structures on business
+                      efficiency and employee motivation.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  17
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.4 Managing people (continued)
+
+What students need to learn:
+
+4 Motivation in  a) The importance of employee motivation to a business
+   theory and
+   practice      b) Motivation theories:
+                     · Taylor (scientific management)
+5 Leadership         · Mayo (human relations theory)
+                     · Maslow (hierarchy of needs)
+                     · Herzberg (two-factor theory).
+
+                 c) Financial methods to improve employee performance:
+                     · piecework
+                     · commission
+                     · bonus
+                     · profit share
+                     · performance-related pay.
+
+                 d) Non-financial methods to improve employee performance:
+                     · delegation
+                     · consultation
+                     · empowerment
+                     · team working
+                     · flexible working
+                     · job enrichment
+                     · job rotation
+                     · job enlargement.
+
+                 a) Leadership:
+                     · the distinction between management and leadership.
+
+                 b) Types of leadership style:
+                     · autocratic
+                     · paternalistic
+                     · democratic
+                     · laissez-faire.
+
+                 c) The difficulty of moving from entrepreneur to leader.
+
+18               Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                 - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+1.3.5 Entrepreneurs and leaders
+
+What students need to learn:
+
+1 Role of an        a) Creating and setting up a business.
+   entrepreneur
+                    b) Running and expanding/developing a business.
+2 Entrepreneurial
+   motives and      c) Innovation within a business (intrapreneurship).
+   characteristics
+                    d) Barriers to entrepreneurship.
+3 Business
+   objectives       e) Anticipating risk and uncertainty in the business environment.
+
+4 Business choices  a) Characteristics and skills required.
+
+                    b) Reasons why people set up businesses:
+                        · financial motives: profit maximisation and profit satisficing
+                        · non-financial motives: ethical stance, social entrepreneurship,
+                            independence and home working.
+
+                    a) Survival.
+
+                    b) Profit maximisation.
+
+                    c) Other objectives:
+                        · sales maximisation
+                        · market share
+                        · cost efficiency
+                        · employee welfare
+                        · customer satisfaction
+                        · social objectives.
+
+                    a) Opportunity cost.
+
+                    b) Trade-offs.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  19
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Unit 2: Managing business activities
+
+IAS compulsory unit
+
+Externally assessed
+
+2.1 Unit description
+
+                                       In this unit, students explore the finance and operations functions,
+                                       and investigate external influences on business.
+                                       This unit enables students to develop an understanding of raising
+                                       and managing finance, and measuring business performance.
+                                       It outlines the importance of using resources efficiently within a
+                                       business to ensure that goods or services can be delivered
+                                       effectively and efficiently, and to a high quality. Students also
+                                       consider the external influences that have an impact on
+                                       businesses, including economic and legal factors.
+                                       Students should investigate different types and sizes of
+                                       organisation in various business sectors and environments, and in
+                                       local, national and global contexts.
+                                       Students need to have acquired competence in quantitative skills
+                                       relevant to this unit. A full list of quantitative skills can be found in
+                                       Appendix 7: Quantitative skills.
+                                       For this unit, students will also need to be able to apply the
+                                       accounting ratios given in Appendix 9: Financial statements and
+                                       accounting ratios. These ratios will not be supplied in the
+                                       examination.
+
+2.2 Assessment information
+
+                                       · First assessment: June 2019.
+                                       · The examination lasts 2 hours.
+                                       · The paper is marked out of 80 marks.
+                                       · The paper will include short open-response and
+
+                                            extended-writing questions, based on sources.
+                                       · Questions may require students to draw on their knowledge
+
+                                            from Unit 1.
+                                       · The paper will include questions that require students to use
+
+                                            quantitative skills.
+                                       · Calculators may be used in the examination. See
+
+                                            Appendix 10 for more information.
+
+20  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+2.3 Unit content
+
+2.3.1 Planning a business and raising finance
+
+What students need to learn:
+
+1 Planning          a) Content of a business plan.
+2 Internal finance
+3 External finance  b) Relevance and uses of a business plan.
+
+4 Forms of          a) Owner's capital: personal savings.
+   business
+                    b) Retained profit.
+5 Liability
+                    c) Sale of assets.
+
+                    a) Sources of finance and their suitability for different
+                        circumstances:
+                        · family and friends
+                        · banks
+                        · peer-to-peer funding
+                        · business angels
+                        · crowd funding
+                        · other businesses.
+
+                    b) Methods of finance and their suitability for different
+                        circumstances:
+                        · loans
+                        · share capital
+                        · venture capital
+                        · overdrafts
+                        · leasing
+                        · trade credit
+                        · grants.
+
+                    a) Sole trader, partnership and private limited company (Ltd).
+
+                    b) Franchising, social enterprise, lifestyle businesses, online
+                        businesses.
+
+                    c) Growth to public limited companies (plc) and stock market
+                        flotation.
+
+                    a) Implications of limited and unlimited liability, including
+                        advantages and disadvantages.
+
+                    b) Finance appropriate for limited and unlimited liability businesses.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  21
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+2.3.2 Financial planning
+
+What students need to learn:
+
+1 Sales, revenue     a) Calculation of sales volume and sales revenue.
+   and costs         b) Calculation of fixed, variable costs, total costs and
+
+2 Sales forecasting      average costs.
+                     c) Ways of improving sales volumes and sales revenues.
+3 Break-even         a) Purpose of sales forecasts.
+                     b) Factors affecting sales forecasts:
+4 Cash flow
+5 Budgets                · consumer trends
+                         · economic variables
+                         · actions of competitors.
+                     c) Difficulties of sales forecasting.
+                     a) Contribution: selling price - variable cost per unit.
+                     b) Break-even point:
+                         · total fixed costs + total variable costs = total revenue.
+                     c) Using contribution to calculate the break-even point.
+                     d) Margin of safety.
+                     e) Interpretation of break-even charts.
+                     f) Limitations of break-even analysis.
+                     a) Construction and interpretation of simple cash-flow forecasts.
+                     b) Use and limitations of cash-flow forecasts.
+                     a) Purposes of budgets.
+                     b) Types of budget:
+                         · based on historical figures
+                         · zero based.
+                     c) Variance analysis.
+                     d) Difficulties of budgeting.
+
+22                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+2.3.3 Managing finance
+
+What students need to learn:
+
+1 Profit            a) Calculation of:
+2 Liquidity             · gross profit
+3 Business failure      · operating profit
+                        · profit for the year (net profit).
+
+                    b) Ways to increase profits.
+
+                    c) Statement of comprehensive income (profit and loss account):
+
+                        · measuring profitability: calculation of gross profit margin,
+                            operating profit margin, and profit for the year (net profit)
+                            margin
+
+                        · ways to improve profitability.
+
+                    a) Distinction between profit and cash.
+
+                    b) Statement of financial position (balance sheet):
+                        · measuring liquidity: calculating current ratio and
+                            acid test ratio
+                        · ways to improve liquidity, including assets, supplier credit
+                            terms, factoring, inventory JIT.
+
+                    c) Working capital and its management: the importance
+                        of cash.
+
+                    a) Internal causes of business failure:
+                        · poor management of cash flow
+                        · overestimation of sales
+                        · overtrading
+                        · poor inventory control
+                        · poor marketing
+                        · poor quality.
+
+                    b) External causes of business failure:
+                        · market conditions
+                        · competition
+                        · economic
+                        · exchange rates
+                        · interest rates
+                        · government regulations
+                        · supplier problems
+                        · natural phenomena.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -             23
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+2.3.4 Resource management
+
+What students need to learn:
+
+1 Production,        a) Methods of production:
+   productivity and      · job
+   efficiency            · batch
+                         · flow
+2 Capacity               · cell.
+   utilisation
+                     b) Productivity:
+3 Inventory control      · output per unit of input per time period
+                         · factors influencing productivity
+4 Quality                · link between productivity and competitiveness
+   management            · ways to improve productivity.
+
+                     c) Efficiency:
+                         · production at minimum average cost
+                         · factors influencing efficiency
+                         · ways to improve efficiency.
+
+                     d) The distinction between labour- and capital-intensive production.
+
+                     e) Competitive advantage from short product lead-in times.
+
+                     a) Capacity utilisation: current output (divided by) maximum
+                         possible output (× 100).
+
+                     b) Implications of under- and over-utilisation of capacity.
+
+                     c) Ways of improving capacity utilisation
+                         (under and over utilisation).
+
+                     a) Interpretation of inventory control diagram.
+
+                     b) Buffer inventory.
+
+                     c) Implications of poor inventory control.
+
+                     d) Just in time (JIT).
+
+                     e) Waste minimisation.
+
+                     f) Competitive advantage from lean production.
+
+                     a) Quality:
+                         · control
+                         · assurance
+                         · circles.
+
+                     b) Total Quality Management (TQM).
+
+                     c) Continuous improvement (Kaizen).
+
+                     d) Competitive advantage from quality management.
+
+24                   Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                     - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+2.3.5 External influences
+
+What students need to learn:
+
+1 Economic         a) The effect on businesses of, and how they can best respond to,
+   influences          changes in:
+
+2 Legislation          · the rate of inflation
+                       · exchange rates (appreciation, depreciation)
+3 The competitive      · interest rates
+   environment         · taxation and government spending
+                       · the business cycle.
+
+                   a) The effects on businesses of:
+
+                       · consumer protection
+                       · employee protection
+                       · environmental protection
+                       · competition policy
+                       · health and safety
+                       · intellectual property rights (copyright, patents
+
+                           and trademarks).
+
+                   a) The effects on businesses of competition in terms of competitor:
+
+                       · numbers
+                       · size
+                       · behaviour.
+
+                   b) Ways for a small business to compete in a competitive market.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  25
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Unit 3: Business decisions and strategy
+
+IA2 compulsory unit
+
+Externally assessed
+
+3.1 Unit description
+
+                                       In this unit, students develop their understanding of the concepts
+                                       introduced in Units 1 and 2, and explore influences on business
+                                       strategy and decision making.
+
+                                       This unit moves from functions to strategy, enabling students to
+                                       develop their understanding of the core concepts and to take a
+                                       strategic view of business opportunities and issues. Students
+                                       analyse corporate objectives and strategy against financial and
+                                       non-financial performance measures and how businesses grow,
+                                       and develop an understanding of the impact of external influences.
+                                       The unit also covers the causes and effects of change and how
+                                       businesses mitigate risk and uncertainty.
+
+                                       Students should investigate different types and sizes of
+                                       organisation in various business sectors and environments, and in
+                                       local, national and global contexts.
+
+                                       Students need to have acquired competence in quantitative skills
+                                       that are relevant to this unit. A full list of quantitative skills can be
+                                       found in Appendix 7: Quantitative skills.
+
+                                       For this unit, students will also need to be able to apply the
+                                       accounting ratios given in Appendix 9: Financial statements and
+                                       accounting ratios. These ratios will not be supplied in the
+                                       examination.
+
+3.2 Assessment information
+
+                                       · First assessment: January 2020.
+
+                                       · The examination lasts 2 hours.
+
+                                       · The paper is marked out of 80 marks.
+
+                                       · The paper will include short open-response and
+                                            extended-writing questions, based on sources.
+
+                                       · Questions may require students to draw on their knowledge
+                                            from Units 1 and 2.
+
+                                       · The paper will include short-open response and
+                                            extended-writing questions, based on sources.
+
+                                       · The paper will include questions that require students to use
+                                            quantitative skills.
+
+                                       · Calculators may be used in the examination. See
+                                            Appendix 10 for more information.
+
+26  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3 Unit content
+
+3.3.1 Business objectives and strategy
+
+What students need to learn:
+
+1 Corporate      a) Development of corporate objectives from mission
+   objectives        statement/corporate aims.
+
+2 Theories of    b) Critical appraisal of mission statements.
+   corporate
+   strategy      a) Development of corporate strategy:
+                     · Ansoff's Matrix
+3 SWOT analysis      · Porter's Strategic Matrix.
+
+4 Impact of      b) Aim of portfolio analysis.
+   external
+   influences    c) Effect of strategic and tactical decisions on human, physical, and
+                     financial resources.
+
+                 a) SWOT analysis
+                     · internal considerations: strengths and weaknesses
+                     · external considerations: opportunities and threats.
+
+                 a) PESTLE (political, economic, social, technological, legal and
+                     environmental).
+
+                 b) The changing competitive environment.
+
+                 c) Porter's five forces.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  27
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3.2 Business growth
+
+What students need to learn:
+
+1 Growth            a) Objectives of growth:
+                        · economies of scale (internal and external)
+2 Organic growth        · increased market power over customers and suppliers
+3 Inorganic growth      · increased market share and brand recognition
+                        · increased profitability.
+4 Problems arising
+   from growth      b) The distinction between inorganic and organic growth.
+                    a) Methods of growing organically.
+
+                    b) Advantages and disadvantages of organic growth.
+
+                    a) Mergers and takeovers:
+                        · reasons for mergers and takeovers
+                        · distinction between mergers and takeovers
+                        · horizontal and vertical integration
+                        · conglomerates
+                        · financial risks and rewards.
+
+                    b) Advantages and disadvantages of inorganic growth.
+                    a) Diseconomies of scale.
+
+                    b) Internal communication.
+
+                    c) Overtrading.
+
+28                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3.3 Decision-making techniques
+
+What students need to learn:
+
+1 Quantitative        a) Calculation of time-series analysis: moving averages
+   sales forecasting      (three period/four quarter).
+
+2 Investment          b) Interpretation of scatter graphs and line of best fit: extrapolation
+   appraisal              of past data to future.
+
+3 Decision trees      c) Limitations of quantitative sales forecasting techniques.
+
+4 Critical path       a) Simple payback.
+   analysis           b) Average (accounting) rate of return.
+                      c) Discounted cash flow (net present value only).
+5 Contribution
+                      d) Calculations and interpretations of figures generated by these
+                          techniques.
+
+                      e) Limitations of these techniques.
+
+                      a) Construct and interpret simple decision-tree diagrams.
+                      b) Calculations and interpretations of figures generated by these
+
+                          techniques.
+
+                      c) Limitations of using decision trees.
+
+                      a) Nature and purpose of critical path analysis.
+
+                      b) Complete and interpret simple networks to identify the critical
+                          path.
+
+                      c) Calculate:
+                          · earliest start time
+                          · latest finish time
+                          · total float.
+
+                      d) Limitations of using critical path analysis.
+
+                      a) Nature and purpose of contribution.
+                      b) Calculation and interpretation of contribution.
+
+                      c) Use of contribution as a decision-making technique.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  29
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3.4 Influences on business decisions
+
+What students need to learn:
+
+1 Corporate culture  a) Strong and weak cultures.
+
+2 Stakeholder        b) Classification of company cultures:
+   model versus          · power
+   shareholder           · role
+   model                 · task
+                         · person.
+3 Business ethics
+                     c) How corporate culture is formed.
+
+                     d) Difficulties in changing an established culture.
+
+                     a) Internal and external stakeholders.
+
+                     b) Stakeholder objectives.
+
+                     c) Stakeholder and shareholder influences:
+                         · stakeholder: that the business considers all of its stakeholders
+                             in its business decisions/objectives
+                         · shareholder: that the business should focus purely on
+                             shareholder returns (increasing share price and dividends) in
+                             its business decisions/objectives.
+
+                     d) The potential for conflict between profit-based (shareholder) and
+                         wider objectives (stakeholder).
+
+                     a) Ethics of strategic decisions: trade-offs between profit
+                         and ethics.
+
+                     b) Pay and rewards.
+
+                     c) Corporate social responsibility (CSR).
+
+30                   Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                     - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3.5 Assessing competitiveness
+
+What students need to learn:
+
+1 Interpretation of  a) Statement of comprehensive income (profit and
+   financial             loss account):
+   statements            · key information
+                         · stakeholder interest.
+2 Ratio analysis
+                     b) Statement of financial position (balance sheet)
+3 Human resources        · key information
+                         · stakeholder interest.
+
+                     a) Calculate:
+                         · profitability (gross profit margin and profit for the
+                             year margin)
+                         · liquidity (current and acid test ratios)
+                         · gearing ratio
+                         · return on capital employed (ROCE).
+
+                     b) Interpret ratios to make business decisions.
+
+                     c) The limitations of ratio analysis.
+
+                     a) Calculate and interpret the following to help make business
+                         decisions:
+                         · labour productivity
+                         · labour turnover and retention
+                         · absenteeism.
+
+                     b) Limitations of these calculations.
+
+                     c) Human resource strategies to increase productivity and retention
+                         and to reduce turnover and absenteeism:
+                         · financial rewards
+                         · employee share ownership
+                         · consultation strategies
+                         · empowerment strategies.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  31
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+3.3.6 Manging change
+
+What students need to learn:
+
+1 Key factors in  a) Organisational culture.
+   change
+                  b) Size of organisation.
+2 Contingency
+   planning       c) Time/speed of change.
+
+                  d) Managing resistance to change.
+
+                  e) Transformative leadership.
+
+                  a) Identifying key risks through risk assessment:
+                      · natural disasters
+                      · IT systems failure
+                      · loss of key staff.
+
+                  b) Planning for risk mitigation:
+                      · business continuity
+                      · succession planning.
+
+32                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Unit 4: Global business
+
+IA2 compulsory unit
+
+Externally assessed
+
+4.1 Unit description
+
+                                       In this unit, students develop their understanding of the concepts
+                                       introduced in Units 1, 2 and 3, and explore business activity in a
+                                       global context.
+                                       Students investigate businesses that trade on a global scale and
+                                       explore their reasons for doing so. Students develop an
+                                       understanding of the globally competitive environment and
+                                       consider the ethical and moral dimensions of global business
+                                       activities. In this unit, it is important to note that the impacts of
+                                       globalisation and global markets covered in 4.3.1 and 4.3.2 will
+                                       need to be understood in relation to businesses.
+                                       Students should investigate different types and sizes of
+                                       organisation in various business sectors and environments.
+                                       Students need to have acquired competence in quantitative skills
+                                       relevant to this unit. A full list of quantitative skills can be found in
+                                       Appendix 7: Quantitative skills.
+
+4.2 Assessment information
+
+                                       · First assessment: June 2020.
+                                       · The examination lasts 2 hours.
+                                       · The paper is marked out of 80 marks.
+                                       · The paper will include short open-response and
+
+                                            extended-writing questions.
+                                       · Questions may require students to draw on their knowledge
+
+                                            from Units 1, 2 and 3.
+                                       · The paper will include questions that require students to use
+
+                                            quantitative skills.
+                                       · Calculators may be used in the examination. See Appendix 10
+
+                                            for more information.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  33
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+4.3 Unit content
+
+4.3.1 Globalisation
+
+What students need to learn:
+
+1 Growing           a) Characteristics of developed, developing and emerging
+   economies            economies.
+
+2 International     b) Growing economic power of countries within Asia, Africa and other
+   trade and            parts of the world.
+   business growth
+                    c) Implications of economic growth for individuals and businesses:
+3 Factors               · trade opportunities for businesses
+   contributing to      · employment patterns.
+   increased
+   globalisation    d) Indicators of growth:
+                        · gross domestic product (GDP) and GDP per capita
+4 Protectionism         · human development index (HDI).
+
+5 Trading blocs     a) Exports and imports.
+
+                    b) Implications of increasing specialisation by countries and
+                        businesses.
+
+                    c) Foreign direct investment (FDI) and link to business growth.
+
+                    a) Trade liberalisation, the reduction of trade barriers and the role of
+                        the WTO.
+
+                    b) Political change.
+
+                    c) Reduced cost of transport and communication.
+
+                    d) Increased significance of global (multinational) corporations
+                        (MNCs).
+
+                    e) Increased investment flows (FDI).
+
+                    f) Migration within and between economies.
+
+                    g) Growth of the global labour force.
+
+                    h) Structural change.
+
+                    i) Impact on businesses of increased globalisation.
+
+                    a) Reasons for protectionism.
+
+                    b) Tariffs.
+
+                    c) Import quotas.
+
+                    d) Other trade barriers:
+                        · government legislation
+                        · domestic subsidies.
+
+                    e) Impact on businesses of protectionism.
+
+                    a) Expansion of trading blocs:
+                        · EU and the single market
+                        · ASEAN
+                        · NAFTA.
+
+                    b) The impact on businesses of trading blocs.
+
+34                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+4.3.2 Global markets and business expansion
+
+What students need to learn:
+
+1 Conditions that   a) Push factors:
+   prompt trade         · saturated markets
+                        · competition.
+2 Assessment of a
+   country as a     b) Pull factors:
+   market               · increased sales and profitability
+                        · risk spreading and economies of scale.
+3 Assessment of a
+   country as a     c) Cost competitiveness by off-shoring and outsourcing.
+   production
+   location         d) Extending the product life cycle.
+
+4 Reasons for       a) Factors to consider:
+   global mergers,      · levels and growth of disposable income
+   takeovers or         · ease of doing business
+   joint ventures       · infrastructure
+                        · political stability
+5 Global expansion      · exchange rates.
+   and uncertainty
+                    b) Application of Porter's five forces in assessing
+                        potential markets.
+
+                    a) Factors to consider:
+                        · costs of production
+                        · skills and availability of labour force
+                        · infrastructure
+                        · location in trade bloc
+                        · government incentives
+                        · ease of doing business
+                        · political stability
+                        · natural resources
+                        · likely return on investment.
+
+                    a) Spreading risk and economies of scale.
+
+                    b) Entering new markets/trade blocs.
+
+                    c) Acquiring national/international brand names/patents.
+
+                    d) Securing resources/supplies.
+
+                    e) Maintaining/increasing global competitiveness.
+
+                    f) Reducing competition.
+
+                    g) Making use of local knowledge.
+
+                    h) Government or legal requirement.
+
+                    i) Accessing supply chains/distribution networks.
+
+                    j) Sharing costs/risks.
+
+                    a) The impact on businesses of movements in exchange rates.
+
+                    b) Skill shortages and their impact on international competitiveness.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  35
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+4.3.3 Global marketing
+
+What students need to learn:
+
+1 Marketing        a) Global marketing strategy and global localisation (glocalisation).
+
+2 Niche markets    b) Different marketing approaches:
+3 Cultural/social      · domestic/ethnocentric
+                       · mixed/geocentric
+   factors             · international/polycentric.
+
+                   c) Application and adaptation of the marketing mix (4Ps) to global
+                       markets.
+
+                   d) Application of Ansoff's matrix and Porter's matrix to global
+                       marketing decisions.
+
+                   a) Cultural diversity: recognition that groups of people across the
+                       globe have different interests and values.
+
+                   b) Features of global niche markets.
+
+                   c) Application and adaptation of the marketing mix (4Ps) to suit
+                       global niches.
+
+                   a) Considerations for businesses:
+                       · cultural differences
+                       · different tastes and preferences
+                       · language and unintended meanings
+                       · inappropriate branding and promotion.
+
+36                            Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                              - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+4.3.4 Global industries and companies (multinational corporations)
+
+What students need to learn:
+
+1 The impact of     a) Impact of MNCs on the local economy:
+   MNCs                 · local labour, wages, working conditions and job creation
+                        · local businesses
+2 International         · the local community and environment.
+   business ethics
+                    b) Impact of MNCs on the national economy:
+3 Controlling MNCs      · economic growth
+                        · FDI flows
+                        · balance of payments
+                        · technology and skills transfer
+                        · consumers
+                        · business culture
+                        · tax revenues.
+
+                    a) Stakeholder conflicts.
+
+                    b) Environmental considerations:
+                        · emissions and waste disposal
+                        · sustainability.
+
+                    c) Supply chain considerations:
+                        · pay and working conditions
+                        · exploitation of labour and child labour.
+
+                    d) Marketing considerations:
+                        · misleading product labelling
+                        · inappropriate marketing activities.
+
+                    a) Factors to consider:
+                        · power of MNC
+                        · political influence
+                        · legal control
+                        · consumer pressure
+                        · pressure groups
+                        · social media
+                        · self-regulation.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -      37
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Assessment information
+
+Assessment requirements
+
+The Pearson Edexcel International Advanced Subsidiary in Business consists of two
+externally-examined units.
+The Pearson Edexcel International Advanced Level in Business consists of four
+externally-examined units.
+Students must complete all assessments.
+Please see the Assessment availability and first award section for information on when the
+assessment for each unit will be available.
+
+Unit                    IAS or Assessment information                 Number of raw
+                        IA2                                           marks allocated
+                                                                      in the unit
+Unit 1: Marketing and IAS    Section A: Short- and extended-response  80 marks
+people                       questions based on sources
+                             (30 marks).                              80 marks
+Unit 2: Managing        IAS                                           80 marks
+                             Section B: Short- and extended-response
+business activities          questions based on sources               80 marks
+                             (30 marks).
+Unit 3: Business        IA2
+                             Section C: One 20-mark essay question,
+decisions and strategy       based on one or more sources
+                             (20 marks).
+Unit 4: Global business IA2
+                             Same as Unit 1.
+
+                             Section A: Short- and extended-response
+                             questions based on sources
+                             (40 marks).
+
+                             Section B: One essay question, based on
+                             one or more sources
+                             (20 marks).
+
+                             Section C: One essay question, based on
+                             one or more sources
+                             (20 marks).
+
+                             Same as Unit 3.
+
+Sample assessment materials
+
+Sample papers and mark schemes can be found in the Pearson Edexcel International
+Advanced Subsidiary/Advanced Level in Business Sample Assessment Materials (SAMs)
+document.
+
+A full list of command words that will be used in the assessments can be found in
+Appendix 6.
+
+Assessment materials will use terminology consistent with International Accounting
+Standards. See Appendix 8 for more information.
+
+38                           Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                             - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Assessment objectives and weightings
+
+                                                                                % in   % in  % in
+                                                                                IAS    IA2    IAL
+
+AO1  Demonstrate knowledge and understanding of terms,                          27.5 20 23.8
+     concepts, theories, methods and models
+
+AO2  Apply knowledge and understanding to various business
+     contexts to show how individuals and organisations are
+     affected by and respond to issues                                               25 22.5 23.8
+
+AO3  Analyse business issues, showing an understanding of
+     the causes, costs and consequences for individuals and
+     organisations                                                              27.5 30 28.8
+                                                                                 20 27.5 23.8
+AO4  Evaluate evidence to make informed judgements and
+     propose evidence-based solutions to business issues
+
+NB Totals have been rounded up or down.
+
+Relationship of assessment objectives to units for the
+International Advanced Subsidiary qualification
+
+Unit number                              Assessment objective
+
+                         AO1             AO2                                    AO3    AO4
+                                                                                       10%
+Unit 1                   13.75%          12.5%                             13.75%      10%
+                         13.75%          12.5%                             13.75%
+Unit 2                   27.5%           25%                               27.5%       20%
+
+Total for International
+Advanced Subsidiary
+
+NB Totals have been rounded up or down.
+
+Relationship of assessment objectives to units for the
+International Advanced Level qualification
+
+Unit number                              Assessment objective
+
+                         AO1             AO2                                    AO3      AO4
+                                                                                          5%
+Unit 1                    6.9%            6.3%                                   6.9%     5%
+Unit 2                    6.9%            6.3%                                   6.9%   6.9%
+Unit 3                      5%            5.6%                                   7.5%   6.9%
+Unit 4                      5%            5.6%                                   7.5%
+Total for International                                                                23.8%
+Advanced Level           23.8%           23.8%                                  28.8%
+
+NB Totals have been rounded up or down.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                39
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Assessment availability and first award
+
+Unit       January  June  October        January  June
+1            2019   2019    2019           2020   2020
+2                                             
+3                                                    
+4                                                    
+IAS award                                            
+IAL award                                            
+                                                     
+                                                     
+
+From June 2020, all four units will be assessed in January, June and October for the
+lifetime of the qualifications.
+
+From June 2020 IAL and IAS will both be awarded in January, June and October for the
+lifetime of the qualifications.
+
+40                  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Administration and general information
+
+Entries and resitting of units
+
+Entries
+
+Details of how to enter students for the examinations for these qualifications can be found in
+our International Information Manual. A copy is made available to all examinations officers
+and is available on our website, qualifications.pearson.com.
+
+Resitting of units
+
+Students can resit any unit irrespective of whether the qualification is to be cashed in. If a
+student resits a unit more than once, only the better of the two most recent attempts of that
+unit will be available for aggregation to a qualification grade. Please refer to the
+Entry, Aggregation and Certification document on our website:
+qualifications.pearson.com/IAL-entry-certification-procedures.
+
+Access arrangements, reasonable adjustments,
+special consideration and malpractice
+
+Equality and fairness are central to our work. Our equality policy requires all students to
+have equal opportunity to access our qualifications and assessments, and our qualifications
+to be awarded in a way that is fair to every student.
+We are committed to making sure that:
+· students with a protected characteristic (as defined by the UK Equality Act 2010) are not,
+
+    when they are undertaking one of our qualifications, disadvantaged in comparison to
+    students who do not share that characteristic
+· all students achieve the recognition they deserve for undertaking a qualification and that
+    this achievement can be compared fairly to the achievement of their peers.
+
+Language of assessment
+
+Assessment of these qualifications will be available in English only. All student work must be
+in English.
+We recommend that students are able to read and write in English at Level B2 of the
+Common European Framework of Reference for Languages.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  41
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Access arrangements
+
+Access arrangements are agreed before an assessment. They allow students with special
+educational needs, disabilities or temporary injuries to:
+
+· access the assessment
+
+· show what they know and can do without changing the demands of the assessment.
+
+The intention behind an access arrangement is to meet the particular needs of an individual
+student with a disability without affecting the integrity of the assessment. Access
+arrangements are the principal way in which awarding bodies comply with the duty under
+the Equality Act 2010 to make `reasonable adjustments'.
+
+Access arrangements should always be processed at the start of the course. Students will
+then know what is available and have the access arrangement(s) in place for assessment.
+
+Reasonable adjustments
+
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments
+where a student with a disability would be at a substantial disadvantage in undertaking an
+assessment. The awarding organisation is required to take reasonable steps to overcome
+that disadvantage.
+
+A reasonable adjustment for a particular student may be unique to that individual and
+therefore might not be in the list of available access arrangements.
+
+Whether an adjustment will be considered reasonable will depend on a number of factors,
+including:
+
+· the needs of the student with the disability
+
+· the effectiveness of the adjustment
+
+· the cost of the adjustment; and
+
+· the likely impact of the adjustment on the student with the disability and other students.
+
+An adjustment will not be approved if it involves unreasonable costs to the awarding
+organisation, timeframes or affects the security or integrity of the assessment. This is
+because the adjustment is not `reasonable'.
+
+Special consideration
+
+Special consideration is a post-examination adjustment to a student's mark or grade to
+reflect temporary injury, illness or other indisposition at the time of the examination/
+assessment, which has had, or is reasonably likely to have had, a material effect on a
+candidate's ability to take an assessment or demonstrate their level of attainment in an
+assessment.
+
+Further information
+
+Please see our website for further information about how to apply for access arrangements
+and special consideration.
+
+For further information about access arrangements, reasonable adjustments and special
+consideration please refer to the JCQ website: www.jcq.org.uk.
+
+42  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Candidate malpractice
+
+Candidate malpractice refers to any act by a candidate that compromises or seeks to
+compromise the process of assessment or which undermines the integrity of the
+qualifications or the validity of results/certificates.
+
+Candidate malpractice in controlled assessments discovered before the candidate has signed
+the declaration of authentication form does not need to be reported to Pearson.
+
+Candidate malpractice found in controlled assessments after the declaration of authenticity
+has been signed, and in examinations must be reported to Pearson on a JCQ Form M1
+(available at www.jcq.org.uk/exams-office/malpractice). The completed form can be
+emailed to pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,
+190 High Holborn, London, WC1V 7BH. Please provide as much information and supporting
+documentation as possible. Note that the final decision regarding appropriate sanctions lies
+with Pearson.
+
+Failure to report candidate malpractice constitutes staff or centre malpractice.
+
+Staff/centre malpractice
+
+Staff and centre malpractice includes both deliberate malpractice and maladministration of
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that
+compromises or seeks to compromise the process of assessment or which undermines the
+integrity of the qualifications or the validity of results/certificates.
+
+All cases of suspected staff malpractice and maladministration must be reported
+immediately, before any investigation is undertaken by the centre, to Pearson on a
+JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice).
+
+The form, supporting documentation and as much information as possible can be emailed to
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding
+appropriate sanctions lies with Pearson.
+
+Failure to report malpractice itself constitutes malpractice.
+
+More-detailed guidance on malpractice can be found in the latest version of the document
+JCQ General and vocational qualifications Suspected Malpractice in Examinations and
+Assessments, available at www.jcq.org.uk/exams-office/malpractice.
+
+Awarding and reporting
+
+The Pearson Edexcel International Advanced Subsidiary in Business will be graded on a five-
+grade scale from A to E. The Pearson Edexcel International Advanced Level in Business will
+be graded on a six-point scale A* to E. Individual unit results will be reported. Only Units 1
+and 2 will contribute to the International Advanced Subsidiary grade. All four units will
+contribute to the International Advanced Level grade.
+
+The first certification opportunity for the Pearson Edexcel International Advanced Subsidiary
+in Business will be in August 2019. The first certification opportunity for the Pearson Edexcel
+International Advanced Level in Business will be in August 2020. A pass in an International
+Advanced Subsidiary subject is indicated by one of the five grades A, B, C, D, E, of which
+grade A is the highest and grade E the lowest. A pass in an International Advanced Level
+subject is indicated by one of the six grades A*, A, B, C, D, E, of which grade A* is the
+highest and grade E the lowest. Students whose level of achievement is below the minimum
+judged by Pearson to be of sufficient standard to be recorded on a certificate will receive an
+unclassified U result.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  43
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Unit results
+
+Students will receive a uniform mark between 0 and the maximum uniform mark for
+each unit.
+
+The uniform marks at each grade threshold for each unit are:
+
+Units 1, 2, 3 and 4
+
+Unit grade           Maximum A B C D E
+               uniform mark
+
+                     100     80   70                60        50           40
+
+Qualification results
+
+The minimum uniform marks required for each grade:
+
+International Advanced Subsidiary (cash-in code: XBS11)
+
+Qualification        Maximum A B C D E
+
+grade          uniform mark
+
+                     200     160  140               120       100          80
+
+Students with a uniform mark in the range 0-79 will be Unclassified (U).
+
+International Advanced Level (cash-in code: YBS11)
+
+Qualification        Maximum A B C D E
+
+grade          uniform mark
+
+                     400     320  280               240       200          160
+
+Students with a uniform mark in the range 0-159 will be Unclassified (U).
+
+To be awarded an A*, students will need to achieve an A for the International Advanced
+Level qualification (at least 320 uniform marks) and at least 90% of the total uniform mark
+available across the IA2 units combined (at least 180 uniform marks).
+
+44                        Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                          - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Student recruitment and progression
+
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that:
+· they must be available to anyone who is capable of reaching the required standard
+· they must be free from barriers that restrict access and progression
+· equal opportunities exist for all students.
+
+Prior learning and other requirements
+
+There are no formal prior learning or other requirements for these qualifications.
+Students who would benefit most from studying these qualifications are likely to have a
+qualification in a numerate subject such as an International GCSE in Mathematics. A
+qualification in a business-related subject, such as an International GCSE in Business Studies
+or Commerce would be an advantage, but is not necessary.
+
+Progression
+
+Students can progress from these qualifications to:
+· higher education courses such as business management, business administration,
+
+    accountancy and finance, human resource management, marketing, retail management,
+    tourism management, international business
+· a wide range of careers, ranging from banking, sales, product management and general
+    management to working in public sector organisations and charities.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  45
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+46  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendices
+
+Appendix 1: Codes                                                               48
+
+Appendix 2: Pearson World Class Qualification design principles                 49
+
+Appendix 3: Transferable skills                                                 51
+
+Appendix 4: Level 3 Extended Project qualification                              52
+
+Appendix 5: Glossary                                                            55
+
+Appendix 6: Command words                                                       56
+
+Appendix 7: Quantitative skills                                                 57
+
+Appendix 8: Glossary of International Accounting Standards                      58
+
+Appendix 9: Financial statements and accounting ratios                          60
+
+Appendix 10: Use of calculators                                                 61
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  47
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 1: Codes
+
+Type of code   Use of code                              Code
+Unit codes                                              Unit 1: WBS11/01
+               Each unit is assigned a code. This unit  Unit 2: WBS12/01
+Cash-in codes  code is used as an entry code to         Unit 3: WBS13/01
+               indicate that a student wishes to take   Unit 4: WBS14/01
+               the assessment for that unit. Centres
+               will need to use the unit codes only     International Advanced
+               when entering students for their         Subsidiary - XBS11
+               examination.                             International Advanced
+                                                        Level - YBS11
+               The cash-in code is used as a code to
+               aggregate the student's unit scores to
+               obtain the overall grade for the
+               qualification.
+
+48             Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+               - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 2: Pearson World Class Qualification
+design principles
+
+Pearson's World Class Qualification design principles mean that all Edexcel qualifications are
+developed to be rigorous, demanding, inclusive and empowering.
+
+We work collaboratively to gain approval from an external panel of educational
+thought-leaders and assessment experts from across the globe. This is to ensure that
+Edexcel qualifications are globally relevant, represent world-class best practice in
+qualification and assessment design, maintain a consistent standard and support learner
+progression in today's fast-changing world.
+
+Pearson's Expert Panel for World-Class Qualifications is chaired by Sir Michael Barber, a
+leading authority on education systems and reform. He is joined by a wide range of key
+influencers with expertise in education and employability.
+
+"I'm excited to be in a position to work with the global leaders in curriculum and assessment
+to take a fresh look at what young people need to know and be able to do in the 21st
+century, and to consider how we can give them the opportunity to access that sort of
+education." Sir Michael Barber.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  49
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Endorsement from Pearson's Expert Panel for World Class
+Qualifications for the International Advanced Subsidiary
+(IAS)/International Advanced Level (IAL) development process
+
+December 2015
+
+"We were chosen, either because of our expertise in the UK education system, or because of
+our experience in reforming qualifications in other systems around the world as diverse as
+Singapore, Hong Kong, Australia and a number of countries across Europe.
+
+We have guided Pearson through what we judge to be a rigorous world class qualification
+development process that has included, where appropriate:
+
+· extensive international comparability of subject content against the highest-performing
+    jurisdictions in the world
+
+· benchmarking assessments against UK and overseas providers to ensure that they are at
+    the right level of demand
+
+· establishing External Subject Advisory Groups, drawing on independent subject-specific
+    expertise to challenge and validate our qualifications.
+
+Importantly, we have worked to ensure that the content and learning is future oriented, and
+that the design has been guided by Pearson's Efficacy Framework. This is a structured,
+evidenced process which means that learner outcomes have been at the heart of this
+development throughout.
+
+We understand that ultimately it is excellent teaching that is the key factor to a learner's
+success in education but as a result of our work as a panel we are confident that we have
+supported the development of Edexcel IAS and IAL qualifications that are outstanding for
+their coherence, thoroughness and attention to detail and can be regarded as representing
+world-class best practice."
+
+Sir Michael Barber (Chair)                    Professor Lee Sing Kong
+Chief Education Advisor, Pearson plc          Dean and Managing Director, National
+                                              Institute of Education International,
+Dr Peter Hill                                 Singapore
+Former Chief Executive ACARA
+Professor Jonathan Osborne                    Bahram Bekhradnia
+Stanford University                           President, Higher Education Policy Institute
+
+Professor Dr Ursula Renold                    Dame Sally Coates
+Federal Institute of Technology, Switzerland  Director of Academies (South), United
+Professor Janice Kay                          Learning Trust
+Provost, University of Exeter
+                                              Professor Bob Schwartz
+Jason Holt                                    Harvard Graduate School of Education
+CEO, Holts Group
+                                              Jane Beine
+                                              Head of Partner Development, John Lewis
+                                              Partnership
+
+All titles correct as at December 2015.
+
+50  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 3: Transferable skills
+
+The need for transferable skills
+
+In recent years, higher-education institutions and employers have consistently flagged the
+need for students to develop a range of transferable skills to enable them to respond with
+confidence to the demands of undergraduate study and the world of work.
+
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or
+competencies, as `the bundle of knowledge, attributes and capacities that can be learned
+and that enable individuals to successfully and consistently perform an activity or task and
+can be built upon and extended through learning.'[1]
+
+To support the design of our qualifications, the Pearson Research Team selected and
+evaluated seven global 21st-century skills frameworks. Following on from this process, we
+identified the National Research Council's (NRC) framework [2] as the most evidence-based
+and robust skills framework, and have used this as a basis for our adapted skills framework.
+
+The framework includes cognitive, intrapersonal skills and interpersonal skills.
+
+The skills have been interpreted for this specification to ensure they are appropriate for the
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or
+assessment of the qualifications. Some skills are directly assessed. Pearson materials will
+support you in identifying these skills and developing these skills in students.
+
+The table overleaf sets out the framework and gives an indication of the skills that can be
+found in business and indicates the interpretation of the skill in this area. A full subject
+interpretation of each skill, with mapping to show opportunities for student development is
+given on the subject pages of our website: qualifications.pearson.com
+
+1 OECD - Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012)
+2 Koenig J A, National Research Council - Assessing 21st Century Skills: Summary of a Workshop (National
+
+Academies Press, 2011)
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                            51
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+    Cognitive skills      Cognitive          · Critical thinking                    Examining evidence, such as
+                          processes and      · Problem solving                      information about a business.
+    Intrapersonal skills  strategies         · Analysis                             Interpret data to understand the
+                                             · Reasoning/argumentation              meaning of that data.
+    Interpersonal skills  Creativity         · Interpretation
+                          Intellectual       · Decision making                      Ability and willingness to act
+                          openness           · Adaptive learning                    without being told to do so. Using
+                                             · Executive function                   business knowledge,
+                          Work ethic/        · Creativity                           independently, to further own
+                          conscientiousness  · Innovation                           understanding. Looking at real
+                                             · Adaptability                         world stories in newspapers, on
+                          Positive core      · Personal and social responsibility   news and online.
+                          self-evaluation    · Continuous learning
+                          Teamwork and       · Intellectual interest and curiosity  Dialogue between two or more
+                          collaboration      · Initiative                           people to reach a beneficial
+                                             · Self-direction                       outcome where a conflict exists.
+                          Leadership         · Responsibility                       Working within a team negotiate
+                                             · Perseverance                         the aspects of an issue that
+                                             · Productivity                         affects business each person will
+                                             · Self-regulation (metacognition,      research or present on.
+
+                                                  forethought, reflection)
+                                             · Ethics
+                                             · Integrity
+                                             · Self-monitoring/self-
+
+                                                  evaluation/self-reinforcement
+                                             · Communication
+                                             · Collaboration
+                                             · Teamwork
+                                             · Cooperation
+                                             · Empathy/perspective taking
+                                             · Negotiation
+                                             · Responsibility
+                                             · Assertive communication
+                                             · Self-presentation
+
+52                                           Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                                             - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 4: Level 3 Extended Project qualification
+
+What is the Extended Project?
+
+The Extended Project is a standalone qualification that can be taken alongside International
+Advanced Level (IAL) qualifications.
+It supports the development of independent learning skills and helps to prepare students for
+their next step - whether that be higher education or employment. The qualification:
+
+· is recognised by higher education for the skills it develops
+
+· is worth half of an International Advanced Level (IAL) qualification at grades A*-E
+
+· carries UCAS points for university entry.
+
+The Extended Project encourages students to develop skills in the following areas: research,
+critical thinking, extended writing and project management. Students identify and agree a
+topic area of their choice for in-depth study (which may or may not be related to an IAL
+subject they are already studying), guided by their teacher.
+
+Students can choose from one of four approaches to produce:
+
+· a dissertation (for example an investigation based on predominately secondary research)
+
+· an investigation/field study (for example a practical experiment)
+
+· a performance (for example in music, drama or sport)
+
+· an artefact (for example creating a sculpture in response to a client brief or solving an
+    engineering problem).
+
+The qualification is non-examination assessment based and students are assessed on the
+skills of managing, planning and evaluating their project. Students will research their topic,
+develop skills to review and evaluate the information, and then present the final outcome of
+their project.
+
+The Extended Project has 120 guided learning hours (GLH) consisting of a 40-GLH taught
+element that includes teaching the technical skills (for example research skills) and an
+80-GLH guided element that includes mentoring students through the project work. The
+qualification is 100% internally assessed and externally moderated.
+
+How to link the Extended Project with business
+
+The Extended Project creates the opportunity to develop transferable skills for progression to
+higher education and to the workplace through the exploration of either an area of personal
+interest or a topic of interest from within the business qualification content.
+
+Through the Extended Project, students will develop skills that support their study of
+business, including:
+
+· conducting, organising and using research
+
+· independent reading in the subject area
+
+· planning, project management and time management
+
+· defining a hypothesis to be tested in investigations or developing a design brief
+
+· collecting, handling and interpreting data and evidence
+
+· evaluating arguments and processes, including arguments in favour of alternative
+    interpretations of data and evaluation of experimental methodology
+
+· critical thinking.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  53
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+In the context of the Extended Project, critical thinking refers to the ability to identify and
+develop arguments for a point of view or hypothesis and to consider and respond to
+alternative arguments. This supports the development of evaluative skills, through
+evaluating business arguments and using qualitative and quantitative evidence to support
+informed judgements and propose evidence-based solutions to business issues.
+
+Types of Extended Project related to business
+
+Students may produce a dissertation on any topic that can be researched and argued,
+for example a controversial business issue such as child labour, executive pay, advertising
+to children.
+
+A dissertation might involve an investigation such as:
+
+· the impact of digital downloads on the music industry
+
+· the ease of doing business in a chosen country.
+
+The dissertation uses secondary research sources to provide a reasoned defence or a point
+of view, with consideration of counter-arguments.
+
+An alternative might be an investigative project or field study involving the collection of data
+from primary research, for example:
+
+· a study of the impact of unemployment on the local community
+
+· a statistical survey of changing social attitudes towards online purchasing.
+
+A field study might consider an issue that lends itself to primary research, for example an
+investigation into the motivation techniques used in a chosen business.
+
+Using the Extended Project to support breadth and depth
+
+In the Extended Project, students are assessed on the quality of the work they produce and
+the skills they develop and demonstrate through completing this work. Students should
+demonstrate that they have extended themselves in some significant way beyond what they
+have been studying in business. Students can demonstrate extension in one or more
+dimensions:
+
+· deepening understanding - where a student explores a topic in greater depth than in
+    the specification content
+
+· broadening skills - where a student learns a new skill. This might be learning how to
+    design a website or a new statistical technique that can be used in the analysis of either
+    primary or secondary data collected by the student
+
+· widening perspectives - where the student's project spans different subjects.
+    A student studying business with geography may wish to research the impact of tourism
+    on a particular region or locality. A student studying business with mathematics may wish
+    to use statistical techniques to analyse market data and research one aspect of a market
+    in more detail.
+
+A wide range of information to support the delivery and assessment of the Extended Project,
+including the specification, teacher guidance for all aspects, an editable scheme of work and
+exemplars for all four approaches, can be found on our website.
+
+54  Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+    - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 5: Glossary
+
+Term                      Definition
+Assessment objectives
+                          The requirements that students need to meet to succeed in
+External assessment       the qualification. Each assessment objective has a unique
+International Advanced    focus, which is then targeted in examinations or coursework.
+Subsidiary                Assessment objectives may be assessed individually or in
+International Advanced    combination.
+Level
+International A2 (IA2)    An examination that is held at the same time and place in a
+Linear                    global region.
+
+Modular                   Abbreviated to IAS.
+
+Raw marks                 Abbreviated to IAL.
+
+Uniform Mark Scale (UMS)  The additional content required for an IAL.
+
+Unit                      Linear qualifications have all assessments at the end of a
+                          course of study. It is not possible to take one assessment
+                          earlier in the course of study.
+
+                          Modular qualifications contain units of assessment.
+                          These units can be taken during the course of study.
+                          The final qualification grade is worked out from the
+                          combined unit results.
+
+                          Raw marks are the actual marks that students achieve when
+                          taking an assessment. When calculating an overall grade,
+                          raw marks often need to be converted so that it is possible
+                          to see the proportionate achievement of a student across all
+                          units of study.
+
+                          Student actual marks (or raw marks) will be converted into
+                          a UMS mark so that it is possible to see the proportionate
+                          result of a student. Two units may each be worth 25% of a
+                          total qualification. The raw marks for each unit may differ,
+                          but the uniform mark will be the same.
+
+                          A modular qualification will be divided into a number of
+                          units. Each unit will have its own assessment.
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -          55
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 6: Command words
+
+The table below lists the command words that will be used in the question papers along with
+an outline of what each type of question requires students to do.
+
+Command    Number of    What students are required to do
+Define     marks
+Calculate  2            Requires students to define a term or phrase.
+Construct  4
+Explain                 Requires students to perform a calculation, based on
+Analyse    4            given data. Calculators may be used and workings
+                        should be given.
+Discuss    4
+                        Requires students to draw an accurately labelled
+Assess     6            diagram. Students may be required to decide on a
+                        type of diagram, or the type required may be stated.
+Evaluate   8
+                        Requires students to provide a brief explanation of
+           10           cause or effect, which is supported by details or
+           [Units 1/2]  example(s).
+           12
+           [Units 3/4]  Requires a brief chain of reasoning, explanation
+                        and/or justification. If applied to given diagrams or
+           20           data, it will include interpretation. Does not include
+                        evaluation.
+
+                        Requires a logical chains of reasoning, in context,
+                        showing cause(s) and/or effect(s). A brief assessment
+                        is required showing an awareness of competing
+                        arguments/factors.
+
+                        Requires a coherent and logical chain of reasoning,
+                        showing cause(s) and/or effect(s) which is well
+                        contextualised. Assessment is balanced and wide
+                        ranging showing an awareness of competing
+                        arguments/factors, leading to a supported
+                        judgement.
+
+                        Requires fully developed, coherent and logical chains
+                        of reasoning, showing a range of cause and/or
+                        effect(s). A full awareness of the validity and
+                        significance of competing arguments/factors leading
+                        to a perceptive conclusion that proposes a solution
+                        and/or recommendations.
+
+56         Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+           - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 7: Quantitative skills
+
+Throughout the course of study, students will develop competence in the quantitative skills
+listed below. There are opportunities for students to develop these skills throughout the
+content and they are required to apply the skills to relevant economic contexts.
+
+The assessment of quantitative skills will constitute a minimum of 10% of the overall marks
+for both the International Advanced Subsidiary and the International Advanced Level.
+
+IAS                                              IA2
+QS1 Calculate, use and understand ratios,
+averages and fractions                           QS1 Calculate, use and understand ratios,
+QS2 Calculate, use and understand percentages    averages and fractions
+and percentage changes
+                                                 QS2 Calculate, use and understand percentages
+QS3 Construct and interpret a range of standard  and percentage changes
+graphical forms
+                                                 QS3 Construct and interpret a range of standard
+QS4 Interpret index numbers                      graphical forms
+QS5 Calculate cost, revenue, profit and
+break-even                                       QS4 Interpret index numbers
+-
+                                                 QS5 Calculate cost, revenue, profit and
+QS7 Interpret values of price and income         break-even
+elasticity of demand
+                                                 QS6 Calculate investment appraisal outcomes
+QS8 Use and interpret quantitative and non-      and interpret results
+quantitative information in order to make
+decisions                                        QS7 Interpret values of price and income
+                                                 elasticity of demand
+QS9 Interpret, apply and analyse information in
+written, graphical and numerical forms           QS8 Use and interpret quantitative and non-
+                                                 quantitative information in order to make
+                                                 decisions
+
+                                                 QS9 Interpret, apply and analyse information in
+                                                 written, graphical and numerical forms
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  57
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 8: Glossary of International
+Accounting Standards
+
+Below is a comparison between the International Accounting Standards and the UK GAAP
+(Generally Accepted Accounting Practice in the UK) terminology.
+The assessments will use the International Accounting Standards terminology.
+
+UK GAAP terminology                  International Accounting Standards
+Final accounts                       Financial statements
+
+Trading and profit and loss account  Statement of comprehensive income
+Sales                                Revenue
+Purchases                            Raw materials/ordinary goods purchased
+Cost of goods sold                   Cost of sales
+Stock                                Inventory
+Work in progress                     Work in progress
+Gross profit                         Gross profit
+Sundry expenses                      Other operating expenses
+Sundry income                        Other operating income
+Interest receivable                  Investment revenues/finance income
+Interest payable                     Finance costs
+Net profit                           Profit for the year
+
+Balance sheet                        Statement of financial position
+
+Fixed assets                         Non-current assets
+Land and buildings                   Property
+Plant and equipment                  Plant and equipment
+Investments                          Investment property
+Goodwill etc.                        Intangible assets
+
+Current assets                       Current assets
+Stock                                Inventory
+Stock take                           Inventory count
+Debtors                              Trade receivables
+Prepayments                          Other receivables
+Bank and cash                        Cash
+
+58                   Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                     - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Current liabilities/creditors: amounts  Current liabilities
+due within 12 months
+                                        Trade payables
+Creditors                               Other payables
+Accruals                                Bank overdraft and loans
+Loans repayable within 12 months
+
+Long-term liabilities/creditors:        Non-current liabilities
+amounts falling due after 12 months
+                                        Bank (and other) loans
+Loans repayable after 12 months         Carry over
+
+Net book value
+
+Capital                                 Capital or equity
+Share capital                           Share capital
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -  59
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 9: Financial statements and
+accounting ratios
+
+Students will need to learn the key components of the financial statements and their
+associated accounting ratios below.
+
+Statement of                Ratio name               Ratio formula
+comprehensive income
+                            gross profit margin      gross profit      × 100 %
+   revenue                                           _________
+- cost of sales             operating profit
+= gross profit              margin                   revenue
+- other operating expenses
+= operating profit          profit for the year      operating profit     × 100 %
+                            (net profit) margin      ____________
+- interest
+= profit for the year                                revenue
+
+      (net profit)                                   profit for the year  × 100 %
+                                                     ______________
+
+                                                     revenue
+
+Statement of financial      Ratio name               Ratio formula
+position
+                            current ratio            current assets
+  non-current assets                                 ____________
++ current assets            acid test ratio (liquid
+- current liabilities       capital ratio)           current liabilities
+- non-current liabilities   capital employed
+= net assets                                         current assets - inventory
+                            gearing ratio            ____________________
+  share capital
++ retained profits                                   current liabilities
+= total equity
+                                                     non-current liabilities + total equity
+
+                                                     non-current liabilities
+
+                                                     _____________            × 100 %
+
+                                                     capital employed
+
+                            Ratio name               Ratio formula            × 100 %
+
+                            return on capital          operating profit3
+                            employed                   _____________
+                                                       capital employed4
+
+3 From statement of comprehensive income
+4 From statement of financial position
+
+60                          Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business
+
+                            - Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+Appendix 10: Use of calculators
+
+Students may use a calculator in assessments for these qualifications. Centres are
+responsible for making sure that calculators used by their students meet the requirements
+given in the table below.
+
+Students must be familiar with the requirements before their assessments for these
+qualifications.
+
+Calculators must be:                        Calculators must not:
+
+· of a size suitable for use on the desk    · be designed or adapted to offer any of
+                                                these facilities:
+· either battery or solar powered
+                                               o language translators
+· free of lids, cases and covers which
+    have printed instructions or formulas.     o symbolic algebra manipulation
+
+The student is responsible for the          o symbolic differentiation or integration
+following:
+                                            o communication with other machines or
+· the calculator's power supply                 the internet.
+
+· the calculator's working condition        · be borrowed from another student during
+                                                an examination for any reason*
+· clearing anything stored in the
+    calculator.                             · have retrievable information stored in
+                                                them - this includes:
+
+                                            o databanks
+
+                                            o dictionaries
+
+                                            o mathematical formulas
+
+                                            o text.
+
+*An invigilator may give a student a calculator.
+
+Further information can be found in the JCQ documents Instructions for conducting
+examinations and Information for candidates for written examinations, available at
+www.jcq.org.uk/exams-office.
+
+Sb070917Z:\LT\PD\IALS 2018\9781446912478_IAL_BUSINESS\9781446949573_IAL_BUSINESS.DOCX.1-64/1
+
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business -                61
+
+Specification - Issue 1 - September 2017 © Pearson Education Limited 2017
+FOR INFORMATION ABOUT EDEXCEL, BTEC OR LCCI QUALIFICATIONS
+VISIT QUALIFICATIONS.PEARSON.COM
+
+EDEXCEL IS A REGISTERED TRADEMARK OF PEARSON EDUCATION LIMITED
+
+PEARSON EDUCATION LIMITED. REGISTERED IN ENGLAND AND WALES NO. 872828
+REGISTERED OFFICE: 80 STRAND, LONDON WC2R 0RL
+VAT REG NO GB 278 537121
+
+GETTY IMAGES: ALEX BELMONLINSKY
+

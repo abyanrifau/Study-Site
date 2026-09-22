@@ -1,0 +1,217 @@
+{
+  "topicRef": "2.3.2.1",
+  "topicTitle": "Sales, revenue and costs",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-2-1-01",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of fixed costs?",
+      "options": [
+        "Costs that do not change as output changes in the short run",
+        "Costs that change directly with output",
+        "Costs that never change at all",
+        "The total costs of a business"
+      ],
+      "answer": 0,
+      "why": "Fixed means fixed with respect to OUTPUT. Rent, insurance and salaries are paid whether you produce one unit or a thousand.",
+      "whyNot": [
+        "",
+        "Those are variable costs.",
+        "Rent can rise; it just does not rise because output rose. Fixed refers to the relationship with output.",
+        "Total costs are fixed plus variable."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-02",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "easy",
+      "stem": "A business sells 3,000 units at $14 each. What is sales revenue?",
+      "options": [
+        "$42,000",
+        "$21,000",
+        "$3,014",
+        "$4,200"
+      ],
+      "answer": 0,
+      "why": "Sales revenue = volume x price = 3,000 x $14 = $42,000.",
+      "whyNot": [
+        "",
+        "This appears to use $7 rather than $14. Check the price.",
+        "This adds the two figures. Revenue is a product, not a sum.",
+        "This is ten times too small."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-03",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "easy",
+      "stem": "Fixed costs are $9,000 and variable costs are $3 per unit. At 2,000 units, what are total costs?",
+      "options": [
+        "$15,000",
+        "$9,003",
+        "$12,000",
+        "$6,000"
+      ],
+      "answer": 0,
+      "why": "Variable costs = 2,000 x $3 = $6,000. Total costs = $9,000 + $6,000 = $15,000.",
+      "whyNot": [
+        "",
+        "This adds the variable cost PER UNIT to fixed costs without multiplying by output.",
+        "This appears to use 1,000 units. Check the output figure.",
+        "That is total variable costs on their own. Fixed costs still have to be added."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-04",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "medium",
+      "stem": "Total costs are $15,000 at an output of 2,000 units. What is average cost?",
+      "options": [
+        "$7.50",
+        "$30,000,000",
+        "$13,000",
+        "$0.13"
+      ],
+      "answer": 0,
+      "why": "Average cost = total costs / output = 15,000 / 2,000 = $7.50 per unit.",
+      "whyNot": [
+        "",
+        "This multiplies instead of dividing.",
+        "This subtracts output from total costs, which has no meaning.",
+        "This divides output by total costs, the wrong way round."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-05",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "medium",
+      "stem": "Why does average cost fall as output rises?",
+      "options": [
+        "Fixed costs are spread over more units, so fixed cost per unit falls",
+        "Variable cost per unit falls automatically",
+        "Total fixed costs fall as output rises",
+        "Selling price rises with output"
+      ],
+      "answer": 0,
+      "why": "Total fixed costs stay the same while output rises, so each unit carries a smaller share of them. Variable cost per unit is unchanged. This is the mechanism behind economies of scale.",
+      "whyNot": [
+        "",
+        "Variable cost per unit normally stays the same, though bulk buying can reduce it.",
+        "Total fixed costs do not change with output. It is the cost PER UNIT that falls.",
+        "Price is a separate decision and is not driven by output."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-06",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "medium",
+      "stem": "A bakery has fixed costs of $3,000, variable costs of $0.80 a loaf and sells at $2.50. What is profit at 2,000 loaves?",
+      "options": [
+        "$400",
+        "$5,000",
+        "$3,400",
+        "$1,600"
+      ],
+      "answer": 0,
+      "why": "Revenue = 2,000 x 2.50 = $5,000. Variable costs = 2,000 x 0.80 = $1,600. Total costs = 3,000 + 1,600 = $4,600. Profit = 5,000 - 4,600 = $400.",
+      "whyNot": [
+        "",
+        "That is total revenue. Costs still have to be deducted.",
+        "This deducts only the variable costs and forgets the $3,000 of fixed costs.",
+        "That is total variable costs, not profit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-07",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "hard",
+      "stem": "The same bakery doubles output to 4,000 loaves. Profit rises from $400 to $3,800. Why does profit rise by so much more than output?",
+      "options": [
+        "The $3,000 of fixed costs was already being paid, so all the extra contribution is profit",
+        "Variable costs fall to zero at higher output",
+        "The selling price rises when output doubles",
+        "Fixed costs double as well"
+      ],
+      "answer": 0,
+      "why": "Once fixed costs are covered, each additional loaf adds its full contribution of $1.70 to profit. Doubling output added 2,000 x $1.70 = $3,400 with no extra fixed cost at all.",
+      "whyNot": [
+        "",
+        "Variable costs double with output; they do not disappear.",
+        "Price is unchanged at $2.50 in the example.",
+        "Fixed costs stay at $3,000, which is precisely why profit rises so sharply."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-08",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a semi-variable cost?",
+      "options": [
+        "A phone contract with a standing charge plus usage charges",
+        "Rent on a factory",
+        "Raw materials",
+        "Business insurance"
+      ],
+      "answer": 0,
+      "why": "A semi-variable cost has a fixed element and a variable element. The standing charge is fixed; the usage varies with activity.",
+      "whyNot": [
+        "",
+        "Rent is purely fixed.",
+        "Raw materials are purely variable.",
+        "Insurance is purely fixed."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-09",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "medium",
+      "stem": "Which of the following would raise sales revenue for a product with price inelastic demand?",
+      "options": [
+        "Raising the price",
+        "Lowering the price",
+        "Reducing output",
+        "Increasing variable costs"
+      ],
+      "answer": 0,
+      "why": "With inelastic demand the percentage fall in quantity is smaller than the percentage rise in price, so revenue rises. This links directly to PED in WBS11 topic 1.3.2.4.",
+      "whyNot": [
+        "",
+        "Lowering price raises revenue when demand is ELASTIC, not inelastic.",
+        "Less output sold means less revenue.",
+        "Costs do not affect revenue at all; revenue is price times quantity."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-1-10",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Sales, revenue and costs",
+      "difficulty": "hard",
+      "stem": "Why does a guesthouse with very low variable costs discount heavily for late bookings?",
+      "options": [
+        "An empty room earns nothing, and a discounted booking still adds most of its price as contribution",
+        "Variable costs rise sharply with occupancy",
+        "Discounting reduces fixed costs",
+        "Empty rooms cost more than occupied ones"
+      ],
+      "answer": 0,
+      "why": "With a variable cost of around $12 on a $95 rate, a room sold at even $40 still adds $28 of contribution towards fixed costs. Unsold, it adds nothing. That cost structure explains the whole pricing behaviour of the sector.",
+      "whyNot": [
+        "",
+        "They are low and stay low: breakfast, laundry and water.",
+        "Fixed costs are unaffected by pricing decisions.",
+        "An empty room costs slightly less, and earns nothing at all."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "topicRef": "2.3.1.4",
+  "topicTitle": "Forms of business",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-1-4-01",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a private limited company?",
+      "options": [
+        "A company with its own legal identity whose shareholders have limited liability and whose shares are not sold publicly",
+        "A company whose shares are traded on a stock exchange",
+        "A business owned and run by one person",
+        "A business owned by two or more people with unlimited liability"
+      ],
+      "answer": 0,
+      "why": "The defining features are separate legal identity, limited liability, and shares that cannot be offered to the general public.",
+      "whyNot": [
+        "",
+        "That is a public limited company.",
+        "That is a sole trader.",
+        "That is a partnership."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-02",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: an arrangement in which a franchisee pays to trade under an established brand using the franchisor's business model?",
+      "options": [
+        "Franchising",
+        "Social enterprise",
+        "Flotation",
+        "Incorporation"
+      ],
+      "answer": 0,
+      "why": "The franchisee buys a proven system, brand and support and accepts fees, royalties and strict rules in return. The franchisor expands using someone else's capital.",
+      "whyNot": [
+        "",
+        "A social enterprise trades to achieve a social objective.",
+        "Flotation is offering shares to the public.",
+        "Incorporation creates a company with separate legal identity."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-03",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "easy",
+      "stem": "What is the main advantage of operating as a sole trader?",
+      "options": [
+        "It is fast and cheap to start, with complete control and all the profit",
+        "Personal assets are protected from business debts",
+        "It is the easiest form for raising large sums",
+        "Accounts do not have to be prepared at all"
+      ],
+      "answer": 0,
+      "why": "Minimal formality, immediate decisions, total control and every pound of profit. The trade-off is unlimited liability and difficulty raising finance.",
+      "whyNot": [
+        "",
+        "A sole trader has unlimited liability, so personal assets are exposed.",
+        "It is the hardest of the three main forms for raising finance.",
+        "Accounts are still needed, for tax if nothing else."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-04",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "What is the sharpest risk in a partnership that students often overlook?",
+      "options": [
+        "Each partner is liable for the business decisions of the others",
+        "Partnerships cannot raise any finance",
+        "Partnerships must have exactly two owners",
+        "Partners cannot share profits"
+      ],
+      "answer": 0,
+      "why": "With unlimited liability and joint responsibility, one partner's poor decision can expose the others' personal assets. It is the main reason a written partnership agreement matters.",
+      "whyNot": [
+        "",
+        "Partnerships raise finance from partners' capital, loans and trade credit.",
+        "Two or more; there is no fixed maximum in most jurisdictions.",
+        "Sharing profits is a defining feature."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-05",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "Why does a partnership need a written partnership agreement?",
+      "options": [
+        "Without one, statutory default rules apply to profit shares and disputes",
+        "It is required before the business can open a bank account",
+        "It converts the partnership into a company",
+        "It gives the partners limited liability"
+      ],
+      "answer": 0,
+      "why": "The agreement sets out shares, responsibilities, decision-making and what happens if a partner leaves. In its absence, default legal provisions decide, and they may not be what the partners wanted.",
+      "whyNot": [
+        "",
+        "A bank account can be opened without one, though banks often ask to see it.",
+        "Incorporation is a separate legal process.",
+        "Liability depends on the legal form, not on the agreement."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-06",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of becoming a private limited company?",
+      "options": [
+        "Accounts must be filed publicly, so competitors can see them",
+        "The owners become personally liable for all debts",
+        "The business cannot continue if an owner leaves",
+        "It cannot employ any staff"
+      ],
+      "answer": 0,
+      "why": "Incorporation brings registration costs, filing requirements, director duties and a loss of privacy. Filed accounts are visible to rivals, suppliers and customers.",
+      "whyNot": [
+        "",
+        "Incorporation gives limited liability, reducing personal exposure.",
+        "A company continues regardless of changes in ownership. That is one of its advantages.",
+        "Companies employ staff normally."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-07",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of a lifestyle business?",
+      "options": [
+        "A business run to support the owner's chosen way of life rather than to maximise growth",
+        "A business selling health and fitness products",
+        "A business run entirely online",
+        "A business that trades to achieve a social objective"
+      ],
+      "answer": 0,
+      "why": "Deliberately limited in scale, and entirely rational: it is profit satisficing applied to the whole business. Treating it as a failure of ambition misreads the objective.",
+      "whyNot": [
+        "",
+        "The sector is irrelevant; the term describes the owner's objective.",
+        "That is an online business.",
+        "That is a social enterprise."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-08",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "hard",
+      "stem": "What is the central trade-off in a stock market flotation?",
+      "options": [
+        "It raises large sums of capital and disperses ownership, so control is lost",
+        "It raises capital and requires no disclosure",
+        "It gives limited liability for the first time",
+        "It removes the need to make a profit"
+      ],
+      "answer": 0,
+      "why": "Flotation solves a finance problem and creates a control problem. Ownership is dispersed, strategy becomes public, short-term shareholder pressure arrives, and a founder can be voted out of their own company.",
+      "whyNot": [
+        "",
+        "A plc faces far more disclosure, not less.",
+        "A private limited company already has limited liability.",
+        "Public shareholders increase the pressure to deliver profit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-09",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of buying a franchise?",
+      "options": [
+        "Ongoing royalties and strict rules limit the franchisee's freedom",
+        "There is no established brand to trade under",
+        "The franchisee must develop the business model themselves",
+        "There is no training or support available"
+      ],
+      "answer": 0,
+      "why": "You buy a proven system and pay for it continuously, and you follow someone else's rules. You also carry the risk of reputational damage caused by other franchisees.",
+      "whyNot": [
+        "",
+        "An established brand is the main thing being bought.",
+        "The model comes from the franchisor; that is the point.",
+        "Training and support are normally part of the package."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-10",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "hard",
+      "stem": "At what point does incorporating typically become worthwhile for a small guesthouse owner?",
+      "options": [
+        "When they borrow significant sums or operate more than one property",
+        "As soon as they open, regardless of scale",
+        "Only once they employ more than fifty staff",
+        "Never, because guesthouses cannot incorporate"
+      ],
+      "answer": 0,
+      "why": "Limited liability is worth its cost when there is a large exposure and personal assets to protect. Substantial borrowing or multiple properties is the point where a failure would otherwise reach the family home.",
+      "whyNot": [
+        "",
+        "For a single tiny property with no debt, the cost and filing outweigh the protection.",
+        "Headcount is not the trigger; the amount at risk is.",
+        "Any business can incorporate."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-4-11",
+      "topicRef": "2.3.1.4",
+      "topicTitle": "Forms of business",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage of an online business as a form?",
+      "options": [
+        "Low start-up costs and national or global reach from day one",
+        "Very high barriers to entry, keeping competition out",
+        "No need to be found by customers",
+        "Guaranteed profitability"
+      ],
+      "answer": 0,
+      "why": "No premises and a wide reach make it cheap to start. The same low barriers mean intense competition, and success depends entirely on being discoverable.",
+      "whyNot": [
+        "",
+        "Barriers are very low, which is a drawback as well as an advantage.",
+        "Being found is the central challenge of an online business.",
+        "Nothing guarantees profitability."
+      ]
+    }
+  ]
+}

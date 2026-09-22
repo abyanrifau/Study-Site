@@ -1,0 +1,238 @@
+{
+  "topicRef": "2.3.2.4",
+  "topicTitle": "Cash flow",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-2-4-01",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of net cash flow?",
+      "options": [
+        "Total cash inflows minus total cash outflows for a period",
+        "Revenue minus costs for a period",
+        "The cash held at the end of a period",
+        "Profit after tax"
+      ],
+      "answer": 0,
+      "why": "Net cash flow measures the movement of cash in a period. Adding it to the opening balance gives the closing balance.",
+      "whyNot": [
+        "",
+        "That is profit, which is a different measure.",
+        "That is the closing balance.",
+        "Profit after tax is an accounting measure, not a cash movement."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-02",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "easy",
+      "stem": "Opening balance is $4,000 and net cash flow is negative $500. What is the closing balance?",
+      "options": [
+        "$3,500",
+        "$4,500",
+        "$500",
+        "negative $4,500"
+      ],
+      "answer": 0,
+      "why": "Closing balance = opening balance + net cash flow = 4,000 + (-500) = $3,500.",
+      "whyNot": [
+        "",
+        "This adds $500 instead of subtracting it.",
+        "That is the net cash flow figure, not the balance.",
+        "This subtracts the opening balance as well."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-03",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "easy",
+      "stem": "In a cash flow forecast, this month's closing balance becomes:",
+      "options": [
+        "next month's opening balance",
+        "next month's net cash flow",
+        "next month's total inflows",
+        "the profit for the month"
+      ],
+      "answer": 0,
+      "why": "The carry-forward is the whole point of the forecast, and it is where most marks are lost in a Calculate question.",
+      "whyNot": [
+        "",
+        "Net cash flow is calculated from that month's own inflows and outflows.",
+        "Inflows are the cash received in the month.",
+        "A cash flow forecast does not show profit at all."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-04",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "Why can a profitable business run out of cash?",
+      "options": [
+        "Customers may pay long after the sale is recorded as revenue",
+        "Profit is always lower than cash",
+        "Profitable businesses never need finance",
+        "Cash and profit are the same thing"
+      ],
+      "answer": 0,
+      "why": "A sale becomes revenue when the goods go out and cash when the customer pays, perhaps 60 days later. Meanwhile wages and suppliers still have to be paid. This is the most important distinction in WBS12.",
+      "whyNot": [
+        "",
+        "Either can be higher. It depends on timing and on non-cash items.",
+        "Profitable businesses frequently need finance to bridge timing gaps.",
+        "They are different, and confusing them is the most heavily penalised error in this unit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-05",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "Which of the following appears in a cash flow forecast but not as a cost in the income statement?",
+      "options": [
+        "The capital repayment element of a loan",
+        "Depreciation",
+        "Wages",
+        "Rent"
+      ],
+      "answer": 0,
+      "why": "Repaying the capital is a cash outflow but not an expense; only the interest is a cost. Depreciation is the mirror image: a cost with no cash movement.",
+      "whyNot": [
+        "",
+        "Depreciation is a cost with no cash effect, so it appears in the income statement and NOT in the cash flow forecast.",
+        "Wages appear in both.",
+        "Rent appears in both."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-06",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "Which of the following would NOT appear in a cash flow forecast?",
+      "options": [
+        "Depreciation",
+        "A loan repayment",
+        "Cash from sales",
+        "Rent paid"
+      ],
+      "answer": 0,
+      "why": "Depreciation involves no movement of cash. It spreads the cost of an asset over its life in the income statement, and the cash left when the asset was bought.",
+      "whyNot": [
+        "",
+        "A loan repayment is a real cash outflow.",
+        "Cash from sales is the main inflow.",
+        "Rent paid is a cash outflow."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-07",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "A business has a negative closing balance forecast for one month only, caused by a customer paying late. How should this be described?",
+      "options": [
+        "A timing problem, which short-term finance can bridge",
+        "A viability problem, meaning the business model does not work",
+        "Insolvency, so the business must close",
+        "Evidence the business is unprofitable"
+      ],
+      "answer": 0,
+      "why": "Distinguishing a timing problem from a viability problem is one of the strongest evaluation moves on this topic. A one-month gap from late payment is very different from costs permanently exceeding revenue.",
+      "whyNot": [
+        "",
+        "Viability means costs exceed revenue over time, which is not what is described.",
+        "A forecast shortfall is a warning, and arranging an overdraft in advance avoids it.",
+        "Nothing here suggests the business is unprofitable."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-08",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "Which action would speed up cash inflows?",
+      "options": [
+        "Offering customers a discount for early payment",
+        "Negotiating longer credit terms with suppliers",
+        "Leasing equipment rather than buying it",
+        "Delaying payment of the electricity bill"
+      ],
+      "answer": 0,
+      "why": "Early-payment discounts bring cash in sooner. The cost is the discount given, so like every cash flow remedy it has a price.",
+      "whyNot": [
+        "",
+        "That slows outflows, which also helps, but it is not an inflow.",
+        "Leasing avoids a large outflow; it does not accelerate an inflow.",
+        "Also slowing an outflow, and risky."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-09",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "hard",
+      "stem": "Why is an annual cash flow figure of limited use to a seasonal business?",
+      "options": [
+        "It hides the months when revenue is low but fixed costs still have to be paid",
+        "Annual figures cannot be calculated",
+        "Seasonal businesses have no cash flow",
+        "Annual figures always understate cash"
+      ],
+      "answer": 0,
+      "why": "A guesthouse can be comfortably cash positive across the year and unable to pay August's wages. Annual profit does not pay August's wages, which is why the forecast must be monthly.",
+      "whyNot": [
+        "",
+        "They can be, and that is the problem: the average conceals the trough.",
+        "They have highly variable cash flow, which is exactly the issue.",
+        "An annual total neither over nor understates; it conceals the distribution."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-10",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of a cash flow forecast?",
+      "options": [
+        "It is built on estimates, especially of sales, which may be wrong",
+        "It cannot show negative balances",
+        "It cannot be shown to a bank",
+        "It must be prepared annually by law"
+      ],
+      "answer": 0,
+      "why": "One optimistic sales assumption invalidates the rest, and customers paying later than assumed can wreck it. It is a planning tool, not a prediction.",
+      "whyNot": [
+        "",
+        "Negative balances are exactly what it is designed to reveal.",
+        "Showing it to a lender is one of its main uses.",
+        "There is no such legal requirement for most businesses."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-4-11",
+      "topicRef": "2.3.2.4",
+      "topicTitle": "Cash flow",
+      "difficulty": "hard",
+      "stem": "What is the cost of using factoring to improve cash flow?",
+      "options": [
+        "The business receives less than the full value of its invoices",
+        "The business must give up equity",
+        "Interest rates on all its loans rise",
+        "It loses limited liability"
+      ],
+      "answer": 0,
+      "why": "Factoring gets cash for invoices now, and the factor takes a fee, so the business receives less than the invoice value. Every cash flow remedy has a price, and naming it is how you earn the evaluation mark.",
+      "whyNot": [
+        "",
+        "No ownership is given up in factoring.",
+        "Factoring does not change existing loan terms.",
+        "Legal form and liability are unaffected."
+      ]
+    }
+  ]
+}

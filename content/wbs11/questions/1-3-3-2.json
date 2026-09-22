@@ -1,0 +1,301 @@
+{
+  "topicRef": "1.3.3.2",
+  "topicTitle": "Product/service design",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-3-2-01",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of the design mix?",
+      "options": [
+        "The three elements a business balances when designing a product: function, aesthetics and cost",
+        "The combination of product, price, promotion and place",
+        "The range of products a business sells",
+        "The materials used to manufacture a product"
+      ],
+      "answer": 0,
+      "why": "Function, aesthetics and economic manufacture are the three pulls on any design, and they trade off against each other.",
+      "whyNot": [
+        "",
+        "That is the marketing mix, the four Ps. The design mix has three elements and is about the product itself.",
+        "That is the product portfolio.",
+        "Materials are one input into the cost element, not the whole design mix."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-02",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: how a product appeals to the senses, including its appearance and feel?",
+      "options": [
+        "Aesthetics",
+        "Function",
+        "Economic manufacture",
+        "Ethical sourcing"
+      ],
+      "answer": 0,
+      "why": "Aesthetics covers look, feel, weight, finish, smell and even sound. It is how businesses differentiate when function is similar across a market.",
+      "whyNot": [
+        "",
+        "Function is how well the product does the job it was designed for.",
+        "Economic manufacture is whether it can be made cheaply enough to sell profitably.",
+        "Ethical sourcing is about how the materials were obtained, not how the product appeals."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-03",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of economic manufacture?",
+      "options": [
+        "Designing a product so it can be made at a cost low enough to sell profitably",
+        "Making a product in the cheapest country available",
+        "Designing a product that uses recycled materials only",
+        "Selling a product at the lowest price in the market"
+      ],
+      "answer": 0,
+      "why": "Economic manufacture is the cost element of the design mix. A design that cannot be made at a viable cost has failed on a design criterion, not just a financial one.",
+      "whyNot": [
+        "",
+        "Where it is made is a location decision. Economic manufacture is about designing for a viable cost wherever it is produced.",
+        "Recycled content relates to resource depletion, which is a separate pressure on design.",
+        "That is a pricing strategy, not a design decision."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-04",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: designing and producing in a way that creates as little waste as possible?",
+      "options": [
+        "Waste minimisation",
+        "Recycling",
+        "Re-use",
+        "Resource depletion"
+      ],
+      "answer": 0,
+      "why": "Minimisation means using less material in the first place, such as lighter packaging or fewer components. It usually cuts cost as well as waste.",
+      "whyNot": [
+        "",
+        "Recycling recovers materials after use. Minimisation avoids using them at all.",
+        "Re-use means using the same item again, such as a refillable container.",
+        "Resource depletion is the problem these three approaches respond to."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-05",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "A business redesigns a product using cheaper materials. What is the most likely trade-off?",
+      "options": [
+        "Lower cost but weaker function or aesthetics",
+        "Lower cost with no effect on the other elements",
+        "Higher cost and better function",
+        "Better aesthetics and better function"
+      ],
+      "answer": 0,
+      "why": "The design mix trades off. Cutting the cost element almost always takes something from function or appearance, and identifying which is what earns the analysis mark.",
+      "whyNot": [
+        "",
+        "Nothing in the design mix changes in isolation. That is the whole point of calling it a mix.",
+        "Cheaper materials lower cost. They do not raise it.",
+        "Cheaper materials rarely improve either function or appearance."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-06",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "For an industrial machine sold to other businesses, which element of the design mix is most likely to lead?",
+      "options": [
+        "Function",
+        "Aesthetics",
+        "Ethical sourcing",
+        "Viral appeal"
+      ],
+      "answer": 0,
+      "why": "Business buyers judge on reliability, performance and total cost of ownership. Appearance matters far less than whether the machine works and keeps working.",
+      "whyNot": [
+        "",
+        "Aesthetics leads in luxury and consumer markets, not usually in industrial ones.",
+        "Ethical sourcing is an increasing pressure but rarely the leading design criterion for industrial equipment.",
+        "Viral appeal is a promotional idea, not an element of the design mix."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-07",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "Why can designing for waste minimisation reduce costs as well as waste?",
+      "options": [
+        "Using less material means buying less material",
+        "Waste disposal is always free",
+        "Recycled materials are always cheaper than new ones",
+        "Customers will pay more for any product with less packaging"
+      ],
+      "answer": 0,
+      "why": "Less material is a direct saving on inputs, and often on transport too because the product is lighter. This is a useful evaluation point because it undercuts the assumption that sustainable design always costs more.",
+      "whyNot": [
+        "",
+        "Disposal normally costs money, which is another reason minimisation saves.",
+        "Sometimes true, sometimes not. Recycled inputs can cost more where collection and processing are expensive.",
+        "Some customers will pay more, many will not. Never assume willingness to pay without evidence."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-08",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of ethical sourcing?",
+      "options": [
+        "Buying materials in a way that respects the pay, conditions and environment of suppliers",
+        "Buying materials from the cheapest available supplier",
+        "Buying only materials that can be recycled",
+        "Buying materials produced in the same country as the business"
+      ],
+      "answer": 0,
+      "why": "Ethical sourcing is about the conditions under which inputs are produced: fair pay, safe conditions, no child labour, no illegal environmental damage.",
+      "whyNot": [
+        "",
+        "That is cost minimisation, which is often what ethical sourcing has to be weighed against.",
+        "Recyclability relates to resource depletion, a separate consideration.",
+        "That is local sourcing, which may or may not be ethical."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-09",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "What is the main practical difficulty a business faces in guaranteeing ethical sourcing?",
+      "options": [
+        "Supply chains are long and opaque, so verification is difficult and expensive",
+        "Ethical sourcing is illegal in most countries",
+        "It always makes the product worse",
+        "Customers never care about it"
+      ],
+      "answer": 0,
+      "why": "A business may know its direct supplier but not that supplier's suppliers. Auditing several tiers back costs real money, and that is why scandals still happen to firms that believed they were compliant.",
+      "whyNot": [
+        "",
+        "The opposite: much of it is increasingly required by law.",
+        "It affects cost and sometimes availability, but not the product's function or appearance.",
+        "Consumer and retailer pressure is precisely why businesses invest in it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-10",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "hard",
+      "stem": "A luxury watch brand is deciding whether to cut manufacturing costs by 20%. Which consideration is most important?",
+      "options": [
+        "Whether the cost saving damages the aesthetics and perceived quality the price depends on",
+        "Whether the watch will still tell the time accurately",
+        "Whether the packaging can be recycled",
+        "Whether the factory is in a trading bloc"
+      ],
+      "answer": 0,
+      "why": "For a premium product, aesthetics and perceived quality are what justify the price. A 20% cost saving that customers can see or feel could destroy far more value in price than it saves in cost.",
+      "whyNot": [
+        "",
+        "Function matters, but at this price point it is the minimum expectation rather than the differentiator.",
+        "Relevant to sustainability but secondary to whether the brand position survives.",
+        "A location and tariff question, not the central design trade-off here."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-11",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "Which of the following is an example of designing for re-use rather than recycling?",
+      "options": [
+        "A refillable glass bottle returned to the producer",
+        "A plastic bottle made from a single material so it can be reprocessed",
+        "Packaging made thinner to use less plastic",
+        "A product made from recycled aluminium"
+      ],
+      "answer": 0,
+      "why": "Re-use means the same item is used again in its existing form. The refillable bottle goes back and is refilled rather than being broken down.",
+      "whyNot": [
+        "",
+        "Single-material design is to make recycling possible, which means reprocessing rather than re-using.",
+        "That is waste minimisation: using less material in the first place.",
+        "That is using recycled input, which is the output end of recycling."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-12",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "hard",
+      "stem": "Why does good design link directly to added value?",
+      "options": [
+        "Design can raise the price customers will pay without raising bought-in material costs by as much",
+        "Design always reduces the cost of materials to zero",
+        "Added value is calculated from the design budget",
+        "Design has no effect on price"
+      ],
+      "answer": 0,
+      "why": "Added value is selling price minus bought-in materials and services. Better design can lift the price customers accept by more than it lifts input cost, so the gap widens.",
+      "whyNot": [
+        "",
+        "Design cannot eliminate material costs, only reduce or change them.",
+        "Added value is price minus bought-in costs. The design budget does not appear in the formula at all.",
+        "Design is one of the main reasons customers accept a higher price."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-13",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "medium",
+      "stem": "A product is sold into a hot, humid, salt-air island environment. Which design consideration becomes most important?",
+      "options": [
+        "Function, specifically resistance to corrosion",
+        "Aesthetics, specifically colour choice",
+        "Viral marketing potential",
+        "The number of components"
+      ],
+      "answer": 0,
+      "why": "If the product corrodes and fails in two years rather than ten, nothing else about the design matters. The environment makes durability the deciding criterion, which is why specification beats appearance in that market.",
+      "whyNot": [
+        "",
+        "Colour may matter to appeal but not to whether the product survives the conditions.",
+        "A promotional consideration, not a design one.",
+        "Component count affects cost and reliability indirectly, but corrosion resistance is the direct issue here."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-2-14",
+      "topicRef": "1.3.3.2",
+      "topicTitle": "Product/service design",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of resource depletion?",
+      "options": [
+        "Using up finite natural resources faster than they can be replaced",
+        "The cost of raw materials rising over time",
+        "A business running out of cash",
+        "Reducing the number of products in a portfolio"
+      ],
+      "answer": 0,
+      "why": "Depletion is about the physical exhaustion of finite resources, which is what drives the design pressure towards minimisation, re-use and recycling.",
+      "whyNot": [
+        "",
+        "Rising input prices may be a consequence of depletion, but they are not the definition.",
+        "That is a liquidity problem, unrelated to natural resources.",
+        "That is portfolio rationalisation."
+      ]
+    }
+  ]
+}

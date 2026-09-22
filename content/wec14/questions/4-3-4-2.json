@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.4.2",
+  "topicTitle": "Inequality",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-4-2-01",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "easy",
+      "stem": "What is the difference between income and wealth?",
+      "options": [
+        "Income is a flow received over a period; wealth is a stock of assets held at a point in time",
+        "Income is a stock; wealth is a flow",
+        "Income includes benefits; wealth does not",
+        "They are the same thing measured differently"
+      ],
+      "answer": 0,
+      "why": "Wealth generates income, and income allows saving which accumulates wealth, so the two reinforce each other.",
+      "whyNot": [
+        "",
+        "The definitions are the other way round.",
+        "Both can be defined to include various components; the distinction is flow against stock.",
+        "They are distinct concepts."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-02",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "easy",
+      "stem": "Which is always more unequally distributed?",
+      "options": [
+        "Wealth, because it accumulates over a lifetime and is inherited",
+        "Income, because wages vary widely",
+        "They are equally unequal in every country",
+        "It varies unpredictably between countries"
+      ],
+      "answer": 0,
+      "why": "Many households have little or no wealth at all, whereas almost everyone has some income.",
+      "whyNot": [
+        "",
+        "Income is more evenly distributed than wealth everywhere.",
+        "Wealth is more concentrated in every country.",
+        "The pattern is consistent."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-03",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "easy",
+      "stem": "What does the Lorenz curve plot?",
+      "options": [
+        "Cumulative percentage of income against cumulative percentage of population, from poorest to richest",
+        "Income against the price level",
+        "Population against the unemployment rate",
+        "The Gini coefficient against time"
+      ],
+      "answer": 0,
+      "why": "The further the curve bows away from the diagonal line of perfect equality, the greater the inequality.",
+      "whyNot": [
+        "",
+        "That is unrelated to inequality measurement.",
+        "That is a labour market relationship.",
+        "The Gini is derived from the curve, not plotted against time on it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-04",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "easy",
+      "stem": "What does a Gini coefficient of 0 represent?",
+      "options": [
+        "Perfect equality",
+        "Perfect inequality",
+        "Average inequality",
+        "An error in the data"
+      ],
+      "answer": 0,
+      "why": "A coefficient of 1 means one person has everything. Higher means more unequal.",
+      "whyNot": [
+        "",
+        "That is a coefficient of 1.",
+        "There is no fixed average value.",
+        "Zero is a valid theoretical value."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-05",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "How is the Gini coefficient calculated from a Lorenz curve?",
+      "options": [
+        "The area between the curve and the line of equality, divided by the whole area beneath that line",
+        "The area under the Lorenz curve divided by the area under the line of equality",
+        "The vertical distance between the curve and the line at the midpoint",
+        "The slope of the Lorenz curve at its steepest point"
+      ],
+      "answer": 0,
+      "why": "So a curve lying close to the diagonal gives a small coefficient and a curve bowing far below it gives a large one.",
+      "whyNot": [
+        "",
+        "That would give the complement of the coefficient.",
+        "A single distance does not capture the whole distribution.",
+        "The slope at one point is not the measure."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-06",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "Why can two very different distributions share the same Gini coefficient?",
+      "options": [
+        "It is a single number, so extreme wealth at the top and extreme poverty at the bottom can produce the same value",
+        "The coefficient is always inaccurate",
+        "The coefficient ignores the size of the population",
+        "The coefficient measures wealth rather than income"
+      ],
+      "answer": 0,
+      "why": "The policy responses to those two situations are completely different, which is why the summary statistic needs supplementing.",
+      "whyNot": [
+        "",
+        "It is calculated accurately from the data available.",
+        "It is a proportional measure, so population size does not distort it.",
+        "It is usually measured on income."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-07",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "Why does the Gini coefficient understate overall inequality?",
+      "options": [
+        "It is usually measured on income rather than wealth, and wealth is far more unequal",
+        "It excludes the poorest households from the calculation",
+        "It is measured before the population is fully counted",
+        "It includes benefits in kind"
+      ],
+      "answer": 0,
+      "why": "It also ignores benefits in kind such as free health care and education, which reduce effective inequality.",
+      "whyNot": [
+        "",
+        "All households are included.",
+        "Population coverage is not the issue.",
+        "It excludes benefits in kind, which works in the other direction."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-08",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "Why should you always check whether a Gini coefficient is before or after taxes and benefits?",
+      "options": [
+        "The two figures differ substantially, and the difference is the effect of redistribution",
+        "Only the pre-tax figure is ever published",
+        "The post-tax figure always shows more inequality",
+        "The distinction makes no difference to the value"
+      ],
+      "answer": 0,
+      "why": "Quoting the wrong one can reverse the conclusion about how redistributive a country's system is.",
+      "whyNot": [
+        "",
+        "Both are published for many countries.",
+        "Redistribution normally reduces measured inequality.",
+        "The difference is often large."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-09",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cause of inequality within a country?",
+      "options": [
+        "Ownership of capital, since returns accrue to those who already have wealth",
+        "The size of the country's population",
+        "Membership of the WTO",
+        "The number of languages spoken"
+      ],
+      "answer": 0,
+      "why": "Wage differentials, unequal education, unemployment, the tax and benefit system, inheritance and discrimination are the other main causes.",
+      "whyNot": [
+        "",
+        "Population size does not determine distribution.",
+        "Trade membership is not a direct cause.",
+        "Language diversity is not an economic cause."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-10",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "How does inequality affect enterprise, according to the two-sided argument?",
+      "options": [
+        "Large rewards encourage risk-taking, and where most people have no access to credit, enterprise is suppressed",
+        "Inequality always encourages enterprise",
+        "Inequality always suppresses enterprise",
+        "Inequality has no effect on enterprise"
+      ],
+      "answer": 0,
+      "why": "Which effect dominates depends on whether the financial system reaches ordinary households, which is the microfinance argument.",
+      "whyNot": [
+        "",
+        "Lack of access to capital prevents most potential entrepreneurs from starting.",
+        "The prospect of reward does encourage risk-taking.",
+        "Both effects are substantial."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-11",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "How does inequality affect savings, and what is the counter-argument?",
+      "options": [
+        "Higher earners save more so aggregate saving rises, and the savings may go abroad while consumption falls",
+        "Inequality always reduces aggregate saving",
+        "Inequality has no effect on saving",
+        "Savings and inequality are unrelated concepts"
+      ],
+      "answer": 0,
+      "why": "It may raise the funds available and reduce the demand that makes investment worthwhile, and capital flight can remove the savings entirely.",
+      "whyNot": [
+        "",
+        "Higher-income households save a larger proportion of income.",
+        "Marginal propensities to save differ by income level.",
+        "The savings ratio depends directly on the distribution."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-12",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "Why is unequal access to education described as inefficient as well as unjust?",
+      "options": [
+        "The economy loses the productivity of people who would have been highly capable",
+        "It raises the cost of providing education",
+        "It reduces the number of schools required",
+        "It has no effect on productivity"
+      ],
+      "answer": 0,
+      "why": "Talent is wasted, and unequal education perpetuates inequality into the next generation.",
+      "whyNot": [
+        "",
+        "Cost is not the efficiency argument.",
+        "Fewer schools is not an efficiency gain in this sense.",
+        "Human capital is a direct determinant of productivity."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-13",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "What does the Kuznets hypothesis propose?",
+      "options": [
+        "Inequality first rises and then falls as an economy develops",
+        "Inequality falls continuously as an economy develops",
+        "Inequality rises continuously with development",
+        "Inequality is unrelated to the level of development"
+      ],
+      "answer": 0,
+      "why": "The evidence is mixed, and several developed economies have seen inequality rise again, so it is a possible pattern rather than a law.",
+      "whyNot": [
+        "",
+        "The hypothesis describes an inverted U.",
+        "The hypothesis predicts a later fall.",
+        "The hypothesis links the two explicitly."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-14",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "What is the strongest framing for an essay on whether inequality should be reduced?",
+      "options": [
+        "Some inequality is necessary for incentives, so the question is how much and whether it reflects contribution",
+        "All inequality is unjust and should be eliminated",
+        "Inequality is always efficient and should not be reduced",
+        "Inequality cannot be measured, so no judgement is possible"
+      ],
+      "answer": 0,
+      "why": "Market outcomes depend on an initial distribution of assets that is largely inherited, so the source of the inequality matters as much as its extent.",
+      "whyNot": [
+        "",
+        "Complete equality removes incentives and is not a serious economic position.",
+        "Beyond some point inequality becomes self-reinforcing rather than rewarding contribution.",
+        "The Gini coefficient and Lorenz curve measure it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-15",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "medium",
+      "stem": "How does inequality affect life expectancy?",
+      "options": [
+        "Lower incomes mean worse nutrition, housing and health care access, so life expectancy is lower among the poorest",
+        "Life expectancy is unaffected by income",
+        "More unequal societies always have higher average life expectancy",
+        "Life expectancy depends only on genetics"
+      ],
+      "answer": 0,
+      "why": "More unequal societies tend to show worse average health outcomes than more equal ones at the same average income.",
+      "whyNot": [
+        "",
+        "The relationship is well established.",
+        "The evidence points the other way.",
+        "Nutrition, sanitation and health care access are major determinants."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-2-16",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "Inequality",
+      "difficulty": "hard",
+      "stem": "How can low interest rates reduce income inequality while raising wealth inequality?",
+      "options": [
+        "They support employment, which helps the poorest, and raise asset prices, which benefits existing wealth owners",
+        "They raise wages and lower asset prices",
+        "They have no effect on either measure",
+        "They reduce both measures simultaneously"
+      ],
+      "answer": 0,
+      "why": "This applies directly to the post-2008 period and is a genuinely sophisticated point.",
+      "whyNot": [
+        "",
+        "Low rates tend to raise asset prices.",
+        "Both channels are substantial.",
+        "The two effects move in opposite directions."
+      ]
+    }
+  ]
+}

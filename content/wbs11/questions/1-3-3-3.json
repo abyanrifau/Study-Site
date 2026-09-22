@@ -1,0 +1,301 @@
+{
+  "topicRef": "1.3.3.3",
+  "topicTitle": "Promotion and branding",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-3-3-01",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of branding?",
+      "options": [
+        "Giving a product a name, symbol or design that distinguishes it from competitors",
+        "Spending money on advertising a product",
+        "Setting a price above that of competitors",
+        "The full range of products a business sells"
+      ],
+      "answer": 0,
+      "why": "A brand is the identity that makes a product recognisable and distinct. Advertising is one way to build it, not the brand itself.",
+      "whyNot": [
+        "",
+        "Advertising is a promotional method used to build a brand. The brand is the identity.",
+        "That is premium pricing, which a strong brand allows but is not the same as.",
+        "That is the product portfolio."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-02",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a brand owned by a retailer and sold only in its own stores?",
+      "options": [
+        "Own-label brand",
+        "Manufacturer brand",
+        "Generic brand",
+        "Corporate brand"
+      ],
+      "answer": 0,
+      "why": "Own-label, sometimes called private label, belongs to the retailer. Supermarket value and premium ranges are the standard examples.",
+      "whyNot": [
+        "",
+        "A manufacturer brand is owned by the producer and sold through many retailers.",
+        "A generic product has effectively no brand identity and competes on price.",
+        "Corporate branding means using the company name across all its products, which is a different distinction."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-03",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "easy",
+      "stem": "According to the specification, which is a benefit of strong branding?",
+      "options": [
+        "Reduced price elasticity of demand",
+        "Lower fixed costs",
+        "Guaranteed market leadership",
+        "Automatic access to bank finance"
+      ],
+      "answer": 0,
+      "why": "The three named benefits are added value, the ability to charge premium prices, and reduced price elasticity of demand. Lower elasticity is the most valuable to state because it protects the margin when prices rise.",
+      "whyNot": [
+        "",
+        "Branding is a cost, and building it usually raises spending rather than reducing fixed costs.",
+        "A strong brand helps compete but guarantees nothing.",
+        "A strong brand may impress a lender, but it is not an automatic route to finance."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-04",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of viral marketing?",
+      "options": [
+        "Promotion designed to be shared by consumers themselves, so it spreads at little cost",
+        "Advertising placed on television during peak hours",
+        "Paying an event or team to carry your brand name",
+        "Sending promotional emails to a purchased mailing list"
+      ],
+      "answer": 0,
+      "why": "Viral marketing relies on consumers passing the content on. The reach can be enormous for almost no spend, but it cannot be reliably planned.",
+      "whyNot": [
+        "",
+        "That is conventional paid advertising, with a cost per viewer.",
+        "That is sponsorship.",
+        "That is direct marketing, and buying lists is usually both ineffective and legally restricted."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-05",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "Which term is defined as: building a brand around feelings, values or identity rather than product features?",
+      "options": [
+        "Emotional branding",
+        "Viral marketing",
+        "Personal selling",
+        "Sales promotion"
+      ],
+      "answer": 0,
+      "why": "Emotional branding sells belonging, values or self-image. It works well, and carries the risk that if the business does not live up to the claim, the gap becomes the story.",
+      "whyNot": [
+        "",
+        "Viral marketing is about how promotion spreads, not what it appeals to.",
+        "Personal selling is a one-to-one promotional method.",
+        "Sales promotion is short-term incentives such as discounts and coupons."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-06",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "Which promotional method is most appropriate for selling complex industrial machinery?",
+      "options": [
+        "Personal selling",
+        "Television advertising",
+        "Buy one get one free",
+        "Viral social media content"
+      ],
+      "answer": 0,
+      "why": "Complex, expensive B2B purchases need technical explanation, negotiation and a relationship. The cost per customer is high but so is the order value.",
+      "whyNot": [
+        "",
+        "Mass television advertising reaches millions of people who will never buy industrial machinery.",
+        "Volume discounts make no sense for a capital purchase decided on specification and service.",
+        "Viral content reaches consumers, not procurement committees."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-07",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of relying on sales promotions such as discounts?",
+      "options": [
+        "They cut the margin and can train customers to wait for the next discount",
+        "They have no effect on sales volume",
+        "They are illegal in most markets",
+        "They cannot be measured"
+      ],
+      "answer": 0,
+      "why": "Discounts work quickly on volume, but every unit sold earns less, and regular promotions teach customers that the full price is optional.",
+      "whyNot": [
+        "",
+        "They usually have a strong and immediate effect on volume. That is why businesses use them.",
+        "They are a standard and legal marketing tool.",
+        "They are among the easiest promotions to measure, because the uplift is immediate."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-08",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "A business spends $50,000 on a campaign that generates $30,000 of extra profit. What does this show?",
+      "options": [
+        "Demand shifted right but the business is worse off overall",
+        "The campaign was successful because demand rose",
+        "Promotion is always a waste of money",
+        "The price elasticity of demand must have increased"
+      ],
+      "answer": 0,
+      "why": "Promotion is a cost. A campaign can shift the demand curve right and still destroy value if it costs more than the extra profit it brings. Making this comparison is the most reliable way to score on promotion questions.",
+      "whyNot": [
+        "",
+        "Rising demand is not the test. The test is whether the extra profit exceeds the spend.",
+        "Plenty of campaigns return more than they cost. The point is that it has to be checked, not assumed.",
+        "Effective promotion usually makes demand less elastic, and in any case elasticity is not what this comparison measures."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-09",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "What is the main risk of corporate branding, where the company name is used across all products?",
+      "options": [
+        "A problem with one product damages the reputation of everything",
+        "It is more expensive than branding each product separately",
+        "Customers cannot recognise the products",
+        "It prevents the business from advertising"
+      ],
+      "answer": 0,
+      "why": "Corporate branding is cheaper and lets reputation carry across the range, but it concentrates risk. One scandal reaches every product at once.",
+      "whyNot": [
+        "",
+        "It is normally cheaper, because one brand is built rather than many.",
+        "A single strong name usually makes recognition easier, not harder.",
+        "It has no bearing on the ability to advertise."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-10",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "hard",
+      "stem": "Why is a USP generally the most durable way to build a brand?",
+      "options": [
+        "It is rooted in the product itself rather than in spending that must be repeated",
+        "A USP cannot ever be copied",
+        "USPs are protected by law in all countries",
+        "It requires no investment"
+      ],
+      "answer": 0,
+      "why": "Advertising and sponsorship stop working the moment you stop paying. A genuine product difference keeps working on its own, which is why it is the most durable route, even though it can eventually be imitated.",
+      "whyNot": [
+        "",
+        "Most USPs can be copied unless protected by a patent. Durable does not mean permanent.",
+        "Trademarks protect names and patents protect inventions, but a USP as such has no automatic legal protection.",
+        "Developing a genuine product difference usually needs significant investment."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-11",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "hard",
+      "stem": "A brand builds a campaign on sustainability, then a supply chain problem emerges. Why is the damage often larger than the campaign's benefit?",
+      "options": [
+        "The gap between the claim and the practice becomes the story",
+        "Sustainability campaigns are always dishonest",
+        "Customers never believe environmental claims",
+        "Advertising regulations ban all environmental claims"
+      ],
+      "answer": 0,
+      "why": "Emotional branding raises expectations. When behaviour falls short of a loudly made promise, the hypocrisy is more newsworthy than the original message, so the reputational cost exceeds the campaign benefit.",
+      "whyNot": [
+        "",
+        "Many are genuine. The risk is the gap, not dishonesty as a rule.",
+        "Environmental claims can be highly effective when they are credible and verified.",
+        "Such claims are regulated against being misleading, not banned."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-12",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "How does a strong brand affect the price a business can charge?",
+      "options": [
+        "It justifies a premium price, because customers see the product as distinct",
+        "It forces the business to charge less than rivals",
+        "It has no effect on price",
+        "It requires the business to charge exactly the market average"
+      ],
+      "answer": 0,
+      "why": "The brand is what makes a higher price acceptable. Without it, pricing above rivals for a similar product simply loses customers.",
+      "whyNot": [
+        "",
+        "Competing on low price is the opposite strategy, used where there is no strong brand to justify a premium.",
+        "The ability to charge a premium is one of the three named benefits of branding.",
+        "Nothing forces a branded product to the market average, and matching it would waste the brand."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-13",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of promotion?",
+      "options": [
+        "Any activity used to communicate with customers to inform and persuade them",
+        "The price a business charges for a product",
+        "The channel through which a product reaches the customer",
+        "The design of the product itself"
+      ],
+      "answer": 0,
+      "why": "Promotion is the communication element of the marketing mix, covering advertising, sales promotion, personal selling, public relations, direct marketing and social media.",
+      "whyNot": [
+        "",
+        "That is price, a separate element of the mix.",
+        "That is place, or distribution.",
+        "That is product, and specifically the design mix."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-3-14",
+      "topicRef": "1.3.3.3",
+      "topicTitle": "Promotion and branding",
+      "difficulty": "hard",
+      "stem": "A small guesthouse has almost no marketing budget. Which promotional approach is most appropriate?",
+      "options": [
+        "Social media content and encouraging genuine reviews on booking platforms",
+        "A national television advertising campaign",
+        "Sponsoring a professional sports team",
+        "Employing a team of personal sales representatives"
+      ],
+      "answer": 0,
+      "why": "Reach on social media and review platforms costs almost nothing; the constraint is content and service quality rather than cash. Reviews are also unprompted third-party endorsement, which is more credible than paid advertising.",
+      "whyNot": [
+        "",
+        "Television advertising costs far more than a small guesthouse could recover.",
+        "Sponsorship of a professional team is a large fixed cost aimed at mass awareness.",
+        "A sales team is a heavy ongoing cost and makes little sense for low-value individual bookings."
+      ]
+    }
+  ]
+}

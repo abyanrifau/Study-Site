@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.1",
+  "topicTitle": "Specialisation and comparative advantage",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-2-1-01",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines absolute advantage?",
+      "options": [
+        "The ability to produce more of a good than another country using the same resources",
+        "The ability to produce a good at a lower opportunity cost than another country",
+        "The ability to sell a good at a lower price than another country",
+        "The ability to produce every good more cheaply than another country"
+      ],
+      "answer": 0,
+      "why": "Absolute advantage is about output; comparative advantage is about opportunity cost.",
+      "whyNot": [
+        "",
+        "That is comparative advantage.",
+        "Price depends on costs and the exchange rate as well.",
+        "That would be absolute advantage in everything, which is possible but not the definition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-02",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines comparative advantage?",
+      "options": [
+        "The ability to produce a good at a lower opportunity cost than another country",
+        "The ability to produce more of a good with the same resources",
+        "The ability to export more than you import",
+        "The ability to produce a good using less labour"
+      ],
+      "answer": 0,
+      "why": "Trade is mutually beneficial whenever opportunity costs differ, even if one country is worse at producing everything.",
+      "whyNot": [
+        "",
+        "That is absolute advantage.",
+        "That is a trade surplus.",
+        "That is one form of absolute advantage."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-03",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "easy",
+      "stem": "Country A produces 40 wheat or 20 cloth. What is the opportunity cost of 1 wheat in A?",
+      "options": [
+        "0.5 cloth",
+        "2 cloth",
+        "20 cloth",
+        "40 cloth"
+      ],
+      "answer": 0,
+      "why": "20 / 40 = 0.5 cloth given up per tonne of wheat gained.",
+      "whyNot": [
+        "",
+        "That is the opportunity cost of 1 cloth in A.",
+        "That is total cloth output.",
+        "That is total wheat output."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-04",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "easy",
+      "stem": "Country B produces 15 wheat or 30 cloth. What is the opportunity cost of 1 cloth in B?",
+      "options": [
+        "0.5 wheat",
+        "2 wheat",
+        "15 wheat",
+        "30 wheat"
+      ],
+      "answer": 0,
+      "why": "15 / 30 = 0.5 wheat given up per metre of cloth gained.",
+      "whyNot": [
+        "",
+        "That is the opportunity cost of 1 wheat in B.",
+        "That is total wheat output.",
+        "That is total cloth output."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-05",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "A gives up 0.5 cloth per wheat and B gives up 2 cloth per wheat. Who has the comparative advantage in wheat?",
+      "options": [
+        "A, because its opportunity cost is lower",
+        "B, because its opportunity cost is higher",
+        "Neither, because both can produce wheat",
+        "Both equally, because they produce the same goods"
+      ],
+      "answer": 0,
+      "why": "The country with the lower opportunity cost has the comparative advantage.",
+      "whyNot": [
+        "",
+        "A higher opportunity cost means a comparative disadvantage.",
+        "Both can produce it, and one does so at lower opportunity cost.",
+        "Their opportunity costs differ, which is the whole point."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-06",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "Can a country with an absolute disadvantage in both goods still gain from trade?",
+      "options": [
+        "Yes, because it cannot be relatively worse at both, so it has a comparative advantage in one",
+        "No, because it produces less of everything",
+        "Only if it receives aid to compensate",
+        "Only if it imposes a tariff on imports"
+      ],
+      "answer": 0,
+      "why": "This is the result students most often fail to state, and it is the whole point of the theory.",
+      "whyNot": [
+        "",
+        "Absolute output levels do not determine the gains from trade.",
+        "Aid is unrelated to the gains from specialisation.",
+        "A tariff would reduce the gains."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-07",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "If A gives up 0.5 cloth per wheat and B gives up 2 cloth per wheat, what terms of trade benefit both?",
+      "options": [
+        "Any rate between 0.5 and 2 cloth per wheat",
+        "Any rate above 2 cloth per wheat",
+        "Any rate below 0.5 cloth per wheat",
+        "Only exactly 1 cloth per wheat"
+      ],
+      "answer": 0,
+      "why": "A will not accept less than it can get at home, and B will not pay more than it can achieve at home, so the range between the two opportunity costs benefits both.",
+      "whyNot": [
+        "",
+        "B would then be better off producing wheat itself.",
+        "A would then be better off producing cloth itself.",
+        "Any rate within the range works, not only the midpoint."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-08",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "What determines how the gains from trade are divided between two countries?",
+      "options": [
+        "Where the terms of trade settle within the mutually beneficial range",
+        "Which country has the larger population",
+        "Which country has the absolute advantage in both goods",
+        "The size of each country's tariffs on the other"
+      ],
+      "answer": 0,
+      "why": "The theory determines the size of the gain, not its distribution, which is a strong evaluative point.",
+      "whyNot": [
+        "",
+        "Population does not determine the terms of trade.",
+        "Absolute advantage does not determine the division.",
+        "Tariffs would reduce the total gain rather than divide it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-09",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "Which of the following is an assumption of the theory of comparative advantage?",
+      "options": [
+        "Perfect mobility of factors of production within each country",
+        "Perfect mobility of factors between countries",
+        "Increasing returns to scale",
+        "The existence of tariffs on all goods"
+      ],
+      "answer": 0,
+      "why": "It also assumes no transport costs, constant returns, free trade, perfect knowledge, and ignores externalities.",
+      "whyNot": [
+        "",
+        "It assumes factors are immobile between countries.",
+        "It assumes constant returns to scale.",
+        "It assumes free trade."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-10",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "hard",
+      "stem": "Which is the most damaging limitation of the theory of comparative advantage?",
+      "options": [
+        "Factors are not perfectly mobile, so specialisation creates structural unemployment during adjustment",
+        "Opportunity costs cannot be calculated",
+        "Countries never specialise in practice",
+        "Total world output falls when countries specialise"
+      ],
+      "answer": 0,
+      "why": "A textile worker does not become a wheat farmer, and adjustment takes years while the model treats it as instantaneous.",
+      "whyNot": [
+        "",
+        "They are straightforward to calculate from output data.",
+        "Substantial specialisation is observed.",
+        "Total output rises, which is the theory's central result."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-11",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "hard",
+      "stem": "Why can economies of scale undermine the prediction of comparative advantage?",
+      "options": [
+        "They reinforce an existing advantage, so the first country into an industry can keep it",
+        "They eliminate all opportunity costs",
+        "They require constant returns to scale",
+        "They only apply to primary products"
+      ],
+      "answer": 0,
+      "why": "The theory assumes constant returns, so increasing returns allow a historical accident to determine the pattern of trade.",
+      "whyNot": [
+        "",
+        "Opportunity costs remain.",
+        "They are the opposite of constant returns.",
+        "They apply most strongly in manufacturing."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-12",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "hard",
+      "stem": "Why is over-specialisation a cost the static theory does not capture?",
+      "options": [
+        "A country specialising in one or two products is exposed to volatile prices and collapses in demand",
+        "Specialisation reduces total output",
+        "Specialisation prevents trade",
+        "Specialisation raises unit costs"
+      ],
+      "answer": 0,
+      "why": "The static gain from trade is real; the resulting volatility is a cost the theory ignores, which is why diversification appears in development strategy.",
+      "whyNot": [
+        "",
+        "It raises total output, which is the point of the theory.",
+        "It requires trade rather than preventing it.",
+        "Specialisation generally lowers unit costs."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-13",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "hard",
+      "stem": "Why is trade based on low environmental standards not a genuine comparative advantage?",
+      "options": [
+        "The environmental cost is an unpriced externality, not a real efficiency",
+        "Environmental standards have no effect on costs",
+        "Comparative advantage only applies to services",
+        "Environmental damage raises the opportunity cost of production"
+      ],
+      "answer": 0,
+      "why": "The theory ignores externalities, so an apparent cost advantage may simply reflect a cost that has been shifted onto third parties.",
+      "whyNot": [
+        "",
+        "Standards affect production costs directly.",
+        "It applies to all goods and services.",
+        "The damage is a cost to society, not to the producer, which is the problem."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-14",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "Why does comparative advantage change over time?",
+      "options": [
+        "Technology, education, wage growth and exchange rates all shift relative opportunity costs",
+        "Governments reassign it by legislation",
+        "It changes only when a country joins a trading bloc",
+        "It is fixed by natural resource endowments alone"
+      ],
+      "answer": 0,
+      "why": "A country specialising in today's advantage may find it gone in twenty years, which is a strong evaluative point.",
+      "whyNot": [
+        "",
+        "It emerges from relative costs, not legislation.",
+        "Bloc membership is one influence among many.",
+        "Resources matter, and so do skills, capital and technology."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-15",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "hard",
+      "stem": "Country A and B each have 100 workers. Before trade each splits them equally; after trade each specialises completely. What is the standard result?",
+      "options": [
+        "World output of both goods rises from the same total resources",
+        "World output of one good rises and the other falls by the same amount",
+        "World output is unchanged, and it is distributed differently",
+        "World output falls because of transition costs"
+      ],
+      "answer": 0,
+      "why": "Specialisation according to comparative advantage raises total output, and that extra output is the gain from trade.",
+      "whyNot": [
+        "",
+        "In the standard two-country example both outputs rise.",
+        "Total output rises; that is the theory's central result.",
+        "The static model has no transition costs, which is one of its limitations."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-1-16",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Specialisation and comparative advantage",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a production possibility frontier?",
+      "options": [
+        "A curve showing the maximum combinations of two goods an economy can produce with resources fully employed",
+        "A curve showing the demand for two goods at different prices",
+        "A line showing the terms of trade between two countries",
+        "A curve showing the relationship between output and cost"
+      ],
+      "answer": 0,
+      "why": "Comparative advantage is shown by the relative slope of each country's frontier.",
+      "whyNot": [
+        "",
+        "That is a demand curve.",
+        "That is a trade line, not a frontier.",
+        "That is a cost curve."
+      ]
+    }
+  ]
+}

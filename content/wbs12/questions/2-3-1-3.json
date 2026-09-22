@@ -1,0 +1,259 @@
+{
+  "topicRef": "2.3.1.3",
+  "topicTitle": "External finance",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-1-3-01",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of an overdraft?",
+      "options": [
+        "An arrangement allowing a business to withdraw more than it has in its account, up to a limit",
+        "A fixed sum borrowed and repaid with interest over an agreed period",
+        "An arrangement to pay a supplier 30 to 90 days after delivery",
+        "Renting an asset rather than buying it"
+      ],
+      "answer": 0,
+      "why": "An overdraft is short-term flexibility: you pay interest only on what you use, which makes it ideal for bridging a cash flow gap and expensive as long-term finance.",
+      "whyNot": [
+        "",
+        "That is a loan.",
+        "That is trade credit.",
+        "That is leasing."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-02",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: renting an asset rather than buying it, paying a regular charge for its use?",
+      "options": [
+        "Leasing",
+        "Trade credit",
+        "Share capital",
+        "A grant"
+      ],
+      "answer": 0,
+      "why": "Leasing avoids a large upfront payment and often includes maintenance. Over the asset's life it costs more than buying, and you never own it.",
+      "whyNot": [
+        "",
+        "Trade credit is delayed payment to a supplier.",
+        "Share capital is finance raised by selling part ownership.",
+        "A grant is money that does not have to be repaid."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-03",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a wealthy individual who invests their own money in a small business?",
+      "options": [
+        "Business angel",
+        "Venture capitalist",
+        "Peer-to-peer lender",
+        "Shareholder in a plc"
+      ],
+      "answer": 0,
+      "why": "Angels bring experience, contacts and credibility as well as cash, and they take equity and expect some involvement.",
+      "whyNot": [
+        "",
+        "A venture capitalist is a specialist firm investing other people's money, usually in larger sums.",
+        "Peer-to-peer lenders lend rather than take equity, through a platform.",
+        "A plc shareholder buys shares on a public market, usually with no involvement."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-04",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of trade credit?",
+      "options": [
+        "An arrangement to pay a supplier a set period after receiving goods",
+        "A loan from a bank secured on stock",
+        "Selling goods to customers on credit",
+        "A government payment that need not be repaid"
+      ],
+      "answer": 0,
+      "why": "Typically 30 to 90 days. It is effectively an interest-free short-term loan from the supplier, which is why working capital management relies on it.",
+      "whyNot": [
+        "",
+        "That is a secured loan.",
+        "That is offering credit to customers, which uses up cash rather than providing it.",
+        "That is a grant."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-05",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "A business wants to buy premises expected to last 25 years. Which finance is most appropriate?",
+      "options": [
+        "A long-term bank loan or a mortgage",
+        "An overdraft",
+        "Trade credit",
+        "A short-term loan repayable in six months"
+      ],
+      "answer": 0,
+      "why": "Match the term of the finance to the life of the asset. A long-lived asset should be funded over a long period so repayments come out of the returns it generates.",
+      "whyNot": [
+        "",
+        "The classic error. An overdraft is expensive and repayable on demand, so funding a building with it is dangerous.",
+        "Trade credit covers goods for resale over weeks, not property over decades.",
+        "Repaying the cost of a building in six months would cripple cash flow."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-06",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "What is the main disadvantage of raising finance through share capital?",
+      "options": [
+        "Ownership and control are diluted, and new shareholders share future profits",
+        "Interest must be paid every month",
+        "The finance must be repaid within five years",
+        "Only sole traders can use it"
+      ],
+      "answer": 0,
+      "why": "There is no interest and no repayment, and the cost is permanent: new shareholders own part of the business, expect dividends and can outvote the founder.",
+      "whyNot": [
+        "",
+        "Shares carry no interest. Dividends are discretionary.",
+        "Share capital is permanent; it is not repaid.",
+        "Only companies can issue shares. A sole trader cannot."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-07",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "Which of the following correctly distinguishes a source from a method of finance?",
+      "options": [
+        "A bank is a source; a loan is a method",
+        "A loan is a source; a bank is a method",
+        "They mean the same thing",
+        "Sources are internal and methods are external"
+      ],
+      "answer": 0,
+      "why": "The specification separates who the money comes from (the source) from the form it takes (the method). Mixing them up is a common and avoidable error.",
+      "whyNot": [
+        "",
+        "This reverses them.",
+        "They are distinct, and the specification treats them separately.",
+        "Both sources and methods here are external."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-08",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "Why might a business prefer debt finance to equity finance even though it has to pay interest?",
+      "options": [
+        "The owners keep full control and keep all the future profit beyond the interest",
+        "Debt never has to be repaid",
+        "Debt is always cheaper than equity in every circumstance",
+        "Lenders share the losses if the business does badly"
+      ],
+      "answer": 0,
+      "why": "Interest is a fixed cost, so once it is paid the remaining upside belongs to the owners, and no ownership is given away. Equity investors share the upside forever.",
+      "whyNot": [
+        "",
+        "Debt must be repaid, with interest.",
+        "Debt is often cheaper, and not always; a highly geared business faces high rates.",
+        "Lenders must be paid regardless, so the risk stays with the business."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-09",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "hard",
+      "stem": "A high-risk start-up with no revenue yet needs $500,000. Why is equity more appropriate than debt?",
+      "options": [
+        "It has no cash flow to service repayments, and equity requires none",
+        "Equity finance is always cheaper",
+        "Banks are not allowed to lend to start-ups",
+        "Equity investors cannot lose money"
+      ],
+      "answer": 0,
+      "why": "Debt demands repayment from month one. A business with no revenue cannot service it, so debt would sink it. Equity investors accept the risk in exchange for a share of the upside.",
+      "whyNot": [
+        "",
+        "Equity is often the most expensive finance in the long run, because investors keep a share of all future profit.",
+        "They can lend, and they are usually unwilling to without security or cash flow.",
+        "Equity investors can lose everything they put in; that is the risk they are paid for."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-10",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "Which of the following is a drawback of crowd funding?",
+      "options": [
+        "The campaign is public, so failure is visible, and it needs a compelling story",
+        "It always requires giving up control of the business",
+        "It is only available to large companies",
+        "The money must be repaid with interest"
+      ],
+      "answer": 0,
+      "why": "Crowd funding doubles as marketing and market testing, and a campaign that does not reach its target fails in public, which can damage credibility.",
+      "whyNot": [
+        "",
+        "Depending on the model, backers may receive a product or a reward rather than equity.",
+        "It is mainly used by small businesses and start-ups.",
+        "Many crowd funding models involve rewards or pre-orders rather than repayable debt."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-11",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "hard",
+      "stem": "Why does trade credit matter especially to a business in an import-dependent economy?",
+      "options": [
+        "Suppliers offering 60 days are financing its working capital at no cost",
+        "Imported goods cannot be bought any other way",
+        "Trade credit removes the need for a bank account",
+        "It eliminates the effect of exchange rate movements"
+      ],
+      "answer": 0,
+      "why": "Long credit terms on imported stock fund the gap between paying for goods and selling them, interest free. Losing the facility by paying late would hurt more than a change in a loan rate.",
+      "whyNot": [
+        "",
+        "They can be bought for cash; credit is a financing choice.",
+        "A bank account is still needed to pay the supplier eventually.",
+        "Credit delays payment; it does not remove currency risk, and may even increase it."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-3-12",
+      "topicRef": "2.3.1.3",
+      "topicTitle": "External finance",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of collateral?",
+      "options": [
+        "An asset pledged as security for a loan, which the lender can take on default",
+        "The interest charged on a loan",
+        "The period over which a loan is repaid",
+        "A payment made to arrange a loan"
+      ],
+      "answer": 0,
+      "why": "Collateral reduces the lender's risk, which is why a business with assets can borrow more cheaply, and why a start-up without them struggles.",
+      "whyNot": [
+        "",
+        "That is the interest.",
+        "That is the loan term.",
+        "That is an arrangement fee."
+      ]
+    }
+  ]
+}

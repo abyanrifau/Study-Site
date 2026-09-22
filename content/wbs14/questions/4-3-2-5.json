@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.5",
+  "topicTitle": "Global expansion and uncertainty",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-2-5-01",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "easy",
+      "stem": "What does SPICED stand for?",
+      "options": [
+        "Strong Pound, Imports Cheaper, Exports Dearer",
+        "Strong Pound, Imports Costly, Exports Discounted",
+        "Stable Prices Increase Company Export Demand",
+        "Strong Prices Imply Cheaper Export Delivery"
+      ],
+      "answer": 0,
+      "why": "It works for any currency: a stronger home currency makes imports cheaper and exports dearer abroad.",
+      "whyNot": [
+        "",
+        "The effects run the other way round in that version.",
+        "That is not the mnemonic.",
+        "That is not the mnemonic."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-02",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines hedging?",
+      "options": [
+        "Using arrangements such as a forward contract to fix a future exchange rate",
+        "Buying a foreign currency in the hope that it will rise",
+        "Pricing all sales in the customer's currency",
+        "Holding cash reserves in case of a downturn"
+      ],
+      "answer": 0,
+      "why": "Hedging removes the uncertainty and also removes any benefit from a favourable movement.",
+      "whyNot": [
+        "",
+        "That is speculation.",
+        "That increases exposure rather than reducing it.",
+        "That is a liquidity precaution."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-03",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a skill shortage?",
+      "options": [
+        "A situation in which employers cannot find enough workers with the skills they need",
+        "A situation in which there are more workers than jobs",
+        "A shortage of training providers in a country",
+        "A situation in which wages are falling"
+      ],
+      "answer": 0,
+      "why": "Skill shortages raise wage costs, constrain output and can delay or prevent expansion.",
+      "whyNot": [
+        "",
+        "That is unemployment.",
+        "Limited provision is one cause, not the definition.",
+        "Shortages tend to raise wages."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-04",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a forward contract?",
+      "options": [
+        "An agreement to exchange currency at a fixed rate on a set future date",
+        "A contract to deliver goods before payment is received",
+        "An agreement to buy goods at next year's market price",
+        "A loan denominated in a foreign currency"
+      ],
+      "answer": 0,
+      "why": "It fixes the rate, which removes the uncertainty at a cost.",
+      "whyNot": [
+        "",
+        "That is a trade credit arrangement.",
+        "That is a variable-price supply contract.",
+        "That is foreign currency borrowing."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-05",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "A product sells for $60 and the rate moves from EUR1 = $1.10 to EUR1 = $1.25. What is the revenue per unit in euros after the change?",
+      "options": [
+        "EUR48.00",
+        "EUR54.55",
+        "EUR75.00",
+        "EUR66.00"
+      ],
+      "answer": 0,
+      "why": "60 / 1.25 = EUR48.00, down from 60 / 1.10 = EUR54.55.",
+      "whyNot": [
+        "",
+        "That is the revenue before the change.",
+        "That multiplies rather than divides.",
+        "That uses an incorrect calculation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-06",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "Revenue per unit falls from EUR54.55 to EUR48.00 on 40,000 units. What is the annual effect?",
+      "options": [
+        "A fall of about EUR262,000",
+        "A fall of about EUR6.55",
+        "A fall of about EUR1,920,000",
+        "No effect, because the dollar price is unchanged"
+      ],
+      "answer": 0,
+      "why": "6.55 x 40,000 = EUR262,000 a year.",
+      "whyNot": [
+        "",
+        "That is the effect per unit, not the annual total.",
+        "That is total revenue after the change, not the fall.",
+        "The euro value of the same dollar price has fallen."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-07",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "To protect euro revenue of EUR54.55 at a rate of EUR1 = $1.25, what dollar price is needed?",
+      "options": [
+        "$68.19",
+        "$60.00",
+        "$43.64",
+        "$54.55"
+      ],
+      "answer": 0,
+      "why": "54.55 x 1.25 = $68.19, a price increase of 13.6% to the customer.",
+      "whyNot": [
+        "",
+        "That is the original price, which no longer yields EUR54.55.",
+        "That divides instead of multiplying.",
+        "That is the euro figure, not a dollar price."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-08",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "A home currency depreciates. What happens to an importer of inputs?",
+      "options": [
+        "Input costs rise and margins are squeezed",
+        "Input costs fall and margins improve",
+        "There is no effect on input costs",
+        "Input costs fall only if the inputs are perishable"
+      ],
+      "answer": 0,
+      "why": "SPICED works in reverse: a weaker currency makes imports dearer.",
+      "whyNot": [
+        "",
+        "That is the effect of an appreciation.",
+        "Imported inputs are directly affected.",
+        "Perishability is irrelevant to currency effects."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-09",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "Which management response removes currency exposure rather than insuring against it?",
+      "options": [
+        "Producing in the market where you sell, so costs and revenues are in the same currency",
+        "Buying a forward contract",
+        "Adding a margin to the price for currency movement",
+        "Accepting the risk and monitoring it"
+      ],
+      "answer": 0,
+      "why": "This is the natural hedge, and it is the most robust answer because the exposure is eliminated.",
+      "whyNot": [
+        "",
+        "A forward contract insures against the movement for one transaction.",
+        "A margin absorbs the risk rather than removing it.",
+        "Accepting the risk leaves the exposure in place."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-10",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "Why is a business that both imports inputs and exports output partly hedged already?",
+      "options": [
+        "A depreciation raises its input costs and its export revenue at the same time",
+        "Importing and exporting are taxed at the same rate",
+        "Currency movements do not affect physical goods",
+        "Its bank automatically offsets the two flows"
+      ],
+      "answer": 0,
+      "why": "Working out the net exposure is what a good answer does rather than treating the business as purely one or the other.",
+      "whyNot": [
+        "",
+        "Tax treatment is unrelated.",
+        "Traded goods are precisely what is affected.",
+        "No bank does this automatically."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-11",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "Whether an exporter can pass on a currency-driven price rise depends most on what?",
+      "options": [
+        "Price elasticity of demand and whether competitors share the same currency",
+        "The size of the business's marketing budget",
+        "The exchange rate regime in the destination country",
+        "The volume of its domestic sales"
+      ],
+      "answer": 0,
+      "why": "If competitors are also based in the appreciating currency, all of them face the same pressure and the price can be raised.",
+      "whyNot": [
+        "",
+        "Marketing spend does not determine whether a price rise sticks.",
+        "The regime matters less than the level and competitors' positions.",
+        "Domestic volume does not affect the export decision directly."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-12",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "Why can exchange rate volatility hurt more than a permanently unfavourable level?",
+      "options": [
+        "A contract priced today and settled later can lose its whole margin to a movement nobody controls",
+        "Volatility raises the average exchange rate over time",
+        "Volatility is always accompanied by inflation",
+        "A permanently unfavourable level has no effect on competitiveness"
+      ],
+      "answer": 0,
+      "why": "A permanently strong currency is a disadvantage a business can adapt to; volatility prevents planning at all.",
+      "whyNot": [
+        "",
+        "Volatility concerns variation, not the average.",
+        "The two are not necessarily linked.",
+        "A permanently unfavourable level does affect competitiveness."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-13",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "What is the most serious effect of a skill shortage on a business?",
+      "options": [
+        "Expansion is delayed or abandoned even though the market opportunity exists",
+        "The business must pay its existing staff less",
+        "The business is prevented from advertising vacancies",
+        "The business must relocate its head office"
+      ],
+      "answer": 0,
+      "why": "A resort's expansion plans can be constrained by the inability to staff a new property rather than by finance or demand.",
+      "whyNot": [
+        "",
+        "Shortages bid wages up, not down.",
+        "Advertising vacancies is unrestricted.",
+        "Relocation is one possible response, not an automatic effect."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-14",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "medium",
+      "stem": "Which response to a skill shortage removes the need for the skill altogether?",
+      "options": [
+        "Automation",
+        "Training internally",
+        "Recruiting internationally",
+        "Raising pay to improve retention"
+      ],
+      "answer": 0,
+      "why": "Each option has a cost: training is slow and the trained staff may leave, international recruitment depends on immigration rules, and higher pay treats the symptom.",
+      "whyNot": [
+        "",
+        "Training supplies the skill rather than removing the need.",
+        "That imports the skill.",
+        "That retains people who already have it."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-15",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "Why is a resort in an import-dependent island economy unusually well hedged on the cost side?",
+      "options": [
+        "Revenue is largely earned in foreign currency and most inputs are paid for in foreign currency too",
+        "It has no costs denominated in any currency",
+        "Tourism revenue is fixed by government",
+        "Imported goods are exempt from currency movements"
+      ],
+      "answer": 0,
+      "why": "The remaining exposure sits mainly in the local-currency costs, chiefly wages.",
+      "whyNot": [
+        "",
+        "All businesses have costs in some currency.",
+        "Prices are set commercially.",
+        "Imports are directly affected by currency movements."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-5-16",
+      "topicRef": "4.3.2.5",
+      "topicTitle": "Global expansion and uncertainty",
+      "difficulty": "hard",
+      "stem": "How should the decision to hedge or relocate depend on the nature of the currency movement?",
+      "options": [
+        "Hedge a temporary movement; consider local production for a permanent one",
+        "Always hedge, whatever the cause of the movement",
+        "Always relocate, because hedging costs money",
+        "Neither, because currency movements cannot be managed"
+      ],
+      "answer": 0,
+      "why": "Hedging suits short-term uncertainty; a structural change in competitiveness calls for a structural response.",
+      "whyNot": [
+        "",
+        "Hedging a permanent shift merely delays the problem.",
+        "Relocation is a very large commitment for a temporary movement.",
+        "Several management options exist."
+      ]
+    }
+  ]
+}

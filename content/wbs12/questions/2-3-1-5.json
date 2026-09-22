@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.1.5",
+  "topicTitle": "Liability",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-1-5-01",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of unlimited liability?",
+      "options": [
+        "The owner is personally responsible for all the business's debts",
+        "The owner can lose only what they invested",
+        "The business has no limit on how much it can borrow",
+        "The business can trade in any country"
+      ],
+      "answer": 0,
+      "why": "With no separate legal identity, the business's debts are the owner's debts, so personal assets can be used to settle them.",
+      "whyNot": [
+        "",
+        "That is limited liability.",
+        "Liability is about who pays the debts, not about borrowing limits.",
+        "Nothing to do with where a business may trade."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-02",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: the status of a company as a legal person in its own right?",
+      "options": [
+        "Separate legal identity",
+        "Limited liability",
+        "Incorporation",
+        "Insolvency"
+      ],
+      "answer": 0,
+      "why": "Separate legal identity is the cause; limited liability is the consequence. The company owns its assets, signs its own contracts and owes its own debts.",
+      "whyNot": [
+        "",
+        "Limited liability follows from separate legal identity but is not the same thing.",
+        "Incorporation is the process of creating that identity.",
+        "Insolvency is being unable to pay debts as they fall due."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-03",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "medium",
+      "stem": "A sole trader's business owes $80,000 and has business assets of $20,000. What is the owner's position?",
+      "options": [
+        "The remaining $60,000 can be claimed from their personal assets",
+        "The business simply closes and the debt disappears",
+        "The owner loses only the $20,000 invested",
+        "Creditors must write off the full $80,000"
+      ],
+      "answer": 0,
+      "why": "Unlimited liability means there is no legal separation, so the shortfall is pursued from the owner's savings, car and potentially their home.",
+      "whyNot": [
+        "",
+        "The debt does not disappear when the business stops trading.",
+        "That would be the position with limited liability.",
+        "Creditors can pursue the owner personally."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-04",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "hard",
+      "stem": "A director of a small limited company is asked by the bank for a personal guarantee. What is the effect?",
+      "options": [
+        "Limited liability no longer protects them for that particular debt",
+        "The company loses its separate legal identity",
+        "The loan becomes interest free",
+        "The company must convert to a sole trader"
+      ],
+      "answer": 0,
+      "why": "A personal guarantee promises personal repayment if the company cannot pay, which reinstates unlimited liability for that debt. This is the highest-value evaluation point on the topic, because it shows incorporation is not the clean shield people assume.",
+      "whyNot": [
+        "",
+        "The company keeps its legal identity; only the director's protection for that debt is removed.",
+        "The interest terms are unaffected.",
+        "The legal form does not change."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-05",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage of unlimited liability for a small business?",
+      "options": [
+        "Lenders may be more willing to lend, because there is more to claim against",
+        "It caps the owner's losses",
+        "It allows the business to issue shares",
+        "It removes the need to keep accounts"
+      ],
+      "answer": 0,
+      "why": "A lender assessing a sole trader can look to the owner's personal assets, so borrowing can be easier and cheaper than for a company with no assets. Arguing only the downside of unlimited liability caps the mark.",
+      "whyNot": [
+        "",
+        "It does the opposite: losses are uncapped.",
+        "Only companies can issue shares.",
+        "Accounts are still needed, for tax if nothing else."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-06",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "medium",
+      "stem": "Why is limited liability essential for raising share capital?",
+      "options": [
+        "Nobody would buy shares if they could be pursued for the company's debts",
+        "Shares can only be sold by companies with unlimited liability",
+        "Limited liability guarantees a dividend",
+        "It removes the need to file accounts"
+      ],
+      "answer": 0,
+      "why": "Capping an investor's risk at the amount invested is what makes outside equity investment possible at all. That chain, incorporation to limited liability to equity finance to growth, answers most questions on this topic.",
+      "whyNot": [
+        "",
+        "The reverse: share capital requires limited liability.",
+        "No dividend is guaranteed.",
+        "Companies must file accounts publicly, which is a cost of incorporation."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-07",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "medium",
+      "stem": "When does limited liability become most valuable to a business owner?",
+      "options": [
+        "When the business borrows heavily and the owner has personal assets to protect",
+        "When the business has no debts at all",
+        "When the business is very small",
+        "When the owner has no savings or property"
+      ],
+      "answer": 0,
+      "why": "Protection is worth most when there is both a large exposure and something to lose. With no debt and no personal assets, it protects very little.",
+      "whyNot": [
+        "",
+        "With no debts there is nothing for creditors to claim.",
+        "Size matters less than the amount at risk.",
+        "If there is nothing to take, the protection has little practical value."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-08",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cost of incorporating a business?",
+      "options": [
+        "Accounts must be filed publicly, so competitors can see them",
+        "The owner becomes personally liable for all debts",
+        "The business can no longer borrow",
+        "The business cannot employ staff"
+      ],
+      "answer": 0,
+      "why": "Registration, filing, accounting and director duties all cost money and time, and the loss of privacy is a genuine disadvantage in a competitive market.",
+      "whyNot": [
+        "",
+        "Incorporation reduces personal liability rather than creating it.",
+        "Companies borrow routinely.",
+        "Companies employ staff normally."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-5-09",
+      "topicRef": "2.3.1.5",
+      "topicTitle": "Liability",
+      "difficulty": "hard",
+      "stem": "Why might a bank still require security from a newly incorporated company?",
+      "options": [
+        "The company has no trading history and few assets of its own to claim against",
+        "Banks are not allowed to lend to companies",
+        "Companies pay higher interest rates by law",
+        "Limited liability makes lending illegal"
+      ],
+      "answer": 0,
+      "why": "Limited liability protects the shareholders and leaves the lender with only the company's own assets to pursue. A new company has almost none, so the bank asks the director to stand behind the debt personally.",
+      "whyNot": [
+        "",
+        "Banks lend to companies constantly.",
+        "Rates are set by risk, not by law.",
+        "It is entirely legal; it simply shifts where the risk sits."
+      ]
+    }
+  ]
+}

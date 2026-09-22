@@ -1,0 +1,328 @@
+{
+  "topicRef": "1.3.2.2",
+  "topicTitle": "Supply",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-2-2-01",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of supply?",
+      "options": [
+        "The quantity producers are willing and able to sell at a given price over a period of time",
+        "The quantity customers are willing and able to buy at a given price",
+        "The total stock a business holds in its warehouse",
+        "The maximum output a business is capable of producing"
+      ],
+      "answer": 0,
+      "why": "Supply is about sellers, and it is always at a stated price over a stated period. Willingness matters as much as ability: a producer able to make more will only do so if the price makes it worthwhile.",
+      "whyNot": [
+        "",
+        "That is demand. Demand comes from buyers, supply from sellers.",
+        "Stock is what is currently held. Supply describes how much would be offered for sale at each price.",
+        "Maximum capacity is a physical limit. A producer will usually supply well below capacity if the price is low."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-02",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "easy",
+      "stem": "The supply curve slopes upwards because:",
+      "options": [
+        "a higher price makes supplying more profitable, so producers offer more",
+        "customers buy more when the price is lower",
+        "costs always fall as output rises",
+        "producers must sell all of their stock"
+      ],
+      "answer": 0,
+      "why": "Each unit earns more at a higher price, so producing extra becomes worthwhile. Existing firms raise output and new firms enter the market.",
+      "whyNot": [
+        "",
+        "That explains why the *demand* curve slopes downwards. Supply is about sellers, not buyers.",
+        "Costs can fall with scale, but that is not why supply slopes upwards. The reason is the profitability of each extra unit at a higher price.",
+        "There is no such obligation, and a producer facing a low price may hold stock back rather than sell."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-03",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "easy",
+      "stem": "An increase in the cost of raw materials will:",
+      "options": [
+        "shift the supply curve to the left",
+        "shift the supply curve to the right",
+        "cause a movement along the supply curve",
+        "shift the demand curve to the left"
+      ],
+      "answer": 0,
+      "why": "Higher costs make producing less profitable at every price, so less is supplied at each price and the curve shifts left. The useful shortcut is: dearer to produce means supply shifts left.",
+      "whyNot": [
+        "",
+        "A rightward shift means more is supplied at every price, which happens when costs *fall* or technology improves. Students often reverse this because rising costs feel like going up.",
+        "A movement requires a change in the price of the good itself. Costs are a non-price factor, so they shift the curve.",
+        "Raw material costs affect producers, not customers' willingness to buy. Demand is unaffected."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-04",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of an indirect tax?",
+      "options": [
+        "A tax on spending, charged on a good or service rather than on income",
+        "A tax charged on a company's annual profits",
+        "A payment made by government to producers to lower their costs",
+        "A tax paid only by imported goods"
+      ],
+      "answer": 0,
+      "why": "An indirect tax such as VAT or an excise duty is levied on the good itself. The producer hands part of the selling price to the government, so supplying is less profitable at every price and supply shifts left.",
+      "whyNot": [
+        "",
+        "That is corporation tax, a direct tax on profits. It does not shift the supply curve in this model.",
+        "That is a subsidy, which works in the opposite direction and shifts supply right.",
+        "Import duty is one type of indirect tax, but indirect taxes apply to domestically produced goods too."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-05",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a payment made by the government to producers to lower their costs and encourage output?",
+      "options": ["A subsidy", "An indirect tax", "A grant for capital investment", "A price ceiling"],
+      "answer": 0,
+      "why": "A subsidy lowers the producer's effective cost per unit, so supply shifts right, the equilibrium price falls and quantity rises. Governments use them for staple foods, strategic industries and things with a wider social benefit.",
+      "whyNot": [
+        "",
+        "An indirect tax does the opposite: it raises costs and shifts supply left.",
+        "A capital grant is a one-off sum for buying assets. A subsidy in this model supports output on a continuing per-unit basis.",
+        "A price ceiling is a legal maximum price. It does not change producers' costs, though it can cause excess demand."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-06",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "A business has fixed costs of $2,000 a month and variable costs of $4 per unit. It produces 500 units. What are its total costs?",
+      "options": ["$4,000", "$2,500", "$2,004", "$6,000"],
+      "answer": 0,
+      "why": "Variable costs = 500 × $4 = $2,000. Total costs = fixed + variable = $2,000 + $2,000 = $4,000.",
+      "whyNot": [
+        "",
+        "This adds the fixed costs to the variable cost *per unit* rather than to total variable cost. The $4 has to be multiplied by output first.",
+        "This adds fixed costs to the number 4 without using output at all.",
+        "This appears to use 1,000 units rather than 500. Check the output figure before multiplying."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-07",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "Which of the following would shift the supply curve to the right?",
+      "options": [
+        "The introduction of more efficient production technology",
+        "An increase in the wage rate paid to workers",
+        "A new excise duty on the product",
+        "An increase in consumer incomes"
+      ],
+      "answer": 0,
+      "why": "Better technology raises output per worker or machine, which lowers cost per unit. Producing becomes more profitable at every price, so supply shifts right.",
+      "whyNot": [
+        "",
+        "Higher wages raise costs, so supply shifts left.",
+        "An excise duty is an indirect tax. It raises the cost of supplying each unit, shifting supply left.",
+        "Consumer incomes act on demand, not supply."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-08",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "A bakery's variable cost rises from $0.70 to $0.95 a loaf. Fixed costs stay at $1,600 a month and it makes 2,000 loaves. By how much does its total cost rise?",
+      "options": ["$500", "$250", "$0.25", "$1,900"],
+      "answer": 0,
+      "why": "The variable cost per loaf rose by $0.25. Across 2,000 loaves that is 2,000 × $0.25 = $500. Fixed costs are unchanged, so total costs rise by $500, from $3,000 to $3,500.",
+      "whyNot": [
+        "",
+        "This looks like $0.25 multiplied by 1,000 rather than 2,000. Check the output figure.",
+        "That is the rise *per loaf*. The question asks for the rise in total cost, so it has to be multiplied by output.",
+        "That is the new total variable cost (2,000 × $0.95), not the increase in total cost."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-09",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "For an importing business, a weakening of the domestic currency is most likely to:",
+      "options": [
+        "shift its supply curve left, because imported inputs cost more",
+        "shift its supply curve right, because exports become cheaper",
+        "have no effect, because the product itself has not changed",
+        "shift its demand curve right"
+      ],
+      "answer": 0,
+      "why": "A weaker currency means more domestic currency is needed to buy the same imported input. Costs rise at every level of output even though nothing about the product changed, so supply shifts left.",
+      "whyNot": [
+        "",
+        "Cheaper exports matter to an exporter. For a business buying imported inputs, a weaker currency is a cost increase.",
+        "The product has not changed but the cost of producing it has, and supply depends on cost, not on the product itself.",
+        "Currency movements here act on the producer's costs, which is the supply side, not on customers' willingness to buy."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-10",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "hard",
+      "stem": "An indirect tax is imposed on a product. Who bears the cost of it?",
+      "options": [
+        "It is shared between producer and consumer, and the split depends on price elasticity of demand",
+        "Entirely the producer, since the producer pays the government",
+        "Entirely the consumer, since the price rises",
+        "Neither, because the tax is refunded at the end of the year"
+      ],
+      "answer": 0,
+      "why": "Supply shifts left, so the equilibrium price rises but usually by less than the tax. The producer absorbs part and passes on part. With inelastic demand the producer can pass on most of it; with elastic demand it has to absorb more or lose significant volume.",
+      "whyNot": [
+        "",
+        "The producer hands the money over, but can recover part of it through a higher price, so it does not bear the whole burden.",
+        "The price rises, but normally by less than the full tax, so the consumer does not bear all of it either.",
+        "Indirect taxes are not refunded to the producer. This is not how the mechanism works."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-11",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "Which of the following is an external shock affecting supply?",
+      "options": [
+        "A drought destroying a large share of a crop",
+        "A planned investment in new machinery",
+        "An expected annual wage increase",
+        "A fall in the price of the product"
+      ],
+      "answer": 0,
+      "why": "A drought is unexpected, outside the producer's control and cannot have a sensible probability attached to it, so it is a supply-side shock. Supply shifts left sharply and with no warning.",
+      "whyNot": [
+        "",
+        "Planned investment is a deliberate decision by the business, not a shock. It would shift supply right once productive.",
+        "An expected increase is foreseeable and budgeted for. It raises costs and shifts supply left, but it is not a shock.",
+        "That is a change in the good's own price, which causes a movement along the supply curve."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-12",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "hard",
+      "stem": "Why might the benefit of introducing new technology not appear immediately in a business's supply?",
+      "options": [
+        "The machinery must be bought and staff retrained, and productivity often dips first",
+        "New technology always raises the cost per unit",
+        "Technology only affects demand, not supply",
+        "Supply curves cannot shift more than once a year"
+      ],
+      "answer": 0,
+      "why": "There is a capital outlay, a learning period and often a temporary fall in output while staff adapt. Saying that the rightward shift takes time to arrive is a genuine evaluation point.",
+      "whyNot": [
+        "",
+        "The whole purpose is to lower cost per unit. The point is the delay before that happens, not that costs rise permanently.",
+        "Technology acts on the producer's costs, which is squarely the supply side.",
+        "There is no such limit. Curves shift whenever the underlying conditions change."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-13",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of costs of production?",
+      "options": [
+        "The payments a business must make to produce its output, such as materials, wages, energy and rent",
+        "The price a business charges customers for its product",
+        "The total revenue a business receives from sales",
+        "The profit a business makes on each unit sold"
+      ],
+      "answer": 0,
+      "why": "Costs of production are everything the business has to pay in order to produce. When they change, the profitability of supplying at any given price changes, which is why they shift the supply curve.",
+      "whyNot": [
+        "",
+        "That is the selling price, which is what the business receives rather than what it pays.",
+        "Revenue is price multiplied by quantity. It is money coming in, not going out.",
+        "That is profit per unit, which is the price minus the cost, not the cost itself."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-14",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "hard",
+      "stem": "When evaluating the impact of a cost increase on a business, which consideration is most useful?",
+      "options": [
+        "The rise as a proportion of total costs, and whether the business can switch supplier",
+        "Whether the cost is fixed or variable, since only variable costs matter",
+        "Whether the business is large or small, since size removes all cost pressure",
+        "The colour of the packaging used for the product"
+      ],
+      "answer": 0,
+      "why": "A 2% rise in a minor input is very different from a 30% rise in the main one, and a business locked into one supplier has no escape route. Sizing the impact and asking whether it can be avoided is what turns description into evaluation.",
+      "whyNot": [
+        "",
+        "Both matter. A rise in either raises total costs and shifts supply left; a variable cost rise simply bites on every extra unit.",
+        "Size can help through buying power, but it does not remove cost pressure. Large firms are hit by input price rises too.",
+        "Irrelevant to the cost of production or to the supply curve."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-15",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "A government reduces the import duty on a staple food. What is the most likely effect?",
+      "options": [
+        "Supply shifts right, so the price falls and quantity traded rises",
+        "Supply shifts left, so the price rises and quantity falls",
+        "Demand shifts right, so the price rises",
+        "There is no effect, because duty is paid by the government"
+      ],
+      "answer": 0,
+      "why": "Reducing an indirect tax lowers the cost of supplying each unit, exactly like a subsidy. Supply shifts right, so the equilibrium price falls and the quantity traded rises.",
+      "whyNot": [
+        "",
+        "That is what *raising* a duty would do. Cutting it lowers costs, so supply increases.",
+        "Duty acts on producers' costs, which is the supply side. Demand is unchanged, and a supply increase lowers the price rather than raising it.",
+        "Import duty is paid by the importer, not the government, so reducing it genuinely lowers business costs."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-2-16",
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "difficulty": "medium",
+      "stem": "Which statement about drawing a supply diagram in the exam is correct?",
+      "options": [
+        "Label the axes Price and Quantity, and label the curves S and S₁",
+        "Label the axes Cost and Output, and leave the curves unlabelled",
+        "Draw supply sloping downwards to show falling costs",
+        "Only the new curve needs a label"
+      ],
+      "answer": 0,
+      "why": "Price goes on the vertical axis and Quantity on the horizontal, and both the original and the new curve must be identified. Marks on Construct questions are mostly for labelling.",
+      "whyNot": [
+        "",
+        "The conventional axes are Price and Quantity. Unlabelled curves also throw away marks.",
+        "Supply always slopes upwards. A fall in costs is shown by shifting the whole curve right, not by reversing its slope.",
+        "Both curves need labels, or the examiner cannot tell which position came first."
+      ]
+    }
+  ]
+}

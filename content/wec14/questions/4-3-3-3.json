@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.3",
+  "topicTitle": "International competitiveness",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-3-3-01",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "easy",
+      "stem": "How is unit labour cost calculated?",
+      "options": [
+        "Total labour cost divided by total output",
+        "Total output divided by total labour cost",
+        "The average wage per worker",
+        "Total labour cost divided by the number of workers"
+      ],
+      "answer": 0,
+      "why": "Equivalently, wage per worker divided by output per worker. It combines the wage rate with productivity.",
+      "whyNot": [
+        "",
+        "That inverts the formula.",
+        "That is the wage rate.",
+        "That is also the wage per worker."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-02",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines productivity?",
+      "options": [
+        "Output per unit of input, usually output per worker or per hour",
+        "Total output of an economy",
+        "The profit earned per unit sold",
+        "The number of workers employed"
+      ],
+      "answer": 0,
+      "why": "It is the fundamental driver of competitiveness, since it determines how much can be produced from given resources.",
+      "whyNot": [
+        "",
+        "That is total output.",
+        "That is a margin.",
+        "That is employment."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-03",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines non-price competitiveness?",
+      "options": [
+        "The ability to compete on quality, design, reliability, service and brand",
+        "The ability to sell at the lowest price",
+        "The ability to produce at the lowest unit labour cost",
+        "The ability to export without tariffs"
+      ],
+      "answer": 0,
+      "why": "It is the most important addition to any answer, because it explains how high-cost economies compete successfully.",
+      "whyNot": [
+        "",
+        "That is price competitiveness.",
+        "That is also price competitiveness.",
+        "That is a policy matter."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-04",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "easy",
+      "stem": "Which of the following are non-wage labour costs?",
+      "options": [
+        "Social security contributions, pensions and holiday entitlement",
+        "Basic salaries and overtime payments",
+        "Raw material and energy costs",
+        "Interest on business borrowing"
+      ],
+      "answer": 0,
+      "why": "They can be a large share of total employment cost and are often overlooked.",
+      "whyNot": [
+        "",
+        "Those are wage costs.",
+        "Those are non-labour input costs.",
+        "That is a financing cost."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-05",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Country X pays $9,000 per worker for 1,500 units. Country Y pays $46,000 for 9,200 units. Which is more competitive?",
+      "options": [
+        "Y, at $5.00 per unit against X's $6.00",
+        "X, because its wages are far lower",
+        "X, at $5.00 per unit against Y's $6.00",
+        "They are equally competitive"
+      ],
+      "answer": 0,
+      "why": "9,000 / 1,500 = $6.00 and 46,000 / 9,200 = $5.00. Y pays over five times the wage and is more competitive because productivity is over six times greater.",
+      "whyNot": [
+        "",
+        "Low wages do not mean low unit costs.",
+        "The figures are the other way round.",
+        "Their unit labour costs differ."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-06",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Y's unit labour cost is $5.00 and its currency appreciates 25%. What is the new figure in buyers' currency?",
+      "options": [
+        "$6.25",
+        "$3.75",
+        "$5.00",
+        "$1.25"
+      ],
+      "answer": 0,
+      "why": "5.00 x 1.25 = $6.25, so X becomes the cheaper producer with no change in wages or productivity at all.",
+      "whyNot": [
+        "",
+        "An appreciation raises the cost in foreign currency, not lowers it.",
+        "The exchange rate change does affect the cost buyers face.",
+        "That is the size of the increase, not the new figure."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-07",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Wages rise 10% while productivity rises 4%. What happens to unit labour cost?",
+      "options": [
+        "It rises by about 5.8%",
+        "It falls by about 5.8%",
+        "It rises by 6%",
+        "It is unchanged"
+      ],
+      "answer": 0,
+      "why": "1.10 / 1.04 = 1.058, a rise of 5.8%. Competitiveness is lost whenever wage growth exceeds productivity growth.",
+      "whyNot": [
+        "",
+        "Faster wage growth raises unit labour cost.",
+        "That subtracts the percentages rather than dividing the indices.",
+        "It changes unless the two growth rates are equal."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-08",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "What is the limitation of relative export prices as a measure of competitiveness?",
+      "options": [
+        "It captures only price competitiveness and ignores quality, reliability and design",
+        "It cannot be measured for any country",
+        "It excludes the exchange rate",
+        "It applies only to primary products"
+      ],
+      "answer": 0,
+      "why": "A country with rising export prices may be gaining share on the strength of its products, which the price index cannot show.",
+      "whyNot": [
+        "",
+        "Export price indices are published routinely.",
+        "Its advantage is that it does reflect the exchange rate.",
+        "It applies to all exports."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-09",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Which factor changes price competitiveness immediately without changing anything real?",
+      "options": [
+        "The exchange rate",
+        "Education and training",
+        "Infrastructure quality",
+        "Human capital"
+      ],
+      "answer": 0,
+      "why": "That is why devaluation is the quickest and least durable route to competitiveness.",
+      "whyNot": [
+        "",
+        "It changes productivity over years.",
+        "It changes costs over years.",
+        "It changes productivity over a generation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-10",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "hard",
+      "stem": "Why is less regulation not automatically better for competitiveness?",
+      "options": [
+        "Some regulation raises costs and also raises quality, safety and the human capital competitiveness depends on",
+        "Regulation has no effect on costs",
+        "Deregulation is prohibited in most countries",
+        "Regulation always lowers prices"
+      ],
+      "answer": 0,
+      "why": "Financial deregulation before 2008 is the standard illustration that removing rules can create market failure.",
+      "whyNot": [
+        "",
+        "Compliance costs are real.",
+        "Deregulation is a widely used policy.",
+        "Regulation generally raises costs and prices."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-11",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "hard",
+      "stem": "Which measure raises competitiveness and living standards together?",
+      "options": [
+        "Productivity growth",
+        "A lower exchange rate",
+        "Lower wages",
+        "Higher indirect taxes"
+      ],
+      "answer": 0,
+      "why": "Competitiveness can be bought quickly through a lower exchange rate or lower wages, and both reduce living standards and neither lasts.",
+      "whyNot": [
+        "",
+        "It raises import prices and lowers real incomes.",
+        "It reduces living standards directly.",
+        "That raises prices and lowers real incomes."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-12",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "hard",
+      "stem": "What is the downward spiral facing an uncompetitive economy?",
+      "options": [
+        "Low investment leads to low productivity, low competitiveness, low profits and therefore low investment",
+        "High wages lead to high productivity and then to high wages again",
+        "A weak currency leads to higher exports and then to a stronger currency",
+        "High taxes lead to low spending and then to low taxes"
+      ],
+      "answer": 0,
+      "why": "Breaking that cycle requires intervention, which is the strongest argument for active supply-side policy.",
+      "whyNot": [
+        "",
+        "That describes a virtuous rather than a vicious circle.",
+        "That is an adjustment process, not a spiral.",
+        "That is not a competitiveness mechanism."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-13",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "hard",
+      "stem": "Why is trade liberalisation listed as a measure to increase competitiveness?",
+      "options": [
+        "Cheaper imported inputs lower costs and competition forces domestic firms to become efficient",
+        "It protects domestic firms from foreign competition",
+        "It raises the exchange rate",
+        "It guarantees higher export volumes"
+      ],
+      "answer": 0,
+      "why": "The cost is structural unemployment where domestic industries cannot compete, concentrated in particular regions.",
+      "whyNot": [
+        "",
+        "It removes such protection.",
+        "There is no automatic exchange rate effect.",
+        "Exports depend on demand and competitiveness."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-14",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage for an economy of being internationally competitive?",
+      "options": [
+        "Higher real wages, because productivity rather than low pay is the source of the advantage",
+        "A permanently fixed exchange rate",
+        "Freedom from all external shocks",
+        "Guaranteed government surpluses"
+      ],
+      "answer": 0,
+      "why": "Export-led growth, a stronger current account, employment and inward FDI are the other advantages.",
+      "whyNot": [
+        "",
+        "Competitiveness does not fix the exchange rate.",
+        "It raises resilience rather than removing shocks.",
+        "Fiscal outcomes depend on policy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-15",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "hard",
+      "stem": "What should the first analytical step be in a competitiveness essay?",
+      "options": [
+        "Diagnose the cause: low productivity, high wage growth, a strong currency or weak non-price factors",
+        "State the recommendation",
+        "List all five named policies",
+        "Draw an AD/AS diagram"
+      ],
+      "answer": 0,
+      "why": "The policy must match the cause, and that step is what separates the top band.",
+      "whyNot": [
+        "",
+        "A recommendation before diagnosis is unsupported.",
+        "Selecting two or three beats listing all five.",
+        "A diagram supports the analysis rather than starting it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-3-16",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "International competitiveness",
+      "difficulty": "medium",
+      "stem": "Why can a high-wage economy retain manufacturing?",
+      "options": [
+        "High productivity can more than offset high wages in unit labour cost terms",
+        "High wages attract more foreign investment",
+        "Manufacturing is unaffected by labour costs",
+        "High-wage economies always have weak currencies"
+      ],
+      "answer": 0,
+      "why": "This is the central result of the unit labour cost comparison and the reason the wage rate alone is a misleading measure.",
+      "whyNot": [
+        "",
+        "Wage levels alone do not attract investment.",
+        "Labour costs matter substantially in manufacturing.",
+        "Currency strength varies independently."
+      ]
+    }
+  ]
+}

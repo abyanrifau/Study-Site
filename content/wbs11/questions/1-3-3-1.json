@@ -1,0 +1,343 @@
+{
+  "topicRef": "1.3.3.1",
+  "topicTitle": "Marketing objectives and strategy",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-3-1-01",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a marketing objective?",
+      "options": [
+        "A specific, measurable marketing target the business sets",
+        "The long-term plan for achieving marketing targets",
+        "The combination of product, price, promotion and place",
+        "The total amount spent on advertising in a year"
+      ],
+      "answer": 0,
+      "why": "An objective is the target itself, and a good one is measurable with a deadline, such as raising market share by 5% in a year.",
+      "whyNot": [
+        "",
+        "That is the marketing strategy. The strategy is how you reach the objective.",
+        "That is the marketing mix, which is the set of tools used day to day.",
+        "That is the promotion budget, an input rather than a target."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-02",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: the long-term plan a business uses to achieve its marketing objectives?",
+      "options": [
+        "Marketing strategy",
+        "Marketing mix",
+        "Marketing objective",
+        "Market research"
+      ],
+      "answer": 0,
+      "why": "Strategy sits between the objective and the mix: it is the chosen route, such as moving into a premium segment and selling online.",
+      "whyNot": [
+        "",
+        "The mix is the four tools (product, price, promotion, place) used to carry out the strategy.",
+        "The objective is the target the strategy aims at, not the plan itself.",
+        "Research gathers information to inform the strategy; it is not the plan."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-03",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of an extension strategy?",
+      "options": [
+        "An action taken to lengthen a product's life and delay its decline",
+        "A plan to enter a completely new industry",
+        "Increasing the price of a product in maturity",
+        "Withdrawing a product from the market"
+      ],
+      "answer": 0,
+      "why": "Extension keeps an existing product selling for longer, through new variants, new packaging, a new market or a new use.",
+      "whyNot": [
+        "",
+        "That is diversification, which is about new products in new markets rather than extending an existing one.",
+        "A price change is one possible tactic, but extension is the broader aim of delaying decline.",
+        "Withdrawal is what extension is designed to postpone."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-04",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "easy",
+      "stem": "In the Boston Matrix, a product with a high market share in a high growth market is a:",
+      "options": [
+        "star",
+        "cash cow",
+        "question mark",
+        "dog"
+      ],
+      "answer": 0,
+      "why": "High share and high growth makes it a star. It needs continued investment to hold position, and should become a cash cow as the market matures.",
+      "whyNot": [
+        "",
+        "A cash cow has a high share in a LOW growth market, so it generates surplus cash.",
+        "A question mark has a LOW share in a high growth market.",
+        "A dog has a low share in a low growth market."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-05",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "easy",
+      "stem": "In the Boston Matrix, a cash cow is a product with:",
+      "options": [
+        "a high market share in a low growth market",
+        "a high market share in a high growth market",
+        "a low market share in a high growth market",
+        "a low market share in a low growth market"
+      ],
+      "answer": 0,
+      "why": "A cash cow dominates a mature market. It needs little investment because the market is not growing, so it throws off cash that can fund stars and question marks.",
+      "whyNot": [
+        "",
+        "That is a star, which needs heavy investment to defend its position in a fast-growing market.",
+        "That is a question mark, whose future is uncertain.",
+        "That is a dog."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-06",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "Which statement about the product life cycle is correct?",
+      "options": [
+        "Cash flow and sales do not follow the same shape",
+        "Cash flow and sales are always identical",
+        "Cash flow is at its highest during the introduction stage",
+        "Sales are highest during development"
+      ],
+      "answer": 0,
+      "why": "A product in growth can be selling strongly while still consuming cash, because it needs stock, staff and promotion. The divergence between the sales curve and the cash flow curve is a standard exam point.",
+      "whyNot": [
+        "",
+        "They differ. Drawing them as the same curve is a common error.",
+        "Introduction has heavy promotion costs and low sales, so cash flow is usually negative.",
+        "Development has no sales at all, only costs."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-07",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "Which stage of the product life cycle is usually the most profitable?",
+      "options": [
+        "Maturity",
+        "Introduction",
+        "Development",
+        "Decline"
+      ],
+      "answer": 0,
+      "why": "In maturity, sales are high and flat while development and launch costs have already been paid, so cash flow is strongly positive. This is why businesses work hard to extend it.",
+      "whyNot": [
+        "",
+        "Introduction combines low sales with heavy promotional spending, so it is normally loss-making.",
+        "Development generates no revenue at all.",
+        "Decline means falling sales and falling margins."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-08",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "A business has a low market share in a fast growing market. What does the Boston Matrix suggest it faces?",
+      "options": [
+        "A decision: invest to build share, or withdraw",
+        "A guaranteed route to becoming a cash cow",
+        "An immediate withdrawal, as it is a dog",
+        "No action, since the market is growing anyway"
+      ],
+      "answer": 0,
+      "why": "That is a question mark. It could become a star with enough investment, or slide into a dog without it, so the matrix flags it as a genuine decision point rather than an answer.",
+      "whyNot": [
+        "",
+        "Nothing is guaranteed. A question mark only becomes a cash cow if it first wins share and the market then matures.",
+        "A dog has a low share in a LOW growth market. This market is growing.",
+        "Market growth attracts competitors, so standing still usually means losing share."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-09",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "Why might a business keep a product classified as a dog?",
+      "options": [
+        "It may complete a range that key customers or retailers expect",
+        "Dogs always generate the most cash",
+        "The Boston Matrix requires every quadrant to be filled",
+        "Dogs are always the most profitable products"
+      ],
+      "answer": 0,
+      "why": "The matrix uses only two measures. A low-share product in a flat market may still be profitable, or may be needed so that a retailer stocks the rest of your range. Saying this is how you get evaluation marks.",
+      "whyNot": [
+        "",
+        "Cash cows generate the most surplus cash, not dogs.",
+        "The matrix is a description, not a rule. Nothing requires a business to hold a product in each quadrant.",
+        "Dogs are usually the least attractive. Some are profitable, but not as a rule."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-10",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "Which marketing approach is most appropriate for a business to business (B2B) market?",
+      "options": [
+        "Personal selling, technical specification and negotiated prices",
+        "Mass television advertising and emotional branding",
+        "Social media influencer campaigns aimed at teenagers",
+        "Psychological pricing such as $9.99"
+      ],
+      "answer": 0,
+      "why": "B2B markets have fewer, larger customers who buy rationally, often by committee, on reliability, service and total cost. Relationships and specification matter far more than mass advertising.",
+      "whyNot": [
+        "",
+        "Mass advertising and emotional appeals suit B2C markets with many small consumers.",
+        "Influencer campaigns target individual consumers, not procurement departments.",
+        "Psychological pricing works on individual consumers, not on a business buyer comparing quotes."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-11",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of a product portfolio?",
+      "options": [
+        "The full range of products a business sells",
+        "The documents a business keeps about its customers",
+        "The share of the market a business holds",
+        "The stages a product passes through over time"
+      ],
+      "answer": 0,
+      "why": "The portfolio is everything the business sells. The Boston Matrix is a way of analysing the balance of that portfolio.",
+      "whyNot": [
+        "",
+        "That is customer records or a database, not a portfolio in this sense.",
+        "That is market share.",
+        "That is the product life cycle."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-12",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "hard",
+      "stem": "A business finds all of its products are cash cows. What is the main risk?",
+      "options": [
+        "It has nothing positioned in growing markets, so it has no future growth",
+        "It will run out of cash immediately",
+        "Its products will all move into the introduction stage",
+        "It cannot calculate market share"
+      ],
+      "answer": 0,
+      "why": "Cash cows sit in low growth markets. A portfolio made entirely of them produces cash now but has nothing being built for when those markets decline. A balanced portfolio uses cash cow money to fund stars and question marks.",
+      "whyNot": [
+        "",
+        "The opposite: cash cows generate surplus cash. The problem is the future, not current liquidity.",
+        "Products move forward through the life cycle, not back to introduction.",
+        "Share can still be calculated. The issue is strategic balance."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-13",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "hard",
+      "stem": "What is the most significant limitation of the Boston Matrix?",
+      "options": [
+        "It uses only two measures and ignores profitability, brand and how products support each other",
+        "It can only be used by businesses with exactly four products",
+        "It requires the market to be growing",
+        "It cannot be drawn without a computer"
+      ],
+      "answer": 0,
+      "why": "Relative share and market growth are useful but narrow. A product can look like a dog and be highly profitable, or look like a star and be losing money. The matrix is a starting point for a conversation, not a decision.",
+      "whyNot": [
+        "",
+        "It works with any number of products.",
+        "It handles low growth markets explicitly: that is what the bottom half of the matrix is.",
+        "It is a two-by-two grid drawn in seconds on paper."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-14",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "An extension strategy is most likely to fail when:",
+      "options": [
+        "consumer tastes have genuinely moved away from the product",
+        "the product is in the maturity stage",
+        "the business has cash available to invest",
+        "the product has a strong brand"
+      ],
+      "answer": 0,
+      "why": "Extension delays decline caused by market saturation. It cannot rescue a product whose underlying demand has gone, as DVD rental found. Then extension is money spent postponing the inevitable.",
+      "whyNot": [
+        "",
+        "Maturity is exactly when extension strategies are used, and when they work best.",
+        "Available cash makes extension easier, not harder.",
+        "A strong brand makes extension more likely to succeed, because customers will try the new variant."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-15",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "hard",
+      "stem": "Which sequence correctly orders objective, strategy and mix for a business aiming to grow share?",
+      "options": [
+        "Objective: raise share to 9%. Strategy: move into the premium segment online. Mix: redesign the product, raise the price, advertise on social media, sell direct.",
+        "Objective: advertise on social media. Strategy: raise share to 9%. Mix: move into the premium segment.",
+        "Objective: redesign the product. Strategy: raise the price. Mix: raise share to 9%.",
+        "Objective, strategy and mix all mean the same thing in marketing."
+      ],
+      "answer": 0,
+      "why": "The target comes first, the route second, the tools third. Getting this hierarchy right is often worth a mark in itself and stops answers drifting.",
+      "whyNot": [
+        "",
+        "This puts a tool (advertising) as the objective and the target as the strategy.",
+        "This puts tools as the objective and strategy, and the target as the mix.",
+        "They are three distinct levels, and examiners test whether you can tell them apart."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-1-16",
+      "topicRef": "1.3.3.1",
+      "topicTitle": "Marketing objectives and strategy",
+      "difficulty": "medium",
+      "stem": "How does building customer loyalty affect price elasticity of demand?",
+      "options": [
+        "It makes demand less price elastic, because loyal customers are less willing to switch",
+        "It makes demand more price elastic",
+        "It has no effect on elasticity",
+        "It makes demand perfectly elastic"
+      ],
+      "answer": 0,
+      "why": "Loyalty means fewer customers leave when the price rises, so demand becomes less responsive to price. That is precisely why businesses invest in loyalty schemes and brand building.",
+      "whyNot": [
+        "",
+        "More elastic would mean customers leave more readily, which is the opposite of loyalty.",
+        "Elasticity depends on willingness to switch, and loyalty is exactly what reduces that willingness.",
+        "Perfectly elastic demand means any price rise loses every customer, which no loyal base looks like."
+      ]
+    }
+  ]
+}

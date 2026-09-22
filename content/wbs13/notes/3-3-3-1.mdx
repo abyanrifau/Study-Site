@@ -1,0 +1,155 @@
+---
+ref: "3.3.3.1"
+title: "Quantitative sales forecasting"
+unit: "WBS13"
+section: "3.3.3 Decision-making techniques"
+oneMinute:
+  - "Moving averages smooth out short-term variation to reveal the underlying trend."
+  - "A three-period moving average averages three consecutive figures and centres the result on the middle one."
+  - "A four-quarter moving average needs centring, because the average of four quarters falls between two quarters."
+  - "A scatter graph with a line of best fit shows the relationship, and extrapolation extends it into the future."
+  - "All of it assumes the past continues, which is the weakness of every quantitative forecast."
+keyTerms:
+  - term: "Time-series analysis"
+    definition: "The study of data recorded over successive periods in order to identify a trend."
+  - term: "Moving average"
+    definition: "The average of a fixed number of consecutive periods, recalculated as the window moves forward, used to smooth out fluctuations."
+  - term: "Trend"
+    definition: "The underlying long-term direction of a set of data once short-term variation is removed."
+  - term: "Seasonal variation"
+    definition: "A regular pattern in data that repeats at the same point each year."
+  - term: "Scatter graph"
+    definition: "A graph plotting two variables against each other to show whether they are related."
+  - term: "Line of best fit"
+    definition: "A straight line drawn through the points on a scatter graph to summarise the relationship."
+  - term: "Extrapolation"
+    definition: "Extending a past trend beyond the available data to estimate future values."
+  - term: "Correlation"
+    definition: "The extent to which two variables move together."
+formulas:
+  - name: "Three-period moving average"
+    formula: "(Period 1 + Period 2 + Period 3) ÷ 3, written against the middle period"
+  - name: "Four-quarter moving average"
+    formula: "(Q1 + Q2 + Q3 + Q4) ÷ 4, then centred by averaging two consecutive four-quarter averages"
+    note: "Four is an even number, so the average falls between two quarters. Centring puts it back on a quarter."
+commandWords:
+  - "Calculate"
+  - "Construct"
+  - "Explain"
+  - "Assess"
+---
+
+## Three-period moving average
+
+Average three consecutive figures and write the answer against the **middle** one. Then move the window on by one period.
+
+<Worked title="Worked example: three-period moving average">
+
+| Month | Sales ($000) | Three-month moving average |
+| --- | --- | --- |
+| Jan | 42 | — |
+| Feb | 50 | (42 + 50 + 46) ÷ 3 = **46.0** |
+| Mar | 46 | (50 + 46 + 58) ÷ 3 = **51.3** |
+| Apr | 58 | (46 + 58 + 54) ÷ 3 = **52.7** |
+| May | 54 | (58 + 54 + 64) ÷ 3 = **58.7** |
+| Jun | 64 | — |
+
+**Two things to notice.**
+
+First, there is **no average for the first and last periods**, because there is no figure on one side. Candidates lose marks by inventing one.
+
+Second, the raw figures jump about (42, 50, 46, 58) while the trend line rises steadily (46.0, 51.3, 52.7, 58.7). That is the point of the technique: the underlying trend is clearly upward, which the raw monthly data obscures.
+
+</Worked>
+
+## Four-quarter moving average and centring
+
+With quarterly data you average four quarters, and four is an even number, so the average falls **between** Q2 and Q3 rather than on a quarter. To put it back on a quarter you **centre** it: average two consecutive four-quarter averages.
+
+<Worked title="Worked example: centring">
+
+| Quarter | Sales | 4-quarter average | Centred average |
+| --- | --- | --- | --- |
+| Q1 | 80 | | |
+| Q2 | 120 | | |
+| | | 100.0 | |
+| Q3 | 60 | | **102.5** |
+| | | 105.0 | |
+| Q4 | 140 | | **107.5** |
+| | | 110.0 | |
+| Q1 | 100 | | |
+| Q2 | 140 | | |
+
+`First four-quarter average = (80 + 120 + 60 + 140) ÷ 4 = 100.0`
+
+`Second = (120 + 60 + 140 + 100) ÷ 4 = 105.0`
+
+`Centred on Q3 = (100.0 + 105.0) ÷ 2 = 102.5`
+
+The centred figures, 102.5 then 107.5, are the trend, and they show steady growth despite quarterly sales swinging between 60 and 140.
+
+</Worked>
+
+## Scatter graphs and the line of best fit
+
+A scatter graph plots two variables to show whether they move together. Draw a straight **line of best fit** through the points, passing as close to as many as possible with roughly equal numbers either side.
+
+**Interpreting it:**
+
+- **Strong positive correlation** — points cluster tightly around an upward line.
+- **Strong negative correlation** — tight cluster around a downward line.
+- **Weak or no correlation** — points scattered, so the line tells you little.
+
+**Extrapolation** extends the line beyond the data to estimate future values. It is the standard quantitative forecasting move, and it carries the standard assumption: that the relationship continues.
+
+**Correlation is not causation.** Two variables moving together does not prove one causes the other. Saying this is a reliable evaluation mark.
+
+## Limitations of quantitative forecasting
+
+The specification asks for these directly.
+
+- **It assumes the past continues.** Extrapolation is only valid while conditions hold, and a structural change makes it worthless.
+- **The further you extrapolate, the wider the error.**
+- **It ignores qualitative factors** entirely: a competitor's plans, a change in the law, a shift in tastes.
+- **Moving averages lag.** By smoothing, they respond slowly, so a genuine turning point shows up late.
+- **Moving averages lose data points** at the start and end of the series.
+- **Correlation may be coincidental**, or both variables may be driven by a third.
+- **The data itself may be poor**: too few periods, unusual one-off events not adjusted for.
+- **Sudden shocks are invisible.** No quantitative method predicted the halt to global travel in 2020.
+
+**The balanced view:** quantitative forecasting is useful for identifying a trend and for short-term planning, and it should be combined with qualitative judgement rather than trusted alone.
+
+<Tip>
+
+**How this topic is tested.** Calculate (4) for moving averages, Construct (4) for a scatter graph or line of best fit, Explain (4) on a limitation, Assess (12) on how reliable a forecast is.
+
+**Method for moving averages:**
+
+1. Identify how many periods the question asks for.
+2. Add them, divide, and write the answer against the **middle** period.
+3. Leave the first and last periods blank.
+4. With an even number of periods, **centre** the result.
+5. Then say what the trend shows, because the interpretation is usually worth a mark.
+
+**Getting evaluation marks:**
+
+- **It assumes the past continues**, which is the fundamental weakness.
+- **Moving averages lag**, so turning points appear late.
+- **Correlation is not causation.**
+- **Combine with qualitative judgement**, and say what qualitative factor this business should also consider.
+- **How far ahead is the forecast?** Reliability falls sharply with distance.
+
+</Tip>
+
+<Mistakes>
+
+- **Writing the moving average against the first period** instead of the middle one.
+- **Inventing averages for the first and last periods.** Leave them blank.
+- **Forgetting to centre** a four-quarter moving average.
+- **Confusing the trend with the raw data.** The smoothed figures are the trend.
+- **Extrapolating far beyond the data** and treating the result as reliable.
+- **Claiming causation from correlation.**
+- **Drawing a line of best fit through the origin** when the data does not support it.
+- **Reporting the numbers with no interpretation** of what the trend means for the business.
+
+</Mistakes>

@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.5",
+  "topicTitle": "Trading blocs",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-1-5-01",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a trading bloc?",
+      "options": [
+        "A group of countries that have agreed to reduce or remove trade barriers between themselves",
+        "A group of businesses that agree to fix prices",
+        "An international body that settles trade disputes",
+        "A group of countries sharing a single currency only"
+      ],
+      "answer": 0,
+      "why": "Blocs range from a free trade area up to a monetary union.",
+      "whyNot": [
+        "",
+        "That is a cartel.",
+        "That is the WTO.",
+        "A monetary union is one particular level of integration."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-02",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "easy",
+      "stem": "What distinguishes a customs union from a free trade area?",
+      "options": [
+        "A customs union applies a common external tariff to non-members",
+        "A customs union allows free movement of labour",
+        "A customs union uses a single currency",
+        "A free trade area has no internal tariffs, while a customs union does"
+      ],
+      "answer": 0,
+      "why": "The common external tariff also removes the rules-of-origin problem and removes members' freedom to set their own trade policy.",
+      "whyNot": [
+        "",
+        "Free movement of labour comes with a single market.",
+        "A single currency comes with a monetary union.",
+        "Both remove internal tariffs."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-03",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a single market?",
+      "options": [
+        "A customs union that also allows free movement of goods, services, capital and labour",
+        "A market in which only one product is traded",
+        "A market with a single dominant supplier",
+        "A free trade area with a shared currency"
+      ],
+      "answer": 0,
+      "why": "Harmonised standards mean a product approved in one member is accepted in all.",
+      "whyNot": [
+        "",
+        "The term refers to integration between countries, not to one product.",
+        "That is a monopoly.",
+        "A shared currency is a monetary union, and a single market need not have one."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-04",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines trade creation?",
+      "options": [
+        "The increase in trade between bloc members that results from removing barriers between them",
+        "The shift of trade away from an efficient non-member to a less efficient member",
+        "The creation of new products for export",
+        "The establishment of a new trading bloc"
+      ],
+      "answer": 0,
+      "why": "Creation is the genuine gain from a bloc; diversion is the loss.",
+      "whyNot": [
+        "",
+        "That is trade diversion.",
+        "That is product development.",
+        "That is the formation of a bloc, not trade creation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-05",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines trade diversion?",
+      "options": [
+        "Trade shifting from a more efficient non-member to a less efficient member because of the external tariff",
+        "Trade shifting from goods to services",
+        "Trade being redirected through a third country to avoid duty",
+        "Trade falling because of a recession"
+      ],
+      "answer": 0,
+      "why": "Whether a bloc is beneficial overall depends on whether creation or diversion is larger.",
+      "whyNot": [
+        "",
+        "That is structural change in trade composition.",
+        "That is transhipment or duty avoidance.",
+        "That is a cyclical fall in trade."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-06",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Why are rules of origin needed in a free trade area?",
+      "options": [
+        "To stop goods entering through the member with the lowest external tariff",
+        "To identify which member produced the most exports",
+        "To decide which currency a transaction is priced in",
+        "To ensure products meet safety standards"
+      ],
+      "answer": 0,
+      "why": "Because each member keeps its own external tariffs, goods could otherwise enter cheaply and circulate freely. A customs union removes the problem.",
+      "whyNot": [
+        "",
+        "The rules concern the origin of goods, not export league tables.",
+        "Pricing currency is unrelated.",
+        "Safety is covered by product standards."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-07",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit for a business inside a trading bloc?",
+      "options": [
+        "A larger tariff-free market and therefore greater economies of scale",
+        "Protection from competitors based in other member states",
+        "Freedom from all product regulation",
+        "A guarantee of higher prices"
+      ],
+      "answer": 0,
+      "why": "Production can also be concentrated where it is most efficient and shipped throughout the bloc.",
+      "whyNot": [
+        "",
+        "Removing barriers exposes the business to those competitors.",
+        "Bloc-wide regulation may be stricter than the national rules it replaced.",
+        "More competition typically pushes prices down."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-08",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cost for a business inside a trading bloc?",
+      "options": [
+        "More competition from other members' firms in its home market",
+        "Higher tariffs on sales to other members",
+        "The loss of access to its own domestic market",
+        "A requirement to adopt a new currency immediately"
+      ],
+      "answer": 0,
+      "why": "The removal of barriers works in both directions, which is the point students most often omit.",
+      "whyNot": [
+        "",
+        "Internal tariffs are removed, not raised.",
+        "Domestic access is unaffected.",
+        "Only a monetary union involves a shared currency."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-09",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Which bloc named in the specification is a single market with a monetary union among most members?",
+      "options": [
+        "The EU",
+        "ASEAN",
+        "NAFTA",
+        "The WTO"
+      ],
+      "answer": 0,
+      "why": "The EU is the deepest integration of the three named, with harmonised standards and common competition rules.",
+      "whyNot": [
+        "",
+        "ASEAN is looser, closer to a free trade area with cooperation.",
+        "NAFTA was a free trade area, replaced in 2020 by the USMCA.",
+        "The WTO is not a trading bloc."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-10",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Why were rules of origin central to NAFTA?",
+      "options": [
+        "It was a free trade area, so a stated proportion of value had to originate within the bloc to qualify",
+        "It was a monetary union with a shared currency",
+        "It applied a common external tariff",
+        "It allowed free movement of labour between members"
+      ],
+      "answer": 0,
+      "why": "That requirement drove manufacturers to source and assemble within North America, reshaping supply chains rather than simply cutting prices.",
+      "whyNot": [
+        "",
+        "There was no shared currency.",
+        "A common external tariff would have made it a customs union.",
+        "Free movement of labour was not part of the agreement."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-11",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "hard",
+      "stem": "Why do trading blocs attract FDI from non-members?",
+      "options": [
+        "A product made inside the bloc circulates tariff-free, while an import faces the common external tariff",
+        "Blocs offer lower corporation tax to all foreign investors",
+        "Non-members are legally required to invest inside blocs",
+        "Production costs inside blocs are always lower"
+      ],
+      "answer": 0,
+      "why": "This is a benefit to the bloc and a cost to the business, which has to make a large investment it would otherwise avoid.",
+      "whyNot": [
+        "",
+        "Tax rates are set by individual members, not by the bloc.",
+        "No such requirement exists.",
+        "Costs inside may be higher; the tariff is what tips the decision."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-12",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "hard",
+      "stem": "What does a member give up by joining a monetary union?",
+      "options": [
+        "The ability to set its own interest rate or let its currency adjust",
+        "The ability to trade with non-members",
+        "Control over its own tax rates",
+        "The right to leave the union"
+      ],
+      "answer": 0,
+      "why": "That loss matters when a member needs a different monetary stance from the rest of the union.",
+      "whyNot": [
+        "",
+        "Trade with non-members continues, subject to the external tariff.",
+        "Taxation generally remains a national matter.",
+        "Membership is not irrevocable."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-13",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "hard",
+      "stem": "How should a business outside a bloc respond to the common external tariff?",
+      "options": [
+        "Weigh exporting and absorbing the tariff against investing inside the bloc or licensing a local producer",
+        "Immediately withdraw from the market entirely",
+        "Lobby the WTO to abolish the bloc",
+        "Ignore the tariff, since it is paid by the customer"
+      ],
+      "answer": 0,
+      "why": "The choice depends on the size of the tariff, the expected volume and how permanent the bloc's arrangements look.",
+      "whyNot": [
+        "",
+        "Withdrawal is one option among several and rarely the first.",
+        "The WTO permits regional agreements.",
+        "The duty is paid on import and affects the delivered price and the business's competitiveness."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-14",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a common external tariff?",
+      "options": [
+        "A single tariff applied by all members of a customs union to imports from outside the bloc",
+        "The average of members' individual tariffs on each other",
+        "A tariff charged on trade between members",
+        "A tariff set by the WTO for all countries"
+      ],
+      "answer": 0,
+      "why": "It is what distinguishes a customs union from a free trade area.",
+      "whyNot": [
+        "",
+        "It is a single agreed rate, not an average.",
+        "Internal trade between members is tariff-free.",
+        "The WTO does not set tariff rates."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-15",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "hard",
+      "stem": "Why is the trade-off of bloc membership sharper for a very small economy?",
+      "options": [
+        "There is little domestic industry to protect and a great deal of market to gain",
+        "Small economies are never admitted to blocs",
+        "Small economies must adopt the shared currency immediately",
+        "Small economies face higher external tariffs than large ones"
+      ],
+      "answer": 0,
+      "why": "Membership provides access to a market far larger than its own while reducing its ability to protect what little domestic industry it has.",
+      "whyNot": [
+        "",
+        "Small economies are members of many blocs.",
+        "Currency adoption applies only to monetary unions.",
+        "The external tariff is common to all members."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-5-16",
+      "topicRef": "4.3.1.5",
+      "topicTitle": "Trading blocs",
+      "difficulty": "hard",
+      "stem": "A bloc's external tariff forces a business to buy from a less efficient member instead of a cheaper non-member. What is this?",
+      "options": [
+        "Trade diversion, which raises the business's costs",
+        "Trade creation, which lowers the business's costs",
+        "Economies of scale",
+        "Regulatory arbitrage"
+      ],
+      "answer": 0,
+      "why": "Diversion shifts trade to the wrong producer, and it is the main economic criticism of blocs.",
+      "whyNot": [
+        "",
+        "Creation means more trade with efficient producers.",
+        "Scale economies concern volume and unit cost.",
+        "That means locating activity where rules are weakest."
+      ]
+    }
+  ]
+}

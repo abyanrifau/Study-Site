@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.2",
+  "topicTitle": "International trade and business growth",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-1-2-01",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines foreign direct investment?",
+      "options": [
+        "Investment by a business in productive assets in another country",
+        "The purchase of shares in a foreign company for a financial return",
+        "The sale of goods to a customer in another country",
+        "A loan made by one government to another"
+      ],
+      "answer": 0,
+      "why": "FDI means productive assets and normally a controlling interest, which distinguishes it from portfolio investment.",
+      "whyNot": [
+        "",
+        "That is portfolio investment.",
+        "That is exporting.",
+        "That is overseas aid or lending, not FDI."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-02",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines specialisation?",
+      "options": [
+        "Concentrating production on a narrow range of goods in which a country or business is relatively most efficient",
+        "Producing every good a country needs domestically",
+        "Selling the same product in many countries",
+        "Employing workers in more than one country"
+      ],
+      "answer": 0,
+      "why": "Specialisation plus trade raises total output above what each producer could achieve alone.",
+      "whyNot": [
+        "",
+        "That is self-sufficiency, the opposite of specialisation.",
+        "That is international marketing.",
+        "That describes a multinational workforce."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-03",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a greenfield investment?",
+      "options": [
+        "Building new facilities in a foreign country from scratch",
+        "Acquiring an existing business in a foreign country",
+        "Investing in environmentally friendly production",
+        "Exporting to a country for the first time"
+      ],
+      "answer": 0,
+      "why": "Greenfield gives complete control over design, culture and standards, and starts with no customers or local knowledge.",
+      "whyNot": [
+        "",
+        "That is brownfield investment.",
+        "The term refers to new build, not to environmental credentials.",
+        "Exporting is not FDI at all."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-04",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is a reason a business exports rather than only selling at home?",
+      "options": [
+        "A saturated home market with only replacement demand",
+        "A rapidly growing home market with no competition",
+        "A desire to reduce total sales volume",
+        "An intention to avoid economies of scale"
+      ],
+      "answer": 0,
+      "why": "Saturation, spare capacity, risk spreading and scale economies are the standard reasons.",
+      "whyNot": [
+        "",
+        "A growing uncontested home market is a reason to stay.",
+        "Businesses export to raise volume, not reduce it.",
+        "Higher volume brings scale economies, which is an attraction."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-05",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cost of a country specialising heavily in one or two products?",
+      "options": [
+        "Exposure to a price fall or a collapse in demand for that one thing",
+        "Lower total output than producing everything itself",
+        "The impossibility of trading with other countries",
+        "An automatic fall in living standards"
+      ],
+      "answer": 0,
+      "why": "Specialisation raises efficiency and reduces resilience, and dependence is the price paid.",
+      "whyNot": [
+        "",
+        "Specialisation raises total output, which is why it happens.",
+        "Specialisation depends on trade rather than preventing it.",
+        "Living standards usually rise; the problem is vulnerability."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-06",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Why might a business choose FDI over exporting?",
+      "options": [
+        "Tariffs and transport costs make exporting expensive, so producing inside the market avoids them",
+        "FDI requires less capital than exporting",
+        "FDI is easier to reverse than exporting",
+        "Exporting is illegal in most countries"
+      ],
+      "answer": 0,
+      "why": "Producing inside the market also brings the business closer to the customer and may lower production costs.",
+      "whyNot": [
+        "",
+        "FDI requires far more capital.",
+        "FDI is largely irreversible, which is the central asymmetry in the decision.",
+        "Exporting is lawful and routine."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-07",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage of brownfield over greenfield investment?",
+      "options": [
+        "It is faster and brings existing customers, staff and local knowledge",
+        "It gives complete control over the culture of the new operation",
+        "It requires no integration effort",
+        "It avoids all political risk"
+      ],
+      "answer": 0,
+      "why": "Brownfield buys speed and local relationships, at the cost of integration and culture-clash risk.",
+      "whyNot": [
+        "",
+        "Control over culture is the greenfield advantage.",
+        "Integration is the main brownfield risk.",
+        "Political risk applies to both."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-08",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit of inward FDI for the host country?",
+      "options": [
+        "Capital, jobs, technology transfer and tax revenue",
+        "A guaranteed permanent increase in wages across the economy",
+        "The elimination of all competition for local firms",
+        "A fall in the exchange rate"
+      ],
+      "answer": 0,
+      "why": "It also puts pressure on local firms to raise their standards, though profits are repatriated and the investment may be footloose.",
+      "whyNot": [
+        "",
+        "Wage effects are real but not guaranteed or permanent.",
+        "Inward FDI usually increases competition for local firms.",
+        "Large inflows tend to raise the exchange rate, not lower it."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-09",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Which of the following is a criticism of inward FDI for a host country?",
+      "options": [
+        "Profits are repatriated and the investment may leave when incentives end",
+        "It never creates any employment",
+        "It always reduces the country's GDP",
+        "It prevents the country from exporting"
+      ],
+      "answer": 0,
+      "why": "The host government's bargaining position against a large multinational is also weak, which limits what it can extract.",
+      "whyNot": [
+        "",
+        "Employment creation is one of its clearest benefits.",
+        "FDI normally raises GDP.",
+        "FDI often increases exports from the host country."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-10",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "hard",
+      "stem": "Why are longer, more specialised supply chains described as efficient and fragile?",
+      "options": [
+        "Each stage is highly efficient, and a disruption anywhere stops production everywhere",
+        "Longer chains always cost more to operate",
+        "Specialisation removes the need for suppliers",
+        "Fragility comes only from exchange rate movements"
+      ],
+      "answer": 0,
+      "why": "This is the contingency planning point: efficiency and resilience trade off against each other.",
+      "whyNot": [
+        "",
+        "They are usually cheaper per unit, which is why they exist.",
+        "Specialisation increases the number of suppliers involved.",
+        "Currency risk is one of several fragilities, not the main one."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-11",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "hard",
+      "stem": "Why might a business locate an assembly plant inside a trade bloc rather than export into it?",
+      "options": [
+        "A product assembled inside the bloc avoids the common external tariff",
+        "Production costs inside a bloc are always lower",
+        "Exporting into a bloc is prohibited",
+        "Trade blocs require all members to own local production"
+      ],
+      "answer": 0,
+      "why": "The investment decision is driven by trade policy rather than by production cost, which is a useful example of protectionism changing business behaviour.",
+      "whyNot": [
+        "",
+        "Costs inside the bloc are often higher; the tariff is what tips the decision.",
+        "Exporting into a bloc is permitted, subject to the external tariff.",
+        "No such requirement exists in a bloc."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-12",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "hard",
+      "stem": "A business imports its inputs and sells at home. How is its exchange rate exposure different from an exporter's?",
+      "options": [
+        "A stronger home currency helps it, whereas it would hurt an exporter",
+        "It has no exchange rate exposure at all",
+        "A stronger home currency hurts it, as it would an exporter",
+        "Its exposure depends only on interest rates"
+      ],
+      "answer": 0,
+      "why": "SPICED: a strong currency makes imports cheaper, so the importer's costs fall while an exporter's products become dearer abroad.",
+      "whyNot": [
+        "",
+        "Imported inputs create real currency exposure.",
+        "The effects run in opposite directions for importers and exporters.",
+        "The exposure comes from the exchange rate, not interest rates directly."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-13",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "hard",
+      "stem": "What is the fundamental asymmetry between exporting and FDI?",
+      "options": [
+        "Exporting is reversible while FDI is largely not",
+        "Exporting requires more capital than FDI",
+        "FDI avoids all regulation in the host country",
+        "Exporting cannot generate any profit"
+      ],
+      "answer": 0,
+      "why": "That asymmetry is the heart of the decision, and it is why political stability matters far more for FDI than for exporting.",
+      "whyNot": [
+        "",
+        "FDI requires far more capital.",
+        "FDI brings the business fully within host-country regulation.",
+        "Exporting is a normal source of profit."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-14",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines an import?",
+      "options": [
+        "A good or service bought from a producer in another country",
+        "A good produced at home and sold abroad",
+        "A good produced and sold within the same country",
+        "A tax on goods entering a country"
+      ],
+      "answer": 0,
+      "why": "Imports take money out of the country, while exports bring it in.",
+      "whyNot": [
+        "",
+        "That is an export.",
+        "That is domestic trade.",
+        "That is a tariff."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-15",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "medium",
+      "stem": "Why can specialisation raise a business's exposure to supplier power?",
+      "options": [
+        "Concentrating on core activities means depending on fewer suppliers for the rest",
+        "Specialisation removes the need to buy anything",
+        "Specialised suppliers always charge less",
+        "Specialisation increases the number of alternative suppliers"
+      ],
+      "answer": 0,
+      "why": "Dependence on a few suppliers raises their bargaining power, which is one of Porter's five forces.",
+      "whyNot": [
+        "",
+        "Specialisation increases reliance on bought-in inputs.",
+        "Specialists can charge more precisely because alternatives are scarce.",
+        "It usually reduces the number of viable alternatives."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-2-16",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "International trade and business growth",
+      "difficulty": "hard",
+      "stem": "Which product characteristic most favours producing locally rather than exporting?",
+      "options": [
+        "Being bulky or perishable, so transport is expensive or slow",
+        "Being high in value and low in weight",
+        "Having a long shelf life",
+        "Being sold only online"
+      ],
+      "answer": 0,
+      "why": "Transport cost and time dominate for bulky and perishable goods, while high-value low-weight goods are cheap to ship.",
+      "whyNot": [
+        "",
+        "Those goods are the easiest to export.",
+        "A long shelf life makes exporting easier.",
+        "Online sale does not by itself require local production."
+      ]
+    }
+  ]
+}

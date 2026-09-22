@@ -1,0 +1,427 @@
+{
+  "topicRef": "2.2.1",
+  "topicTitle": "Investment ratios",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-2-1-01",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines earnings per share?",
+      "options": [
+        "Profit after tax and preference dividends divided by the number of ordinary shares",
+        "Profit before tax divided by the number of ordinary shares",
+        "The dividend paid on each ordinary share",
+        "The market price of a share divided by its earnings"
+      ],
+      "answer": 0,
+      "why": "EPS measures the profit attributable to each ordinary share, so preference dividends must be deducted first.",
+      "whyNot": [
+        "",
+        "EPS uses profit after tax.",
+        "That is dividend per share.",
+        "That is the price earnings ratio."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-02",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines dividend yield?",
+      "options": [
+        "Dividend per share as a percentage of the market price per share",
+        "Dividend per share as a percentage of the nominal value per share",
+        "The number of times the dividend is covered by earnings",
+        "Total dividends as a percentage of profit after tax"
+      ],
+      "answer": 0,
+      "why": "Yield expresses the income return on what an investor would actually pay for the share today.",
+      "whyNot": [
+        "",
+        "Nominal value is irrelevant to the return an investor receives.",
+        "That is dividend cover.",
+        "That is the payout ratio."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-03",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines dividend cover?",
+      "options": [
+        "The number of times the ordinary dividend could have been paid out of available earnings",
+        "The proportion of the dividend paid in cash rather than shares",
+        "The dividend per share divided by the market price",
+        "The number of shareholders entitled to the dividend"
+      ],
+      "answer": 0,
+      "why": "Cover measures how safe the dividend is, and cover below 1 means it is being paid partly out of past retained earnings.",
+      "whyNot": [
+        "",
+        "Cover has nothing to do with the form the dividend takes.",
+        "That is dividend yield.",
+        "The number of shareholders is irrelevant."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-04",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines capital employed?",
+      "options": [
+        "Total equity plus non-current liabilities",
+        "Total equity only",
+        "Total assets only",
+        "Ordinary share capital plus the share premium account"
+      ],
+      "answer": 0,
+      "why": "Capital employed is all the long-term finance used to earn the operating profit, equivalently total assets less current liabilities.",
+      "whyNot": [
+        "",
+        "Omitting non-current liabilities understates the capital used.",
+        "Total assets includes assets funded by current liabilities.",
+        "That omits reserves and long-term debt."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-05",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Profit after tax is $240,000, the preference dividend is $12,000 and there are 800,000 ordinary shares. What is EPS?",
+      "options": [
+        "28.5 cents",
+        "30.0 cents",
+        "31.5 cents",
+        "$0.0285"
+      ],
+      "answer": 0,
+      "why": "Earnings available = 240,000 - 12,000 = $228,000. EPS = 228,000 / 800,000 = $0.285, or 28.5 cents.",
+      "whyNot": [
+        "",
+        "That forgets to deduct the preference dividend.",
+        "That adds the preference dividend instead of deducting it.",
+        "That misplaces the decimal point by a factor of ten."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-06",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "EPS is 28.5 cents and the market price is $2.40. What is the price earnings ratio?",
+      "options": [
+        "8.4 times",
+        "0.12 times",
+        "11.9 times",
+        "68.4 times"
+      ],
+      "answer": 0,
+      "why": "P/E = 2.40 / 0.285 = 8.4 times.",
+      "whyNot": [
+        "",
+        "That inverts the ratio.",
+        "That uses an incorrect EPS figure.",
+        "That multiplies the two figures."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-07",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "A company has 800,000 ordinary shares and paid an ordinary dividend of $96,000. What is dividend per share?",
+      "options": [
+        "12 cents",
+        "8.3 cents",
+        "$1.20",
+        "24 cents"
+      ],
+      "answer": 0,
+      "why": "DPS = 96,000 / 800,000 = $0.12, or 12 cents.",
+      "whyNot": [
+        "",
+        "That divides the share count by the dividend.",
+        "That misplaces the decimal point by a factor of ten.",
+        "That uses 400,000 shares in error."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-08",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Dividend per share is 12 cents and the market price is $2.40. What is the dividend yield?",
+      "options": [
+        "5.0%",
+        "20.0%",
+        "0.05%",
+        "12.0%"
+      ],
+      "answer": 0,
+      "why": "Yield = (0.12 / 2.40) x 100 = 5.0%.",
+      "whyNot": [
+        "",
+        "That inverts the ratio.",
+        "That misplaces the decimal point by a factor of one hundred.",
+        "That reports the dividend per share in cents rather than a yield."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-09",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Earnings available to ordinary shareholders are $228,000 and the ordinary dividend is $96,000. What is dividend cover?",
+      "options": [
+        "2.4 times",
+        "0.42 times",
+        "1.4 times",
+        "42%"
+      ],
+      "answer": 0,
+      "why": "Cover = 228,000 / 96,000 = 2.4 times. It can be checked as EPS / DPS = 0.285 / 0.12 = 2.4.",
+      "whyNot": [
+        "",
+        "That inverts the ratio, giving the payout ratio.",
+        "That uses an incorrect numerator.",
+        "Cover is expressed in times, not as a percentage."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-10",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Operating profit is $340,000 and capital employed is $1,460,000. What is ROCE?",
+      "options": [
+        "23.3%",
+        "4.3%",
+        "16.4%",
+        "$1,120,000"
+      ],
+      "answer": 0,
+      "why": "ROCE = (340,000 / 1,460,000) x 100 = 23.3%.",
+      "whyNot": [
+        "",
+        "That inverts the ratio.",
+        "That uses profit after tax rather than operating profit.",
+        "That subtracts the two figures, which is not a return."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-11",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Why is operating profit rather than profit after tax used in ROCE?",
+      "options": [
+        "The finance that generates the interest charge is in the denominator, so the return must be measured before interest",
+        "Operating profit is always larger, which makes the ratio look better",
+        "Tax is not a real cost to the business",
+        "Profit after tax is not published"
+      ],
+      "answer": 0,
+      "why": "Capital employed includes debt, so the return on it must be measured before the cost of that debt is deducted.",
+      "whyNot": [
+        "",
+        "The reason is consistency, not making the figure look better.",
+        "Tax is a real cost; the issue is matching the return to the capital.",
+        "Profit after tax is published in the statement of comprehensive income."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-12",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "A company has 500,000 shares of $0.25 each. How many shares should be used in EPS?",
+      "options": [
+        "500,000",
+        "125,000",
+        "2,000,000",
+        "375,000"
+      ],
+      "answer": 0,
+      "why": "Use the number of shares, not the value of share capital. The $125,000 of capital represents 500,000 shares.",
+      "whyNot": [
+        "",
+        "That is the value of the share capital in dollars.",
+        "That multiplies rather than uses the share count directly.",
+        "That figure has no basis in the data."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-13",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "A company's ROCE is 23.3% and it can borrow at 10%. What is the key conclusion?",
+      "options": [
+        "Borrowing to invest adds value, because the return exceeds the cost of the finance",
+        "The company should repay all borrowing immediately",
+        "The two figures are not comparable",
+        "The company is over-geared"
+      ],
+      "answer": 0,
+      "why": "Comparing ROCE with the cost of capital is the central evaluative move, and a positive margin means debt adds value.",
+      "whyNot": [
+        "",
+        "Repaying debt that earns more than it costs would reduce shareholder returns.",
+        "They are directly comparable, and comparing them is the purpose.",
+        "Nothing here indicates the level of gearing."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-14",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "Why can an unusually high dividend yield be a warning rather than an opportunity?",
+      "options": [
+        "It often means the market expects the dividend to be cut",
+        "It always means the share price has risen sharply",
+        "It means the company has no retained earnings",
+        "It means the dividend has not yet been paid"
+      ],
+      "answer": 0,
+      "why": "A yield is high because the price has fallen, and the price usually falls because investors doubt the dividend can be maintained.",
+      "whyNot": [
+        "",
+        "A high yield generally follows a fall in the price, not a rise.",
+        "Yield says nothing directly about retained earnings.",
+        "Yield is calculated on dividends actually declared."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-15",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "Why do dividend cover and dividend yield pull in opposite directions?",
+      "options": [
+        "High cover means a low payout, which produces a lower yield from the same earnings",
+        "High cover means the share price must be low",
+        "Cover and yield both measure income, so they always move together",
+        "Yield is calculated before tax and cover after tax"
+      ],
+      "answer": 0,
+      "why": "A company cannot maximise both from the same profit, which is why the recommendation depends on whether the investor wants income or growth.",
+      "whyNot": [
+        "",
+        "Cover is independent of the share price.",
+        "Cover measures safety and reinvestment; yield measures income.",
+        "The difference is not about tax."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-16",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "A company makes a bonus issue and EPS falls. What does this tell you about performance?",
+      "options": [
+        "Nothing: the share count has risen with no new resources, so EPS falls mechanically",
+        "Performance has deteriorated in proportion to the fall",
+        "The company has made a loss",
+        "The dividend must have been cut"
+      ],
+      "answer": 0,
+      "why": "A bonus issue adds shares without adding capital, so EPS falls although the earnings are unchanged.",
+      "whyNot": [
+        "",
+        "Earnings are unchanged; only the denominator has grown.",
+        "There is no basis for concluding a loss was made.",
+        "The dividend decision is separate from a bonus issue."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-17",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "What does a high price earnings ratio indicate?",
+      "options": [
+        "Either that the market expects earnings growth, or that the share is overpriced",
+        "Only that the share is overpriced",
+        "Only that earnings are expected to fall",
+        "That the dividend is well covered"
+      ],
+      "answer": 0,
+      "why": "The ratio cannot distinguish confidence from overvaluation, so the honest interpretation is always conditional.",
+      "whyNot": [
+        "",
+        "Overvaluation is one possible explanation, not the only one.",
+        "A high P/E is associated with expected growth, not decline.",
+        "P/E says nothing about dividend cover."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-18",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Which ratio would an investor seeking regular income look at most closely?",
+      "options": [
+        "Dividend yield",
+        "Dividend cover",
+        "Earnings per share",
+        "Return on capital employed"
+      ],
+      "answer": 0,
+      "why": "Yield measures the cash income return on the price the investor would pay.",
+      "whyNot": [
+        "",
+        "Cover measures safety, which matters but does not measure the income received.",
+        "EPS measures profit earned, most of which may be retained.",
+        "ROCE measures management performance rather than investor income."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-19",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines the retention ratio?",
+      "options": [
+        "The proportion of earnings kept in the business rather than distributed",
+        "The proportion of shares held by the directors",
+        "The proportion of profit paid in tax",
+        "The proportion of dividends paid in cash"
+      ],
+      "answer": 0,
+      "why": "Retention is the complement of the payout ratio, and a high retention supports growth rather than income.",
+      "whyNot": [
+        "",
+        "That is director shareholding, a governance matter.",
+        "That is the effective tax rate.",
+        "That concerns the form of the dividend, not retention."
+      ]
+    },
+    {
+      "id": "WAC12-2-2-1-20",
+      "topicRef": "2.2.1",
+      "topicTitle": "Investment ratios",
+      "difficulty": "hard",
+      "stem": "Which of the following is the strongest limitation of investment ratios?",
+      "options": [
+        "They are historical, while the investment decision concerns the future",
+        "They cannot be calculated from published financial statements",
+        "They are only relevant to unlisted companies",
+        "They are not used by professional investors"
+      ],
+      "answer": 0,
+      "why": "Every ratio uses figures from a period that has ended, and non-financial factors that drive future earnings are absent.",
+      "whyNot": [
+        "",
+        "Published statements are the standard source.",
+        "P/E and yield require a market price, so they suit listed companies best.",
+        "They are among the most widely used measures in investment analysis."
+      ]
+    }
+  ]
+}

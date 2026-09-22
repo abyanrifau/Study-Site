@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.4.1",
+  "topicTitle": "Poverty",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-4-1-01",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines absolute poverty?",
+      "options": [
+        "Income insufficient to afford the basic necessities of life, measured against a fixed standard",
+        "Income well below the average in a particular society",
+        "Income below the median in a country",
+        "Income that has fallen over the last year"
+      ],
+      "answer": 0,
+      "why": "The threshold is fixed in real terms, which is why absolute poverty can in principle be eliminated.",
+      "whyNot": [
+        "",
+        "That is relative poverty.",
+        "That is a relative measure.",
+        "A falling income is not a poverty definition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-02",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines relative poverty?",
+      "options": [
+        "Income well below the average in a particular society",
+        "Income below a fixed international threshold",
+        "Income insufficient for basic necessities",
+        "Income that is unstable from year to year"
+      ],
+      "answer": 0,
+      "why": "It is really a measure of inequality at the bottom of the distribution rather than of deprivation.",
+      "whyNot": [
+        "",
+        "That is absolute poverty.",
+        "That is absolute poverty.",
+        "That is income volatility."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-03",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "easy",
+      "stem": "Which type of poverty can in principle be eliminated?",
+      "options": [
+        "Absolute poverty, because the threshold is fixed",
+        "Relative poverty, because it is defined against the average",
+        "Both, given enough growth",
+        "Neither, under any circumstances"
+      ],
+      "answer": 0,
+      "why": "If every income doubled, absolute poverty would fall sharply and relative poverty would not change at all.",
+      "whyNot": [
+        "",
+        "A measure defined against the average cannot be eliminated.",
+        "Relative poverty cannot be, by construction.",
+        "Absolute poverty can be, and has fallen dramatically in some regions."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-04",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a poverty trap?",
+      "options": [
+        "A situation in which low income prevents the saving, investment or education needed to raise it",
+        "A benefit system that pays too much to those in work",
+        "A tax on the incomes of the poorest households",
+        "An area of a country with unusually high unemployment"
+      ],
+      "answer": 0,
+      "why": "It also refers to high effective marginal tax and benefit withdrawal rates that remove the incentive to earn more.",
+      "whyNot": [
+        "",
+        "That would reduce poverty rather than trap people in it.",
+        "That is a regressive tax.",
+        "That is a regional problem."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-05",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Why can measured relative poverty fall during a recession?",
+      "options": [
+        "Median income falls, so the relative poverty line falls with it",
+        "Benefits automatically rise faster than prices",
+        "The poorest gain employment during a recession",
+        "Relative poverty is not measured during a recession"
+      ],
+      "answer": 0,
+      "why": "A measure that improves when the economy collapses needs careful reading.",
+      "whyNot": [
+        "",
+        "Benefits may be uprated, but that is not the mechanism.",
+        "Unemployment rises among the poorest in a recession.",
+        "It continues to be measured."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-06",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Which of the following is the most powerful force reducing absolute poverty?",
+      "options": [
+        "Economic growth, provided its benefits reach the poorest",
+        "Relative poverty measurement",
+        "Higher indirect taxes on necessities",
+        "A rise in the exchange rate"
+      ],
+      "answer": 0,
+      "why": "Growth concentrated in a capital-intensive extractive sector may raise GDP substantially and leave absolute poverty almost unchanged, so the pattern of growth matters.",
+      "whyNot": [
+        "",
+        "Measurement does not change outcomes.",
+        "That raises the price of necessities for the poorest.",
+        "The exchange rate is not a poverty instrument."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-07",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Why can growth raise relative poverty while reducing absolute poverty?",
+      "options": [
+        "Growth concentrated among higher earners widens the distribution while raising incomes at the bottom",
+        "Growth always reduces both measures equally",
+        "Growth always raises both measures",
+        "Relative poverty is unaffected by growth"
+      ],
+      "answer": 0,
+      "why": "A policy can reduce one measure while raising the other, which is exactly what an evaluation question rewards.",
+      "whyNot": [
+        "",
+        "They can move in opposite directions.",
+        "Absolute poverty generally falls with growth.",
+        "It depends directly on how income is distributed."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-08",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "What is the main trade-off between means-tested and universal benefits?",
+      "options": [
+        "Means-testing targets better but creates worse incentives and lower take-up",
+        "Universal benefits target better and cost less",
+        "Means-testing is always cheaper to administer",
+        "Universal benefits create a poverty trap"
+      ],
+      "answer": 0,
+      "why": "Universal benefits reach everyone and cost more and are less redistributive per dollar spent.",
+      "whyNot": [
+        "",
+        "Universal benefits reach everyone, so they target less precisely.",
+        "Means-testing requires assessment and so is more expensive to administer.",
+        "The poverty trap arises from benefit withdrawal under means-testing."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-09",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Why may education fail to reduce poverty in the short run?",
+      "options": [
+        "It takes a generation, and families may be unable to forgo a child's earnings",
+        "Education has no effect on productivity",
+        "Educated workers earn less than uneducated ones",
+        "Education raises the birth rate"
+      ],
+      "answer": 0,
+      "why": "It also delivers little if there are no jobs for the newly skilled, in which case the outcome is emigration.",
+      "whyNot": [
+        "",
+        "It raises human capital and therefore productivity.",
+        "Returns to education are generally positive and substantial.",
+        "It tends to reduce the birth rate."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-10",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "hard",
+      "stem": "Why is conflict identified first in any answer where the source mentions it?",
+      "options": [
+        "It destroys infrastructure, human capital and institutions, so no other policy functions",
+        "It is the easiest constraint to remove",
+        "It affects only military spending",
+        "It raises poverty only temporarily"
+      ],
+      "answer": 0,
+      "why": "It displaces populations, halts investment, diverts spending and disrupts food production, and the effects persist for decades.",
+      "whyNot": [
+        "",
+        "It is among the hardest.",
+        "It affects every aspect of the economy.",
+        "The effects are long lasting."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-11",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "hard",
+      "stem": "Why is tied aid worth less than its face value?",
+      "options": [
+        "It must be spent on goods or services from the donor country, which may not be the cheapest",
+        "It must be repaid with interest",
+        "It cannot be spent on infrastructure",
+        "It is paid in the donor's currency"
+      ],
+      "answer": 0,
+      "why": "Aid can also be lost to corruption, create dependency, displace domestic production and be volatile.",
+      "whyNot": [
+        "",
+        "Aid is a grant, unlike a loan.",
+        "It can fund infrastructure, subject to the tying condition.",
+        "The currency is not the problem; the restriction on suppliers is."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-12",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "hard",
+      "stem": "Why can raising the tax-free threshold reduce poverty?",
+      "options": [
+        "It raises the post-tax income of the lowest earners directly",
+        "It raises the marginal tax rate on the poorest",
+        "It reduces government spending on benefits automatically",
+        "It raises indirect taxes on necessities"
+      ],
+      "answer": 0,
+      "why": "Cutting indirect taxes on necessities has a similar effect, and both must be financed.",
+      "whyNot": [
+        "",
+        "It reduces their average tax rate.",
+        "Benefit spending is a separate decision.",
+        "That would worsen poverty."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-13",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "hard",
+      "stem": "Why does structural change raise poverty in the short run and reduce it later?",
+      "options": [
+        "It destroys livelihoods faster than it creates replacements, while raising average productivity over time",
+        "It always reduces total output",
+        "It only affects the agricultural sector",
+        "It raises poverty permanently"
+      ],
+      "answer": 0,
+      "why": "Those displaced frequently lack the skills to follow the work, which is why the transition is painful.",
+      "whyNot": [
+        "",
+        "It raises average productivity and output over time.",
+        "It affects all sectors.",
+        "Long-run incomes generally rise."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-14",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of the international poverty line?",
+      "options": [
+        "It says nothing about how far below the line people are",
+        "It cannot be compared between countries",
+        "It is measured in local currency without adjustment",
+        "It includes non-income dimensions of poverty"
+      ],
+      "answer": 0,
+      "why": "The threshold is arbitrary, PPP conversions are imprecise, and access to public services is ignored.",
+      "whyNot": [
+        "",
+        "Comparability between countries is one of its strengths.",
+        "It is measured at purchasing power parity.",
+        "It is an income measure; multidimensional measures add other dimensions."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-15",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "hard",
+      "stem": "Why does the effectiveness of aid depend heavily on governance?",
+      "options": [
+        "Aid can be lost to corruption and misallocated where institutions are weak",
+        "Aid is only offered to well-governed countries",
+        "Governance determines the currency aid is paid in",
+        "Aid has no effect under any circumstances"
+      ],
+      "answer": 0,
+      "why": "This is why aid effectiveness rather than aid volume is the live question.",
+      "whyNot": [
+        "",
+        "Aid is given to countries with a wide range of governance quality.",
+        "Currency is not the issue.",
+        "Its results in disease control and primary education have been substantial."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-4-1-16",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "Poverty",
+      "difficulty": "medium",
+      "stem": "Which of the following is a multidimensional measure of poverty?",
+      "options": [
+        "A measure combining nutrition, schooling, water, sanitation and electricity",
+        "A fixed income threshold at purchasing power parity",
+        "A percentage of median income",
+        "The Gini coefficient"
+      ],
+      "answer": 0,
+      "why": "Its strength is that poverty is not only about income; its limitation is that the weights given to each dimension are a judgement.",
+      "whyNot": [
+        "",
+        "That is the international poverty line.",
+        "That is a relative poverty measure.",
+        "That measures inequality."
+      ]
+    }
+  ]
+}

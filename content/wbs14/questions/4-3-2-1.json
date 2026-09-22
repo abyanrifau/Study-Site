@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.1",
+  "topicTitle": "Conditions that prompt trade",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-2-1-01",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a push factor?",
+      "options": [
+        "A condition in the domestic market that drives a business to seek opportunities abroad",
+        "An attraction of a foreign market that draws a business towards it",
+        "A government incentive to export",
+        "A tariff imposed by a foreign government"
+      ],
+      "answer": 0,
+      "why": "Saturation and competition at home are the two push factors named in the specification.",
+      "whyNot": [
+        "",
+        "That is a pull factor.",
+        "An incentive would be a pull factor.",
+        "A tariff is a barrier, not a push factor."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-02",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines off-shoring?",
+      "options": [
+        "Relocating a business's own activity to another country while keeping it within the business",
+        "Contracting an activity out to another business",
+        "Selling products in another country",
+        "Registering a company in a low-tax country"
+      ],
+      "answer": 0,
+      "why": "Off-shoring is about location; outsourcing is about who performs the activity.",
+      "whyNot": [
+        "",
+        "That is outsourcing.",
+        "That is exporting.",
+        "That is a tax arrangement, not off-shoring of activity."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-03",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines outsourcing?",
+      "options": [
+        "Contracting an activity out to another business, whether at home or abroad",
+        "Moving the business's own activity to another country",
+        "Buying raw materials from a foreign supplier",
+        "Selling a division of the business"
+      ],
+      "answer": 0,
+      "why": "Control is reduced because the activity is performed by a supplier rather than by the business itself.",
+      "whyNot": [
+        "",
+        "That is off-shoring.",
+        "Buying inputs is ordinary purchasing, not outsourcing an activity.",
+        "That is a divestment."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-04",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a saturated market?",
+      "options": [
+        "A market in which almost all potential customers already own the product",
+        "A market with very high prices",
+        "A market with only one supplier",
+        "A market growing faster than the economy"
+      ],
+      "answer": 0,
+      "why": "Growth is then limited to replacement demand, which is why it is a push factor.",
+      "whyNot": [
+        "",
+        "High prices do not indicate saturation.",
+        "That is a monopoly.",
+        "A fast-growing market is the opposite of saturated."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-05",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "Which of the following is a pull factor named in the specification?",
+      "options": [
+        "Risk spreading and economies of scale",
+        "Saturated domestic markets",
+        "Intense domestic competition",
+        "High domestic regulation"
+      ],
+      "answer": 0,
+      "why": "Increased sales and profitability, risk spreading and economies of scale are the named pull factors.",
+      "whyNot": [
+        "",
+        "That is a push factor.",
+        "That is a push factor.",
+        "That is a push factor."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-06",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "What is the limit of risk spreading through operating in many countries?",
+      "options": [
+        "Economies are increasingly correlated, so a global downturn hits everywhere at once",
+        "Risk cannot be spread at all",
+        "Operating in many countries increases the risk in each one",
+        "Risk spreading only works for service businesses"
+      ],
+      "answer": 0,
+      "why": "A business with a hundred markets still has one global exposure, which is why risk spreading is not complete protection.",
+      "whyNot": [
+        "",
+        "It genuinely reduces country-specific risk.",
+        "Diversification does not raise the risk in each individual market.",
+        "It applies to any business."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-07",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "Which pull factor is strongest for a business with very high fixed costs?",
+      "options": [
+        "Economies of scale, because higher volume spreads the fixed costs",
+        "Risk spreading, because fixed costs vary by country",
+        "Extending the product life cycle",
+        "Government incentives"
+      ],
+      "answer": 0,
+      "why": "Research, development and brand-building costs are spread over a much larger volume, so unit cost falls with every extra unit.",
+      "whyNot": [
+        "",
+        "Fixed costs are spread by volume rather than by geography.",
+        "Life-cycle extension is a separate benefit.",
+        "Incentives are usually a smaller consideration."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-08",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "Which of the following is a risk of outsourcing rather than off-shoring?",
+      "options": [
+        "Loss of control over quality and the risk of supplier power",
+        "Cultural and time-zone difficulties in managing your own staff",
+        "Higher wage costs in the home country",
+        "The need to build a new factory abroad"
+      ],
+      "answer": 0,
+      "why": "Outsourcing hands the activity to a supplier, so quality, reliability and loss of in-house expertise are the risks.",
+      "whyNot": [
+        "",
+        "That is a risk of off-shoring your own operation.",
+        "Outsourcing usually reduces wage costs rather than raising them.",
+        "Building a factory would be off-shoring, not outsourcing."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-09",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "Why are off-shoring decisions often regretted?",
+      "options": [
+        "The saving is measurable and immediate while the costs are largely non-financial and delayed",
+        "The saving never materialises at all",
+        "Off-shoring is usually unlawful",
+        "The costs are always larger than the savings"
+      ],
+      "answer": 0,
+      "why": "Naming that asymmetry is worth a mark, because it explains why the decision looks better on a spreadsheet than in practice.",
+      "whyNot": [
+        "",
+        "Cost savings are usually real in the short term.",
+        "Off-shoring is lawful and common.",
+        "Sometimes the savings dominate; the point is the timing and measurability."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-10",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "Why does it matter whether a business is pushed or pulled abroad?",
+      "options": [
+        "A pushed business is under pressure and may accept a weaker opportunity than it should",
+        "Pushed businesses are always more successful abroad",
+        "Pull factors are never genuine",
+        "Push and pull factors never occur together"
+      ],
+      "answer": 0,
+      "why": "A business pulled by a genuinely attractive market is choosing from strength and can walk away, which changes the recommendation.",
+      "whyNot": [
+        "",
+        "Pressure tends to worsen decision quality, not improve it.",
+        "Pull factors are frequently the dominant reason.",
+        "They almost always operate together."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-11",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "Why can selling a mature product in a growing market extend its life cycle profitably?",
+      "options": [
+        "Development costs are sunk and production is already at scale",
+        "Mature products cost more to make",
+        "Growing markets always pay higher prices",
+        "Life cycles are not affected by the market entered"
+      ],
+      "answer": 0,
+      "why": "The marketing also does not have to educate the market about the product category, which lowers the launch cost.",
+      "whyNot": [
+        "",
+        "Mature products are usually cheaper to produce.",
+        "Price depends on the market's income and competition.",
+        "Entering a market at a different stage changes the cycle directly."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-12",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "What is off-shored outsourcing?",
+      "options": [
+        "Contracting manufacture to a firm in another country, carrying both sets of risks",
+        "Moving your own factory abroad and keeping it in-house",
+        "Outsourcing to a domestic supplier only",
+        "Exporting through a foreign agent"
+      ],
+      "answer": 0,
+      "why": "It is the most common arrangement and combines the loss of control of outsourcing with the distance of off-shoring.",
+      "whyNot": [
+        "",
+        "That is off-shoring alone.",
+        "That is domestic outsourcing.",
+        "Using an agent is a distribution arrangement."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-13",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "Which indicator most clearly signals a saturated domestic market?",
+      "options": [
+        "High market penetration combined with low market growth",
+        "High market growth with low penetration",
+        "A rising number of new entrants",
+        "A falling exchange rate"
+      ],
+      "answer": 0,
+      "why": "That combination describes a mature or declining market, so growth must come from elsewhere.",
+      "whyNot": [
+        "",
+        "That describes a growing market.",
+        "New entrants suggest the market is still attractive.",
+        "The exchange rate says nothing about saturation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-14",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "Why is expansion abroad driven almost entirely by push factors for a business in a very small economy?",
+      "options": [
+        "A tiny dispersed home market caps volume whatever its market share",
+        "Small economies never have attractive foreign markets nearby",
+        "Small economies prohibit domestic growth",
+        "Pull factors only apply to large businesses"
+      ],
+      "answer": 0,
+      "why": "The option of growing at home simply is not available, which makes the push-pull distinction concrete.",
+      "whyNot": [
+        "",
+        "Nearby markets may be very attractive; that is a separate matter.",
+        "No such prohibition exists.",
+        "Pull factors apply to businesses of any size."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-15",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "medium",
+      "stem": "Which of the following is an argument for outsourcing?",
+      "options": [
+        "Access to specialist capability with lower fixed costs and greater flexibility",
+        "Complete control over quality and timing",
+        "Retention of all in-house expertise",
+        "Shorter and simpler supply chains"
+      ],
+      "answer": 0,
+      "why": "It also lets management concentrate attention on the business's core activities.",
+      "whyNot": [
+        "",
+        "Control is reduced, which is the main drawback.",
+        "In-house expertise tends to be lost.",
+        "Supply chains usually become longer and more complex."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-1-16",
+      "topicRef": "4.3.2.1",
+      "topicTitle": "Conditions that prompt trade",
+      "difficulty": "hard",
+      "stem": "Which alternative to off-shoring should an evaluation usually consider?",
+      "options": [
+        "Automation at home, or outsourcing without relocating",
+        "Increasing the selling price to cover the higher domestic cost",
+        "Closing the business entirely",
+        "Waiting until wages fall domestically"
+      ],
+      "answer": 0,
+      "why": "Considering the alternatives is part of a full evaluation, and automation addresses the cost problem without the control and reputational risks.",
+      "whyNot": [
+        "",
+        "A price rise may simply lose volume to competitors who have off-shored.",
+        "Closure is not a realistic alternative to a cost decision.",
+        "Domestic wages rarely fall."
+      ]
+    }
+  ]
+}

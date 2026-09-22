@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.4.3",
+  "topicTitle": "Controlling MNCs",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-4-3-01",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines self-regulation?",
+      "options": [
+        "A business or industry setting and monitoring its own standards rather than being required to by law",
+        "Regulation imposed by the host country's government",
+        "Regulation agreed between two governments",
+        "Monitoring of a business by its customers"
+      ],
+      "answer": 0,
+      "why": "It is faster and more flexible than legislation, and voluntary and unenforceable.",
+      "whyNot": [
+        "",
+        "That is legal control.",
+        "That is an international agreement.",
+        "That is consumer pressure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-02",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines regulatory arbitrage?",
+      "options": [
+        "Locating activity in the country with the least demanding rules",
+        "Settling a dispute between two regulators",
+        "Complying with the strictest rules in every country",
+        "Challenging a regulation in court"
+      ],
+      "answer": 0,
+      "why": "It is one of the three consequences of MNCs being global while laws are national.",
+      "whyNot": [
+        "",
+        "That is regulatory dispute resolution.",
+        "That is the opposite approach.",
+        "That is litigation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-03",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a boycott?",
+      "options": [
+        "An organised refusal to buy a business's products to force a change in its behaviour",
+        "A government ban on trade with a country",
+        "A refusal by workers to perform their duties",
+        "A decision by a business to leave a market"
+      ],
+      "answer": 0,
+      "why": "It goes straight to revenue, which is the language a business responds to fastest.",
+      "whyNot": [
+        "",
+        "That is an embargo.",
+        "That is a strike.",
+        "That is a market exit."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-04",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "easy",
+      "stem": "What is the structural problem in controlling MNCs?",
+      "options": [
+        "MNCs are global while laws are national",
+        "MNCs are always larger than governments",
+        "MNCs are exempt from national law",
+        "No country wishes to regulate them"
+      ],
+      "answer": 0,
+      "why": "A company can locate profit, production and ownership wherever suits it while no single government has authority over the whole group.",
+      "whyNot": [
+        "",
+        "Some are very large, but not all exceed government scale.",
+        "They are subject to the law of each country they operate in.",
+        "Many countries regulate them actively."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-05",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "What is the mechanism through which an MNC's power operates?",
+      "options": [
+        "The threat to relocate, which does not have to be exercised to be effective",
+        "Direct control of the host government's budget",
+        "The power to change national laws unilaterally",
+        "Ownership of the country's currency"
+      ],
+      "answer": 0,
+      "why": "Where the investment is genuinely mobile the power is real; where it is tied to a resource or an immovable asset it is far weaker.",
+      "whyNot": [
+        "",
+        "Governments control their own budgets.",
+        "Laws are made by governments, though lobbying shapes them.",
+        "Currency is issued by central banks."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-06",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "Which operation gives a government the most leverage over an MNC?",
+      "options": [
+        "A mine or a resort, because the asset cannot be moved",
+        "An assembly plant with standard equipment",
+        "A customer service centre",
+        "A software development office"
+      ],
+      "answer": 0,
+      "why": "Asking how mobile the operation is should be the first step in any answer about controlling MNCs.",
+      "whyNot": [
+        "",
+        "Assembly is relatively mobile.",
+        "Service centres are highly mobile.",
+        "Software work is highly mobile."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-07",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "How does political influence usually affect regulation?",
+      "options": [
+        "Laws are shaped, delayed or diluted before they are passed rather than broken",
+        "Laws are routinely repealed at a company's request",
+        "Companies are given the power to write legislation",
+        "Regulators are legally required to consult only businesses"
+      ],
+      "answer": 0,
+      "why": "Lobbying, industry associations and providing expertise to governments drafting regulation are the usual channels.",
+      "whyNot": [
+        "",
+        "Repeal on request is not how it works.",
+        "Legislatures pass laws; businesses may provide input.",
+        "Consultation normally extends beyond business."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-08",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a strength of legal control?",
+      "options": [
+        "It is binding and applies to every firm equally, so it does not disadvantage the ethical one",
+        "It applies beyond the country's borders in all cases",
+        "It can be introduced faster than business models change",
+        "It requires no enforcement capacity"
+      ],
+      "answer": 0,
+      "why": "Enforceability through the courts with meaningful penalties is what distinguishes law from voluntary codes.",
+      "whyNot": [
+        "",
+        "It reaches only within national borders, except where extraterritorial law applies.",
+        "Regulation takes years while business models change in months.",
+        "Inspectors, courts and technical expertise are all required."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-09",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "Against which type of business is consumer pressure least effective?",
+      "options": [
+        "A business with no consumer brand, such as a component manufacturer",
+        "A high-street retailer",
+        "A branded food manufacturer",
+        "A consumer electronics company"
+      ],
+      "answer": 0,
+      "why": "Reputation is a large part of the value of a consumer brand, so the threat is only credible where such a brand exists.",
+      "whyNot": [
+        "",
+        "Retailers are highly exposed to consumer pressure.",
+        "Branded manufacturers are highly exposed.",
+        "Consumer electronics brands are highly exposed."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-10",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "Why can a boycott harm the workers it intends to help?",
+      "options": [
+        "Cutting orders cuts their income without improving their conditions",
+        "Workers are legally liable for lost sales",
+        "Boycotts are usually directed at employees",
+        "Boycotts raise local prices for workers"
+      ],
+      "answer": 0,
+      "why": "This is the same objection as withdrawing from a supplier, and it is worth naming in an evaluation.",
+      "whyNot": [
+        "",
+        "Workers carry no such liability.",
+        "They are directed at the business.",
+        "Price effects are not the main mechanism."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-11",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "Why has social media changed the balance of control?",
+      "options": [
+        "Evidence can be published instantly by anyone, so a local problem cannot stay local",
+        "It allows governments to enforce laws across borders",
+        "It guarantees the accuracy of allegations",
+        "It replaces the need for legal regulation"
+      ],
+      "answer": 0,
+      "why": "Its weaknesses are equally real: accuracy is not guaranteed and attention fades before change is delivered.",
+      "whyNot": [
+        "",
+        "Enforcement still depends on legal jurisdiction.",
+        "Accuracy is one of its main weaknesses.",
+        "It supplements rather than replaces regulation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-12",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "Which mechanism shifts enforcement from the weakest jurisdiction to the strongest?",
+      "options": [
+        "Home-country legislation with extraterritorial reach, such as anti-bribery and modern slavery laws",
+        "Self-regulation by the industry",
+        "Consumer boycotts in the host country",
+        "A pressure group campaign"
+      ],
+      "answer": 0,
+      "why": "It is the only structural answer to regulatory arbitrage and the most sophisticated point available in this topic.",
+      "whyNot": [
+        "",
+        "Self-regulation is voluntary and unenforceable.",
+        "Host-country consumer pressure is often weak.",
+        "Campaigns have no legal authority."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-13",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "What does international agreement on a minimum corporate tax rate attack?",
+      "options": [
+        "The benefit of shifting reported profit to low-tax countries",
+        "The ability of MNCs to employ local workers",
+        "The freedom of MNCs to advertise internationally",
+        "The right of MNCs to repatriate profit"
+      ],
+      "answer": 0,
+      "why": "It attacks transfer pricing directly, and it illustrates that controlling a global company requires governments to act together rather than compete.",
+      "whyNot": [
+        "",
+        "Employment is not affected.",
+        "Advertising is governed separately.",
+        "Repatriation is not restricted by tax agreements."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-14",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a strength of self-regulation?",
+      "options": [
+        "It can apply across a whole group in every country at once, which no national law can",
+        "It is legally enforceable through the courts",
+        "It is monitored by independent regulators as standard",
+        "It sets more demanding standards than legislation"
+      ],
+      "answer": 0,
+      "why": "It also uses the company's own expertise about what is practicable and can pre-empt regulation the industry would like even less.",
+      "whyNot": [
+        "",
+        "It is voluntary and unenforceable.",
+        "Monitoring is usually by the company or auditors it pays.",
+        "Standards set by those they apply to tend to be undemanding."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-15",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "What is the fair judgement on self-regulation?",
+      "options": [
+        "Necessary because it reaches where the law cannot, and insufficient because nothing compels compliance",
+        "Entirely worthless, because it is voluntary",
+        "Wholly adequate, because businesses know their own operations",
+        "Illegal in most jurisdictions"
+      ],
+      "answer": 0,
+      "why": "It works best where an industry's reputation is collectively at stake and where codes are independently verified.",
+      "whyNot": [
+        "",
+        "It reaches across a whole group in a way no national law can.",
+        "Standards are set by those they apply to, so they tend to be weak.",
+        "It is lawful and widely used."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-16",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "hard",
+      "stem": "What determines how much control over MNCs is actually achievable?",
+      "options": [
+        "The mobility of the investment and the strength of the host country's institutions",
+        "The size of the MNC's advertising budget",
+        "The number of countries the MNC operates in",
+        "Whether the MNC is publicly listed"
+      ],
+      "answer": 0,
+      "why": "Where a weak state competes for mobile investment, control has to come from outside: home-country legislation, consumer pressure in its main markets, and international agreement.",
+      "whyNot": [
+        "",
+        "Advertising spend is not the relevant variable.",
+        "Geographic spread is not the determining factor.",
+        "Listing status affects disclosure rather than control."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-3-17",
+      "topicRef": "4.3.4.3",
+      "topicTitle": "Controlling MNCs",
+      "difficulty": "medium",
+      "stem": "Why do the mechanisms for controlling MNCs need to work together?",
+      "options": [
+        "Law sets a floor, social media and pressure groups supply information, and consumer pressure makes reputation financial",
+        "Each mechanism is fully effective on its own",
+        "Only legal control has any effect",
+        "Only consumer pressure has any effect"
+      ],
+      "answer": 0,
+      "why": "Self-regulation then reaches the parts of a global group that no regulator can, so no single mechanism is adequate.",
+      "whyNot": [
+        "",
+        "Each has clear limitations.",
+        "Law is limited by jurisdiction and enforcement capacity.",
+        "Consumer pressure is limited to branded businesses."
+      ]
+    }
+  ]
+}

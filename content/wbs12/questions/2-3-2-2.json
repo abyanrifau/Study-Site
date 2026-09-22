@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.2.2",
+  "topicTitle": "Sales forecasting",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-2-2-01",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a sales forecast?",
+      "options": [
+        "An estimate of the volume or value of sales expected over a future period",
+        "A record of sales achieved last year",
+        "A plan for how much the business will spend on marketing",
+        "A legal statement of expected profit"
+      ],
+      "answer": 0,
+      "why": "It is an estimate of future sales. Every other number in the plan (cash flow, staffing, stock, capacity) is built on it, which is both its importance and its weakness.",
+      "whyNot": [
+        "",
+        "Past sales are historical data, which a forecast may be based on.",
+        "That is a marketing budget.",
+        "No such legal statement exists."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-02",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "easy",
+      "stem": "Which of these is an economic variable that affects a sales forecast?",
+      "options": [
+        "Interest rates",
+        "A competitor's advertising campaign",
+        "A change in consumer tastes",
+        "The business's own pricing policy"
+      ],
+      "answer": 0,
+      "why": "Interest rates, incomes, inflation, unemployment and the business cycle are the economic variables. Higher rates reduce borrowing and hit big-ticket purchases hardest.",
+      "whyNot": [
+        "",
+        "That is a competitor action, a separate category in the specification.",
+        "That is a consumer trend.",
+        "That is an internal decision, not an economic variable."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-03",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of extrapolation?",
+      "options": [
+        "Using a past trend to estimate future values by extending it forward",
+        "Asking customers what they intend to buy",
+        "Comparing your sales with a competitor's",
+        "Adjusting a forecast for inflation"
+      ],
+      "answer": 0,
+      "why": "Extrapolation projects the past forward. Its weakness is the assumption that conditions continue, which is exactly what tends to fail.",
+      "whyNot": [
+        "",
+        "That is primary market research.",
+        "That is benchmarking.",
+        "That is one adjustment you might make, not extrapolation itself."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-04",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "medium",
+      "stem": "Why is forecasting hardest for a brand new business?",
+      "options": [
+        "It has no historical sales data, so the forecast rests on judgement",
+        "New businesses are not allowed to forecast",
+        "New businesses have no customers",
+        "Economic variables do not apply to new businesses"
+      ],
+      "answer": 0,
+      "why": "With nothing to extrapolate from, the forecast has to be built from research and observation of competitors. That makes it far less reliable, which is why lenders scrutinise it so closely.",
+      "whyNot": [
+        "",
+        "Forecasting is expected of them, particularly by lenders.",
+        "They expect customers; they simply have no record of them yet.",
+        "Economic variables affect every business."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-05",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "medium",
+      "stem": "Which factor affecting a forecast is hardest to predict?",
+      "options": [
+        "The actions of competitors",
+        "Demographic change",
+        "Seasonality",
+        "Inflation"
+      ],
+      "answer": 0,
+      "why": "Competitor actions depend on other people's decisions and are invisible in your own past data. A rival's price cut or a new entrant can move your sales sharply with no warning.",
+      "whyNot": [
+        "",
+        "Demographic change is slow and measured continuously, so it is the easiest to plan for.",
+        "Seasonality repeats to a timetable and is highly predictable.",
+        "Inflation is forecast publicly and regularly, so estimates are available."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-06",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "medium",
+      "stem": "Why does the reliability of a forecast fall as the time horizon lengthens?",
+      "options": [
+        "More can change, so the range of possible outcomes widens",
+        "Longer forecasts are calculated differently",
+        "Businesses stop collecting data after a year",
+        "Long forecasts are illegal"
+      ],
+      "answer": 0,
+      "why": "A forecast for next month rests on conditions that mostly already exist. A forecast for year three rests on assumptions about the economy, competitors and tastes that may all change.",
+      "whyNot": [
+        "",
+        "The method is the same; the uncertainty is larger.",
+        "Data collection continues.",
+        "There is no such restriction."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-07",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "medium",
+      "stem": "What is optimism bias in forecasting?",
+      "options": [
+        "The tendency of founders and managers to forecast sales higher than is realistic",
+        "The tendency of markets to grow over time",
+        "A statistical method for adjusting forecasts",
+        "The tendency of customers to overstate what they will buy"
+      ],
+      "answer": 0,
+      "why": "People who believe in what they are building systematically forecast too high. It matters because a lender knows it, and a candidate who notices it in a source is showing real judgement.",
+      "whyNot": [
+        "",
+        "That is market growth, a different idea.",
+        "It is a behavioural tendency, not a method.",
+        "Customers do overstate intentions, and optimism bias refers to the forecaster."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-08",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "hard",
+      "stem": "Instead of a single sales figure, what is better practice for an unreliable forecast?",
+      "options": [
+        "Forecast a range of worst, likely and best case, and test the plan against the worst",
+        "Refuse to forecast at all",
+        "Use the best case only, to impress lenders",
+        "Forecast only one month ahead and never further"
+      ],
+      "answer": 0,
+      "why": "A range acknowledges the uncertainty and lets the business check it could survive the low case. An unreliable forecast is not a reason to skip forecasting; it is a reason to keep fixed commitments low.",
+      "whyNot": [
+        "",
+        "Cash flow, staffing and finance all depend on some estimate.",
+        "A forecast built to impress rather than to inform will mislead the business itself.",
+        "Longer horizons are needed for finance and capacity decisions, however uncertain."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-2-09",
+      "topicRef": "2.3.2.2",
+      "topicTitle": "Sales forecasting",
+      "difficulty": "hard",
+      "stem": "For a Maldivian guesthouse, which incomes matter most to its sales forecast?",
+      "options": [
+        "Incomes in the countries its visitors come from",
+        "Incomes in the Maldives",
+        "The incomes of its own staff",
+        "Average global income"
+      ],
+      "answer": 0,
+      "why": "Demand comes from the source markets, and a long-haul holiday is close to a pure luxury in YED terms. A recession in a few wealthy source countries hits bookings hard even if the domestic economy is growing.",
+      "whyNot": [
+        "",
+        "Domestic incomes matter far less when most customers are foreign visitors.",
+        "Staff incomes are a cost, not a driver of customer demand.",
+        "A global average conceals the specific countries the visitors actually come from."
+      ]
+    }
+  ]
+}

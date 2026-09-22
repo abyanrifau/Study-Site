@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.1.2",
+  "topicTitle": "Causes of globalisation",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-1-2-01",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "easy",
+      "stem": "Which political change does the specification name as a cause of globalisation?",
+      "options": [
+        "The breakdown of the Soviet system and the opening up of China",
+        "The formation of the World Trade Organization",
+        "The introduction of the euro",
+        "The creation of the United Nations"
+      ],
+      "answer": 0,
+      "why": "Together they brought hundreds of millions of workers and consumers into the world market economy within a generation.",
+      "whyNot": [
+        "",
+        "The WTO relates to trade liberalisation, a separate named cause.",
+        "The euro relates to monetary union within a bloc.",
+        "The UN is not named as a cause."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-02",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines trade liberalisation?",
+      "options": [
+        "The reduction or removal of barriers to international trade",
+        "The privatisation of state-owned exporters",
+        "The floating of a country's exchange rate",
+        "The signing of an agreement to fix commodity prices"
+      ],
+      "answer": 0,
+      "why": "It has occurred through multilateral negotiation and through a growing number of regional and bilateral agreements.",
+      "whyNot": [
+        "",
+        "That is privatisation.",
+        "That is exchange rate policy.",
+        "That is a commodity agreement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-03",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines technology transfer?",
+      "options": [
+        "The spread of technology, methods and know-how from a foreign investor to local firms and workers",
+        "The export of high-technology goods",
+        "The purchase of patents by a government",
+        "The relocation of a research laboratory"
+      ],
+      "answer": 0,
+      "why": "It is one of the main potential benefits of FDI for a recipient country, and it depends on local capacity to absorb it.",
+      "whyNot": [
+        "",
+        "That is a trade flow.",
+        "That is one narrow mechanism, not the definition.",
+        "That is a location decision."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-04",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "easy",
+      "stem": "Which of the following is a reason a firm undertakes FDI?",
+      "options": [
+        "To produce inside a tariff wall and avoid trade barriers",
+        "To reduce the total size of its operations",
+        "To avoid having to employ any workers",
+        "To reduce its exposure to all forms of risk"
+      ],
+      "answer": 0,
+      "why": "Market access, lower costs, resources, avoiding barriers and acquiring brands are the standard reasons.",
+      "whyNot": [
+        "",
+        "FDI expands operations.",
+        "FDI involves employing workers in the host country.",
+        "FDI adds political and exchange rate risk."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-05",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Why is it argued that falling communication costs mattered more than falling tariffs?",
+      "options": [
+        "Cheap coordination made global supply chains possible, not just global selling",
+        "Communication costs fell by a larger percentage",
+        "Tariffs have never fallen significantly",
+        "Communication is unaffected by government policy"
+      ],
+      "answer": 0,
+      "why": "Without cheap coordination a firm could export but could not manage production it did not stand beside. It also made services tradable.",
+      "whyNot": [
+        "",
+        "The size of the fall is not the argument.",
+        "Average tariffs have fallen substantially over decades.",
+        "Policy does affect telecommunications, but that is not the point."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-06",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "How do trading blocs both cause and work against globalisation?",
+      "options": [
+        "They create trade between members and divert it away from more efficient non-members",
+        "They raise tariffs between members and lower them for non-members",
+        "They prevent all trade with countries outside the bloc",
+        "They have no effect on trade patterns"
+      ],
+      "answer": 0,
+      "why": "Naming that tension is worth a mark, because blocs are simultaneously a cause of integration and a form of discrimination.",
+      "whyNot": [
+        "",
+        "It is the other way round: internal barriers fall and an external tariff applies.",
+        "Trade with non-members continues, subject to the external tariff.",
+        "They substantially change the geographic pattern of trade."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-07",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit of FDI to a recipient country?",
+      "options": [
+        "It fills the savings gap and brings technology and skills",
+        "It guarantees a permanent balance of payments surplus",
+        "It eliminates the need for domestic investment",
+        "It removes the need for any taxation"
+      ],
+      "answer": 0,
+      "why": "It also creates employment, raises growth and widens the tax base, subject to the costs.",
+      "whyNot": [
+        "",
+        "Profit repatriation makes the long-run effect on the current account negative.",
+        "Domestic investment remains essential.",
+        "Taxation is still required, and tax holidays reduce the revenue benefit."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-08",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cost of FDI to a recipient country?",
+      "options": [
+        "Profit repatriation is a permanent outflow, and the investment may be footloose",
+        "It reduces the country's total output",
+        "It prevents the country from exporting",
+        "It always lowers wages below the local average"
+      ],
+      "answer": 0,
+      "why": "Tax holidays and transfer pricing also reduce the revenue benefit, and local competitors may be crowded out.",
+      "whyNot": [
+        "",
+        "FDI normally raises output.",
+        "It often raises exports from the host country.",
+        "Multinationals typically pay above the local average, though below their home rate."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-09",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best describes the effect of containerisation?",
+      "options": [
+        "It standardised handling, so loading a ship took hours rather than days",
+        "It reduced the size of ships and therefore their fuel use",
+        "It allowed governments to inspect every shipment",
+        "It made air freight unnecessary"
+      ],
+      "answer": 0,
+      "why": "Larger vessels then lowered cost per unit shipped further, and air freight made high-value and perishable goods tradable.",
+      "whyNot": [
+        "",
+        "Vessels became much larger, not smaller.",
+        "Containerisation reduced the practicality of inspecting every shipment.",
+        "Air freight grew alongside it for different goods."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-10",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "hard",
+      "stem": "Which of the following is the strongest evidence that globalisation is a trend rather than a one-way process?",
+      "options": [
+        "Tariffs have been reimposed, investment screened and supply chains deliberately shortened",
+        "Trade has never grown faster than output",
+        "FDI has never exceeded portfolio investment",
+        "Communication costs have started to rise"
+      ],
+      "answer": 0,
+      "why": "Globalisation is driven by policy and technology, and policy can reverse.",
+      "whyNot": [
+        "",
+        "Trade grew faster than output for several decades.",
+        "FDI grew faster than trade for long periods.",
+        "Communication costs have continued to fall."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-11",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "hard",
+      "stem": "Why does technology transfer from FDI often disappoint?",
+      "options": [
+        "The most valuable research stays in the home country and local absorption depends on education",
+        "Technology cannot legally cross borders",
+        "Host governments prohibit it",
+        "Multinationals have no technology to transfer"
+      ],
+      "answer": 0,
+      "why": "Transfer requires local firms and workers capable of using the technology, which depends on the education system.",
+      "whyNot": [
+        "",
+        "Technology moves readily; the question is whether it is shared.",
+        "Most host governments actively seek it.",
+        "They typically hold substantial technology."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-12",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "hard",
+      "stem": "Which asymmetry should shape the conclusion of an essay on FDI?",
+      "options": [
+        "Benefits are immediate and visible; several costs are gradual and cumulative",
+        "Benefits are gradual; costs are immediate",
+        "Both benefits and costs appear immediately",
+        "Neither benefits nor costs can be measured"
+      ],
+      "answer": 0,
+      "why": "Jobs and investment appear at once, while profit repatriation and environmental damage accumulate, which is why governments compete for FDI and are later disappointed.",
+      "whyNot": [
+        "",
+        "Jobs and the investment itself appear immediately.",
+        "Repatriation and environmental effects build over years.",
+        "Both are partially measurable."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-13",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines footloose capital?",
+      "options": [
+        "Investment with no strong tie to a location, which can be relocated relatively easily",
+        "Investment financed entirely by borrowing",
+        "Investment in transport infrastructure",
+        "Investment made by a government rather than a firm"
+      ],
+      "answer": 0,
+      "why": "It is why incentives buy investment that may not stay once they expire.",
+      "whyNot": [
+        "",
+        "The financing method is not the issue.",
+        "Transport investment is usually immobile.",
+        "Ownership does not determine mobility."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-14",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Why did the opening of large economies affect global wages?",
+      "options": [
+        "It roughly doubled the labour available to internationally mobile capital",
+        "It reduced the total world labour force",
+        "It raised wages equally in every country",
+        "It had no effect on labour markets"
+      ],
+      "answer": 0,
+      "why": "That held down wages for lower-skilled work in developed economies and raised them where the work moved.",
+      "whyNot": [
+        "",
+        "It substantially increased the effective labour supply.",
+        "The effects ran in opposite directions in different places.",
+        "The wage effects are among the most studied consequences."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-15",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "hard",
+      "stem": "What determines how much of an FDI project's value stays in the host country?",
+      "options": [
+        "Local sourcing, local employment at all levels, reinvested profit and tax actually paid",
+        "The size of the investing company's global revenue",
+        "The number of countries the investor operates in",
+        "The exchange rate on the day of the investment"
+      ],
+      "answer": 0,
+      "why": "An operation importing all its inputs and repatriating its profit creates jobs and little else.",
+      "whyNot": [
+        "",
+        "Global scale says nothing about local retention.",
+        "Geographic spread is not the relevant measure.",
+        "A single day's rate is not structural."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-1-2-16",
+      "topicRef": "4.3.1.2",
+      "topicTitle": "Causes of globalisation",
+      "difficulty": "medium",
+      "stem": "Which of the following is a named cause of globalisation in the last fifty years?",
+      "options": [
+        "An increase in the number and size of trading blocs",
+        "A rise in world population growth rates",
+        "A fall in global inequality between countries",
+        "The invention of the internal combustion engine"
+      ],
+      "answer": 0,
+      "why": "The five named causes are trade liberalisation, more and larger blocs, political change, cheaper transport and communications, and the growing significance of TNCs.",
+      "whyNot": [
+        "",
+        "Population growth is not a named cause.",
+        "That is an effect rather than a cause.",
+        "It long predates the period specified."
+      ]
+    }
+  ]
+}

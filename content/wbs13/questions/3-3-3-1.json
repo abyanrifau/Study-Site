@@ -1,0 +1,175 @@
+{
+  "topicRef": "3.3.3.1",
+  "topicTitle": "Quantitative sales forecasting",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-3-1-01",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "easy",
+      "stem": "In a three-period moving average, the answer is written against:",
+      "options": [
+        "the middle period",
+        "the first period",
+        "the last period",
+        "a new period at the end"
+      ],
+      "answer": 0,
+      "why": "The average of three consecutive figures is centred on the middle one. Writing it against the first period is the most common error.",
+      "whyNot": [
+        "",
+        "That would misalign the whole trend.",
+        "Also misaligned.",
+        "The average belongs to an existing period, not a new one."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-02",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "easy",
+      "stem": "Sales are Jan 42, Feb 50, Mar 46. What is the three-month moving average for February?",
+      "options": [
+        "46.0",
+        "50.0",
+        "42.0",
+        "138.0"
+      ],
+      "answer": 0,
+      "why": "(42 + 50 + 46) / 3 = 138 / 3 = 46.0, written against February as the middle month.",
+      "whyNot": [
+        "",
+        "That is February's raw figure, not the average.",
+        "That is January's raw figure.",
+        "That is the total before dividing by three."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-03",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "medium",
+      "stem": "Why is there no moving average for the first and last periods of a series?",
+      "options": [
+        "There is no data on one side to include in the average",
+        "The data for those periods is always unreliable",
+        "Averages cannot be calculated for the ends",
+        "Those periods are always seasonal"
+      ],
+      "answer": 0,
+      "why": "A three-period average needs a figure before and after. Inventing one for the ends loses marks.",
+      "whyNot": [
+        "",
+        "The data is fine; the window simply does not fit.",
+        "They can be, if you have the surrounding data.",
+        "Seasonality is unrelated to where the series starts."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-04",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "medium",
+      "stem": "Why does a four-quarter moving average need centring?",
+      "options": [
+        "Four is an even number, so the average falls between two quarters",
+        "Quarterly data is always unreliable",
+        "Four-quarter averages are too large",
+        "Centring removes seasonal variation"
+      ],
+      "answer": 0,
+      "why": "With an even number of periods, the midpoint of the window sits between two quarters. Averaging two consecutive four-quarter averages puts the figure back on a quarter.",
+      "whyNot": [
+        "",
+        "The issue is arithmetic, not data quality.",
+        "Size is not the problem.",
+        "Averaging removes seasonal variation; centring fixes the alignment."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-05",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "medium",
+      "stem": "Two consecutive four-quarter averages are 100.0 and 105.0. What is the centred average?",
+      "options": [
+        "102.5",
+        "205.0",
+        "100.0",
+        "5.0"
+      ],
+      "answer": 0,
+      "why": "(100.0 + 105.0) / 2 = 102.5, written against the quarter between them.",
+      "whyNot": [
+        "",
+        "That is the total before dividing by two.",
+        "That is the first of the two averages.",
+        "That is the difference between them."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-06",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "medium",
+      "stem": "What does extrapolation involve?",
+      "options": [
+        "Extending a past trend beyond the available data to estimate future values",
+        "Smoothing out short-term fluctuations",
+        "Plotting two variables against each other",
+        "Removing seasonal variation from data"
+      ],
+      "answer": 0,
+      "why": "Extrapolation projects the line forward. Its weakness is the assumption that conditions continue, which is what tends to fail.",
+      "whyNot": [
+        "",
+        "That is a moving average.",
+        "That is a scatter graph.",
+        "That is seasonal adjustment."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-07",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "hard",
+      "stem": "Why is 'correlation is not causation' an important point in a forecasting answer?",
+      "options": [
+        "Two variables moving together does not prove one causes the other, so the forecast may rest on a false link",
+        "Correlation cannot be measured",
+        "Causation is impossible to establish in business",
+        "Scatter graphs cannot show correlation"
+      ],
+      "answer": 0,
+      "why": "Both variables may be driven by a third factor, or the relationship may be coincidence. Building a forecast on a coincidental relationship produces a confident and worthless number.",
+      "whyNot": [
+        "",
+        "It can be measured and shown on a scatter graph.",
+        "It is harder to establish, not impossible.",
+        "Showing correlation is exactly what they do."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-1-08",
+      "topicRef": "3.3.3.1",
+      "topicTitle": "Quantitative sales forecasting",
+      "difficulty": "medium",
+      "stem": "What is a specific weakness of moving averages as a forecasting tool?",
+      "options": [
+        "They lag, so a genuine turning point shows up late",
+        "They cannot be calculated from quarterly data",
+        "They exaggerate short-term fluctuations",
+        "They require a scatter graph"
+      ],
+      "answer": 0,
+      "why": "Smoothing is the point and the problem: by averaging across periods, the technique responds slowly, so a real change in direction is not visible until several periods after it began.",
+      "whyNot": [
+        "",
+        "Quarterly data is one of the standard applications.",
+        "They smooth fluctuations rather than exaggerating them.",
+        "They are calculated from a time series, not a scatter graph."
+      ]
+    }
+  ]
+}

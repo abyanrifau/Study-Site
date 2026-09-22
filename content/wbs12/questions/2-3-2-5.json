@@ -1,0 +1,238 @@
+{
+  "topicRef": "2.3.2.5",
+  "topicTitle": "Budgets",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-2-5-01",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a budget?",
+      "options": [
+        "A financial plan for a future period, setting out expected income and expenditure",
+        "A record of what a business actually spent last year",
+        "A projection of cash movements month by month",
+        "The profit a business expects to make"
+      ],
+      "answer": 0,
+      "why": "A budget is a forward plan used for control, delegation, motivation and coordination, and it is monitored through variance analysis.",
+      "whyNot": [
+        "",
+        "That is historical data, which a historical budget would be based on.",
+        "That is a cash flow forecast, a related but different statement.",
+        "Expected profit is one output of a set of budgets, not the budget itself."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-02",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: setting a budget from nothing, with every item of expenditure justified?",
+      "options": [
+        "Zero-based budgeting",
+        "Historical budgeting",
+        "Variance analysis",
+        "Flexible budgeting"
+      ],
+      "answer": 0,
+      "why": "Zero-based budgeting forces managers to make the case for every pound, which eliminates embedded waste and takes a great deal of time.",
+      "whyNot": [
+        "",
+        "Historical budgeting starts from last year's figures and adjusts them.",
+        "Variance analysis compares actual with budget after the event.",
+        "Not one of the two types in the specification."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-03",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "easy",
+      "stem": "Budgeted revenue is $24,000 and actual revenue is $21,500. What is the variance?",
+      "options": [
+        "$2,500 adverse",
+        "$2,500 favourable",
+        "$45,500 adverse",
+        "$2,500 with no label needed"
+      ],
+      "answer": 0,
+      "why": "Variance = actual - budget = 21,500 - 24,000 = -$2,500. Revenue below budget reduces profit, so it is adverse.",
+      "whyNot": [
+        "",
+        "Revenue below budget harms profit, so it is adverse, not favourable.",
+        "This adds the two figures.",
+        "The label is usually worth a mark of its own. A bare number is incomplete."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-04",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "Budgeted wages are $8,000 and actual wages are $8,400. What is the variance?",
+      "options": [
+        "$400 adverse",
+        "$400 favourable",
+        "$16,400 adverse",
+        "$400 neutral"
+      ],
+      "answer": 0,
+      "why": "Actual is $400 above budget. For a COST, spending above budget reduces profit, so it is adverse even though the number is positive. This sign convention is the most common source of error.",
+      "whyNot": [
+        "",
+        "Costs above budget harm profit. Favourable would be spending less than budgeted.",
+        "This adds the two figures.",
+        "Variances are labelled favourable or adverse, not neutral."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-05",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "A guesthouse reports revenue $2,500 adverse and food costs $400 favourable. What is the most likely explanation?",
+      "options": [
+        "Fewer guests came, which reduced both revenue and food used",
+        "The kitchen negotiated better prices from suppliers",
+        "The business overspent on marketing",
+        "The two variances are unrelated"
+      ],
+      "answer": 0,
+      "why": "The favourable cost variance is a symptom of the revenue problem, not a management success. Spotting that variances are linked is exactly what examiners reward.",
+      "whyNot": [
+        "",
+        "Possible, and the simultaneous revenue shortfall makes lower volume the far more likely cause.",
+        "Marketing is not mentioned and would not reduce food costs.",
+        "A revenue shortfall and a matching fall in food used are very likely the same event."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-06",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "Which of the following is a purpose of budgeting?",
+      "options": [
+        "It allows authority to be delegated to managers within agreed limits",
+        "It guarantees the business will be profitable",
+        "It removes the need for a sales forecast",
+        "It eliminates all uncertainty"
+      ],
+      "answer": 0,
+      "why": "A manager given a budget can run their area within it without asking permission for every decision, which links directly to decentralisation in WBS11 topic 1.3.4.3.",
+      "whyNot": [
+        "",
+        "A budget is a plan; it does not create profit.",
+        "Budgets are built ON the sales forecast.",
+        "It helps manage uncertainty; it cannot remove it."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-07",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of historical budgeting?",
+      "options": [
+        "It carries last year's inefficiency forward into this year's budget",
+        "It takes too long to prepare",
+        "It requires every item to be justified",
+        "It cannot be adjusted for inflation"
+      ],
+      "answer": 0,
+      "why": "Starting from last year means money wasted last year is budgeted again. It also encourages managers to spend up to their limit before year end so the budget is not cut.",
+      "whyNot": [
+        "",
+        "It is quick and cheap, which is its main attraction. Zero-based is the slow one.",
+        "That is zero-based budgeting.",
+        "Adjusting for inflation is standard practice in historical budgeting."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-08",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of zero-based budgeting?",
+      "options": [
+        "It is time-consuming and expensive, and can favour the manager who argues best",
+        "It embeds last year's waste",
+        "It cannot identify inefficiency",
+        "It removes managers' responsibility"
+      ],
+      "answer": 0,
+      "why": "Justifying an entire department from scratch every year is a heavy process, and it can allocate resources to the most persuasive manager rather than the most important department.",
+      "whyNot": [
+        "",
+        "That is historical budgeting. Zero-based is designed to strip waste out.",
+        "Identifying inefficiency is its main purpose.",
+        "It increases responsibility, since managers must make the case for their spending."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-09",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "hard",
+      "stem": "Why should a seasonal business budget monthly rather than using an annual average?",
+      "options": [
+        "Monthly budgets make variances meaningful instead of just reflecting the season",
+        "Annual budgets are not permitted",
+        "Monthly budgets are quicker to prepare",
+        "Seasonal businesses cannot calculate variances"
+      ],
+      "answer": 0,
+      "why": "An average monthly budget produces large adverse variances every quiet month and large favourable ones in the peak, telling the owner nothing. Budgeting against expected seasonal occupancy makes a shortfall a genuine signal.",
+      "whyNot": [
+        "",
+        "Both are permitted; monthly is simply more informative here.",
+        "Monthly budgeting is more work, not less.",
+        "They can, and the variances are only useful if the budget reflects the season."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-10",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "hard",
+      "stem": "A manager cuts staff training to stay within budget this year. What is the concern?",
+      "options": [
+        "Short-termism: hitting this year's budget at the expense of next year's productivity",
+        "Training is a fixed cost so it cannot be cut",
+        "Cutting costs always produces an adverse variance",
+        "Budgets cannot include training"
+      ],
+      "answer": 0,
+      "why": "Budget pressure encourages decisions that look good in the current period and damage the business later. It is one of the standard behavioural drawbacks of budgeting.",
+      "whyNot": [
+        "",
+        "Training spending can be cut, which is precisely the problem.",
+        "Spending below budget is a favourable variance, which is why the behaviour is rewarded.",
+        "Training is a normal budget line."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-5-11",
+      "topicRef": "2.3.2.5",
+      "topicTitle": "Budgets",
+      "difficulty": "medium",
+      "stem": "Why should a variance be judged in proportion as well as in absolute terms?",
+      "options": [
+        "A $400 variance on $8,000 is 5%, while $2,500 on $24,000 is over 10%",
+        "Percentages are easier to calculate",
+        "Absolute variances cannot be calculated",
+        "Only percentages appear in mark schemes"
+      ],
+      "answer": 0,
+      "why": "Materiality matters. Deciding which variances are worth investigating means looking at the size relative to the budget, not just the cash amount.",
+      "whyNot": [
+        "",
+        "Both are simple; the point is what they tell you.",
+        "Absolute variances are the starting calculation.",
+        "Both are credited. The judgement about materiality is what scores."
+      ]
+    }
+  ]
+}

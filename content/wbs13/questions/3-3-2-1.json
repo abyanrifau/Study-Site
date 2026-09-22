@@ -1,0 +1,175 @@
+{
+  "topicRef": "3.3.2.1",
+  "topicTitle": "Growth",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-2-1-01",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is an internal economy of scale?",
+      "options": [
+        "Bulk buying reducing the cost per unit of raw materials",
+        "A pool of skilled labour developing in the local area",
+        "Better transport links built because the industry grew",
+        "Specialist suppliers setting up nearby"
+      ],
+      "answer": 0,
+      "why": "Internal economies come from the individual business growing. Purchasing, technical, managerial, financial and marketing economies are the standard five.",
+      "whyNot": [
+        "",
+        "That is external: the industry grew, not this firm.",
+        "External.",
+        "External."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-02",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of external economies of scale?",
+      "options": [
+        "Cost advantages arising from the growth of the whole industry in an area",
+        "Cost advantages arising from the growth of the individual business",
+        "The rise in average cost when a business grows too large",
+        "Savings from buying inputs in bulk"
+      ],
+      "answer": 0,
+      "why": "The individual business benefits without having grown itself: trained local labour, nearby specialist suppliers, better infrastructure.",
+      "whyNot": [
+        "",
+        "Those are internal economies.",
+        "Those are diseconomies of scale.",
+        "That is a purchasing economy, which is internal."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-03",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "easy",
+      "stem": "Which term describes lower cost per unit from using large specialised equipment more fully?",
+      "options": [
+        "Technical economies",
+        "Purchasing economies",
+        "Managerial economies",
+        "Financial economies"
+      ],
+      "answer": 0,
+      "why": "Large specialised machinery is only worth buying at high volume, and larger plant is often proportionately cheaper to run.",
+      "whyNot": [
+        "",
+        "Purchasing economies come from bulk buying inputs.",
+        "Managerial economies come from employing specialists whose cost is spread over more output.",
+        "Financial economies come from borrowing more cheaply."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-04",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "medium",
+      "stem": "How does growth reduce supplier power?",
+      "options": [
+        "A larger buyer can demand lower prices, longer credit and priority supply",
+        "Suppliers are forced to merge",
+        "The business no longer needs any suppliers",
+        "Suppliers become legally obliged to cut prices"
+      ],
+      "answer": 0,
+      "why": "Size gives negotiating leverage, which is often the real motive behind growth. It links directly to Porter's five forces.",
+      "whyNot": [
+        "",
+        "Growth does not force supplier consolidation.",
+        "Inputs are still needed.",
+        "No legal obligation exists."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-05",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "medium",
+      "stem": "Why is higher revenue from growth not the same as higher profit?",
+      "options": [
+        "Costs may rise faster than revenue, for example through diseconomies of scale",
+        "Revenue and profit are always equal",
+        "Growth never affects revenue",
+        "Profit is calculated before costs"
+      ],
+      "answer": 0,
+      "why": "Growth can raise revenue while raising costs faster, or raise total profit while reducing profit per unit. Saying so is a reliable evaluation point on any growth question.",
+      "whyNot": [
+        "",
+        "Profit is revenue minus costs.",
+        "Growth normally raises revenue; the issue is what happens to costs.",
+        "Profit is revenue after costs."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-06",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "medium",
+      "stem": "Which statement best captures why growth should not be pursued for its own sake?",
+      "options": [
+        "Growth is a means to lower costs, market power and profit, and it delivers none of those automatically",
+        "Growth is always harmful to a business",
+        "Growth is only possible for large businesses",
+        "Growth always requires a takeover"
+      ],
+      "answer": 0,
+      "why": "If growth does not reduce unit costs, or outruns the cash, or passes the optimum size, it destroys value. Asking what the growth is FOR is the mark of a strong answer.",
+      "whyNot": [
+        "",
+        "Growth is often beneficial; the point is that it is not automatic.",
+        "Small businesses grow constantly.",
+        "Organic growth requires no acquisition."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-07",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "hard",
+      "stem": "Why are economies of scale genuine but limited for a small guesthouse group?",
+      "options": [
+        "Purchasing and managerial savings are real, but the property itself does not get cheaper per room with scale",
+        "There are no economies of scale in services",
+        "Small businesses cannot buy in bulk",
+        "Economies of scale only apply to manufacturing"
+      ],
+      "answer": 0,
+      "why": "One booking system, one marketing effort and bulk food purchasing all save money. The largest cost, the buildings, scales roughly in proportion, so the total saving is smaller than in manufacturing.",
+      "whyNot": [
+        "",
+        "Service businesses do achieve economies, particularly in marketing and administration.",
+        "They can, and the saving is capped by the size of the local market.",
+        "They apply across all sectors, in differing degrees."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-1-08",
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "difficulty": "medium",
+      "stem": "Which is the key financial question when assessing a growth plan?",
+      "options": [
+        "Whether the business can finance the growth without running out of cash",
+        "Whether the owner wants to grow",
+        "Whether competitors are growing",
+        "Whether the market is large"
+      ],
+      "answer": 0,
+      "why": "Growth consumes cash before it generates it, which is where most growth plans fail. Checking the cash is the first practical test of any growth proposal.",
+      "whyNot": [
+        "",
+        "Relevant, and it is a question about objectives rather than finance.",
+        "Relevant context, not the financial test.",
+        "Relevant to the opportunity, not to affordability."
+      ]
+    }
+  ]
+}

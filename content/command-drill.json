@@ -1,0 +1,230 @@
+{
+  "$comment": "Command word drill items. Each is a realistic question stem; you decide which command word it is and what the examiner wants. Marks and requirements come from the command word appendix of each specification. Add more freely - the drill picks them up automatically.",
+  "items": [
+    {
+      "id": "cd-b-01",
+      "subject": "Business",
+      "stem": "Define the term 'market share'.",
+      "answer": "Define",
+      "marks": "2",
+      "wants": "The meaning of the term, nothing more. One sentence, ideally with a very short example. Do not explain consequences.",
+      "trap": "Writing a paragraph. Two marks means two sentences at most, and extra material earns nothing."
+    },
+    {
+      "id": "cd-b-02",
+      "subject": "Business",
+      "stem": "Calculate the market growth between 2023 and 2024. You are advised to show your working.",
+      "answer": "Calculate",
+      "marks": "4",
+      "wants": "The formula, the numbers substituted in, the working shown, and the answer with its unit (% or currency).",
+      "trap": "Writing only the final figure. A correct method with an arithmetic slip still earns most of the marks; a bare wrong answer earns none."
+    },
+    {
+      "id": "cd-b-03",
+      "subject": "Business",
+      "stem": "Explain one reason why the business may struggle to raise finance.",
+      "answer": "Explain",
+      "marks": "4",
+      "wants": "One reason, developed with a chain of cause and effect, supported by a detail or example from the source.",
+      "trap": "Listing three reasons instead of developing one. The question says 'one'."
+    },
+    {
+      "id": "cd-b-04",
+      "subject": "Business",
+      "stem": "Analyse the likely impact on the business of a rise in interest rates.",
+      "answer": "Analyse",
+      "marks": "6",
+      "wants": "A chain of reasoning in context, interpreting any data given. Causes and effects. No evaluation needed.",
+      "trap": "Adding 'however, on the other hand' material. Analyse does not ask for balance, so that time is wasted."
+    },
+    {
+      "id": "cd-b-05",
+      "subject": "Business",
+      "stem": "Construct a supply and demand diagram to show the effect of a new subsidy on producers.",
+      "answer": "Construct",
+      "marks": "4",
+      "wants": "An accurately labelled diagram: both axes named, both curves named, the shift in the right direction, the new equilibrium marked.",
+      "trap": "Leaving the axes or curves unlabelled. Almost all the marks are for labelling."
+    },
+    {
+      "id": "cd-b-06",
+      "subject": "Business",
+      "stem": "Discuss the importance of cash flow forecasting to this business.",
+      "answer": "Discuss",
+      "marks": "8",
+      "wants": "Logical chains of reasoning in context showing causes and effects, plus a brief assessment showing awareness of competing arguments.",
+      "trap": "Giving a full conclusion with a recommendation. Discuss wants a brief assessment, not the full Evaluate treatment."
+    },
+    {
+      "id": "cd-b-07",
+      "subject": "Business",
+      "stem": "Assess the likely impact on the business of moving production overseas.",
+      "answer": "Assess",
+      "marks": "10 in Units 1 and 2, 12 in Units 3 and 4",
+      "wants": "A well contextualised chain of reasoning, then a balanced and wide ranging assessment of competing factors, leading to a supported judgement.",
+      "trap": "Listing advantages and disadvantages with no judgement at the end. Balance without a decision caps the mark."
+    },
+    {
+      "id": "cd-b-08",
+      "subject": "Business",
+      "stem": "Evaluate whether the business should pursue organic growth rather than a takeover.",
+      "answer": "Evaluate",
+      "marks": "20",
+      "wants": "Fully developed chains of reasoning across a range of causes and effects, weighing the validity and significance of competing factors, ending in a perceptive conclusion that proposes a solution or recommendation.",
+      "trap": "Running out of time. Twenty marks is roughly half an hour in a two-hour paper, so plan it before writing."
+    },
+    {
+      "id": "cd-b-09",
+      "subject": "Business",
+      "stem": "Explain one benefit to the business of holding buffer inventory.",
+      "answer": "Explain",
+      "marks": "4",
+      "wants": "One benefit, with a developed cause-and-effect chain applied to this business.",
+      "trap": "Describing what buffer inventory is and stopping. Definition alone is not explanation."
+    },
+    {
+      "id": "cd-b-10",
+      "subject": "Business",
+      "stem": "Calculate the break-even output. You are advised to show your working.",
+      "answer": "Calculate",
+      "marks": "4",
+      "wants": "Fixed costs divided by contribution per unit, with contribution worked out first and shown, and the answer stated in units.",
+      "trap": "Forgetting to work out contribution per unit separately, or giving the answer in currency rather than units."
+    },
+    {
+      "id": "cd-b-11",
+      "subject": "Business",
+      "stem": "Analyse two ways the business could improve its capacity utilisation.",
+      "answer": "Analyse",
+      "marks": "6",
+      "wants": "Two ways, each developed with a chain of reasoning in context. Use the figures in the source if given.",
+      "trap": "Naming four ways with no development. Two properly developed points score far more."
+    },
+    {
+      "id": "cd-b-12",
+      "subject": "Business",
+      "stem": "Define the term 'stakeholder'.",
+      "answer": "Define",
+      "marks": "2",
+      "wants": "The meaning of the term, with an example such as employees or suppliers.",
+      "trap": "Confusing it with shareholder. The definition must cover anyone affected by the business, not only owners."
+    },
+    {
+      "id": "cd-e-01",
+      "subject": "Economics",
+      "stem": "Define the term 'terms of trade'.",
+      "answer": "Define",
+      "marks": "2",
+      "wants": "The meaning only. Knowledge and understanding, no application or analysis.",
+      "trap": "Explaining what changes it. That is a different question."
+    },
+    {
+      "id": "cd-e-02",
+      "subject": "Economics",
+      "stem": "With reference to Extract B, calculate the country's terms of trade in 2024.",
+      "answer": "Calculate",
+      "marks": "2 or 4",
+      "wants": "The formula, the figures from the extract substituted in, workings shown, and the answer as an index number.",
+      "trap": "Ignoring the extract and inventing numbers. Data-based calculations must use the data provided."
+    },
+    {
+      "id": "cd-e-03",
+      "subject": "Economics",
+      "stem": "Draw a diagram to show the effect of a tariff on imported steel.",
+      "answer": "Draw",
+      "marks": "4",
+      "wants": "An accurately labelled diagram using quantitative skills. You may have to choose the type of diagram yourself.",
+      "trap": "Unlabelled axes, or omitting the world price line. Every line and area you refer to must be labelled."
+    },
+    {
+      "id": "cd-e-04",
+      "subject": "Economics",
+      "stem": "Explain one likely cause of the fall in the country's exchange rate.",
+      "answer": "Explain",
+      "marks": "4",
+      "wants": "One cause, with a two-stage chain of reasoning, because explaining a reason or impact includes analysis.",
+      "trap": "A one-step answer. 'Interest rates fell so the currency fell' is one link; the examiner wants the mechanism in between."
+    },
+    {
+      "id": "cd-e-05",
+      "subject": "Economics",
+      "stem": "Analyse, with reference to Figure 1, the likely impact of rising inequality on economic growth.",
+      "answer": "Analyse",
+      "marks": "6",
+      "wants": "A chain of reasoning, diagrams where they help, and interpretation of the data in Figure 1. Depth over breadth. No evaluation.",
+      "trap": "Not referring to the figure. If the question names a source, using it is where the application marks are."
+    },
+    {
+      "id": "cd-e-06",
+      "subject": "Economics",
+      "stem": "Examine the likely effects of a rise in public expenditure on the national debt.",
+      "answer": "Examine",
+      "marks": "8",
+      "wants": "A chain of reasoning as in Analyse, plus a brief assessment of the arguments, factors or evidence.",
+      "trap": "Treating it as a full essay. The assessment is brief; the reasoning carries most of the marks."
+    },
+    {
+      "id": "cd-e-07",
+      "subject": "Economics",
+      "stem": "Discuss the likely impact of increased protectionism on living standards in a developing economy.",
+      "answer": "Discuss",
+      "marks": "14",
+      "wants": "Logical and coherent chains of reasoning in context, considering the validity and significance of arguments and models, recognising different viewpoints and assessing the evidence critically.",
+      "trap": "One-sided analysis. Discuss at 14 marks needs genuine competing viewpoints, not a list of effects."
+    },
+    {
+      "id": "cd-e-08",
+      "subject": "Economics",
+      "stem": "To what extent is microfinance an effective strategy for promoting development?",
+      "answer": "Evaluate / To what extent",
+      "marks": "up to 20",
+      "wants": "Multi-stage chains of reasoning in context, weighing the validity and significance of competing arguments and evidence, ending in an informed judgement.",
+      "trap": "Answering 'yes' or 'no'. 'To what extent' expects a conditional judgement: it depends on these specific factors."
+    },
+    {
+      "id": "cd-e-09",
+      "subject": "Economics",
+      "stem": "Explain the term 'absolute poverty'.",
+      "answer": "Explain",
+      "marks": "4",
+      "wants": "Knowledge, understanding and application. Explaining a term needs the meaning plus context, so it goes beyond Define.",
+      "trap": "Giving only the two-mark definition. Explain is worth four, so more is expected."
+    },
+    {
+      "id": "cd-e-10",
+      "subject": "Economics",
+      "stem": "Analyse two causes of a current account deficit.",
+      "answer": "Analyse",
+      "marks": "6",
+      "wants": "Two causes, each with a chain of reasoning, in context and using any data given.",
+      "trap": "Confusing the current account with the capital and financial accounts."
+    },
+    {
+      "id": "cd-a-01",
+      "subject": "Accounting",
+      "stem": "Prepare the statement of cash flows for the year ended 31 December.",
+      "answer": "Prepare",
+      "marks": "high tariff",
+      "wants": "A properly formatted statement with correct headings, the standard sections in order, correct signs, and a clear total. Presentation carries marks.",
+      "trap": "Getting the sign conventions wrong on working capital movements. An increase in inventory is a cash outflow."
+    },
+    {
+      "id": "cd-a-02",
+      "subject": "Accounting",
+      "stem": "Calculate the return on capital employed for the year.",
+      "answer": "Calculate",
+      "marks": "low tariff",
+      "wants": "The formula, the figures substituted, workings shown, and the answer as a percentage to a stated number of decimal places.",
+      "trap": "Using the wrong profit figure. ROCE uses operating profit, not profit for the year."
+    },
+    {
+      "id": "cd-a-03",
+      "subject": "Accounting",
+      "stem": "Evaluate whether the directors should issue redeemable preference shares to fund the expansion.",
+      "answer": "Evaluate",
+      "marks": "high tariff",
+      "wants": "Both sides argued with reference to the figures you have calculated, effects on gearing and liquidity, then a clear recommendation.",
+      "trap": "Writing generic advantages and disadvantages without using the company's own numbers."
+    }
+  ]
+}

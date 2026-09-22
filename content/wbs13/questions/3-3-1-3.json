@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.1.3",
+  "topicTitle": "SWOT analysis",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-1-3-01",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "easy",
+      "stem": "In a SWOT analysis, which two elements are internal?",
+      "options": [
+        "Strengths and weaknesses",
+        "Opportunities and threats",
+        "Strengths and opportunities",
+        "Weaknesses and threats"
+      ],
+      "answer": 0,
+      "why": "Strengths and weaknesses are about the business itself. Opportunities and threats are about the environment it operates in.",
+      "whyNot": [
+        "",
+        "Those are the external elements.",
+        "One internal and one external.",
+        "One internal and one external."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-02",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "easy",
+      "stem": "A new competitor opens nearby. In a SWOT analysis this is:",
+      "options": [
+        "a threat",
+        "a weakness",
+        "an opportunity",
+        "a strength"
+      ],
+      "answer": 0,
+      "why": "It is external: it would be true whether or not this particular business existed. The weakness would be having no differentiation to defend with.",
+      "whyNot": [
+        "",
+        "A weakness is internal. Confusing the two is the most common error on this topic.",
+        "It damages rather than helps the business.",
+        "It is not an advantage the business possesses."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-03",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following would be classified as a weakness?",
+      "options": [
+        "The business depends entirely on one booking platform",
+        "Visitor numbers to the region are growing",
+        "Three new competitors are opening",
+        "Platform commission rates are rising"
+      ],
+      "answer": 0,
+      "why": "Dependence on one channel is a characteristic of the business itself, which it could change. That makes it internal.",
+      "whyNot": [
+        "",
+        "External, and helpful, so an opportunity.",
+        "External and harmful, so a threat.",
+        "External and harmful, so a threat."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-04",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "medium",
+      "stem": "What is the test for whether an item is internal or external?",
+      "options": [
+        "Whether the business could change it directly",
+        "Whether it is helpful or harmful",
+        "Whether it involves money",
+        "Whether it is happening now or in the future"
+      ],
+      "answer": 0,
+      "why": "If the business can change it, it is internal. If it would still be true whether or not this business existed, it is external.",
+      "whyNot": [
+        "",
+        "That decides strength against weakness, or opportunity against threat, not internal against external.",
+        "Financial items appear in all four boxes.",
+        "Timing does not determine the category."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-05",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "medium",
+      "stem": "Which pairing in a SWOT analysis usually identifies the greatest danger?",
+      "options": [
+        "A weakness combined with a threat",
+        "A strength combined with an opportunity",
+        "A strength combined with a threat",
+        "A weakness combined with an opportunity"
+      ],
+      "answer": 0,
+      "why": "This is where businesses fail: a vulnerability meeting an external pressure. Identifying that combination early is where a SWOT earns its keep.",
+      "whyNot": [
+        "",
+        "That is the obvious strategic move, not a danger.",
+        "The strength is what lets you defend against the threat.",
+        "The opportunity exists and cannot currently be taken, which is frustrating rather than dangerous."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-06",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "hard",
+      "stem": "Why can the same fact be both a strength and a weakness?",
+      "options": [
+        "A specialised efficient factory is a strength while demand holds and a weakness when the market shifts",
+        "SWOT analyses are always wrong",
+        "Facts change over time",
+        "Managers cannot agree on definitions"
+      ],
+      "answer": 0,
+      "why": "Context decides. Specialisation gives low cost and no flexibility, so it helps or hurts depending on what happens to demand. Saying this is a high-level evaluation point.",
+      "whyNot": [
+        "",
+        "Overstated; they are subjective rather than always wrong.",
+        "The fact has not changed; its significance has.",
+        "Disagreement about definitions is a different problem."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-07",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "medium",
+      "stem": "What is the main limitation of a SWOT analysis?",
+      "options": [
+        "It lists items without prioritising or weighting them",
+        "It cannot include external factors",
+        "It requires financial data to complete",
+        "It can only be used by large businesses"
+      ],
+      "answer": 0,
+      "why": "Twenty items with no weighting is not a strategy. The framework does not tell you which threat actually matters most.",
+      "whyNot": [
+        "",
+        "Opportunities and threats are precisely the external half.",
+        "Much of a SWOT is qualitative.",
+        "It is widely used by small businesses."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-08",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "hard",
+      "stem": "Why is 'strong brand' a weak entry in a SWOT analysis?",
+      "options": [
+        "It is not specific or evidenced, so it cannot be acted on",
+        "Branding is not an internal factor",
+        "Brands are always weaknesses",
+        "SWOT analyses cannot include marketing items"
+      ],
+      "answer": 0,
+      "why": "Compare it with 'highest review score on the island at 9.1'. Specific and evidenced entries can be paired with opportunities and turned into a strategy; vague ones cannot.",
+      "whyNot": [
+        "",
+        "A brand is an internal asset, so the classification is right. The problem is vagueness.",
+        "A strong brand is a genuine strength.",
+        "Marketing items belong in a SWOT."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-3-09",
+      "topicRef": "3.3.1.3",
+      "topicTitle": "SWOT analysis",
+      "difficulty": "medium",
+      "stem": "How should a SWOT analysis be used in an exam answer?",
+      "options": [
+        "Classify items from the source, then pair them to suggest a strategy",
+        "List as many items as possible in each box",
+        "Describe what a SWOT analysis is",
+        "Focus only on the strengths"
+      ],
+      "answer": 0,
+      "why": "The classification earns little. Saying 'this strength applied to this opportunity suggests this strategy' is where the analysis and evaluation marks are.",
+      "whyNot": [
+        "",
+        "Length without prioritisation is the framework's main weakness.",
+        "Description is knowledge only.",
+        "A one-sided analysis misses the point of the tool."
+      ]
+    }
+  ]
+}

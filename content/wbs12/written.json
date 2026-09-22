@@ -1,0 +1,382 @@
+{
+  "unit": "WBS12",
+  "intro": "Two hours for 80 marks. Section A is short and extended response from sources (40 marks); Sections B and C are one 20-mark essay each. That is 90 seconds a mark, so a 20-mark essay gets 30 minutes and Section A gets 60.\n\nThe command word tells you what to do. Explain wants one chain of cause and effect. Analyse wants two or three chains. Assess and Evaluate want chains PLUS a judgement with a condition attached. A balanced answer with no decision cannot reach the top band.\n\nWork each planner in note form first, then read the model and compare the structure, not the wording. What lifts a 12-mark answer from 7 to 11 is almost always the same three things: using the actual figures from the source, chaining each point two or three steps further than feels necessary, and finishing with 'it depends on...' rather than 'in conclusion'.",
+  "questions": [
+    {
+      "id": "wbs12-w-01",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Break-even analysis",
+      "commandWord": "Assess",
+      "marks": 12,
+      "context": "Island Bakery sells bread at $3.20 a loaf. Ingredients, packaging and power cost $1.10 a loaf. Fixed costs are $8,400 a month: rent $4,200, salaried staff $3,400 and insurance $800. It currently sells 5,000 loaves a month. The owner is considering a second oven, which would raise fixed costs by $1,900 a month and allow output up to 9,000 loaves. A new supermarket has opened 400 metres away.",
+      "question": "Assess whether Island Bakery should buy the second oven.",
+      "planner": [
+        {
+          "label": "Do the numbers before you write anything",
+          "prompt": "Contribution = 3.20 - 1.10 = $2.10. Break-even now = 8,400 / 2.10 = 4,000 loaves. Current profit = (2.10 x 5,000) - 8,400 = $2,100 a month. Margin of safety = 1,000 loaves, or 20%."
+        },
+        {
+          "label": "Now the numbers WITH the oven",
+          "prompt": "New fixed costs = 8,400 + 1,900 = $10,300. New break-even = 10,300 / 2.10 = 4,905 loaves. So break-even rises by 905 loaves and the margin of safety at current sales falls to 95 loaves, or 1.9%."
+        },
+        {
+          "label": "Find the volume that justifies it",
+          "prompt": "The extra $1,900 of fixed costs needs 1,900 / 2.10 = 905 extra loaves a month just to break even on the decision. That is a 18% rise in sales. Ask the source's question: is there demand for it?"
+        },
+        {
+          "label": "Argue for",
+          "prompt": "Capacity rises from 5,000 to 9,000, so if demand exists the profit at 7,000 loaves would be (2.10 x 7,000) - 10,300 = $4,400, more than double. High fixed costs magnify profit on the way up."
+        },
+        {
+          "label": "Argue against",
+          "prompt": "The supermarket 400 metres away is the key evidence: demand may FALL, not rise. And with the oven, break-even is 4,905, so a fall of only 95 loaves a month wipes out the profit entirely. High fixed costs magnify losses just as fast."
+        },
+        {
+          "label": "Judge with a condition",
+          "prompt": "Commit, and name what it depends on: evidence of demand for 905 extra loaves, and what the supermarket does to sales. Suggest what you would want to know."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2: the current position",
+          "text": "Contribution per loaf is $3.20 - $1.10 = $2.10. Break-even output is therefore $8,400 / $2.10 = 4,000 loaves a month. At current sales of 5,000 loaves the margin of safety is 1,000 loaves, or 20% of output, and monthly profit is (2.10 x 5,000) - 8,400 = $2,100.",
+          "note": "Three figures, all calculated, before any argument. Everything that follows refers back to them."
+        },
+        {
+          "earns": "AO2 + AO3: the position with the oven",
+          "text": "The oven would raise fixed costs to $10,300 a month, so break-even rises to $10,300 / $2.10 = 4,905 loaves. Since contribution per loaf is unchanged, the extra $1,900 of fixed costs requires 1,900 / 2.10 = 905 additional loaves a month simply to leave profit where it is. That is an 18% increase in sales, and it is the number the whole decision turns on.",
+          "note": "Calculating the extra volume needed is the move that turns two break-even figures into a decision."
+        },
+        {
+          "earns": "AO3: the case for",
+          "text": "If that demand exists, the gain is substantial. Capacity would rise from 5,000 to 9,000 loaves, and because contribution per loaf is unchanged while fixed costs rise only once, every loaf above 4,905 adds $2.10 straight to profit. At 7,000 loaves a month profit would be (2.10 x 7,000) - 10,300 = $4,400, more than double the current $2,100 from a 40% rise in volume. High fixed costs magnify profit on the way up.",
+          "note": "Chains from capacity to contribution to a specific profit figure, and names the leverage effect."
+        },
+        {
+          "earns": "AO3 + AO4: the case against",
+          "text": "The risk is that volume moves the other way. A supermarket has opened 400 metres away, which for a bread product competing largely on convenience and price is a direct threat to the 5,000 loaves currently sold. With the oven, break-even is 4,905 loaves, so a fall of only 95 loaves a month, under 2% of current sales, would eliminate the profit entirely. The margin of safety falls from a reasonably comfortable 20% to 1.9%. Leverage works in both directions, and the same fixed costs that magnify profit at 7,000 loaves magnify losses at 4,800.",
+          "note": "Uses the source's supermarket detail as evidence, and quantifies exactly how thin the new margin of safety is. That contrast between 20% and 1.9% is the strongest sentence in the answer."
+        },
+        {
+          "earns": "AO4: judgement with a condition",
+          "text": "Island Bakery should not buy the oven yet. The decision requires an 18% increase in sales simply to stand still, and it would be taken at the moment when a new supermarket is most likely to reduce sales rather than increase them. Committing to $1,900 of additional monthly fixed costs would cut the margin of safety from 20% to under 2%, which is far too thin for a business facing a new competitor. The judgement depends on two things: whether there is firm evidence of unmet demand, such as customers turned away or wholesale enquiries, and what happens to sales over the next three months now the supermarket has opened. If sales hold at 5,000 and enquiries exceed capacity, the case becomes strong, because the leverage then works in the bakery's favour.",
+          "note": "Commits, gives two numbered reasons from its own calculations, then states exactly what evidence would change the decision. That final sentence is what 'assess' is asking for."
+        }
+      ],
+      "markScheme": [
+        "Contribution, break-even and margin of safety before the change (3).",
+        "Recalculation after the change, including the extra volume required (3).",
+        "Developed argument on both sides using the source evidence (3).",
+        "Judgement with explicit conditions and further information identified (3)."
+      ]
+    },
+    {
+      "id": "wbs12-w-02",
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Sales forecasting",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Kite Retail operates 14 stores. Sales have grown from $4.1m to $6.8m over four years. The finance director's forecast for next year is $8.2m, based on extending the trend. Two of the 14 stores opened last year and are still building trade. A competitor is opening five stores in Kite's region, and consumer confidence has fallen for three consecutive quarters. Kite plans to lease three more stores on five-year leases if the forecast is met.",
+      "question": "Evaluate the usefulness of the sales forecast to Kite Retail.",
+      "planner": [
+        {
+          "label": "Work out what the forecast implies (3 minutes)",
+          "prompt": "Growth from 4.1 to 6.8 over four years is about 13.5% a year. A forecast of 8.2 from 6.8 is a rise of 20.6%, which is FASTER than the trend it is supposedly based on. Spot that: it is the strongest single point available and it comes straight from the numbers."
+        },
+        {
+          "label": "Why the forecast is useful",
+          "prompt": "Chain it: a forecast allows capacity, staffing, inventory and cash to be planned; it is needed to support a lease commitment and any loan application; and without one, decisions are made on guesswork."
+        },
+        {
+          "label": "Why this particular forecast is weak",
+          "prompt": "Three reasons from the source, each chained. Extrapolation assumes past conditions continue, and three things have changed: five competitor stores, falling consumer confidence for three quarters, and two immature stores whose growth was one-off catch-up rather than a trend."
+        },
+        {
+          "label": "The consequence of getting it wrong",
+          "prompt": "This is where the marks are. Five-year leases are a long-term FIXED cost commitment made on the basis of a one-year forecast. If sales come in at 6.8 rather than 8.2, Kite carries three stores' rent with no extra revenue, and a lease cannot be cancelled."
+        },
+        {
+          "label": "How the forecast could be improved",
+          "prompt": "Strip out the two immature stores and look at like-for-like sales; use moving averages to separate trend from seasonal variation; add primary research on the competitor's likely effect; and produce a range of scenarios rather than one figure."
+        },
+        {
+          "label": "Judge",
+          "prompt": "Commit: useful as a planning tool, unsafe as the sole basis for an irreversible commitment. State what it depends on."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO2: interrogate the number first",
+          "text": "Sales have risen from $4.1m to $6.8m over four years, which is compound growth of roughly 13.5% a year. The forecast of $8.2m represents growth of 20.6% on the current $6.8m, which is considerably faster than the trend it is said to extend. Before considering whether extrapolation is a sound method at all, the forecast appears to be more optimistic than the past data supports.",
+          "note": "Checks the arithmetic of the forecast against the data. Almost nobody does this, and it reframes the entire question."
+        },
+        {
+          "earns": "AO1 + AO3: why forecasting matters",
+          "text": "A sales forecast is nonetheless essential. It determines how much inventory to hold, how many staff to recruit and roster, what capacity is required and how much cash will be needed and when. It is also a precondition for external finance, since no lender will fund three additional stores without a projection of the revenue that will service the commitment. A business that plans without a forecast is not avoiding the risk of being wrong; it is simply failing to quantify it.",
+          "note": "Establishes the value of forecasting in general before attacking this forecast in particular. That order protects the balance of the answer."
+        },
+        {
+          "earns": "AO3 + AO2: why this forecast is unreliable",
+          "text": "Extrapolation assumes the conditions that produced the past trend continue, and the source shows three that have not. A competitor is opening five stores in Kite's region, which will take share from existing stores rather than leaving demand unchanged. Consumer confidence has fallen for three consecutive quarters, which for a retailer signals weaker discretionary spending ahead. Most significantly, two of the 14 stores opened only last year and are still building trade: a substantial part of the recent growth is therefore one-off catch-up from immature stores reaching normal turnover, not an underlying trend that can be repeated. Excluding those two stores, like-for-like growth is likely to be materially lower than 13.5%.",
+          "note": "Three reasons, each tied to specific source evidence and each explained rather than asserted. The immature stores point is the most sophisticated of the three."
+        },
+        {
+          "earns": "AO3 + AO4: the consequence of error",
+          "text": "What makes the weakness of the forecast serious is the decision resting on it. Three stores on five-year leases represent a long-term fixed cost commitment being made on the strength of a one-year projection. A lease cannot be cancelled if sales disappoint, so if revenue comes in at $6.8m rather than $8.2m, Kite carries the rent, staffing and overheads of three additional stores against no additional revenue at all. The asymmetry matters: being 20% under-optimistic costs Kite some forgone growth, while being 20% over-optimistic costs it five years of fixed charges.",
+          "note": "The asymmetry of the error is the analytical heart of the answer. It explains WHY forecast accuracy matters here rather than in general."
+        },
+        {
+          "earns": "AO4: how it could be improved",
+          "text": "The forecast could be made considerably more useful without abandoning it. Like-for-like sales, excluding the two immature stores, would separate genuine underlying growth from the effect of opening new outlets. A moving average would distinguish the trend from seasonal variation. Primary research in the area the competitor is entering would give some estimate of the share at risk. Above all, a range of scenarios rather than a single figure would let Kite test whether the lease commitment remains viable at $7.0m as well as at $8.2m, which is the question the board actually needs answered.",
+          "note": "Constructive rather than merely critical, and each suggestion addresses a specific weakness identified earlier. The final clause is a strong reframing."
+        },
+        {
+          "earns": "AO4: judgement",
+          "text": "The forecast is useful as a planning tool and unsafe as the sole basis for an irreversible commitment. Kite needs a revenue projection to plan inventory, staffing and cash, and this one provides that. It should not, however, support a five-year lease commitment, because it extrapolates a trend inflated by two immature stores while ignoring two identifiable adverse changes in the market. The judgement depends on the quality of the underlying data: if like-for-like growth excluding the new stores is still comfortably above 10% and the business can show the lease commitment remains profitable at a materially lower revenue figure, the expansion is defensible. Without that, Kite should open one store rather than three and revisit the decision in a year, when the competitor's effect and the direction of consumer confidence are both observable.",
+          "note": "Two separate judgements, the condition stated precisely, and a practical alternative course of action. Proposing the one-store option shows genuine business judgement rather than just criticism."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): sales forecasting, extrapolation, moving averages, fixed costs and commitment.",
+        "AO2 (4): uses the $4.1m, $6.8m, $8.2m, 14 stores, two immature stores, five competitor stores and three quarters of falling confidence.",
+        "AO3 (6): checks the forecast against the trend, and chains the consequence of error through to the lease commitment.",
+        "AO4 (6): separate judgements on usefulness and on sufficiency, with conditions and a practical alternative."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wbs12-c-01",
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Break-even analysis",
+      "title": "Break-even, margin of safety and the effect of a cost increase",
+      "given": [
+        "Selling price per unit         $3.20",
+        "Variable cost per unit        $1.10",
+        "Fixed costs per month         $8,400",
+        "Current sales                 5,000 units",
+        "Then: fixed costs rise by     $1,900"
+      ],
+      "steps": [
+        {
+          "label": "1. Contribution per unit",
+          "working": "3.20 - 1.10 = $2.10",
+          "note": "Always first. Everything else depends on it."
+        },
+        {
+          "label": "2. Break-even output",
+          "working": "8,400 / 2.10 = 4,000 units",
+          "note": "Fixed costs divided by contribution per unit, NOT by the selling price."
+        },
+        {
+          "label": "3. Margin of safety",
+          "working": "5,000 - 4,000 = 1,000 units\n= (1,000 / 5,000) x 100 = 20%",
+          "note": "Percentage taken on ACTUAL output."
+        },
+        {
+          "label": "4. Current profit",
+          "working": "(2.10 x 5,000) - 8,400\n= 10,500 - 8,400 = $2,100",
+          "note": "Total contribution less fixed costs."
+        },
+        {
+          "label": "5. After the fixed cost rise",
+          "working": "New fixed costs = 8,400 + 1,900 = 10,300\nNew break-even  = 10,300 / 2.10 = 4,905 units\nNew margin of safety = 5,000 - 4,905 = 95 units = 1.9%",
+          "note": "Contribution is unchanged, because only a FIXED cost changed."
+        },
+        {
+          "label": "6. Extra volume needed to stand still",
+          "working": "1,900 / 2.10 = 905 extra units a month\n= an 18% rise on 5,000",
+          "note": "This is the number the decision turns on, and the one most candidates never calculate."
+        }
+      ],
+      "answer": "Contribution $2.10; break-even 4,000 units; margin of safety 20%; profit $2,100. After the rise: break-even 4,905 units, margin of safety 1.9%, and 905 extra units a month are needed to hold profit constant.",
+      "tryIt": {
+        "given": [
+          "Price $18; variable cost $7; fixed costs $46,200 a month; current sales 6,000 units",
+          "Then fixed costs rise by $8,800"
+        ],
+        "answer": "Contribution $11. Break-even = 46,200/11 = 4,200 units. Margin of safety = 1,800 units = 30%. Profit = (11 x 6,000) - 46,200 = $19,800. After: fixed costs 55,000, break-even 5,000 units, margin of safety 1,000 units = 16.7%, and 8,800/11 = 800 extra units a month needed to stand still, a 13.3% rise."
+      }
+    },
+    {
+      "id": "wbs12-c-02",
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Cash flow forecasts",
+      "title": "A three-month cash flow forecast with a credit lag",
+      "given": [
+        "Sales: Apr 40,000  May 52,000  Jun 64,000; March sales were 36,000",
+        "25% of sales are cash; 75% received the month after sale",
+        "Purchases are 45% of the SAME month's sales, paid one month later",
+        "March purchases were 16,200",
+        "Wages 9,000 a month; rent 3,500 a month, both paid in the month",
+        "Other overheads 5,000 a month including 1,200 depreciation",
+        "A delivery van costing 18,000 is paid for in May",
+        "Opening cash at 1 April: 7,500"
+      ],
+      "steps": [
+        {
+          "label": "1. Receipts",
+          "working": "Apr: 40,000 x 25% = 10,000\n     + Mar 36,000 x 75% = 27,000  -> 37,000\nMay: 52,000 x 25% = 13,000\n     + Apr 40,000 x 75% = 30,000  -> 43,000\nJun: 64,000 x 25% = 16,000\n     + May 52,000 x 75% = 39,000  -> 55,000",
+          "note": "Never forget the previous month's credit sales in the first month. It is the commonest error."
+        },
+        {
+          "label": "2. Payments to suppliers",
+          "working": "Purchases: Mar 16,200 (given)\n           Apr 45% x 40,000 = 18,000\n           May 45% x 52,000 = 23,400\n\nPaid one month later:\n  April pays March   = 16,200\n  May pays April     = 18,000\n  June pays May      = 23,400",
+          "note": "Work out the purchase figure first, then apply the payment lag. Two steps, written separately."
+        },
+        {
+          "label": "3. Overheads actually paid",
+          "working": "5,000 - 1,200 depreciation = 3,800 a month",
+          "note": "Depreciation NEVER appears in a cash flow forecast."
+        },
+        {
+          "label": "4. The forecast",
+          "working": "                    Apr      May      Jun\nOpening            7,500   12,000  (4,700)\nReceipts          37,000   43,000   55,000\n                  ------   ------   ------\nAvailable         44,500   55,000   50,300\n\nSuppliers        (16,200) (18,000) (23,400)\nWages             (9,000)  (9,000)  (9,000)\nRent              (3,500)  (3,500)  (3,500)\nOverheads         (3,800)  (3,800)  (3,800)\nVan                    -  (18,000)       -\n                  ------   ------   ------\nPayments         (32,500) (52,300) (39,700)\n\nClosing           12,000  (4,700)   10,600",
+          "note": "Carry each closing figure forward. Check the arithmetic on every column before moving on."
+        },
+        {
+          "label": "5. Interpret",
+          "working": "The business goes 4,700 overdrawn in May solely\nbecause the 18,000 van was paid for out of one\nmonth's trading cash.\n\nSales rose every month and the deficit was still\ncaused by a single capital payment.",
+          "note": "Name the cause. Then the remedy follows: finance the van over its life, or arrange an overdraft for May."
+        }
+      ],
+      "answer": "April $12,000; May overdrawn $4,700; June $10,600. The May deficit is caused entirely by paying for the van in one month.",
+      "tryIt": {
+        "given": [
+          "Sales: Jul 30,000  Aug 45,000  Sep 60,000; June sales 24,000",
+          "40% cash, 60% the following month",
+          "Purchases 50% of the same month's sales, paid the following month; June purchases 12,000",
+          "Wages 7,000; rent 2,500; overheads 4,000 including 900 depreciation",
+          "Equipment 22,000 paid in August; opening cash 5,000"
+        ],
+        "answer": "Receipts: Jul 12,000 + 14,400 = 26,400; Aug 18,000 + 18,000 = 36,000; Sep 24,000 + 27,000 = 51,000. Purchases: Jun 12,000, Jul 15,000, Aug 22,500. Paid: Jul 12,000; Aug 15,000; Sep 22,500. Overheads paid 3,100. Jul: 5,000 + 26,400 - 12,000 - 7,000 - 2,500 - 3,100 = 6,800. Aug: 6,800 + 36,000 - 15,000 - 7,000 - 2,500 - 3,100 - 22,000 = (6,800). Sep: (6,800) + 51,000 - 22,500 - 7,000 - 2,500 - 3,100 = 9,100. The August deficit of 6,800 is again caused by the capital payment."
+      }
+    },
+    {
+      "id": "wbs12-c-03",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Capacity utilisation and productivity",
+      "title": "Capacity utilisation, labour productivity and unit cost",
+      "given": [
+        "Maximum possible output      4,800 units a month",
+        "Actual output               3,360 units a month",
+        "Employees                        28",
+        "Fixed costs per month       $50,400",
+        "Variable cost per unit          $12"
+      ],
+      "steps": [
+        {
+          "label": "1. Capacity utilisation",
+          "working": "(3,360 / 4,800) x 100 = 70%",
+          "note": "Actual over maximum, times 100."
+        },
+        {
+          "label": "2. Labour productivity",
+          "working": "3,360 / 28 = 120 units per employee per month",
+          "note": "Output per worker."
+        },
+        {
+          "label": "3. Fixed cost per unit now",
+          "working": "50,400 / 3,360 = $15.00 per unit",
+          "note": "Fixed cost per unit falls as output rises. This is the whole point of the topic."
+        },
+        {
+          "label": "4. Total cost per unit now",
+          "working": "12.00 + 15.00 = $27.00",
+          "note": "Variable plus fixed per unit."
+        },
+        {
+          "label": "5. Now raise utilisation to 90%",
+          "working": "Output = 4,800 x 90% = 4,320 units\nFixed cost per unit = 50,400 / 4,320 = $11.67\nTotal cost per unit = 12.00 + 11.67 = $23.67\n\nSaving per unit = 27.00 - 23.67 = $3.33 (12.3%)",
+          "note": "The variable cost per unit does NOT change. Only the fixed element is spread further."
+        },
+        {
+          "label": "6. Interpret",
+          "working": "Raising utilisation from 70% to 90% cuts unit cost\nby 12.3% with no change in prices, wages or methods.\n\nThat is why spare capacity is expensive: the fixed\ncosts are being paid whether the capacity is used or not.",
+          "note": "State the business consequence. Lower unit cost means either a higher margin or the ability to compete on price."
+        }
+      ],
+      "answer": "Utilisation 70%; productivity 120 units per employee; fixed cost per unit $15.00 and total cost per unit $27.00. At 90% utilisation, total cost per unit falls to $23.67, a saving of 12.3%.",
+      "tryIt": {
+        "given": [
+          "Maximum output 7,500 units; actual 6,000 units; 40 employees",
+          "Fixed costs $96,000 a month; variable cost per unit $9",
+          "Then raise utilisation to 95%"
+        ],
+        "answer": "Utilisation = 80%. Productivity = 150 units per employee. Fixed cost per unit = 96,000/6,000 = $16.00; total $25.00. At 95%: output 7,125; fixed per unit 96,000/7,125 = $13.47; total $22.47. Saving $2.53 per unit, or 10.1%."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "2.3.1.1",
+      "topicTitle": "Sales forecasting",
+      "points": [
+        "Check the forecast against the trend it claims to extend. If the forecast growth rate exceeds the historical rate, say so: it is the strongest single point available and it comes straight from the data.",
+        "Extrapolation assumes past conditions continue. Name the specific things in the source that have changed.",
+        "Strip out one-off effects. Growth from newly opened outlets reaching maturity is not an underlying trend that can be repeated.",
+        "The asymmetry of forecast error matters more than its size: over-optimism that triggers an irreversible commitment costs far more than under-optimism.",
+        "A single figure is less useful than a range. Ask whether the decision still works at a materially lower revenue.",
+        "Qualitative information, from sales staff and customers, catches turning points that quantitative extrapolation cannot.",
+        "It depends on the time horizon: short-run forecasts are far more reliable than long-run ones."
+      ]
+    },
+    {
+      "topicRef": "2.3.2.1",
+      "topicTitle": "Cash flow forecasts",
+      "points": [
+        "Distinguish a CASH problem from a PROFIT problem. A profitable growing business can run out of cash, and the remedies are completely different.",
+        "Growth consumes cash, because inventory and receivables grow before the money comes in.",
+        "Long-term assets should not be paid for out of one month's trading cash. Financing over the asset's life is usually the single most effective remedy.",
+        "A forecast is only as good as the sales assumption behind it, so test the worst month under a lower sales figure.",
+        "Quote the worst month and the size of the deficit, and chain each remedy to its effect on the forecast.",
+        "Each remedy has a cost: overdraft interest, a settlement discount forgone, or damage to supplier relations from stretching payment."
+      ]
+    },
+    {
+      "topicRef": "2.3.3.1",
+      "topicTitle": "Break-even analysis",
+      "points": [
+        "Margin of safety measures risk, and whether it is adequate depends on how volatile demand is in the source.",
+        "High fixed costs magnify profit and loss in BOTH directions. Calculate the effect of a 10% volume change to show the leverage.",
+        "Calculate the extra volume needed to justify an increase in fixed costs. That figure is usually the decision.",
+        "Break-even assumes everything produced is sold and that costs are linear, neither of which holds exactly.",
+        "It is valid only over the relevant range of output: fixed costs step up.",
+        "If the price or a cost changes, recalculate CONTRIBUTION first and rework from there."
+      ]
+    },
+    {
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Capacity utilisation",
+      "points": [
+        "Spare capacity is expensive because the fixed costs are paid whether the capacity is used or not, which is why unit cost falls as utilisation rises.",
+        "Very high utilisation leaves no slack for maintenance, breakdowns, an urgent order or a demand surge, so it raises risk as well as efficiency.",
+        "Under-utilisation can also signal falling demand, in which case the problem is the market rather than the operation.",
+        "Raising utilisation lowers unit cost with no change in prices, wages or methods, which is a genuinely cheap source of competitiveness.",
+        "It depends on whether the extra output can be sold. Raising utilisation to build unsold inventory converts one problem into another."
+      ]
+    },
+    {
+      "topicRef": "2.4.1.1",
+      "topicTitle": "Quality management",
+      "points": [
+        "Quality assurance prevents defects and quality control detects them, so assurance is cheaper if the culture supports it and more expensive to introduce.",
+        "The cost of quality has two halves: prevention and inspection on one side, and failure, rework, returns and lost reputation on the other. Compare them.",
+        "Reputational damage from a quality failure outlasts the cost of preventing it, particularly where customers post reviews.",
+        "It depends on the position in the market: a premium brand cannot afford variable quality, while a value brand competes on price.",
+        "Higher quality standards raise costs now and reduce failure costs later, so the judgement turns on the time horizon."
+      ]
+    },
+    {
+      "topicRef": "2.4.2.1",
+      "topicTitle": "Lean production",
+      "points": [
+        "Just in time reduces holding costs and removes all buffer against supply disruption, which is a direct trade-off between efficiency and resilience.",
+        "Lean requires reliable suppliers and stable demand. Where either is absent, the savings are outweighed by stoppages.",
+        "Kaizen is cheap and cumulative and depends entirely on staff engagement, so it fails where the culture is adversarial.",
+        "Waste reduction lowers cost AND environmental impact, so the commercial and ethical cases point the same way.",
+        "It depends on the predictability of demand and the distance to suppliers. Long, remote supply chains suit lean production poorly."
+      ]
+    }
+  ]
+}

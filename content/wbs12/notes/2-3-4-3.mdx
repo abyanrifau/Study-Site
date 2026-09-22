@@ -1,0 +1,131 @@
+---
+ref: "2.3.4.3"
+title: "Inventory control"
+unit: "WBS12"
+section: "2.3.4 Resource management"
+oneMinute:
+  - "The inventory control diagram shows stock falling as it is used and jumping when a delivery arrives."
+  - "Buffer stock is the minimum level held as insurance against delay or a demand spike."
+  - "The reorder level is set so that stock reaches the buffer just as the delivery arrives, allowing for lead time."
+  - "Just in time holds almost no stock, which frees cash and removes the safety net."
+  - "Too much stock ties up cash; too little loses sales."
+keyTerms:
+  - term: "Inventory"
+    definition: "Stock held by a business: raw materials, work in progress and finished goods."
+  - term: "Buffer stock"
+    definition: "A minimum level of inventory held as a safeguard against delivery delays or unexpected demand."
+  - term: "Reorder level"
+    definition: "The stock level at which a new order is placed, set so that the delivery arrives before the buffer is used up."
+  - term: "Lead time"
+    definition: "The time between placing an order with a supplier and receiving the goods."
+  - term: "Maximum stock level"
+    definition: "The largest amount of inventory a business is willing or able to hold."
+  - term: "Just in time (JIT)"
+    definition: "An approach holding minimal inventory, with supplies arriving only as they are needed."
+  - term: "Lean production"
+    definition: "An approach aimed at eliminating all waste from the production process."
+  - term: "Waste minimisation"
+    definition: "Reducing everything that adds cost without adding value, including excess stock, defects, waiting time and unnecessary movement."
+commandWords:
+  - "Define"
+  - "Construct"
+  - "Explain"
+  - "Assess"
+---
+
+## Reading the diagram
+
+<Figure caption="Stock falls as it is used, and a delivery brings it back to maximum. The reorder level allows for the lead time so the buffer is not breached.">
+  <InventoryControlDiagram />
+</Figure>
+
+Four things to identify, and a Construct question marks exactly these:
+
+- **Maximum stock level** — the top of each peak.
+- **Reorder level** — where the downward line crosses the level at which an order is placed.
+- **Buffer stock** — the flat minimum the business intends never to go below.
+- **Lead time** — the horizontal distance between placing the order and the delivery arriving.
+
+**The logic:** the reorder level is set by working backwards. If usage is 200 units a week, lead time is two weeks and buffer stock is 300 units, then you must reorder at 300 + (2 × 200) = **700 units**, so the delivery lands just as you reach the buffer.
+
+**Reading changes on the diagram:** a steeper downward slope means faster usage. A longer horizontal gap before delivery means a longer lead time. A delivery that arrives late shows as the line dipping below the buffer, which is what the buffer is there to absorb.
+
+## Why the level matters
+
+**Too much stock:**
+
+- Cash is tied up in goods sitting still, which worsens liquidity and the acid test ratio (**2.3.3.2**).
+- Storage, insurance and handling cost money.
+- Risk of obsolescence, damage, theft or expiry.
+
+**Too little stock:**
+
+- Stockouts mean lost sales, and possibly lost customers permanently.
+- Production stops if a raw material runs out, and idle staff and machinery still cost money.
+- Emergency reordering costs more.
+- Reputation suffers.
+
+So inventory control is a balancing act between **liquidity and reliability**.
+
+## Just in time
+
+Stock arrives as it is needed rather than being held.
+
+**For:** minimal cash tied up, no storage cost, no obsolescence, less waste, and problems become visible immediately rather than being hidden by a pile of stock.
+
+**Against:** no safety net. It needs utterly reliable suppliers, good transport, accurate demand forecasting and strong supplier relationships. One late delivery and production stops. It also loses bulk-buying discounts and means more frequent, smaller deliveries, which raises transport cost and emissions.
+
+**When JIT works:** predictable demand, nearby reliable suppliers, good logistics, and high-value stock where the cash saving is large.
+
+**When it does not:** unpredictable demand, distant or unreliable suppliers, or where a stockout is catastrophic.
+
+## Lean production and competitive advantage
+
+**Lean production** goes wider than stock: eliminate everything that adds cost without adding value. The usual categories of waste are excess inventory, defects, waiting time, unnecessary transport, over-production, over-processing and unused staff talent.
+
+The competitive advantage is direct: less waste means a lower unit cost, which supports either a lower price or a better margin. It also tends to improve quality, because lean systems surface problems instead of absorbing them.
+
+<RealWorld where="Maldives">
+
+Geography makes JIT close to unworkable for most Maldivian businesses, and that is an unusually clean application of the theory.
+
+Lead times are long and variable: goods arrive by sea, then transfer to a smaller boat, and weather can delay either leg. So a resort or guesthouse holds **large buffer stocks** of dry goods, fuel and spare parts, accepting the tied-up cash as the price of not running out. Running out of cooking gas with forty guests on an island is not a recoverable situation.
+
+The trade-off is explicit: worse liquidity, deliberately, in exchange for reliability. In a city with next-day delivery the same business would run far leaner. Same theory, opposite answer, because the lead time is different.
+
+</RealWorld>
+
+<Tip>
+
+**How this topic is tested.** Construct (4) to draw or complete the diagram, Explain (4) on buffer stock or lead time, Assess (10) on whether a business should adopt JIT or change its stock levels.
+
+**On the Construct question.** Label the axes (stock and time), mark the maximum, reorder and buffer levels, draw the sawtooth with the correct slope, and show the lead time. Marks are mostly for labelling, as always.
+
+**On "should they adopt JIT?"** The answer is almost always about **supplier reliability and lead time**:
+
+1. How reliable and how close are the suppliers?
+2. How predictable is demand?
+3. What is the cost of a stockout? Lost sale, or stopped production, or a stranded guest?
+4. How much cash is currently tied up? Quantify it if the figures are there.
+5. Judge, and note that a partial move is possible: JIT on cheap, reliable items and buffer stock on critical ones.
+
+**Getting evaluation marks:**
+
+- **JIT trades liquidity for risk.** Name both sides.
+- **Lead time and reliability decide it**, more than any other factor.
+- **The cost of a stockout is not symmetrical.** Some are an inconvenience; some close the business for a day.
+- **A hybrid is usually the sensible answer.**
+
+</Tip>
+
+<Mistakes>
+
+- **Confusing buffer stock with the reorder level.** Buffer is the minimum held; the reorder level is higher, and set to allow for lead time.
+- **Forgetting lead time** when working out the reorder level.
+- **Saying JIT has no drawbacks.** It removes the safety net entirely.
+- **Treating high stock as simply bad.** It is insurance, and in some situations it is the right call.
+- **Missing the liquidity link.** Stock is cash, and it shows up in the acid test ratio.
+- **Unlabelled diagrams.**
+- **Recommending JIT without checking supplier reliability and distance.**
+
+</Mistakes>

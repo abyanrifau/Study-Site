@@ -1,0 +1,259 @@
+{
+  "topicRef": "1.3.4.3",
+  "topicTitle": "Organisational design",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-4-3-01",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of span of control?",
+      "options": [
+        "The number of employees who report directly to one manager",
+        "The number of levels of authority in a business",
+        "The line of authority from the top of a business to the bottom",
+        "The number of decisions a manager makes each day"
+      ],
+      "answer": 0,
+      "why": "Span of control is horizontal: how many people one manager supervises. Wide spans force delegation; narrow spans allow close supervision.",
+      "whyNot": [
+        "",
+        "That is the hierarchy, or the number of layers.",
+        "That is the chain of command, which is vertical.",
+        "Not a recognised measure of structure."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-02",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: the line of authority through which instructions pass from the top of a business to the bottom?",
+      "options": [
+        "Chain of command",
+        "Span of control",
+        "Matrix structure",
+        "Delayering"
+      ],
+      "answer": 0,
+      "why": "The chain of command is vertical. More layers means a longer chain, which slows communication and distorts it.",
+      "whyNot": [
+        "",
+        "Span of control is how many report to one manager, which is horizontal.",
+        "A matrix structure groups employees into cross-functional project teams.",
+        "Delayering removes levels of hierarchy."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-03",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "easy",
+      "stem": "A tall organisational structure is characterised by:",
+      "options": [
+        "many levels of hierarchy and narrow spans of control",
+        "few levels of hierarchy and wide spans of control",
+        "many levels of hierarchy and wide spans of control",
+        "no hierarchy at all"
+      ],
+      "answer": 0,
+      "why": "For a given number of employees, narrow spans require more layers to cover everyone, which is what makes the structure tall.",
+      "whyNot": [
+        "",
+        "That describes a flat structure.",
+        "These cannot both apply in an organisation of fixed size: wide spans mean fewer layers are needed.",
+        "Every organisation of any size has some hierarchy."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-04",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of decentralisation?",
+      "options": [
+        "Delegating decision-making authority to lower levels of the organisation",
+        "Keeping all decision-making authority at the top",
+        "Removing levels of hierarchy",
+        "Moving offices to different locations"
+      ],
+      "answer": 0,
+      "why": "Decentralisation pushes authority down, which speeds up local decisions, uses local knowledge and motivates staff by giving them responsibility.",
+      "whyNot": [
+        "",
+        "That is centralisation.",
+        "That is delayering, which changes the shape rather than where decisions are taken.",
+        "That is geographic dispersion, which is not the same as decentralised authority."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-05",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "medium",
+      "stem": "What is the main effect of a long chain of command on communication?",
+      "options": [
+        "It becomes slower and more likely to be distorted",
+        "It becomes faster and clearer",
+        "It has no effect on communication",
+        "It removes the need for written instructions"
+      ],
+      "answer": 0,
+      "why": "Every layer a message passes through adds delay and a chance of being changed or misunderstood, which is one of the main arguments for delayering.",
+      "whyNot": [
+        "",
+        "Fewer layers, not more, make communication faster and more direct.",
+        "The number of layers a message passes through is one of the main influences on it.",
+        "More layers usually means more formal documentation, not less."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-06",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of a matrix structure?",
+      "options": [
+        "Employees report to two managers, which creates conflicting priorities",
+        "It prevents specialists from working together",
+        "It has no hierarchy at all",
+        "It is only possible in businesses with one product"
+      ],
+      "answer": 0,
+      "why": "The two-bosses problem is the central weakness: a project leader and a functional manager can both want the same person's time, and it is unclear who decides.",
+      "whyNot": [
+        "",
+        "Bringing specialists together across functions is exactly what a matrix is for.",
+        "There is still a functional hierarchy; the project structure sits across it.",
+        "Matrix structures are typically used by businesses running multiple projects or products."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-07",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "medium",
+      "stem": "Why can decentralisation be motivating for employees?",
+      "options": [
+        "It gives them responsibility, which Herzberg identifies as a genuine motivator",
+        "It reduces the amount of work they have to do",
+        "It guarantees a pay rise",
+        "It removes all supervision"
+      ],
+      "answer": 0,
+      "why": "Responsibility and involvement are on Herzberg's motivator list. That is why structure connects directly to the motivation topic rather than being purely administrative.",
+      "whyNot": [
+        "",
+        "It usually means more responsibility and often more work.",
+        "Authority and pay are separate decisions.",
+        "Decentralisation delegates authority; it does not remove accountability or oversight."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-08",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "medium",
+      "stem": "A business delayers, removing a level of middle management. What is the likely trade-off?",
+      "options": [
+        "Lower wage costs and faster decisions, but lost experience and stretched managers",
+        "Higher wage costs and slower decisions",
+        "No change to communication or cost",
+        "A longer chain of command"
+      ],
+      "answer": 0,
+      "why": "Delayering saves the salaries and speeds up the chain, and it also removes people who held informal knowledge and mentored others, while widening the spans of those who remain.",
+      "whyNot": [
+        "",
+        "Removing managers lowers the wage bill and shortens the chain.",
+        "Both cost and communication are directly affected.",
+        "Removing a layer shortens the chain of command."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-09",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "hard",
+      "stem": "Why is it too simple to say a business should be either centralised or decentralised?",
+      "options": [
+        "Most businesses centralise some decisions and decentralise others",
+        "Centralisation is illegal in most countries",
+        "Decentralisation only applies to manufacturing",
+        "The two terms mean the same thing"
+      ],
+      "answer": 0,
+      "why": "A hotel group will centralise brand standards, pricing systems and procurement while decentralising how staff handle a guest complaint. Recognising that is the most sophisticated point available on this topic and very few candidates make it.",
+      "whyNot": [
+        "",
+        "Neither approach is a legal matter.",
+        "Both apply across every sector.",
+        "They are opposites: authority at the top against authority delegated down."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-10",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "hard",
+      "stem": "In which situation is a tall structure with narrow spans of control most justified?",
+      "options": [
+        "Safety-critical work where close supervision genuinely matters",
+        "A small creative agency of six people",
+        "A business that wants the fastest possible decisions",
+        "A business trying to cut its management wage bill"
+      ],
+      "answer": 0,
+      "why": "Where a mistake is dangerous, the cost of close supervision is worth paying. Narrow spans mean a manager can actually watch and check the work.",
+      "whyNot": [
+        "",
+        "Six people need almost no hierarchy; a tall structure would be absurd.",
+        "Tall structures slow decisions down because of the long chain.",
+        "Tall structures need more managers, so they raise the wage bill."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-11",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of a flat structure?",
+      "options": [
+        "Few levels of hierarchy and wide spans of control",
+        "Many levels of hierarchy and narrow spans of control",
+        "A structure with no managers",
+        "A structure where everyone earns the same"
+      ],
+      "answer": 0,
+      "why": "Few layers means each manager supervises more people, so delegation becomes necessary and decisions move faster.",
+      "whyNot": [
+        "",
+        "That is a tall structure.",
+        "Flat structures still have managers; there are simply fewer layers of them.",
+        "Pay equality is unrelated to the shape of the structure."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-3-12",
+      "topicRef": "1.3.4.3",
+      "topicTitle": "Organisational design",
+      "difficulty": "hard",
+      "stem": "A flat structure can demotivate ambitious employees. Why?",
+      "options": [
+        "There are few levels, so there are few promotions available",
+        "Flat structures pay less by law",
+        "Employees in flat structures have no responsibility",
+        "Flat structures have longer chains of command"
+      ],
+      "answer": 0,
+      "why": "With few rungs on the ladder, the only way up is often out, so capable and ambitious people leave. That is the counterweight to the motivation benefits of flatter structures.",
+      "whyNot": [
+        "",
+        "Pay is not determined by structure.",
+        "Flat structures usually give MORE responsibility, through necessary delegation.",
+        "Flat structures have shorter chains, which is one of their advantages."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.4.1",
+  "topicTitle": "Corporate culture",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-4-1-01",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of corporate culture?",
+      "options": [
+        "The shared values, beliefs and ways of working in an organisation",
+        "The organisational structure shown on a business chart",
+        "The written rules and procedures staff must follow",
+        "The published mission statement of a business"
+      ],
+      "answer": 0,
+      "why": "Culture is the shared values, beliefs, attitudes and ways of working: how things are done when nobody is watching.",
+      "whyNot": [
+        "",
+        "That is structure, which is formal and written down; culture is unwritten.",
+        "Rules are a formal system; a strong culture reduces the need for them.",
+        "A mission statement is what a business says; culture is what it actually does."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-02",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a strong corporate culture?",
+      "options": [
+        "One whose values are widely shared and deeply held by employees",
+        "One that is enforced through strict rules and close supervision",
+        "One created by a business with a long history",
+        "One that produces high profits"
+      ],
+      "answer": 0,
+      "why": "Strength refers to how widely and deeply values are shared, not to how strictly behaviour is policed.",
+      "whyNot": [
+        "",
+        "Relying on rules and supervision is a sign of a weak culture, not a strong one.",
+        "Age helps a culture form but does not by itself make it shared or deeply held.",
+        "Profit is an outcome; a strong culture pointing the wrong way can damage profit."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-03",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "easy",
+      "stem": "Which of Handy's cultures concentrates authority in one person or a small group?",
+      "options": [
+        "Power culture",
+        "Role culture",
+        "Task culture",
+        "Person culture"
+      ],
+      "answer": 0,
+      "why": "In a power culture authority sits with one individual or a small central group, so decisions are fast and depend on that person being right.",
+      "whyNot": [
+        "",
+        "A role culture bases authority on position and procedure rather than on an individual.",
+        "A task culture organises around project teams where expertise matters more than rank.",
+        "A person culture is one where individuals see themselves as more important than the organisation."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-04",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "easy",
+      "stem": "Which of Handy's cultures is based on clear job descriptions, procedures and hierarchy?",
+      "options": [
+        "Role culture",
+        "Power culture",
+        "Task culture",
+        "Person culture"
+      ],
+      "answer": 0,
+      "why": "In a role culture authority comes from your position, and the business runs on defined roles and procedures.",
+      "whyNot": [
+        "",
+        "A power culture depends on an individual rather than on defined roles.",
+        "A task culture is built around temporary project teams, not fixed job descriptions.",
+        "A person culture has little shared structure at all."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-05",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Which of Handy's cultures organises work around project teams assembled for a specific purpose?",
+      "options": [
+        "Task culture",
+        "Role culture",
+        "Power culture",
+        "Person culture"
+      ],
+      "answer": 0,
+      "why": "A task culture brings together the expertise needed for a project and disbands the team afterwards, which is why it suits a matrix structure.",
+      "whyNot": [
+        "",
+        "A role culture uses permanent departments and fixed procedures.",
+        "A power culture centres on an individual, not on teams.",
+        "A person culture exists to serve the individuals in it rather than any shared task."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-06",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "A group of lawyers share premises and support staff but each regards the practice as existing to serve their own work. Which culture is this?",
+      "options": [
+        "Person culture",
+        "Task culture",
+        "Role culture",
+        "Power culture"
+      ],
+      "answer": 0,
+      "why": "Person culture is where individuals see themselves as superior to the organisation, which is common among professionals sharing facilities.",
+      "whyNot": [
+        "",
+        "A task culture has a shared project purpose, which is exactly what is missing here.",
+        "A role culture has hierarchy and procedures directing the individuals.",
+        "A power culture has a dominant central figure, which is not described."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-07",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Which of the following is the strongest single influence in forming a corporate culture?",
+      "options": [
+        "Who gets rewarded and promoted",
+        "The wording of the mission statement",
+        "The number of levels in the hierarchy",
+        "The size of the marketing budget"
+      ],
+      "answer": 0,
+      "why": "Staff learn what the business really values from who succeeds in it, so the reward and promotion system is the strongest signal of all.",
+      "whyNot": [
+        "",
+        "A statement is only words; if behaviour contradicts it, staff follow the behaviour.",
+        "Structure influences culture but does not determine the values people hold.",
+        "The marketing budget affects external image rather than internal values."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-08",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of a strong corporate culture?",
+      "options": [
+        "It can produce groupthink and resistance to change",
+        "It increases the need for supervision and rules",
+        "It makes recruitment decisions harder",
+        "It always reduces employee motivation"
+      ],
+      "answer": 0,
+      "why": "Widely shared values make change harder and can suppress dissenting views, so a strong culture pointing the wrong way is worse than a weak one.",
+      "whyNot": [
+        "",
+        "A strong culture reduces the need for supervision, because staff know how to behave.",
+        "It makes recruitment easier, because there is a clear idea of fit; the cost is less diversity of thought.",
+        "A strong culture usually raises motivation; its problems lie in rigidity."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-09",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a weak corporate culture?",
+      "options": [
+        "One where values are not widely shared, so behaviour depends on rules and supervision",
+        "One held by a business that is performing badly",
+        "One in a business with few employees",
+        "One in which employees are poorly paid"
+      ],
+      "answer": 0,
+      "why": "Weakness is about how little the values are shared, which means behaviour has to be directed rather than assumed.",
+      "whyNot": [
+        "",
+        "Poor performance may have many causes and a weak culture may still perform adequately.",
+        "Small businesses often have very strong cultures, usually set by the founder.",
+        "Pay levels are a reward issue, not a measure of cultural strength."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-10",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "hard",
+      "stem": "A business announces new values emphasising teamwork but continues to promote the most individually aggressive managers. What is the most likely outcome?",
+      "options": [
+        "Staff will conclude the real culture still rewards individual aggression",
+        "The culture will change because the values have been formally stated",
+        "Teamwork will improve because the announcement raises awareness",
+        "The promoted managers will adopt the new values first"
+      ],
+      "answer": 0,
+      "why": "Culture follows rewards rather than statements, so the promotion decisions tell staff what the business actually values.",
+      "whyNot": [
+        "",
+        "A statement does not change beliefs; staff test it against what they observe.",
+        "Awareness without any change in consequences rarely changes behaviour.",
+        "Those who gained under the old system have the least reason to change."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-11",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "hard",
+      "stem": "Why is middle management often the strongest source of resistance to culture change?",
+      "options": [
+        "Their authority came from the old way of working, so they have most to lose",
+        "They have the least contact with senior management",
+        "They are usually the lowest paid group in the business",
+        "They have no influence over how change is implemented"
+      ],
+      "answer": 0,
+      "why": "Middle managers often derive their status and authority from existing procedures and hierarchy, so a new culture threatens their position directly.",
+      "whyNot": [
+        "",
+        "Contact with senior management is not the issue; loss of status is.",
+        "Middle managers are not the lowest paid group, and pay is not the cause here.",
+        "They have considerable influence, which is precisely why their resistance matters so much."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-12",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "hard",
+      "stem": "A cross-border acquisition underperforms badly. Which explanation is most commonly given?",
+      "options": [
+        "Culture clash between the two workforces",
+        "The purchase price was paid in the wrong currency",
+        "The acquirer had too few shareholders",
+        "The target had a written mission statement"
+      ],
+      "answer": 0,
+      "why": "Culture clash is the most common single cause of acquisition failure, because two workforces with different attitudes to hierarchy and decision-making do not merge just because a contract was signed.",
+      "whyNot": [
+        "",
+        "Currency of payment affects cost, not the long-run performance of the combined business.",
+        "The number of shareholders does not explain integration failure.",
+        "A mission statement is unrelated to whether the two cultures can work together."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-13",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "hard",
+      "stem": "A business with a deeply procedural role culture adopts a strategy requiring fast, innovative decisions. What is the most likely problem?",
+      "options": [
+        "The organisation will be unable to execute the strategy even if the strategy is sound",
+        "The strategy will succeed because structure is irrelevant to execution",
+        "The role culture will change automatically to fit the new strategy",
+        "The business will become a person culture"
+      ],
+      "answer": 0,
+      "why": "Strategy has to fit the culture, or the culture has to change first, and culture change takes years while the strategy usually needs results sooner.",
+      "whyNot": [
+        "",
+        "Culture directly shapes how decisions are made, so it is central to execution.",
+        "Culture does not adapt automatically; it is unwritten and reinforced by existing rewards.",
+        "Person culture is unrelated to this situation and would not follow from a new strategy."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-14",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Which of the following is the most effective way to change a corporate culture?",
+      "options": [
+        "Change what gets rewarded and promoted, and lead visibly and consistently",
+        "Publish a new set of values on the company website",
+        "Send all employees an email explaining the new culture",
+        "Raise pay across the business"
+      ],
+      "answer": 0,
+      "why": "Because culture follows consequences rather than announcements, changing the reward and promotion system, backed by consistent leadership behaviour, is what actually shifts it.",
+      "whyNot": [
+        "",
+        "Published values are only a claim, and staff judge it against behaviour.",
+        "One communication does not change deeply held shared beliefs.",
+        "A pay rise may improve satisfaction temporarily without changing shared values."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-15",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "medium",
+      "stem": "Why is corporate culture so difficult to change quickly?",
+      "options": [
+        "It is unwritten, held by people, and reinforced by past success",
+        "It is protected by employment law in most countries",
+        "It is recorded in the statement of financial position",
+        "It can only be changed by shareholders at a general meeting"
+      ],
+      "answer": 0,
+      "why": "There is no document to amend: the culture is in the beliefs and habits of the people, and past success is a powerful argument for keeping it.",
+      "whyNot": [
+        "",
+        "No law prevents a business changing how it works; the barrier is behavioural.",
+        "Culture is an intangible that does not appear in the financial statements.",
+        "Shareholders do not vote on culture; it emerges from behaviour inside the business."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-1-16",
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "difficulty": "hard",
+      "stem": "Which of the following is the best evaluative point about culture in a 20-mark question?",
+      "options": [
+        "A strong culture is an asset or a liability depending on whether it points in the right direction",
+        "Culture is always more important than strategy",
+        "Every business should aim for a task culture",
+        "Culture can be measured accurately from the annual accounts"
+      ],
+      "answer": 0,
+      "why": "The judgement is conditional: strength itself is neutral, and its value depends on whether the shared values suit the market the business is in.",
+      "whyNot": [
+        "",
+        "Neither dominates in all cases; the examinable point is that they must fit each other.",
+        "The best culture depends on the industry; safety-critical work needs procedure, not loose project teams.",
+        "Culture is non-financial and does not appear in the accounts, which is one of their limitations."
+      ]
+    }
+  ]
+}

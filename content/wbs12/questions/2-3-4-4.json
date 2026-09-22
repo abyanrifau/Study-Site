@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.4.4",
+  "topicTitle": "Quality management",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-4-4-01",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "easy",
+      "stem": "Which of the following correctly distinguishes quality control from quality assurance?",
+      "options": [
+        "Control inspects at the end; assurance builds quality in at every stage",
+        "Assurance inspects at the end; control builds quality in",
+        "They are two words for the same process",
+        "Control applies to services and assurance to manufacturing"
+      ],
+      "answer": 0,
+      "why": "Control finds defects after they have been made, so the materials and labour in them are wasted. Assurance prevents them, which is cheaper.",
+      "whyNot": [
+        "",
+        "This reverses the two.",
+        "They are distinct, and it is the distinction examiners test most.",
+        "Both apply to either sector."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-02",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a small group of employees who meet regularly to identify and solve quality problems in their own area?",
+      "options": [
+        "Quality circle",
+        "Total Quality Management",
+        "Kaizen",
+        "Quality control"
+      ],
+      "answer": 0,
+      "why": "Quality circles work because the people doing the job know where the problems are, and being asked is motivating. They fail when suggestions are ignored.",
+      "whyNot": [
+        "",
+        "TQM is the whole-organisation approach to quality.",
+        "Kaizen is continuous improvement through many small changes.",
+        "Quality control is end-of-process inspection."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-03",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of Kaizen?",
+      "options": [
+        "Continuous improvement through many small changes, largely suggested by employees",
+        "A single large transformational improvement project",
+        "Inspecting products at the end of production",
+        "Holding minimal inventory"
+      ],
+      "answer": 0,
+      "why": "Kaizen is incremental, cheap and low-risk, and the gains compound. Its weakness is that it cannot deliver a step change when one is needed.",
+      "whyNot": [
+        "",
+        "Kaizen is the opposite: many small changes rather than one big one.",
+        "That is quality control.",
+        "That is just in time."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-04",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "medium",
+      "stem": "What is the central idea of Total Quality Management?",
+      "options": [
+        "Every employee is responsible for quality, treating the next stage as their customer",
+        "A specialist department checks all output",
+        "Only managers are responsible for quality",
+        "Quality is checked by the customer after purchase"
+      ],
+      "answer": 0,
+      "why": "The internal customer idea is what makes TQM work: if everyone meets the requirements of the next stage, the external customer receives something correct by construction.",
+      "whyNot": [
+        "",
+        "That is quality control, which TQM replaces.",
+        "TQM spreads responsibility to everyone, not just managers.",
+        "That would be leaving quality to chance."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-05",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "medium",
+      "stem": "Why is quality control impossible for a guesthouse stay?",
+      "options": [
+        "You cannot inspect a guest's stay after it has happened and replace the defective one",
+        "Guesthouses have no quality standards",
+        "Guests do not notice quality",
+        "Quality control is illegal in tourism"
+      ],
+      "answer": 0,
+      "why": "Services are consumed as they are delivered, so there is no finished product to inspect before the customer receives it. The standard has to be built into how every room is prepared and every guest greeted, which is quality assurance.",
+      "whyNot": [
+        "",
+        "They are judged publicly against standards through review scores.",
+        "Reviews show guests notice in considerable detail.",
+        "There is no such restriction."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-06",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of Total Quality Management?",
+      "options": [
+        "It is a cultural change that takes years and needs visible management commitment",
+        "It increases the number of defects",
+        "It removes responsibility from employees",
+        "It can only be used in manufacturing"
+      ],
+      "answer": 0,
+      "why": "TQM is not a procedure to install. Introduced half-heartedly it becomes a slogan staff rightly ignore, and some businesses have spent heavily for very little.",
+      "whyNot": [
+        "",
+        "Its purpose and usual effect is to reduce defects sharply.",
+        "It gives every employee responsibility for quality.",
+        "It is widely used in services."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-07",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "hard",
+      "stem": "Which chain best links quality to competitive advantage?",
+      "options": [
+        "Better quality reduces waste and rework, and raises satisfaction and repeat purchase, so profit rises through both cost and revenue",
+        "Better quality raises costs, so profit falls",
+        "Better quality has no financial effect",
+        "Better quality only affects the marketing budget"
+      ],
+      "answer": 0,
+      "why": "Running the chain through both cost and revenue is stronger than running it through one. Fewer defects cuts cost; better reviews and repeat purchase raise revenue.",
+      "whyNot": [
+        "",
+        "Quality does cost money to build in, and the comparison with the cost of poor quality is the point.",
+        "It affects waste, returns, reputation and repeat purchase directly.",
+        "It affects operations, costs and revenue, not just promotion."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-08",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "hard",
+      "stem": "Why is over-engineering a budget product a form of waste?",
+      "options": [
+        "The customer is not willing to pay for quality beyond what the market expects",
+        "Higher quality always reduces sales",
+        "Budget products cannot be made well",
+        "Quality standards are illegal for budget products"
+      ],
+      "answer": 0,
+      "why": "Quality means meeting customer requirements, not maximising specification. Cost added that customers will not pay for is waste, and saying so shows genuine understanding of what quality means.",
+      "whyNot": [
+        "",
+        "Higher quality usually supports sales; the issue is cost the customer will not fund.",
+        "They can be made to an appropriate standard, which is the point.",
+        "No such restriction exists."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-4-09",
+      "topicRef": "2.3.4.4",
+      "topicTitle": "Quality management",
+      "difficulty": "medium",
+      "stem": "Why do quality circles sometimes fail?",
+      "options": [
+        "Management asks for suggestions and then ignores them",
+        "Employees never have any ideas",
+        "They are too expensive to run",
+        "They require specialist consultants"
+      ],
+      "answer": 0,
+      "why": "Genuine involvement motivates; consultation that changes nothing is worse than never asking, because it signals that staff views do not matter. Same point as consultation in WBS11 topic 1.3.4.4.",
+      "whyNot": [
+        "",
+        "The people doing the job usually know exactly where the problems are.",
+        "They are among the cheapest quality initiatives.",
+        "They are run by the employees themselves."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.4",
+  "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-2-4-01",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a joint venture?",
+      "options": [
+        "Two or more businesses creating a shared enterprise, sharing control, risk and reward",
+        "One business acquiring a controlling interest in another",
+        "Two businesses combining into a single new business",
+        "A cooperative agreement that involves no shared ownership"
+      ],
+      "answer": 0,
+      "why": "A joint venture involves shared ownership of a new enterprise, which distinguishes it from a looser alliance.",
+      "whyNot": [
+        "",
+        "That is a takeover.",
+        "That is a merger.",
+        "That is a strategic alliance."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-02",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a takeover?",
+      "options": [
+        "One business acquiring a controlling interest in another",
+        "Two businesses agreeing to combine as equals",
+        "A business licensing its brand to a foreign producer",
+        "A business opening a new subsidiary abroad"
+      ],
+      "answer": 0,
+      "why": "A merger is agreed and creates a new combined business; a takeover is an acquisition of control.",
+      "whyNot": [
+        "",
+        "That is a merger.",
+        "That is licensing.",
+        "That is greenfield investment."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-03",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines synergy?",
+      "options": [
+        "The idea that a combined business is worth more than the two separate businesses",
+        "The cost of integrating two businesses after a deal",
+        "The premium paid above the target's market value",
+        "The process of investigating a target before purchase"
+      ],
+      "answer": 0,
+      "why": "Overestimated synergies are one of the most common causes of acquisition failure.",
+      "whyNot": [
+        "",
+        "That is integration cost.",
+        "That is the acquisition premium.",
+        "That is due diligence."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-04",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines due diligence?",
+      "options": [
+        "Detailed investigation of a target business before an acquisition",
+        "The legal duty to treat all shareholders equally",
+        "The process of integrating two workforces",
+        "A requirement to consult employees before a merger"
+      ],
+      "answer": 0,
+      "why": "Poor due diligence means liabilities, contracts or quality problems are discovered after completion.",
+      "whyNot": [
+        "",
+        "That is a governance duty.",
+        "That is integration.",
+        "Consultation is a separate legal obligation in some jurisdictions."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-05",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Which route into a foreign market is fastest?",
+      "options": [
+        "An acquisition, because customers, distribution and approvals already exist",
+        "Organic growth, because no negotiation is needed",
+        "Exporting through an agent, because no investment is required",
+        "A greenfield investment, because it is built to the business's own design"
+      ],
+      "answer": 0,
+      "why": "Speed is the main attraction of acquisition, and integration is the price paid for it.",
+      "whyNot": [
+        "",
+        "Organic growth is the slowest route.",
+        "Exporting is quick but does not establish a market position.",
+        "Greenfield is slow and starts with no customers."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-06",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Why is local knowledge a common reason for a joint venture?",
+      "options": [
+        "Customer preferences, regulation and government relationships are hard for an outsider to learn",
+        "Local partners always provide the majority of the capital",
+        "Joint ventures are cheaper than any other route",
+        "Local knowledge is required by the WTO"
+      ],
+      "answer": 0,
+      "why": "It is the factor most often underestimated by confident foreign entrants and the one a local partner supplies most cheaply.",
+      "whyNot": [
+        "",
+        "Capital contributions are negotiated and vary.",
+        "Cost depends on the deal; the attraction is shared risk and knowledge.",
+        "The WTO imposes no such requirement."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-07",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Which of the following makes a joint venture compulsory rather than chosen?",
+      "options": [
+        "A country requiring foreign businesses to operate with a local partner",
+        "A shortage of capital in the acquiring business",
+        "A desire to reduce competition in the market",
+        "The need to acquire a patent"
+      ],
+      "answer": 0,
+      "why": "Some countries cap foreign ownership, particularly in strategic sectors, so the joint venture is the price of entry.",
+      "whyNot": [
+        "",
+        "Capital shortage is a reason to prefer one, not a requirement.",
+        "That is a reason for acquisition.",
+        "A patent can be licensed or acquired."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-08",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Why might a business acquire a firm inside a trading bloc?",
+      "options": [
+        "It gains tariff-free access to every member of the bloc",
+        "Acquisitions inside blocs require no regulatory approval",
+        "Bloc members pay no corporation tax",
+        "Acquisition inside a bloc removes all integration risk"
+      ],
+      "answer": 0,
+      "why": "It is the fastest way to get inside the common external tariff.",
+      "whyNot": [
+        "",
+        "Competition authorities still review large deals.",
+        "Members set their own tax rates.",
+        "Integration risk is unaffected by location."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-09",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Which of the following is the main problem with an acquisition as a growth route?",
+      "options": [
+        "Integration, particularly culture clash between the two workforces",
+        "The impossibility of gaining local knowledge",
+        "The slowness of gaining market access",
+        "The inability to acquire brands or patents"
+      ],
+      "answer": 0,
+      "why": "Two workforces with different attitudes to hierarchy and decision-making do not merge because a contract was signed, and it is worse across borders.",
+      "whyNot": [
+        "",
+        "Local knowledge is acquired with the business.",
+        "Acquisition is the fast route.",
+        "Brands and patents are among the main assets acquired."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-10",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "hard",
+      "stem": "What is the sharpest criticism of entering a market through a joint venture?",
+      "options": [
+        "Technology and know-how may be transferred to a partner who later becomes a competitor",
+        "Joint ventures require the foreign partner to pay all the costs",
+        "Joint ventures cannot be used in regulated sectors",
+        "Joint ventures provide no access to local knowledge"
+      ],
+      "answer": 0,
+      "why": "In several large markets the access was real and so was the cost, as partners subsequently competed internationally.",
+      "whyNot": [
+        "",
+        "Costs are shared, which is the main attraction.",
+        "Regulated sectors are where they are most often required.",
+        "Local knowledge is one of the main benefits."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-11",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "hard",
+      "stem": "What is the most common financial cause of acquisition failure?",
+      "options": [
+        "Overpayment, where a premium is paid and the expected synergies do not appear",
+        "The inability to raise any finance for the deal",
+        "The target refusing to hand over its assets",
+        "Exchange rate movements on the day of completion"
+      ],
+      "answer": 0,
+      "why": "Cost savings assume the two operations can actually be combined, which regulation, geography and incompatible systems may prevent.",
+      "whyNot": [
+        "",
+        "Deals that fail usually completed, so finance was raised.",
+        "Ownership transfers on completion.",
+        "A single day's currency movement rarely explains long-run failure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-12",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "hard",
+      "stem": "Why is reversibility a key consideration in choosing a growth route?",
+      "options": [
+        "An acquisition is very hard to unwind, while organic growth can be slowed or stopped",
+        "Reversibility determines the tax treatment of the deal",
+        "Reversible routes always generate higher returns",
+        "Only joint ventures can be reversed"
+      ],
+      "answer": 0,
+      "why": "Reversibility matters most where the market is unfamiliar, because mistakes should stay small.",
+      "whyNot": [
+        "",
+        "Tax treatment depends on the structure, not reversibility.",
+        "Lower commitment usually means lower potential return.",
+        "A joint venture is moderately reversible; organic growth more so."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-13",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "hard",
+      "stem": "Why can diseconomies of scale arise after a global merger?",
+      "options": [
+        "Coordination and communication costs rise across time zones and languages",
+        "Fixed costs increase in proportion to output",
+        "Variable costs per unit always rise after a merger",
+        "Larger businesses face higher tax rates"
+      ],
+      "answer": 0,
+      "why": "Coordination problems are a standard reason the forecast savings do not materialise.",
+      "whyNot": [
+        "",
+        "Fixed costs are spread over more output, which is an economy.",
+        "Purchasing power usually lowers variable costs.",
+        "Tax rates do not rise with size."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-14",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Which reason for a global merger relates to competition policy risk?",
+      "options": [
+        "Reducing competition by buying a rival",
+        "Sharing costs and risks on a large project",
+        "Accessing a partner's distribution network",
+        "Securing a supply of a raw material"
+      ],
+      "answer": 0,
+      "why": "Large deals may be blocked or permitted only with conditions, which can remove the point of the deal.",
+      "whyNot": [
+        "",
+        "Cost sharing raises no competition concern.",
+        "Distribution access is usually unproblematic.",
+        "Securing supply may raise concerns only in concentrated markets."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-15",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "medium",
+      "stem": "Why is acquiring an established brand often preferred to launching a global one?",
+      "options": [
+        "Local brand loyalty can be strong and expensive to overcome",
+        "Acquired brands are always cheaper to run",
+        "Global brands cannot be registered in most countries",
+        "Acquiring a brand avoids all marketing cost"
+      ],
+      "answer": 0,
+      "why": "The acquirer also gains distribution and shelf space immediately, and then faces the glocalisation question of whether to keep the local name.",
+      "whyNot": [
+        "",
+        "Running costs depend on the brand, not on how it was obtained.",
+        "Global brands are registered routinely.",
+        "Marketing is still required."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-4-16",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Reasons for global mergers, takeovers or joint ventures",
+      "difficulty": "hard",
+      "stem": "When should a business prefer organic growth for international expansion?",
+      "options": [
+        "Where the market can be entered gradually and mistakes must stay small",
+        "Where speed is the overriding priority",
+        "Where a local partner is legally required",
+        "Where a patent must be acquired quickly"
+      ],
+      "answer": 0,
+      "why": "Organic growth gives full control and the lowest risk per stage, at the cost of being slow.",
+      "whyNot": [
+        "",
+        "Speed points to acquisition or a joint venture.",
+        "A legal requirement points to a joint venture.",
+        "A patent usually has to be bought or licensed."
+      ]
+    }
+  ]
+}

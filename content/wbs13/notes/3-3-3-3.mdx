@@ -1,0 +1,155 @@
+---
+ref: "3.3.3.3"
+title: "Decision trees"
+unit: "WBS13"
+section: "3.3.3 Decision-making techniques"
+oneMinute:
+  - "A square is a decision node. A circle is a chance node."
+  - "Each branch from a circle has a probability, and the probabilities on any set of branches must add to 1."
+  - "Expected value = sum of (probability × payoff) for each branch."
+  - "Work from right to left, calculate the expected value at each chance node, then choose the highest after deducting costs."
+  - "The probabilities are estimates, which is the technique's main weakness."
+keyTerms:
+  - term: "Decision tree"
+    definition: "A diagram showing the options available, the possible outcomes of each, their probabilities and their financial results."
+  - term: "Decision node"
+    definition: "A point where the business chooses between options, drawn as a square."
+  - term: "Chance node"
+    definition: "A point where the outcome depends on probability rather than choice, drawn as a circle."
+  - term: "Probability"
+    definition: "The likelihood of an outcome, expressed as a decimal between 0 and 1."
+  - term: "Expected value"
+    definition: "The average financial outcome of a decision, calculated as the sum of each payoff multiplied by its probability."
+  - term: "Net expected value"
+    definition: "The expected value of an option minus the cost of taking that option."
+formulas:
+  - name: "Expected value"
+    formula: "Σ (Probability × Payoff)"
+  - name: "Net expected value"
+    formula: "Expected value − Cost of the option"
+    note: "Always deduct the cost of the option before comparing. Forgetting this is the most common error."
+commandWords:
+  - "Construct"
+  - "Calculate"
+  - "Explain"
+  - "Assess"
+---
+
+## Reading a decision tree
+
+<Figure caption="Squares are decisions the business makes. Circles are outcomes it cannot control. Each branch from a circle carries a probability, and those probabilities must total 1.">
+  <DecisionTreeDiagram />
+</Figure>
+
+**Conventions to get right:**
+
+- **Square** = decision node, where the business chooses.
+- **Circle** = chance node, where the outcome is uncertain.
+- Probabilities on branches from the same circle **add up to 1**.
+- Payoffs are written at the end of each branch.
+- Costs of taking an option are written along the option branch.
+
+## Calculating expected values
+
+<Formula name="Expected value" note="Work right to left. Calculate the expected value at each chance node, then subtract the cost of each option, then compare.">
+Expected value = Σ (Probability × Payoff)
+
+Net expected value = Expected value − Cost of the option
+</Formula>
+
+<Worked title="Worked example">
+
+A business chooses between launching a new product (option A) or extending the existing one (option B).
+
+**Option A** costs **$30,000**:
+- 0.6 chance of a payoff of $90,000
+- 0.4 chance of a payoff of $20,000
+
+**Option B** costs **$10,000**:
+- 0.5 chance of a payoff of $70,000
+- 0.5 chance of a payoff of $40,000
+
+**Step 1 — expected value of A**
+
+`(0.6 × 90,000) + (0.4 × 20,000) = 54,000 + 8,000 = $62,000`
+
+**Step 2 — expected value of B**
+
+`(0.5 × 70,000) + (0.5 × 40,000) = 35,000 + 20,000 = $55,000`
+
+**Step 3 — deduct the cost of each option**
+
+`Net EV of A = 62,000 − 30,000 = $32,000`
+
+`Net EV of B = 55,000 − 10,000 = $45,000`
+
+**Decision: choose B.** Note that A has the higher expected value and B has the higher **net** expected value once the cost is taken off. That reversal is exactly what questions are designed to test, and forgetting to deduct the cost is the most common error on this topic.
+
+**Then evaluate, which is where the marks are.** Option A's worst case is a $20,000 payoff against a $30,000 cost, so it loses $10,000. Option B's worst case is $40,000 against $10,000, so it still gains $30,000. B is better on expected value *and* carries no downside risk, which makes the decision stronger than the numbers alone suggest. A business short of cash would choose B even if the expected values had been reversed.
+
+</Worked>
+
+## Advantages
+
+- **It forces options to be set out explicitly**, with their costs, outcomes and likelihoods, rather than argued about vaguely.
+- **It quantifies risk**, so options can be compared on a common basis.
+- **It is visual**, so the logic can be explained to others and challenged.
+- **It considers several possible futures** rather than assuming one.
+
+## Limitations
+
+This is where most of the marks are.
+
+- **The probabilities are estimates.** Often they are little more than informed guesses, and the whole answer depends on them. Change 0.6 to 0.5 and the decision can reverse.
+- **The payoffs are forecasts** too, so there are two layers of estimation.
+- **Expected value is an average that may never occur.** An expected value of $62,000 when the actual outcomes are $90,000 or $20,000 describes neither.
+- **It ignores the size of the downside.** Two options with the same expected value can carry very different risk of ruin, and a business short of cash cannot treat them as equivalent.
+- **It ignores qualitative factors:** staff, reputation, strategic fit, the owner's attitude to risk.
+- **It assumes a rational, profit-maximising decision**, which not every business is making.
+- **Complex situations produce unmanageably large trees.**
+
+## Attitude to risk
+
+The specification expects you to notice that the same numbers lead different businesses to different decisions.
+
+- A large business with reserves can take the higher expected value and absorb a bad outcome.
+- A small business with no reserves should weight the **worst case** heavily, even at the cost of a lower expected value.
+
+So a decision tree informs the decision; it does not make it.
+
+<Tip>
+
+**How this topic is tested.** Construct (4) to draw or complete a tree, Calculate (4) for expected values, Assess (12) on whether the business should follow the tree's recommendation.
+
+**Method:**
+
+1. Work **right to left**.
+2. Calculate the expected value at each chance node: multiply each payoff by its probability and add.
+3. **Deduct the cost** of each option.
+4. Compare the net expected values and state the decision.
+5. Then evaluate the probabilities and the downside.
+
+**On the Construct question:** squares for decisions, circles for chance, probabilities on the branches adding to 1, payoffs at the ends, costs on the option branches, and label everything.
+
+**Getting evaluation marks:**
+
+- **The probabilities are estimates**, so test what happens if they shift.
+- **Expected value is an average that may never happen.**
+- **Look at the worst case**, not just the average.
+- **The right answer depends on the business's attitude to risk and its reserves.**
+- **Qualitative factors are absent from the model** and may be decisive.
+
+</Tip>
+
+<Mistakes>
+
+- **Forgetting to deduct the cost of the option** before comparing. The single most common error.
+- **Probabilities that do not add to 1** on branches from the same node.
+- **Using squares for chance nodes** or circles for decisions.
+- **Working left to right.** Expected values are calculated from the right.
+- **Treating the expected value as what will actually happen.**
+- **Ignoring the worst case**, especially for a business with no cash reserves.
+- **Accepting the probabilities without question.**
+- **Reporting the numbers with no judgement.** The recommendation and its caveats are the answer.
+
+</Mistakes>

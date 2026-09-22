@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.3.3",
+  "topicTitle": "Decision trees",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-3-3-01",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "easy",
+      "stem": "On a decision tree, what does a square represent?",
+      "options": [
+        "A decision node, where the business chooses",
+        "A chance node, where the outcome is uncertain",
+        "The payoff at the end of a branch",
+        "The probability of an outcome"
+      ],
+      "answer": 0,
+      "why": "Squares are decisions the business controls. Circles are chance nodes where the outcome depends on probability.",
+      "whyNot": [
+        "",
+        "That is a circle.",
+        "Payoffs are written at the ends of branches.",
+        "Probabilities are written on the branches."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-02",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "easy",
+      "stem": "Probabilities on branches from the same chance node must add up to:",
+      "options": [
+        "1",
+        "100",
+        "the number of branches",
+        "the expected value"
+      ],
+      "answer": 0,
+      "why": "They are expressed as decimals and must total 1, because one of the outcomes must happen.",
+      "whyNot": [
+        "",
+        "That would be correct if expressed as percentages, and the convention here is decimals summing to 1.",
+        "The number of branches is unrelated to the total.",
+        "The expected value is a money amount."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-03",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "medium",
+      "stem": "An option has a 0.6 chance of $90,000 and a 0.4 chance of $20,000. What is its expected value?",
+      "options": [
+        "$62,000",
+        "$110,000",
+        "$55,000",
+        "$44,000"
+      ],
+      "answer": 0,
+      "why": "(0.6 x 90,000) + (0.4 x 20,000) = 54,000 + 8,000 = $62,000.",
+      "whyNot": [
+        "",
+        "This adds the two payoffs without weighting them.",
+        "That is the expected value of a different set of payoffs.",
+        "This appears to weight the payoffs the wrong way round."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-04",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "medium",
+      "stem": "An option has an expected value of $62,000 and costs $30,000. What is its net expected value?",
+      "options": [
+        "$32,000",
+        "$92,000",
+        "$62,000",
+        "$30,000"
+      ],
+      "answer": 0,
+      "why": "62,000 - 30,000 = $32,000. Deducting the cost of the option before comparing is the step most candidates forget.",
+      "whyNot": [
+        "",
+        "This adds the cost instead of subtracting it.",
+        "That is the expected value before the cost is deducted.",
+        "That is the cost of the option."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-05",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "hard",
+      "stem": "Option A has an expected value of $62,000 and costs $30,000. Option B has $55,000 and costs $10,000. Which should be chosen?",
+      "options": [
+        "B, because its net expected value of $45,000 exceeds A's $32,000",
+        "A, because its expected value is higher",
+        "A, because it costs more and so must be better",
+        "Neither, because both have positive expected values"
+      ],
+      "answer": 0,
+      "why": "A has the higher expected value; B has the higher NET expected value. That reversal is exactly what these questions test.",
+      "whyNot": [
+        "",
+        "Expected value before cost is not the basis for the decision.",
+        "Cost is a reason against, not for.",
+        "Positive values mean both are viable; the question is which is better."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-06",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "medium",
+      "stem": "In which order should a decision tree be calculated?",
+      "options": [
+        "Right to left, calculating expected values at each chance node",
+        "Left to right, starting from the decision",
+        "Top to bottom",
+        "The order does not matter"
+      ],
+      "answer": 0,
+      "why": "You need the expected value of each outcome before you can compare the options that lead to them, so the calculation works backwards from the payoffs.",
+      "whyNot": [
+        "",
+        "You cannot evaluate the decision before the outcomes it leads to.",
+        "Not a meaningful direction for a tree.",
+        "Working forwards produces the wrong answer."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-07",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "hard",
+      "stem": "Why should a small business with no cash reserves look at the worst case as well as the expected value?",
+      "options": [
+        "An expected value is an average that may never occur, and one bad outcome could be fatal",
+        "Expected values are always wrong",
+        "Small businesses cannot calculate probabilities",
+        "The worst case is always the most likely"
+      ],
+      "answer": 0,
+      "why": "An expected value of $62,000 when outcomes are $90,000 or $20,000 describes neither. A business that cannot survive the $20,000 outcome should not treat the average as the decision.",
+      "whyNot": [
+        "",
+        "They are estimates, not necessarily wrong.",
+        "They can use the same estimates as anyone else.",
+        "It is one possible outcome, not the most likely."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-08",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "medium",
+      "stem": "What is the main limitation of a decision tree?",
+      "options": [
+        "The probabilities are estimates, and changing them can reverse the decision",
+        "It cannot show more than two options",
+        "It ignores the cost of each option",
+        "It cannot be drawn by hand"
+      ],
+      "answer": 0,
+      "why": "Both the probabilities and the payoffs are forecasts, so there are two layers of estimation. Shifting 0.6 to 0.5 can change which option wins.",
+      "whyNot": [
+        "",
+        "It can show any number of options.",
+        "Costs are written on the option branches and should be deducted.",
+        "It is normally drawn by hand."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-3-09",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "difficulty": "medium",
+      "stem": "Which factor does a decision tree ignore entirely?",
+      "options": [
+        "Staff morale, reputation and strategic fit",
+        "The probability of each outcome",
+        "The payoff of each outcome",
+        "The cost of each option"
+      ],
+      "answer": 0,
+      "why": "The model is purely financial. Qualitative factors may be decisive and appear nowhere in the calculation, which is why the tree informs the decision rather than making it.",
+      "whyNot": [
+        "",
+        "Probabilities are central to it.",
+        "Payoffs are central to it.",
+        "Costs appear on the option branches."
+      ]
+    }
+  ]
+}

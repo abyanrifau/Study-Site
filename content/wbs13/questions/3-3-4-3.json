@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.4.3",
+  "topicTitle": "Business ethics",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-4-3-01",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of business ethics?",
+      "options": [
+        "The moral principles guiding how a business behaves, beyond what the law requires",
+        "The laws a business must obey in the country where it trades",
+        "The accounting standards used to prepare financial statements",
+        "The procedures set out in a business's employee handbook"
+      ],
+      "answer": 0,
+      "why": "Ethics goes beyond legal compliance to what is right, so a legal decision can still be unethical.",
+      "whyNot": [
+        "",
+        "Law is the minimum standard; ethics asks what should be done above that.",
+        "Accounting standards govern reporting, not the wider morality of decisions.",
+        "Internal procedures are rules; ethics is the principles that should shape them."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-02",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of corporate social responsibility?",
+      "options": [
+        "A business voluntarily taking responsibility for its social and environmental impact",
+        "A business obeying all the laws that apply to it",
+        "A business maximising returns for its shareholders",
+        "A business paying the taxes it legally owes"
+      ],
+      "answer": 0,
+      "why": "The essential word is voluntary: CSR is what the business does beyond its legal obligations.",
+      "whyNot": [
+        "",
+        "Legal compliance is the minimum requirement, not CSR.",
+        "That is the shareholder model of business purpose.",
+        "Paying legally owed tax is an obligation, not voluntary responsibility."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-03",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines greenwashing?",
+      "options": [
+        "Presenting a business as more environmentally responsible than it actually is",
+        "Reducing packaging in order to cut costs",
+        "Investing in renewable energy for a factory",
+        "Publishing an annual environmental report"
+      ],
+      "answer": 0,
+      "why": "Greenwashing is the gap between environmental claim and actual behaviour, and it is riskier than saying nothing because the gap becomes the story.",
+      "whyNot": [
+        "",
+        "That is a genuine cost saving that happens to help the environment.",
+        "That is real action rather than a misleading claim.",
+        "Reporting is only greenwashing if the content misrepresents what the business does."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-04",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the trade-off between profit and ethics?",
+      "options": [
+        "Behaving ethically reduces profit, at least in the short term",
+        "Ethical businesses can never be profitable",
+        "Profit and ethics are always in permanent conflict",
+        "Ethical behaviour has no effect on costs"
+      ],
+      "answer": 0,
+      "why": "Paying suppliers fairly, sourcing responsibly and refusing questionable business all reduce short-run profit, and acknowledging that is what makes an answer credible.",
+      "whyNot": [
+        "",
+        "Many ethical businesses are highly profitable, particularly over the long run.",
+        "The conflict is usually short-run; over a long horizon the two often align.",
+        "Ethical choices frequently raise costs, which is precisely the trade-off."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-05",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is a pay-related ethical issue named in the specification?",
+      "options": [
+        "Executive pay ratios compared with median employee pay",
+        "The date on which salaries are paid each month",
+        "Whether staff are paid weekly or monthly",
+        "The currency in which staff are paid"
+      ],
+      "answer": 0,
+      "why": "Large gaps between the highest and median paid raise fairness questions and affect morale, which is why pay ratios are examinable.",
+      "whyNot": [
+        "",
+        "Payment dates are an administrative matter rather than an ethical issue.",
+        "Payment frequency is an administrative choice, though very long gaps can create hardship.",
+        "Currency of payment is a practical matter, not an ethical one in itself."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-06",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is the strongest commercial argument for behaving ethically?",
+      "options": [
+        "Reputational damage is expensive and slow to repair",
+        "Ethical behaviour is always cheaper in the short run",
+        "Ethical behaviour is required by law in all countries",
+        "Customers always pay more for ethical products"
+      ],
+      "answer": 0,
+      "why": "Scandals can destroy revenue much faster than the cost savings that created them, and regulation usually follows public anger.",
+      "whyNot": [
+        "",
+        "In the short run ethical choices usually cost more, which is the trade-off.",
+        "If it were legally required it would be compliance, not ethics.",
+        "Customers often say they will pay more and then do not, which is the key gap to notice."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-07",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is the sharpest criticism of relying on customers to reward ethical behaviour?",
+      "options": [
+        "Customers frequently say they will pay more for ethics and then do not",
+        "Customers are unaware that ethical issues exist",
+        "Customers have no legal right to choose suppliers",
+        "Ethical products cannot be advertised"
+      ],
+      "answer": 0,
+      "why": "The gap between stated and actual willingness to pay is a genuinely sharp evaluation point, because it undermines the whole commercial case.",
+      "whyNot": [
+        "",
+        "Awareness is generally high; the problem is behaviour, not knowledge.",
+        "Customers are free to choose, which is why the claim is made in the first place.",
+        "Ethical positioning is a very common form of advertising."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-08",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Why can performance incentives lead to unethical behaviour?",
+      "options": [
+        "You get the behaviour you reward, so short-term targets encourage the conduct that causes scandals",
+        "Incentives are always illegal",
+        "Bonuses reduce employee motivation",
+        "Incentives make employees work fewer hours"
+      ],
+      "answer": 0,
+      "why": "Unethical outcomes are often the predictable result of an incentive scheme rather than of bad individuals, which is why the incentive link is worth naming.",
+      "whyNot": [
+        "",
+        "Performance pay is lawful and very widely used.",
+        "Bonuses generally raise effort; the problem is which behaviour they direct it towards.",
+        "Incentives typically increase effort rather than reduce it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-09",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is a genuine cost saving that also improves environmental performance?",
+      "options": [
+        "Reducing energy use, material use and waste",
+        "Publishing a sustainability report",
+        "Sponsoring a local sports team",
+        "Appointing a head of sustainability"
+      ],
+      "answer": 0,
+      "why": "Using less input costs less, which is why sustainability and efficiency often point the same way and weaken the claim that ethics always costs money.",
+      "whyNot": [
+        "",
+        "Reporting costs money without directly reducing environmental impact.",
+        "Sponsorship is community investment with no direct environmental saving.",
+        "That is an administrative cost, useful but not itself a saving."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-10",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines the triple bottom line?",
+      "options": [
+        "Judging a business on its social and environmental performance as well as its financial performance",
+        "Producing three separate sets of financial statements",
+        "Reporting profit before interest, after interest and after tax",
+        "Dividing profit between shareholders, employees and the community"
+      ],
+      "answer": 0,
+      "why": "People, planet and profit: three dimensions of performance rather than one.",
+      "whyNot": [
+        "",
+        "It is about the dimensions measured, not the number of statements produced.",
+        "Those are all financial measures of the same thing.",
+        "Distributing profit is a separate decision from how performance is judged."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-11",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "hard",
+      "stem": "Why can greenwashing be worse for a business than making no environmental claims at all?",
+      "options": [
+        "The gap between the claim and the behaviour becomes the story",
+        "Environmental claims are illegal in most countries",
+        "It costs more than genuine environmental action",
+        "It prevents a business from advertising at all"
+      ],
+      "answer": 0,
+      "why": "A business that says nothing is judged on its behaviour; one that claims more than it delivers invites a reputational attack on its honesty as well as its conduct.",
+      "whyNot": [
+        "",
+        "Environmental claims are lawful provided they are not misleading.",
+        "Greenwashing is usually cheaper than real action, which is why it happens.",
+        "It does not remove the ability to advertise, though it raises the risk of doing so."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-12",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "hard",
+      "stem": "A business argues that it must match a competitor's cost cutting even though it involves poorer supplier conditions. What is the strongest counter-argument?",
+      "options": [
+        "Reputational and regulatory risk may cost more than the saving, and staff and customers notice",
+        "Cost cutting never reduces costs in practice",
+        "Competitors are legally obliged to match ethical standards",
+        "Suppliers cannot change their conditions"
+      ],
+      "answer": 0,
+      "why": "The saving is certain and small; the risk is uncertain and potentially large, and regulation usually follows public anger.",
+      "whyNot": [
+        "",
+        "Cost cutting genuinely does reduce costs, which is why the trade-off is real.",
+        "No such obligation exists, which is why the competitive pressure arises.",
+        "Supplier conditions are exactly what is being changed in this decision."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-13",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "hard",
+      "stem": "In a resort business, why do environmental ethics and long-term profit align particularly closely?",
+      "options": [
+        "The reef is the product, so damaging it to save money destroys the asset",
+        "Environmental spending is tax deductible",
+        "Tourists are not interested in the environment",
+        "Environmental regulation is identical in every country"
+      ],
+      "answer": 0,
+      "why": "Where the natural environment is the thing customers are paying for, an environmental stance is also a commercial one.",
+      "whyNot": [
+        "",
+        "Tax treatment is a minor consideration next to destroying the core attraction.",
+        "Environmental quality is central to what these customers are buying.",
+        "Regulation varies widely, which is part of why ethics goes beyond law."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-14",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "hard",
+      "stem": "A business faces a short-run cost from improving staff accommodation on a remote site. What is the strongest long-run commercial argument for spending it?",
+      "options": [
+        "Better retention, which matters most where a departing specialist cannot be replaced mid-season",
+        "It will immediately increase the price customers pay",
+        "It removes the need for any recruitment",
+        "It guarantees higher occupancy rates"
+      ],
+      "answer": 0,
+      "why": "The return comes through retention, and the value of retention is highest where replacing someone quickly is impossible.",
+      "whyNot": [
+        "",
+        "Customers do not usually pay more because staff accommodation improved.",
+        "Some recruitment is always needed; the aim is to reduce avoidable turnover.",
+        "Occupancy depends on demand and marketing, not directly on staff accommodation."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-15",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is a legitimate argument for prioritising profit over an ethical stance?",
+      "options": [
+        "Competitors that cut costs will undercut the business, and jobs depend on it remaining viable",
+        "Ethical behaviour is against the interests of customers",
+        "Shareholders have no legal right to returns",
+        "Unethical behaviour carries no reputational risk"
+      ],
+      "answer": 0,
+      "why": "A business that prices itself out of the market helps nobody, so the competitive position is a real constraint on how far an ethical stance can go.",
+      "whyNot": [
+        "",
+        "Ethical behaviour usually serves customers; the constraint is cost and competition.",
+        "Shareholders do have a claim on returns, which is the basis of the argument.",
+        "Reputational risk is substantial, which is the main counter-argument."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-3-16",
+      "topicRef": "3.3.4.3",
+      "topicTitle": "Business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines an ethical stance?",
+      "options": [
+        "The position a business takes on how it will trade, even where that reduces profit",
+        "The minimum legal standard a business must meet",
+        "The proportion of profit a business donates to charity",
+        "The percentage of suppliers a business audits each year"
+      ],
+      "answer": 0,
+      "why": "An ethical stance is a chosen position on conduct that the business holds to even when it is costly.",
+      "whyNot": [
+        "",
+        "The legal minimum is compliance, not a stance.",
+        "Donation is one possible expression of a stance, not the stance itself.",
+        "Auditing is a monitoring activity rather than a position on conduct."
+      ]
+    }
+  ]
+}

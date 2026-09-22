@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.1",
+  "topicTitle": "Balance of payments",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-3-1-01",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "easy",
+      "stem": "Which of the following is NOT part of the current account?",
+      "options": [
+        "Foreign direct investment inflows",
+        "Trade in goods",
+        "Primary income",
+        "Secondary income"
+      ],
+      "answer": 0,
+      "why": "FDI is a financial account flow. The profits it later generates appear as primary income.",
+      "whyNot": [
+        "",
+        "Trade in goods is the first component.",
+        "Primary income covers profit, interest and wages from abroad.",
+        "Secondary income covers aid and remittances."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-02",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines primary income?",
+      "options": [
+        "Income flows from investments and employment abroad: profit, interest, dividends and wages",
+        "Transfers with nothing given in return, such as aid",
+        "The value of exports of goods",
+        "Investment in productive assets abroad"
+      ],
+      "answer": 0,
+      "why": "Repatriated profits of foreign-owned firms are a debit here, which is why FDI has a permanent negative effect on this line.",
+      "whyNot": [
+        "",
+        "That is secondary income.",
+        "That is trade in goods.",
+        "That is FDI, a financial account flow."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-03",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines secondary income?",
+      "options": [
+        "Transfers with nothing given in return, chiefly aid and workers' remittances",
+        "Profit and interest earned abroad",
+        "Trade in services",
+        "Changes in official reserves"
+      ],
+      "answer": 0,
+      "why": "Remittances are a major credit for several developing economies.",
+      "whyNot": [
+        "",
+        "That is primary income.",
+        "That is part of the trade balance.",
+        "That is a financial account item."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-04",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "easy",
+      "stem": "What is the balance of trade?",
+      "options": [
+        "Exports of goods and services minus imports of goods and services",
+        "The current account balance",
+        "Exports of goods minus imports of goods only",
+        "The sum of the current and financial accounts"
+      ],
+      "answer": 0,
+      "why": "The current account is the balance of trade plus the two income balances.",
+      "whyNot": [
+        "",
+        "The current account also includes income flows.",
+        "The balance of trade covers services as well as goods.",
+        "That must sum to zero."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-05",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "Exports of goods 118, imports 156, exports of services 64, imports 41. What is the balance of trade?",
+      "options": [
+        "A deficit of 15",
+        "A deficit of 38",
+        "A surplus of 23",
+        "A deficit of 53"
+      ],
+      "answer": 0,
+      "why": "Goods: 118 - 156 = -38. Services: 64 - 41 = +23. Balance of trade = -38 + 23 = -15.",
+      "whyNot": [
+        "",
+        "That is the goods balance alone.",
+        "That is the services balance alone.",
+        "That adds the two deficits incorrectly."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-06",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "Balance of trade -15, primary income -14, secondary income +9. What is the current account balance?",
+      "options": [
+        "A deficit of 20",
+        "A deficit of 38",
+        "A surplus of 20",
+        "A deficit of 29"
+      ],
+      "answer": 0,
+      "why": "-15 - 14 + 9 = -20.",
+      "whyNot": [
+        "",
+        "That omits the income balances.",
+        "The components sum to a negative figure.",
+        "That omits the secondary income credit."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-07",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "A current account deficit is $20bn and GDP is $420bn. What is the deficit as a share of GDP?",
+      "options": [
+        "4.8%",
+        "21%",
+        "0.48%",
+        "2.1%"
+      ],
+      "answer": 0,
+      "why": "(20 / 420) x 100 = 4.8%. This is the standard way to judge whether a deficit is large.",
+      "whyNot": [
+        "",
+        "That inverts the calculation.",
+        "That misplaces the decimal point.",
+        "That uses an incorrect calculation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-08",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "Why must the balance of payments accounts sum to zero?",
+      "options": [
+        "A current account deficit must be paid for by selling assets or borrowing, which are financial account credits",
+        "Governments adjust the figures to make them balance",
+        "Exports always equal imports over time",
+        "The capital account offsets the financial account exactly"
+      ],
+      "answer": 0,
+      "why": "The deficit is necessarily matched by a financial account surplus, which is an inflow of investment or borrowing.",
+      "whyNot": [
+        "",
+        "It follows from the accounting, not from adjustment.",
+        "Trade can be persistently imbalanced.",
+        "The capital account is small and does not perform this role."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-09",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cause of a current account deficit?",
+      "options": [
+        "Poor international competitiveness from low productivity and high unit labour costs",
+        "A weak exchange rate combined with high productivity",
+        "High domestic saving relative to investment",
+        "Large income inflows from investments held abroad"
+      ],
+      "answer": 0,
+      "why": "A strong currency, high domestic demand and low saving relative to investment are the other main causes.",
+      "whyNot": [
+        "",
+        "That combination tends to produce a surplus.",
+        "High saving relative to investment produces a surplus.",
+        "Income inflows are a current account credit."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-10",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "Why is how a deficit is financed more important than its size?",
+      "options": [
+        "Long-term FDI into productive capacity is sustainable, while short-term borrowing can reverse suddenly",
+        "The size of a deficit cannot be measured accurately",
+        "Financing has no effect on the exchange rate",
+        "All financing sources carry identical risk"
+      ],
+      "answer": 0,
+      "why": "A sudden reversal of hot money forces a sharp depreciation and a contraction, whereas FDI cannot leave overnight.",
+      "whyNot": [
+        "",
+        "It is measured routinely.",
+        "A reversal of financing moves the exchange rate sharply.",
+        "FDI and short-term flows differ greatly in mobility."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-11",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "The current account balance equals which of the following?",
+      "options": [
+        "National saving minus investment",
+        "National saving plus investment",
+        "Government spending minus taxation",
+        "Exports minus government borrowing"
+      ],
+      "answer": 0,
+      "why": "A country investing more than it saves must import capital, which appears as a current account deficit. This is the most analytically powerful way to express it.",
+      "whyNot": [
+        "",
+        "It is the difference, not the sum.",
+        "That is the fiscal balance.",
+        "That is not an identity."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-12",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "Why is an expenditure reducing policy criticised as a way of correcting a deficit?",
+      "options": [
+        "It reduces output and employment as well as imports, and does nothing about competitiveness",
+        "It has no effect on import spending",
+        "It raises the exchange rate automatically",
+        "It is prohibited by the IMF"
+      ],
+      "answer": 0,
+      "why": "The improvement lasts only while demand is suppressed, so the account improves at the cost of a recession.",
+      "whyNot": [
+        "",
+        "Lower total demand reduces import spending directly.",
+        "Tighter policy may raise the rate, but that is not the criticism.",
+        "The IMF has historically recommended it."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-13",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "Why is supply-side policy described as the only permanent solution to a deficit?",
+      "options": [
+        "It raises competitiveness, so exports rise for structural reasons rather than through suppressed demand",
+        "It works faster than any other policy",
+        "It requires no government spending",
+        "It removes the need for imports"
+      ],
+      "answer": 0,
+      "why": "It addresses the root cause and raises output rather than reducing it, and it works over years rather than months.",
+      "whyNot": [
+        "",
+        "It is the slowest of the three approaches.",
+        "Education and infrastructure are expensive.",
+        "Imports of inputs continue and may rise."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-14",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "medium",
+      "stem": "Which of the following is an expenditure switching policy?",
+      "options": [
+        "A depreciation of the currency",
+        "Higher interest rates",
+        "Higher income tax",
+        "Investment in education and training"
+      ],
+      "answer": 0,
+      "why": "Switching policies shift spending from imports to domestic goods; tariffs and quotas are the other examples.",
+      "whyNot": [
+        "",
+        "That is expenditure reducing.",
+        "That is expenditure reducing.",
+        "That is supply-side."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-15",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "Why are large global trade imbalances regarded as significant?",
+      "options": [
+        "The financial flows recycling surpluses into deficit countries can encourage excessive borrowing",
+        "They always cause exchange rates to be fixed",
+        "They prevent countries from trading with each other",
+        "They have no macroeconomic consequences"
+      ],
+      "answer": 0,
+      "why": "They also build up external liabilities, create political pressure for protection, and make sudden adjustment disruptive.",
+      "whyNot": [
+        "",
+        "They create pressure on floating rates rather than fixing them.",
+        "Trade continues; the concern is its financing.",
+        "They contributed to the conditions before 2008."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-3-1-16",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Balance of payments",
+      "difficulty": "hard",
+      "stem": "When are trade imbalances least likely to be a problem?",
+      "options": [
+        "When they reflect genuine differences in demographics, development stage and investment opportunities",
+        "When they are very large as a share of GDP",
+        "When they are financed by short-term capital inflows",
+        "When they persist for many years"
+      ],
+      "answer": 0,
+      "why": "A young, fast-growing economy importing capital to build infrastructure should run a deficit.",
+      "whyNot": [
+        "",
+        "Size raises rather than reduces the concern.",
+        "Short-term financing makes a deficit fragile.",
+        "Persistence builds up external liabilities."
+      ]
+    }
+  ]
+}

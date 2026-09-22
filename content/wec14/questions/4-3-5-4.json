@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.5.4",
+  "topicTitle": "Macroeconomic policies",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-5-4-01",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines supply-side policy?",
+      "options": [
+        "Measures to raise productive capacity by improving incentives, skills, competition and infrastructure",
+        "Changes in government spending and taxation to influence demand",
+        "Changes in interest rates to influence borrowing",
+        "Regulations restricting prices and wages"
+      ],
+      "answer": 0,
+      "why": "It is the only instrument that raises capacity, and the slowest to work.",
+      "whyNot": [
+        "",
+        "That is fiscal policy.",
+        "That is monetary policy.",
+        "Those are direct controls."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-02",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines quantitative easing?",
+      "options": [
+        "Central bank purchases of assets, financed by creating money, to lower long-term interest rates",
+        "A reduction in government spending to lower the deficit",
+        "A tax cut aimed at raising consumption",
+        "The sale of government bonds to reduce the money supply"
+      ],
+      "answer": 0,
+      "why": "It was used once interest rates could go no lower, and it tends to depreciate the currency as a side effect.",
+      "whyNot": [
+        "",
+        "That is fiscal consolidation.",
+        "That is fiscal policy.",
+        "That is the opposite operation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-03",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "easy",
+      "stem": "Which of the following is a direct control?",
+      "options": [
+        "A price cap on essential goods",
+        "A cut in interest rates",
+        "An increase in income tax",
+        "Investment in training"
+      ],
+      "answer": 0,
+      "why": "Capital controls and import restrictions are the other examples: they restrict behaviour directly rather than through prices or demand.",
+      "whyNot": [
+        "",
+        "That is monetary policy.",
+        "That is fiscal policy.",
+        "That is supply-side policy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-04",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines policy conflict?",
+      "options": [
+        "A situation in which pursuing one macroeconomic objective worsens another",
+        "A disagreement between the government and the central bank",
+        "A situation in which two policies use the same instrument",
+        "A conflict between national and international policy"
+      ],
+      "answer": 0,
+      "why": "Naming the conflict is the most reliable evaluation point in any policy question.",
+      "whyNot": [
+        "",
+        "That is an institutional disagreement.",
+        "That is an instrument clash rather than an objective conflict.",
+        "That is policy spillover."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-05",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Why is raising interest rates an inappropriate response to cost-push inflation from an oil price shock?",
+      "options": [
+        "It reduces output and employment without addressing the cause, which the central bank cannot influence",
+        "It has no effect on aggregate demand",
+        "It raises import prices further",
+        "It is prohibited during a supply shock"
+      ],
+      "answer": 0,
+      "why": "Diagnosing whether inflation is demand-pull or cost-push should come before any recommendation.",
+      "whyNot": [
+        "",
+        "It does reduce AD, which is the problem here.",
+        "Higher rates appreciate the currency, lowering import prices.",
+        "It is permitted, and it is simply poorly matched to the cause."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-06",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Which instrument reduces inflation without reducing output?",
+      "options": [
+        "Supply-side policy, by raising productivity and shifting AS right",
+        "Monetary tightening, by raising interest rates",
+        "Fiscal tightening, by raising taxes",
+        "Price controls, by capping prices"
+      ],
+      "answer": 0,
+      "why": "All the demand-side instruments reduce inflation by reducing demand and therefore output.",
+      "whyNot": [
+        "",
+        "That reduces AD and therefore output.",
+        "That reduces AD and therefore output.",
+        "They suppress measured inflation and create shortages."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-07",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Why is a floating exchange rate an advantage in responding to an external shock?",
+      "options": [
+        "The currency adjusts automatically rather than the domestic economy having to",
+        "It prevents shocks from occurring",
+        "It fixes import prices",
+        "It removes the need for reserves and for any policy at all"
+      ],
+      "answer": 0,
+      "why": "This is the strongest single argument for a floating rate.",
+      "whyNot": [
+        "",
+        "It cannot prevent external shocks.",
+        "It allows import prices to change.",
+        "It removes the need for reserves and not for policy."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-08",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Why is there no demand-side answer to a negative supply shock?",
+      "options": [
+        "It raises the price level and reduces output at once, so any demand response worsens one to improve the other",
+        "Demand-side policy is prohibited during supply shocks",
+        "Supply shocks have no effect on demand",
+        "Supply shocks reverse themselves automatically"
+      ],
+      "answer": 0,
+      "why": "Saying so is the correct answer rather than a failure to answer.",
+      "whyNot": [
+        "",
+        "It is permitted and simply cannot fix both.",
+        "They affect prices and therefore real incomes and demand.",
+        "They can persist for years."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-09",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Which of the following was part of the demand-side response to the 2008 crisis?",
+      "options": [
+        "Coordinated fiscal stimulus, interest rate cuts to near zero, and quantitative easing",
+        "Tariff increases and import quotas across major economies",
+        "Immediate fiscal austerity in all major economies",
+        "A return to fixed exchange rates"
+      ],
+      "answer": 0,
+      "why": "Bank recapitalisation and guarantees were also essential, as a precondition for any other policy working.",
+      "whyNot": [
+        "",
+        "Protection was largely avoided at that stage.",
+        "Austerity came later, after deficits had risen.",
+        "Major currencies continued to float."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-10",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "What is the most commonly cited criticism of the 2008 demand-side response?",
+      "options": [
+        "Deficits and debts rose sharply and QE raised asset prices and therefore wealth inequality",
+        "It failed to prevent the banking system from collapsing",
+        "Unemployment rose more than in the 1930s",
+        "It caused hyperinflation in the major economies"
+      ],
+      "answer": 0,
+      "why": "Near-zero rates also persisted for a decade, leaving little room to respond to the next shock.",
+      "whyNot": [
+        "",
+        "The banking system was stabilised.",
+        "Unemployment rose by much less than in the 1930s.",
+        "Inflation remained low for years afterwards."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-11",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "What is the lasting lesson of the 2008 policy response?",
+      "options": [
+        "Demand-side policy can stop a collapse in demand and cannot repair a damaged supply side",
+        "Demand-side policy is always ineffective",
+        "Supply-side policy works faster than demand-side policy",
+        "Financial crises have no lasting effects"
+      ],
+      "answer": 0,
+      "why": "That is why the recovery in output and productivity was slow even after demand had been restored.",
+      "whyNot": [
+        "",
+        "It prevented a far deeper depression.",
+        "Supply-side policy is much slower.",
+        "The effects on productivity and real wages persisted for years."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-12",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "Why is the arm's length principle hard to apply to transfer pricing?",
+      "options": [
+        "No comparable market price exists for intellectual property, brands and specialised components",
+        "Companies are not required to price intra-group transactions",
+        "Tax authorities cannot access company accounts",
+        "Arm's length pricing is prohibited by the WTO"
+      ],
+      "answer": 0,
+      "why": "That is precisely where profit shifting is concentrated, which is why transparency and a minimum rate work better than case-by-case pricing rules.",
+      "whyNot": [
+        "",
+        "They must, and the question is at what price.",
+        "Authorities can access accounts, with limited capacity to audit them.",
+        "It is the internationally recommended standard."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-13",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "Why does controlling TNCs require international rather than unilateral action?",
+      "options": [
+        "Any country tightening alone risks losing the investment, which is a collective action problem",
+        "National governments have no legal authority over firms in their territory",
+        "International bodies collect all corporate taxes",
+        "TNCs are exempt from all national law"
+      ],
+      "answer": 0,
+      "why": "Transparency and a minimum effective rate address the cause, which is the interaction of national systems.",
+      "whyNot": [
+        "",
+        "They do have authority within their territory.",
+        "Taxes are collected nationally.",
+        "They are subject to the law of each country they operate in."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-14",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "Which measure directly attacks the benefit of shifting reported profit?",
+      "options": [
+        "An international minimum effective corporate tax rate",
+        "A cut in the domestic corporation tax rate",
+        "A tariff on imported goods",
+        "A rise in the domestic VAT rate"
+      ],
+      "answer": 0,
+      "why": "Country-by-country reporting is the complementary transparency measure.",
+      "whyNot": [
+        "",
+        "That is tax competition, which is the problem rather than the remedy.",
+        "Tariffs concern trade, not profit reporting.",
+        "VAT is levied on domestic spending."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-15",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "Why can a policy that raises wealth inequality be described as an unintended consequence?",
+      "options": [
+        "QE supported demand as intended and raised asset prices, benefiting existing wealth owners",
+        "The effect was the stated objective of the policy",
+        "Wealth inequality cannot be measured",
+        "QE had no effect on asset prices"
+      ],
+      "answer": 0,
+      "why": "Unintended consequences are a standard feature of the risks and uncertainties facing policymakers.",
+      "whyNot": [
+        "",
+        "The objective was to support demand and the financial system.",
+        "It is measured, though less well than income inequality.",
+        "Asset price support was one of its mechanisms."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-16",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "hard",
+      "stem": "What is the best single sentence for evaluating any policy recommendation?",
+      "options": [
+        "Policy is set using estimates of unobservable quantities derived from data that will later be revised",
+        "Policy always works exactly as intended",
+        "Policy effects can be predicted precisely",
+        "Policy has no effect on the economy"
+      ],
+      "answer": 0,
+      "why": "The output gap, trend growth and the revenue-maximising tax rate cannot be observed at all.",
+      "whyNot": [
+        "",
+        "Behavioural responses and lags make outcomes uncertain.",
+        "Multipliers and elasticities vary with circumstances.",
+        "Policy effects are substantial."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-4-17",
+      "topicRef": "4.3.5.4",
+      "topicTitle": "Macroeconomic policies",
+      "difficulty": "medium",
+      "stem": "What is the constructive conclusion about policymaking under uncertainty?",
+      "options": [
+        "Build in flexibility and resilience rather than attempting precision",
+        "Abandon macroeconomic policy altogether",
+        "Rely entirely on discretionary intervention",
+        "Fix all policy settings permanently"
+      ],
+      "answer": 0,
+      "why": "Automatic stabilisers, reserves, a diversified economy and fiscal space all reduce vulnerability without requiring correct forecasts.",
+      "whyNot": [
+        "",
+        "Policy prevented a far worse outcome in 2008.",
+        "Discretion suffers from lags and uncertainty.",
+        "Fixed settings cannot respond to shocks."
+      ]
+    }
+  ]
+}

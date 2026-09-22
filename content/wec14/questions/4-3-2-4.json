@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.4",
+  "topicTitle": "Trade liberalisation and trading blocs",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-2-4-01",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "easy",
+      "stem": "What are the three roles of the WTO?",
+      "options": [
+        "Administering trade rules, providing a forum for negotiation, and settling disputes",
+        "Setting the tariff rates that all members must apply",
+        "Lending to countries in balance of payments difficulty",
+        "Fixing exchange rates between member currencies"
+      ],
+      "answer": 0,
+      "why": "Members set their own tariffs within the agreed rules; the WTO administers those rules.",
+      "whyNot": [
+        "",
+        "Members set their own tariffs.",
+        "That is the IMF's role.",
+        "Exchange rates are outside its remit."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-02",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "easy",
+      "stem": "What distinguishes a customs union from a free trade area?",
+      "options": [
+        "A customs union applies a common external tariff to non-members",
+        "A customs union allows free movement of labour",
+        "A customs union shares a single currency",
+        "A free trade area retains internal tariffs"
+      ],
+      "answer": 0,
+      "why": "The common external tariff also removes the rules-of-origin problem and removes members' freedom to set their own trade policy.",
+      "whyNot": [
+        "",
+        "That comes with a common market.",
+        "That comes with a monetary union.",
+        "Both remove internal tariffs."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-03",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a common market?",
+      "options": [
+        "A customs union that also allows free movement of goods, services, capital and labour",
+        "A free trade area with harmonised tax rates",
+        "A group of countries sharing one currency",
+        "A market in which all firms charge the same price"
+      ],
+      "answer": 0,
+      "why": "Its economic significance is that factors move to where their return is highest, raising allocative efficiency across the bloc.",
+      "whyNot": [
+        "",
+        "Tax harmonisation is not the defining feature.",
+        "That is a monetary union.",
+        "That is not a form of economic integration."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-04",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the most favoured nation principle?",
+      "options": [
+        "A WTO member must extend the same trade terms to all members",
+        "A member must give its best terms to the poorest members only",
+        "A member must charge its lowest tariff on all imports",
+        "A member must trade most with its nearest neighbour"
+      ],
+      "answer": 0,
+      "why": "Regional blocs are permitted as an exception to it, which is the source of the tension between blocs and the WTO.",
+      "whyNot": [
+        "",
+        "It applies to all members equally.",
+        "It requires equal treatment, not a particular rate.",
+        "It says nothing about geography."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-05",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines trade creation?",
+      "options": [
+        "Trade shifting from higher-cost domestic production to lower-cost production within the bloc",
+        "Trade shifting from an efficient non-member to a less efficient member",
+        "The total increase in a bloc's trade with the rest of the world",
+        "The creation of new export products by bloc members"
+      ],
+      "answer": 0,
+      "why": "It is a genuine efficiency gain, because resources are used where they are most productive.",
+      "whyNot": [
+        "",
+        "That is trade diversion.",
+        "Blocs typically divert trade away from non-members.",
+        "That is product development."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-06",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines trade diversion?",
+      "options": [
+        "Trade shifting from a more efficient non-member to a less efficient member because of the external tariff",
+        "Trade shifting from goods to services",
+        "Trade being rerouted through a third country to avoid duty",
+        "Trade falling during a recession"
+      ],
+      "answer": 0,
+      "why": "It is an efficiency loss, and the imported good costs more in real terms than it need.",
+      "whyNot": [
+        "",
+        "That is a change in trade composition.",
+        "That is transhipment.",
+        "That is cyclical."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-07",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "Under what conditions is a bloc more likely to raise welfare?",
+      "options": [
+        "When members are already substantial trading partners and the external tariff is low",
+        "When members produce identical goods and the external tariff is high",
+        "When members have no existing trade with each other",
+        "When the bloc has as many members as possible"
+      ],
+      "answer": 0,
+      "why": "Trade creation is then more likely to exceed trade diversion, which is the central welfare test.",
+      "whyNot": [
+        "",
+        "A high external tariff maximises diversion.",
+        "Little existing trade means little scope for creation.",
+        "Size alone does not determine the balance of the two effects."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-08",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "Why are rules of origin needed in a free trade area but not a customs union?",
+      "options": [
+        "Members keep their own external tariffs, so goods could enter through the lowest-tariff member",
+        "Customs unions do not trade with non-members",
+        "Free trade areas prohibit imports from non-members",
+        "Customs unions have no internal tariffs"
+      ],
+      "answer": 0,
+      "why": "The common external tariff removes the incentive, and with it the paperwork, which is a real cost saving.",
+      "whyNot": [
+        "",
+        "Customs unions trade with non-members under the common tariff.",
+        "They permit such imports, subject to each member's own tariff.",
+        "Free trade areas also have no internal tariffs."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-09",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "What does a member give up by joining an economic and monetary union?",
+      "options": [
+        "An independent monetary policy and the ability to let the exchange rate adjust",
+        "The ability to trade with non-members",
+        "Control of its own public spending entirely",
+        "The right to set its own product standards only"
+      ],
+      "answer": 0,
+      "why": "Whether that is acceptable depends on how similar members' economic cycles are, which is the optimal currency area question.",
+      "whyNot": [
+        "",
+        "External trade continues under the common tariff.",
+        "Fiscal policy generally remains national, subject to coordination.",
+        "Standards are harmonised at the common market stage."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-10",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "hard",
+      "stem": "Which of the following is the least glamorous and most substantial benefit of bloc membership for small firms?",
+      "options": [
+        "Lower transaction costs from fewer customs procedures and one set of standards",
+        "The ability to charge higher prices",
+        "Protection from competitors within the bloc",
+        "Guaranteed access to government contracts"
+      ],
+      "answer": 0,
+      "why": "The fixed cost of compliance is proportionally largest for small firms, so removing it matters most to them.",
+      "whyNot": [
+        "",
+        "Greater competition tends to lower prices.",
+        "Barriers to members are removed, not raised.",
+        "Procurement access varies by agreement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-11",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "hard",
+      "stem": "Why can free movement of factors create problems as well as benefits?",
+      "options": [
+        "Emigration from poorer members can amount to a brain drain and immigration pressures services",
+        "Factors of production cannot physically move between countries",
+        "It always reduces total output in the bloc",
+        "It requires a single currency to operate"
+      ],
+      "answer": 0,
+      "why": "Efficiency rises as factors move to their highest return, and the distributional effects between members are uneven.",
+      "whyNot": [
+        "",
+        "Free movement is precisely designed to allow it.",
+        "It raises allocative efficiency and total output.",
+        "It operates at the common market stage without a shared currency."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-12",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "hard",
+      "stem": "Why are blocs in tension with the most favoured nation principle?",
+      "options": [
+        "They offer members better terms than non-members, which is discrimination",
+        "They require members to raise tariffs on each other",
+        "They prevent members from joining the WTO",
+        "They set exchange rates for their members"
+      ],
+      "answer": 0,
+      "why": "The WTO permits them as an exception, on condition that they cover substantially all trade and do not raise barriers against non-members.",
+      "whyNot": [
+        "",
+        "Internal tariffs are removed.",
+        "Bloc members are WTO members.",
+        "Exchange rates are a separate matter."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-13",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "hard",
+      "stem": "What is meant by asking whether blocs are building blocks or stumbling blocks?",
+      "options": [
+        "Whether they lead towards wider global liberalisation or substitute for it",
+        "Whether they are made of customs unions or free trade areas",
+        "Whether they raise or lower members' tariffs on each other",
+        "Whether they are permitted under WTO rules"
+      ],
+      "answer": 0,
+      "why": "Blocs liberalise faster and deeper than the WTO has managed, and preferential regional access reduces the incentive to pursue global liberalisation.",
+      "whyNot": [
+        "",
+        "It is not about their structure.",
+        "Internal tariffs fall in every type of bloc.",
+        "They are permitted as an exception."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-14",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of the WTO?",
+      "options": [
+        "Agriculture and services remained far less liberalised than manufactures",
+        "It has no developing country members",
+        "It cannot settle any disputes",
+        "It sets no rules at all"
+      ],
+      "answer": 0,
+      "why": "That disadvantages developing countries whose comparative advantage is often agricultural.",
+      "whyNot": [
+        "",
+        "Most of its members are developing countries.",
+        "Dispute settlement is one of its three core roles.",
+        "It administers an extensive body of rules."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-15",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "hard",
+      "stem": "Which group bears the cost of trade diversion?",
+      "options": [
+        "Non-members, particularly developing countries excluded from major blocs",
+        "Only the bloc's own consumers",
+        "Only the bloc's producers",
+        "Nobody, because diversion is a pure gain"
+      ],
+      "answer": 0,
+      "why": "Bloc consumers also pay more than they need for diverted imports, and the excluded exporters lose the market entirely.",
+      "whyNot": [
+        "",
+        "Consumers bear part of it, and excluded exporters bear the rest.",
+        "Producers within the bloc gain from diversion.",
+        "It is an efficiency loss, not a gain."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-4-16",
+      "topicRef": "4.3.2.4",
+      "topicTitle": "Trade liberalisation and trading blocs",
+      "difficulty": "medium",
+      "stem": "What further information would most improve an answer on whether a country benefits from bloc membership?",
+      "options": [
+        "The share of the country's trade already conducted with bloc members",
+        "The population of each member state",
+        "The number of years the bloc has existed",
+        "The languages spoken in the bloc"
+      ],
+      "answer": 0,
+      "why": "Existing trade with members determines how much scope there is for trade creation rather than diversion.",
+      "whyNot": [
+        "",
+        "Population alone does not determine the welfare effect.",
+        "Age of the bloc is not the relevant variable.",
+        "Language is not an economic determinant here."
+      ]
+    }
+  ]
+}

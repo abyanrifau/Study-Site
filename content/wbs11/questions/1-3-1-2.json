@@ -1,0 +1,338 @@
+{
+  "topicRef": "1.3.1.2",
+  "topicTitle": "Market research",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-1-2-01",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of primary research?",
+      "options": [
+        "The collection of new data first hand by the business, for its own purpose",
+        "The use of data already collected by somebody else",
+        "Research that produces only numerical results",
+        "The first stage of any market research project"
+      ],
+      "answer": 0,
+      "why": "Primary research means the business gathers the data itself, for its own specific question. That is what makes it relevant, and also what makes it slow and expensive.",
+      "whyNot": [
+        "",
+        "That is secondary research. The distinction is who collected the data and why, not how useful it turns out to be.",
+        "Numerical results are quantitative data. Primary research can be quantitative or qualitative, for example a focus group.",
+        "The word primary refers to the source of the data, not to the order in which research is carried out. Most businesses do secondary research first because it is cheaper."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-02",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: non-numerical data about opinions, attitudes and motives, which explains why customers behave as they do?",
+      "options": ["Qualitative data", "Quantitative data", "Secondary data", "Sampling data"],
+      "answer": 0,
+      "why": "Qualitative data is about reasons rather than numbers. It tells a business why customers choose as they do, which numbers alone cannot.",
+      "whyNot": [
+        "",
+        "Quantitative data is numerical and measurable. It tells you how many, not why.",
+        "Secondary data is data that already exists, collected by somebody else. It can be either qualitative or quantitative.",
+        "This is not a recognised term. Sampling is the method of choosing who to research, not a type of data."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-03",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a sample?",
+      "options": [
+        "The group selected from the target population to be researched, used to represent that population",
+        "The total number of customers a business has",
+        "A free version of a product given to customers to try",
+        "The list of questions used in a survey"
+      ],
+      "answer": 0,
+      "why": "A sample is the subset of the population actually researched, on the assumption that it represents the whole. Whether that assumption holds depends on sample size and bias.",
+      "whyNot": [
+        "",
+        "That is the customer base. A sample is drawn from a population in order to research it, and is normally far smaller.",
+        "That is a free sample of a product, which is a promotional method. In research, a sample means a group of people.",
+        "That is a questionnaire. The sample is who you ask, not what you ask them."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-04",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of stratified sampling?",
+      "options": [
+        "Dividing the population into segments and selecting at random within each, in proportion to the segment's size",
+        "Selecting people so that every member of the population has an equal chance of being chosen",
+        "Dividing the population into groups and letting the researcher choose a set number from each",
+        "Surveying everyone in the target population"
+      ],
+      "answer": 0,
+      "why": "Stratified sampling combines the two ideas: split the population into segments in the right proportions, then choose randomly inside each. That makes it the most representative of the three methods, and the most complex and costly.",
+      "whyNot": [
+        "",
+        "That is random sampling. It has no researcher bias, but by chance it can under-represent a whole group.",
+        "That is quota sampling. Because the researcher chooses who to approach within each group, bias can creep in.",
+        "That is a census, not a sample. It is usually impossible or far too expensive."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-05",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which of the following is a method of secondary research?",
+      "options": [
+        "Reading a published government market report",
+        "Running a focus group with eight customers",
+        "Interviewing shoppers outside a store",
+        "Test marketing a product in one city"
+      ],
+      "answer": 0,
+      "why": "A published report already exists and was produced by somebody else for another purpose, which makes it secondary research.",
+      "whyNot": [
+        "",
+        "A focus group is primary research. The business is generating the data itself, for its own question.",
+        "Interviews are primary research, collected first hand by the business or its researchers.",
+        "Test marketing is primary research, and among the most reliable kinds because it records real purchases rather than stated intentions."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-06",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "A business surveys only its existing customers about a new product aimed at attracting new ones. What is the main weakness of this research?",
+      "options": [
+        "The sample is biased, because the customers it most needs to hear from are missing",
+        "The data collected will be qualitative rather than quantitative",
+        "Surveys cannot produce useful data about new products",
+        "Existing customers cannot legally be surveyed about new products"
+      ],
+      "answer": 0,
+      "why": "The people it needs to understand are the ones who do not currently buy from it. By surveying only existing customers it has excluded them, so the results cannot represent the target population. That is sample bias.",
+      "whyNot": [
+        "",
+        "A survey of existing customers can produce either kind of data. The problem is who is being asked, not what form the answers take.",
+        "Surveys are widely used for new products. The issue here is the sample, not the method.",
+        "There is no such restriction. Surveying your own customers is normal and cheap; it is just the wrong sample for this particular question."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-07",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which of the following is the main advantage of secondary research over primary research?",
+      "options": [
+        "It is usually cheaper and faster to obtain",
+        "It is always more accurate",
+        "It is always specific to the business's own question",
+        "It always covers a larger sample of the target market"
+      ],
+      "answer": 0,
+      "why": "Secondary data already exists, so there is nothing to collect. That makes it far cheaper and quicker, which is why most businesses start there.",
+      "whyNot": [
+        "",
+        "Not always. A large government survey may be more reliable than a small questionnaire, but secondary data can also be out of date or poorly collected.",
+        "This is the opposite of the truth, and the main weakness of secondary research. It was gathered for somebody else's purpose, so it may not fit your question.",
+        "Sometimes true but not reliably so, and a large sample of the wrong population is no help."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-08",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which research method gives the most reliable evidence of how customers will actually behave?",
+      "options": [
+        "Test marketing the product in a limited area",
+        "A questionnaire asking whether people would buy the product",
+        "A focus group discussing the product concept",
+        "Reading competitor websites"
+      ],
+      "answer": 0,
+      "why": "Test marketing records real purchase decisions with real money. What people say they will do and what they actually do often differ, and test marketing removes that gap.",
+      "whyNot": [
+        "",
+        "A questionnaire captures stated intention, which is consistently a poor predictor of behaviour. People overstate how much they would buy.",
+        "A focus group gives rich insight into attitudes, but it is still a discussion, not a purchase, and a dominant voice can sway the group.",
+        "Competitor websites tell you about competitors' offerings, not about how your own customers would behave."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-09",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "According to the specification, market research is used to identify customer needs, gain insight into consumer behaviour and:",
+      "options": [
+        "quantify likely demand",
+        "guarantee the product will succeed",
+        "set the business's fixed costs",
+        "remove all risk from a decision"
+      ],
+      "answer": 0,
+      "why": "Quantifying likely demand means putting a number on how many would buy and at what price. That is what makes a forecast, and a business plan, credible to a lender or investor.",
+      "whyNot": [
+        "",
+        "No research can guarantee success. Plenty of well-researched products fail, and saying so is how you show judgement in an evaluation answer.",
+        "Fixed costs come from the business's own cost structure, such as rent and salaries. Research does not determine them.",
+        "Research reduces risk, it does not remove it. Uncertainty by definition cannot be researched away."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-10",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "hard",
+      "stem": "A survey of 30 people found that 80% would buy a new product. What is the most valid criticism of using this to forecast demand?",
+      "options": [
+        "The sample is too small, so the margin of error is very wide",
+        "Percentages cannot be used to forecast demand",
+        "The data is secondary rather than primary",
+        "80% is too high to be believable in any market"
+      ],
+      "answer": 0,
+      "why": "With only 30 people, a handful of different responses would swing the percentage dramatically. The smaller the sample, the wider the margin of error, so a figure like 80% cannot safely be scaled up to a whole market.",
+      "whyNot": [
+        "",
+        "Percentages are exactly how such forecasts are built. The problem is the number of people the percentage is based on, not the use of percentages.",
+        "A survey run by the business is primary research. That is not the weakness here.",
+        "A high proportion is perfectly possible, especially for a well-targeted product. The issue is reliability of the figure, not its size."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-11",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "hard",
+      "stem": "Which combination correctly describes a focus group?",
+      "options": [
+        "Primary and mainly qualitative",
+        "Primary and mainly quantitative",
+        "Secondary and mainly qualitative",
+        "Secondary and mainly quantitative"
+      ],
+      "answer": 0,
+      "why": "The business generates the data itself, so it is primary. The output is opinions, attitudes and reasons from a guided discussion, so it is qualitative. Primary/secondary and qualitative/quantitative are two separate questions, and a method has one answer to each.",
+      "whyNot": [
+        "",
+        "A focus group involves a handful of people in discussion. It produces reasons, not measurable numbers, so it is not mainly quantitative.",
+        "It is not secondary. Secondary data already exists before the business starts; a focus group is run by or for the business.",
+        "Wrong on both counts: it is primary, not secondary, and qualitative, not quantitative."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-12",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of bias in market research?",
+      "options": [
+        "Any influence that makes a sample or its results unrepresentative of the population studied",
+        "A deliberate lie told by a respondent",
+        "The cost of carrying out primary research",
+        "The difference between qualitative and quantitative data"
+      ],
+      "answer": 0,
+      "why": "Bias is anything that systematically skews the findings away from the truth about the population, whether or not anyone intended it. Surveying only people willing to stop and talk is biased even though nobody lied.",
+      "whyNot": [
+        "",
+        "Individual dishonesty is one possible source of error, but bias is broader and usually comes from how the sample or the questions were designed.",
+        "Cost is a practical constraint on research. It can lead to a small or biased sample, but it is not what bias means.",
+        "That is a distinction between types of data. Either type can be biased."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-13",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "A small start-up with very little cash needs to understand its market. What is the most sensible first step?",
+      "options": [
+        "Use secondary sources such as competitor websites, reviews and published statistics",
+        "Commission a stratified survey of 2,000 people",
+        "Run a national test marketing campaign",
+        "Skip research and launch, then see what happens"
+      ],
+      "answer": 0,
+      "why": "Secondary research is cheap or free and can be done immediately. For a business with no spare cash it gives the most understanding per pound spent, and it also shows where primary research would later be worth paying for.",
+      "whyNot": [
+        "",
+        "A stratified survey of that size is the most expensive and complex option available. It is well beyond a cash-poor start-up.",
+        "National test marketing is extremely expensive and is normally used by large firms before a full launch.",
+        "Launching blind is exactly the risk research exists to reduce, and a lender would be unlikely to fund it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-14",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which of the following is the main drawback of using a business's own sales database as research?",
+      "options": [
+        "It only tells the business about people who already buy from it",
+        "It is expensive to obtain",
+        "It produces only qualitative data",
+        "It is primary research and therefore unreliable"
+      ],
+      "answer": 0,
+      "why": "Internal records are cheap and accurate, but they describe existing customers only. They say nothing about the people who looked and did not buy, or who never considered the business at all.",
+      "whyNot": [
+        "",
+        "It is one of the cheapest sources available, since the business already owns the data.",
+        "Sales records are numerical, so they are mainly quantitative.",
+        "Existing internal records are usually treated as secondary data, and being primary would not make data unreliable in any case."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-15",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "hard",
+      "stem": "In a small economy, published market reports for a particular industry simply do not exist. What is the most important consequence for a business entering that market?",
+      "options": [
+        "The real cost of researching the market rises, because primary research becomes the only option",
+        "The business cannot legally enter the market",
+        "Market research is unnecessary in small economies",
+        "Only qualitative research is possible"
+      ],
+      "answer": 0,
+      "why": "If there is no secondary data, the cheap route is closed. Everything must be gathered first hand, which costs more money and time, so the true cost of entering that market is higher than it looks.",
+      "whyNot": [
+        "",
+        "Nothing about the absence of published data creates a legal barrier. It is a practical and financial problem.",
+        "The opposite: with less published information available, first-hand research matters more, not less.",
+        "Primary research can be quantitative too, for example a questionnaire or a product trial. The constraint is cost, not the type of data."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-2-16",
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "difficulty": "medium",
+      "stem": "Which statement about quantitative and qualitative data is correct?",
+      "options": [
+        "Quantitative data sizes the opportunity; qualitative data explains it",
+        "Quantitative data is always primary; qualitative data is always secondary",
+        "Qualitative data is more accurate because it comes from real conversations",
+        "A business should use one or the other, never both"
+      ],
+      "answer": 0,
+      "why": "The two answer different questions. Numbers tell a business how many and how much; words tell it why. Strong research uses both, with the numbers measuring the opportunity and the words explaining what is behind it.",
+      "whyNot": [
+        "",
+        "There is no such link. Government statistics are secondary and quantitative; a focus group is primary and qualitative. The two distinctions are independent.",
+        "Qualitative data is rich but comes from small numbers of people, so it is hard to generalise from. Being a real conversation does not make it representative.",
+        "Using both is the stronger approach, and examiners reward recognising that they do different jobs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.5.3",
+  "topicTitle": "Human resources",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-5-3-01",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines labour productivity?",
+      "options": [
+        "Output per employee over a period of time",
+        "The percentage of employees who leave each year",
+        "The percentage of working days lost to absence",
+        "The average wage paid per employee"
+      ],
+      "answer": 0,
+      "why": "Labour productivity = total output divided by the number of employees.",
+      "whyNot": [
+        "",
+        "That is labour turnover.",
+        "That is absenteeism.",
+        "That is average pay, which is a cost measure rather than a productivity measure."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-02",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "easy",
+      "stem": "A business employs an average of 50 staff and produces 30,000 units. What is labour productivity?",
+      "options": [
+        "600 units per employee",
+        "1,500,000 units",
+        "0.0017 units",
+        "50 units"
+      ],
+      "answer": 0,
+      "why": "30,000 / 50 = 600 units per employee.",
+      "whyNot": [
+        "",
+        "That multiplies the two figures instead of dividing.",
+        "That divides employees by output, which is the wrong way round.",
+        "That is simply the number of employees."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-03",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "easy",
+      "stem": "A business employs an average of 80 staff and 18 left during the year. What is labour turnover?",
+      "options": [
+        "22.5%",
+        "18%",
+        "4.4%",
+        "77.5%"
+      ],
+      "answer": 0,
+      "why": "(18 / 80) x 100 = 22.5%.",
+      "whyNot": [
+        "",
+        "That is the number of leavers, not a percentage of the workforce.",
+        "That divides 80 by 18, which is the wrong way round.",
+        "That is labour retention, the complement of turnover."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-04",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "easy",
+      "stem": "62 out of an average of 80 employees were employed for the whole year. What is labour retention?",
+      "options": [
+        "77.5%",
+        "22.5%",
+        "62%",
+        "1.29%"
+      ],
+      "answer": 0,
+      "why": "(62 / 80) x 100 = 77.5%. Notice it and turnover of 22.5% total 100%, which is a useful arithmetic check.",
+      "whyNot": [
+        "",
+        "That is labour turnover, the complement of retention.",
+        "That is the number of staff retained, not a percentage of the workforce.",
+        "That divides 80 by 62, which is the wrong way round."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-05",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "80 staff could work 250 days each and 640 staff days were lost to absence. What is the absenteeism rate?",
+      "options": [
+        "3.2%",
+        "8%",
+        "0.32%",
+        "2.56%"
+      ],
+      "answer": 0,
+      "why": "Total possible = 80 x 250 = 20,000 staff days. (640 / 20,000) x 100 = 3.2%.",
+      "whyNot": [
+        "",
+        "That divides 640 by 80, forgetting to multiply by the working days.",
+        "That misplaces the decimal point by a factor of ten.",
+        "That uses an incorrect denominator."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-06",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Which of the following is the correct denominator for the absenteeism calculation?",
+      "options": [
+        "Number of employees multiplied by working days in the period",
+        "Number of employees only",
+        "Number of working days only",
+        "Number of employees who were absent at least once"
+      ],
+      "answer": 0,
+      "why": "The denominator is total staff days possible, which requires both the headcount and the number of working days.",
+      "whyNot": [
+        "",
+        "Using headcount alone ignores how many days each could have worked.",
+        "Using days alone ignores how many people could have worked them.",
+        "That would exclude staff who were never absent, distorting the rate."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-07",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Replacing one employee costs $2,000 and 18 staff left this year. What is the annual cost of turnover?",
+      "options": [
+        "$36,000",
+        "$2,000",
+        "$111",
+        "$16,000"
+      ],
+      "answer": 0,
+      "why": "18 x $2,000 = $36,000. Costing the turnover is what turns the calculation into analysis.",
+      "whyNot": [
+        "",
+        "That is the cost of replacing just one employee.",
+        "That divides the replacement cost by the number of leavers.",
+        "That is the saving from a reduction in turnover, not the current total cost."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-08",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Turnover falls from 22.5% to 12% in a business averaging 80 staff, with replacement costing $2,000. Roughly how much is saved each year?",
+      "options": [
+        "About $16,000",
+        "About $36,000",
+        "About $2,000",
+        "About $160,000"
+      ],
+      "answer": 0,
+      "why": "22.5% of 80 is 18 leavers and 12% of 80 is about 10, so around 8 fewer leavers at $2,000 each saves roughly $16,000.",
+      "whyNot": [
+        "",
+        "That is the cost of turnover at the original rate, not the saving.",
+        "That is the cost of one replacement.",
+        "That overstates the saving by a factor of ten."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-09",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Why is zero labour turnover not an ideal target?",
+      "options": [
+        "No new ideas or fresh skills enter, and there is no way to move on poor performers",
+        "It would breach employment law in most countries",
+        "It always means the business is paying too little",
+        "It makes absenteeism impossible to measure"
+      ],
+      "answer": 0,
+      "why": "The optimum level of turnover is low rather than nil, which is a useful evaluative point.",
+      "whyNot": [
+        "",
+        "There is no legal requirement for staff to leave.",
+        "Zero turnover more often suggests generous conditions than low pay.",
+        "Absenteeism is measured independently of turnover."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-10",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Which of the following makes comparing turnover figures across industries unreliable?",
+      "options": [
+        "Normal rates differ greatly, so hospitality and retail figures would alarm a manufacturer",
+        "Turnover cannot be calculated in service industries",
+        "The formula changes from one industry to another",
+        "Turnover is only published by listed companies"
+      ],
+      "answer": 0,
+      "why": "Judge the figure against the industry norm, not against zero.",
+      "whyNot": [
+        "",
+        "It can be calculated wherever there are employees.",
+        "The formula is the same; the norms differ.",
+        "Any business can calculate it from its own records."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-11",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "hard",
+      "stem": "In Herzberg's terms, why may a pay rise fail to solve high turnover caused by boring work?",
+      "options": [
+        "Pay is a hygiene factor, so it removes dissatisfaction rather than creating motivation",
+        "Pay is a motivator, so it fully addresses the cause",
+        "Pay has no effect on employee behaviour at all",
+        "Boring work is a hygiene factor that only pay can address"
+      ],
+      "answer": 0,
+      "why": "If the problem is the nature of the work and the absence of responsibility, a pay rise buys a short reprieve without fixing the cause.",
+      "whyNot": [
+        "",
+        "Herzberg classified pay as a hygiene factor, not a motivator.",
+        "Pay clearly affects behaviour; the question is which type of factor it addresses.",
+        "The nature of the work relates to motivators such as responsibility and achievement."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-12",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "hard",
+      "stem": "Which strategy for improving human resource performance delivers Herzberg's motivators most directly?",
+      "options": [
+        "Empowerment, because it gives employees responsibility for their own work",
+        "A pay rise, because money is what employees care about most",
+        "Tighter supervision, because it raises standards",
+        "Reducing holiday entitlement to increase working days"
+      ],
+      "answer": 0,
+      "why": "Empowerment delivers responsibility, which Herzberg identified as a genuine motivator, though it needs training and clear boundaries.",
+      "whyNot": [
+        "",
+        "Pay is a hygiene factor in Herzberg's model.",
+        "Closer supervision reduces autonomy and is likely to demotivate.",
+        "Cutting entitlements worsens hygiene factors and would raise dissatisfaction."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-13",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "hard",
+      "stem": "A business reports turnover of 22.5% overall, made up of 5% among managers and 60% among frontline staff. What is the lesson?",
+      "options": [
+        "Averages hide the distribution, and the two groups represent completely different problems",
+        "The overall figure is the only one that matters",
+        "The manager figure must have been calculated incorrectly",
+        "High frontline turnover is unavoidable and needs no action"
+      ],
+      "answer": 0,
+      "why": "An average conceals where the problem actually lies, so the remedy has to be aimed at the group with the problem.",
+      "whyNot": [
+        "",
+        "Acting on the average would spread effort across a group that has no problem.",
+        "There is no reason to doubt the calculation; genuine differences between groups are normal.",
+        "It may be high by sector standards and still be worth reducing once costed."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-14",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "hard",
+      "stem": "Why is employee share ownership only weakly linked to daily behaviour?",
+      "options": [
+        "An individual employee's effort barely moves the share price",
+        "Employees are not allowed to own shares in their employer",
+        "Share ownership reduces pay",
+        "Shares cannot be sold by employees"
+      ],
+      "answer": 0,
+      "why": "It aligns interests over the long term, but the connection between one person's work today and the share price is too thin to change behaviour much.",
+      "whyNot": [
+        "",
+        "Employee share schemes are common and lawful.",
+        "Share ownership is usually additional to pay rather than a replacement for it.",
+        "Schemes normally allow shares to be sold after a holding period."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-15",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "medium",
+      "stem": "Why is consulting employees and then ignoring their answer worse than not consulting?",
+      "options": [
+        "It destroys trust, which makes future consultation and change harder",
+        "It costs more than genuine consultation",
+        "It is illegal in most countries",
+        "It increases labour productivity in the short run"
+      ],
+      "answer": 0,
+      "why": "Consultation only works where it is genuine, because staff judge it by whether their views changed anything.",
+      "whyNot": [
+        "",
+        "The cost of the consultation is the same; the damage is to trust.",
+        "Consultation requirements vary, but ignoring views is not generally unlawful.",
+        "It is likely to reduce morale and productivity, not raise it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-3-16",
+      "topicRef": "3.3.5.3",
+      "topicTitle": "Human resources",
+      "difficulty": "hard",
+      "stem": "Which of the following is the strongest limitation of the four human resource measures?",
+      "options": [
+        "They show a symptom, not a cause, so exit interviews and surveys are still needed",
+        "They cannot be calculated from company records",
+        "They are only relevant to businesses with over 500 employees",
+        "They always contradict each other"
+      ],
+      "answer": 0,
+      "why": "A turnover figure tells you there is a problem, not what it is, and diagnosing before prescribing is what earns the higher marks.",
+      "whyNot": [
+        "",
+        "They are calculated directly from internal records.",
+        "They apply to businesses of any size.",
+        "They usually reinforce each other, for example high turnover reducing productivity."
+      ]
+    }
+  ]
+}

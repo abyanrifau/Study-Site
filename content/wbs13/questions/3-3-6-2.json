@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.6.2",
+  "topicTitle": "Contingency planning",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-6-2-01",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines contingency planning?",
+      "options": [
+        "Preparing in advance a response to a possible future event that would seriously disrupt the business",
+        "Responding to a crisis as it unfolds",
+        "Forecasting next year's sales as accurately as possible",
+        "Insuring all of a business's non-current assets"
+      ],
+      "answer": 0,
+      "why": "Contingency planning happens before the event; the plan is prepared for something that may or may not occur.",
+      "whyNot": [
+        "",
+        "That is crisis management, which happens during the event.",
+        "Sales forecasting predicts the expected outcome rather than planning for disruption.",
+        "Insurance is one possible response within a plan, not the plan itself."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-02",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines risk assessment?",
+      "options": [
+        "Identifying the risks a business faces and judging each by likelihood and impact",
+        "Calculating the insurance premium a business must pay",
+        "Estimating the profit a business will make next year",
+        "Recording accidents that have already happened"
+      ],
+      "answer": 0,
+      "why": "Likelihood and impact are the two dimensions that turn a long list of risks into a usable plan.",
+      "whyNot": [
+        "",
+        "Premiums are a cost of one response to risk, not the assessment itself.",
+        "Profit forecasting is a different exercise.",
+        "Recording past events is incident reporting rather than forward assessment."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-03",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines business continuity planning?",
+      "options": [
+        "Planning how essential operations will continue during and after a major disruption",
+        "Planning how to expand a business into new markets",
+        "Planning the annual budget for each department",
+        "Planning which employees will be promoted next year"
+      ],
+      "answer": 0,
+      "why": "Continuity planning asks what the business must keep doing whatever happens, and how.",
+      "whyNot": [
+        "",
+        "That is growth strategy.",
+        "That is budgeting.",
+        "That is succession planning, which is related but narrower."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-04",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines succession planning?",
+      "options": [
+        "Identifying and developing employees who can fill key roles when the current holders leave",
+        "Deciding who inherits the shares of a deceased owner",
+        "Choosing which products will replace those being withdrawn",
+        "Planning the order in which loans will be repaid"
+      ],
+      "answer": 0,
+      "why": "Succession planning addresses the risk of losing key people, which the specification includes and students routinely omit.",
+      "whyNot": [
+        "",
+        "That is a legal and personal matter rather than a business plan.",
+        "That is product portfolio management.",
+        "That is debt management."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-05",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Which of the following is the correct list of the four standard responses to a risk?",
+      "options": [
+        "Avoid, reduce, transfer, accept",
+        "Identify, measure, report, audit",
+        "Plan, do, check, act",
+        "Forecast, budget, monitor, review"
+      ],
+      "answer": 0,
+      "why": "Each risk can be avoided, reduced, transferred through insurance or contract, or simply accepted where action would cost more than the expected loss.",
+      "whyNot": [
+        "",
+        "Those are stages of risk reporting rather than responses to a risk.",
+        "That is a general quality improvement cycle.",
+        "Those are budgetary control steps."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-06",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "A risk is very unlikely but would close the business if it happened. What is the appropriate response?",
+      "options": [
+        "Plan for it, because high impact justifies preparation even when likelihood is low",
+        "Ignore it, because the likelihood is low",
+        "Accept it, because unlikely risks never occur",
+        "Treat it as equivalent to a frequent minor risk"
+      ],
+      "answer": 0,
+      "why": "Plan for impact as well as likelihood: a low-probability event that would end the business is worth insuring against.",
+      "whyNot": [
+        "",
+        "Ignoring a business-ending risk leaves the whole business exposed.",
+        "Low probability is not zero probability.",
+        "A frequent minor risk can be absorbed; a business-ending one cannot."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-07",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Which of the following best describes risk transfer?",
+      "options": [
+        "Shifting the financial consequences to another party, usually through insurance or a contract clause",
+        "Reducing the likelihood of the risk occurring",
+        "Stopping the activity that creates the risk",
+        "Deciding to bear the risk without action"
+      ],
+      "answer": 0,
+      "why": "Transfer moves the financial loss elsewhere, though it does not restore lost customers or reputation.",
+      "whyNot": [
+        "",
+        "That is risk reduction.",
+        "That is risk avoidance.",
+        "That is risk acceptance."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-08",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Which of the following is a cost of contingency planning?",
+      "options": [
+        "Holding spare capacity, inventory or cash that earns nothing",
+        "The loss caused by the disruptive event itself",
+        "The cost of recruiting replacement staff after a resignation",
+        "The interest charged on a long-term loan"
+      ],
+      "answer": 0,
+      "why": "Contingency planning ties up resources continuously for an event that may never happen, which is why it is so often under-done.",
+      "whyNot": [
+        "",
+        "That is the cost of the event, which is what the plan is designed to reduce.",
+        "That is a labour turnover cost, not a planning cost.",
+        "Interest is a financing cost unrelated to contingency planning."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-09",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Why is the best-known benefit of contingency planning described as speed?",
+      "options": [
+        "In a crisis, the business with a plan acts while the business without one holds meetings",
+        "Planning makes the disruptive event happen sooner",
+        "Planning reduces the time needed to prepare the annual accounts",
+        "Planning speeds up product development"
+      ],
+      "answer": 0,
+      "why": "The decisions have already been taken, so the response begins immediately, which is where most of the loss reduction comes from.",
+      "whyNot": [
+        "",
+        "Planning does not affect whether or when the event occurs.",
+        "Accounts preparation is unrelated.",
+        "Product development is a separate activity."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-10",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "hard",
+      "stem": "Why can a contingency plan create false confidence?",
+      "options": [
+        "A document nobody has rehearsed is not a capability",
+        "Plans are legally binding once written",
+        "Plans always predict the wrong event",
+        "Plans make insurance unnecessary"
+      ],
+      "answer": 0,
+      "why": "Rehearsal is what turns a written plan into an actual ability to respond, which is why testing is part of continuity planning.",
+      "whyNot": [
+        "",
+        "Internal plans are not legally binding documents.",
+        "Plans may prove to cover the wrong event, but not always.",
+        "Insurance often remains part of the plan rather than being replaced by it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-11",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "hard",
+      "stem": "Why is a founder-dominated small business particularly exposed to the loss of a key person?",
+      "options": [
+        "The more decisions run through one person, the greater the risk of losing them",
+        "Small businesses are legally required to have one decision maker",
+        "Small businesses cannot buy insurance",
+        "Founders are more likely to leave than other employees"
+      ],
+      "answer": 0,
+      "why": "It links to the power culture and the entrepreneur-to-leader transition: concentrated authority creates a single point of failure.",
+      "whyNot": [
+        "",
+        "No such requirement exists; the concentration is a choice or a consequence of size.",
+        "Insurance is available, including key person cover.",
+        "The issue is the concentration of authority, not the probability of departure."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-12",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "hard",
+      "stem": "A resort island depends on one generator, one water plant and one transfer operator. What does this illustrate?",
+      "options": [
+        "Single points of failure, where continuity planning concentrates on duplication",
+        "Economies of scale, where larger operations reduce unit costs",
+        "Diseconomies of scale caused by poor communication",
+        "Price elasticity of demand for a luxury service"
+      ],
+      "answer": 0,
+      "why": "Any one failure stops the whole operation with guests already on site, so the plan is to duplicate each critical element.",
+      "whyNot": [
+        "",
+        "Scale economies concern unit costs, not resilience.",
+        "Diseconomies concern the problems of large size.",
+        "Elasticity concerns demand response to price."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-13",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "hard",
+      "stem": "What is the cleanest way to frame the core trade-off in contingency planning?",
+      "options": [
+        "A certain small cost now against an uncertain large cost later",
+        "A certain large cost now against a certain small cost later",
+        "An uncertain small benefit now against a certain large benefit later",
+        "A fixed cost now against a variable cost later"
+      ],
+      "answer": 0,
+      "why": "That framing comes from risk and uncertainty, and it structures the whole evaluation.",
+      "whyNot": [
+        "",
+        "The cost of planning is normally small relative to the potential loss, and the loss is uncertain.",
+        "Planning is a cost rather than a benefit, and the later outcome is uncertain.",
+        "The distinction is about certainty, not cost classification."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-14",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "hard",
+      "stem": "Which of the following is a strong evaluative argument against detailed contingency planning?",
+      "options": [
+        "You cannot plan for everything, so general resilience such as cash reserves may be better value",
+        "Disruptive events never happen to well-managed businesses",
+        "Contingency planning is prohibited by accounting standards",
+        "Insurance fully compensates for every possible loss"
+      ],
+      "answer": 0,
+      "why": "General flexibility and financial strength protect against events nobody anticipated, which specific plans by definition cannot.",
+      "whyNot": [
+        "",
+        "Good management reduces some risks but cannot prevent external shocks.",
+        "Nothing in accounting standards prohibits it.",
+        "Insurance transfers financial loss and does not restore reputation or lost customers."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-15",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines scenario planning?",
+      "options": [
+        "Preparing for several possible futures rather than forecasting a single one",
+        "Calculating the most likely sales figure for next year",
+        "Testing a product with a sample of customers",
+        "Recording what happened during a past crisis"
+      ],
+      "answer": 0,
+      "why": "Scenario planning accepts that the future is uncertain and prepares for a range of outcomes.",
+      "whyNot": [
+        "",
+        "That is single-point forecasting.",
+        "That is market testing.",
+        "That is a post-incident review."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-2-16",
+      "topicRef": "3.3.6.2",
+      "topicTitle": "Contingency planning",
+      "difficulty": "medium",
+      "stem": "Why does the specification note that the planning process itself has value even if the event never occurs?",
+      "options": [
+        "It exposes weaknesses in the business that are worth fixing anyway",
+        "It reduces the corporation tax the business pays",
+        "It removes the need for insurance",
+        "It guarantees the business will grow"
+      ],
+      "answer": 0,
+      "why": "Working through how the business would cope reveals dependencies and gaps that can be addressed in normal trading.",
+      "whyNot": [
+        "",
+        "Planning has no direct tax effect.",
+        "Insurance often remains part of the response.",
+        "Resilience is not the same as growth."
+      ]
+    }
+  ]
+}

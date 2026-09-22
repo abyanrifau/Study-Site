@@ -1,0 +1,448 @@
+{
+  "topicRef": "2.7.1",
+  "topicTitle": "Break-even analysis",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-7-1-01",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines contribution per unit?",
+      "options": [
+        "Selling price per unit less variable cost per unit",
+        "Selling price per unit less total cost per unit",
+        "Total revenue less total fixed costs",
+        "Profit per unit after all costs"
+      ],
+      "answer": 0,
+      "why": "Contribution is what each unit contributes towards covering fixed costs and then towards profit.",
+      "whyNot": [
+        "",
+        "That is profit per unit under absorption costing.",
+        "That is not a standard measure.",
+        "Profit per unit is contribution less fixed cost per unit."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-02",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a semi-variable cost?",
+      "options": [
+        "A cost with both a fixed element and a variable element",
+        "A cost that is fixed over a range of output and then steps up",
+        "A cost that changes in direct proportion to output",
+        "A cost that does not change with output"
+      ],
+      "answer": 0,
+      "why": "A standing charge plus a usage charge is the classic example, and it must be split before use.",
+      "whyNot": [
+        "",
+        "That is a semi-fixed or stepped cost.",
+        "That is a variable cost.",
+        "That is a fixed cost."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-03",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the margin of safety?",
+      "options": [
+        "The amount by which actual or planned output exceeds the break-even output",
+        "The difference between selling price and variable cost",
+        "The level of output at which no profit or loss is made",
+        "The profit made at the current level of output"
+      ],
+      "answer": 0,
+      "why": "It measures how far output can fall before the business moves into loss, so it is a measure of risk.",
+      "whyNot": [
+        "",
+        "That is contribution per unit.",
+        "That is the break-even point.",
+        "That is profit."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-04",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the angle of incidence?",
+      "options": [
+        "The angle between the total revenue and total cost lines at the break-even point",
+        "The angle of the fixed cost line on the chart",
+        "The angle between the two axes of the chart",
+        "The slope of the variable cost line"
+      ],
+      "answer": 0,
+      "why": "A wide angle means profit grows quickly beyond break-even, which reflects a high contribution to sales ratio.",
+      "whyNot": [
+        "",
+        "The fixed cost line is horizontal.",
+        "The axes are always at right angles.",
+        "The slope of a line is not an angle of incidence."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-05",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Selling price is $45 and variable costs are materials $16, labour $9 and variable overhead $5. What is contribution per unit?",
+      "options": [
+        "$15",
+        "$30",
+        "$20",
+        "$24"
+      ],
+      "answer": 0,
+      "why": "Variable cost = 16 + 9 + 5 = $30. Contribution = 45 - 30 = $15.",
+      "whyNot": [
+        "",
+        "That is the variable cost per unit.",
+        "That omits the variable overhead.",
+        "That omits the labour cost."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-06",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Fixed costs are $180,000 and contribution per unit is $15. What is the break-even output?",
+      "options": [
+        "12,000 units",
+        "4,000 units",
+        "2,700,000 units",
+        "6,000 units"
+      ],
+      "answer": 0,
+      "why": "Break-even = 180,000 / 15 = 12,000 units.",
+      "whyNot": [
+        "",
+        "That divides by the selling price of $45 instead of contribution.",
+        "That multiplies the two figures.",
+        "That divides by $30, the variable cost."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-07",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Contribution per unit is $15 and the selling price is $45. What is the contribution to sales ratio?",
+      "options": [
+        "33.3%",
+        "66.7%",
+        "300%",
+        "3.0%"
+      ],
+      "answer": 0,
+      "why": "15 / 45 = 0.333, or 33.3%.",
+      "whyNot": [
+        "",
+        "That is the variable cost to sales ratio.",
+        "That inverts the ratio.",
+        "That misplaces the decimal point."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-08",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Fixed costs are $180,000 and the contribution to sales ratio is 33.3%. What is break-even revenue?",
+      "options": [
+        "$540,000",
+        "$60,000",
+        "$180,000",
+        "$12,000"
+      ],
+      "answer": 0,
+      "why": "180,000 / 0.333 = $540,000. Check: 12,000 units x $45 = $540,000.",
+      "whyNot": [
+        "",
+        "That multiplies rather than divides.",
+        "That is the fixed cost figure.",
+        "That is break-even in units, not revenue."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-09",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Break-even output is 12,000 units and actual output is 14,000 units. What is the margin of safety as a percentage?",
+      "options": [
+        "14.3%",
+        "16.7%",
+        "85.7%",
+        "2,000%"
+      ],
+      "answer": 0,
+      "why": "(14,000 - 12,000) / 14,000 x 100 = 14.3%. The percentage is taken on actual output.",
+      "whyNot": [
+        "",
+        "That divides by the break-even output rather than actual output.",
+        "That is the break-even output as a percentage of actual.",
+        "That misplaces the decimal point."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-10",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Contribution per unit is $15, fixed costs are $180,000 and 14,000 units are sold. What is the profit?",
+      "options": [
+        "$30,000",
+        "$210,000",
+        "$180,000",
+        "$390,000"
+      ],
+      "answer": 0,
+      "why": "(15 x 14,000) - 180,000 = 210,000 - 180,000 = $30,000.",
+      "whyNot": [
+        "",
+        "That is total contribution, before deducting fixed costs.",
+        "That is the fixed cost figure.",
+        "That adds the fixed costs instead of deducting them."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-11",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Fixed costs are $180,000, contribution per unit is $15 and the target profit is $75,000. What output is needed?",
+      "options": [
+        "17,000 units",
+        "5,000 units",
+        "12,000 units",
+        "19,000 units"
+      ],
+      "answer": 0,
+      "why": "(180,000 + 75,000) / 15 = 255,000 / 15 = 17,000 units.",
+      "whyNot": [
+        "",
+        "That covers only the target profit and ignores the fixed costs.",
+        "That is the break-even output with no target profit.",
+        "That uses an incorrect calculation."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-12",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Maintenance cost was $34,000 at 9,000 units and $46,000 at 15,000 units. What is the variable cost per unit?",
+      "options": [
+        "$2.00",
+        "$3.78",
+        "$1.33",
+        "$12.00"
+      ],
+      "answer": 0,
+      "why": "(46,000 - 34,000) / (15,000 - 9,000) = 12,000 / 6,000 = $2.00 per unit.",
+      "whyNot": [
+        "",
+        "That divides the total cost by the units at one level.",
+        "That uses an incorrect denominator.",
+        "That is the total cost difference in thousands, not the rate."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-13",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "Using the figures above, what is the fixed element of the maintenance cost?",
+      "options": [
+        "$16,000",
+        "$18,000",
+        "$34,000",
+        "$12,000"
+      ],
+      "answer": 0,
+      "why": "At 9,000 units the variable part is 9,000 x 2.00 = $18,000, so the fixed element is 34,000 - 18,000 = $16,000. Check at 15,000: 16,000 + 30,000 = $46,000.",
+      "whyNot": [
+        "",
+        "That is the variable element at 9,000 units.",
+        "That is the total cost at the lower level.",
+        "That is the difference in total costs."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-14",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "A business has high fixed costs and contribution of $15 per unit. Output rises 10% from 14,000 to 15,400 units. What happens to profit?",
+      "options": [
+        "It rises from $30,000 to $51,000, a rise of 70%",
+        "It rises by 10%, in line with output",
+        "It rises from $30,000 to $33,000",
+        "It falls, because fixed costs rise with output"
+      ],
+      "answer": 0,
+      "why": "1,400 extra units x $15 = $21,000 extra profit on a base of $30,000. High fixed costs magnify movements in both directions.",
+      "whyNot": [
+        "",
+        "Profit does not move in proportion to output once fixed costs are covered.",
+        "That applies 10% to the profit rather than adding the extra contribution.",
+        "Fixed costs do not rise with output within the relevant range."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-15",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "Why is a break-even point calculated beyond the next step in a stepped fixed cost invalid?",
+      "options": [
+        "Fixed costs will have risen, so the figure used in the calculation is wrong",
+        "Contribution per unit changes at every step",
+        "The selling price must fall at higher volumes",
+        "Break-even analysis cannot be used with stepped costs at all"
+      ],
+      "answer": 0,
+      "why": "Each step changes the fixed cost total, which invalidates a break-even figure calculated with the earlier total.",
+      "whyNot": [
+        "",
+        "Contribution per unit is unaffected by fixed costs.",
+        "There is no necessary connection between volume and price here.",
+        "It can be used within each relevant range."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-16",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "On a break-even chart, where does the sales revenue line start?",
+      "options": [
+        "At the origin, because no sales means no revenue",
+        "At the fixed cost level on the vertical axis",
+        "At the break-even point",
+        "At the total cost line"
+      ],
+      "answer": 0,
+      "why": "Revenue is zero at zero output, whereas the total cost line starts at the fixed cost level because those costs are incurred anyway.",
+      "whyNot": [
+        "",
+        "That is where the total cost line starts.",
+        "The break-even point is where the two lines cross, not where revenue begins.",
+        "The two lines are separate."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-17",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "Which of the following is a limitation of break-even analysis?",
+      "options": [
+        "It assumes all output is sold, so it ignores inventory",
+        "It cannot be used for a single-product business",
+        "It requires a discount rate to be estimated",
+        "It cannot allow for fixed costs"
+      ],
+      "answer": 0,
+      "why": "It also assumes linear costs and revenue, one selling price and constant fixed costs, all of which are simplifications.",
+      "whyNot": [
+        "",
+        "A single product is precisely the case it suits best.",
+        "There is no discounting in break-even analysis.",
+        "Fixed costs are central to the calculation."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-18",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "What happens to fixed cost per unit as output rises?",
+      "options": [
+        "It falls, which is where economies of scale come from",
+        "It rises, because total fixed costs rise",
+        "It stays the same",
+        "It falls to zero at break-even"
+      ],
+      "answer": 0,
+      "why": "Total fixed costs are unchanged, so spreading them over more units reduces the cost per unit.",
+      "whyNot": [
+        "",
+        "Total fixed costs do not rise with output within the relevant range.",
+        "Variable cost per unit stays the same; fixed cost per unit does not.",
+        "It never reaches zero."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-19",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "A company's margin of safety is 14.3% and its sales are highly seasonal. What is the appropriate judgement?",
+      "options": [
+        "The margin is uncomfortably thin, because a modest fall in demand would wipe out the profit",
+        "The margin is comfortable, because it is positive",
+        "The margin is irrelevant where sales are seasonal",
+        "The margin should be compared with the contribution to sales ratio"
+      ],
+      "answer": 0,
+      "why": "Whether a margin of safety is adequate depends on how volatile demand is, which is exactly the kind of conditional judgement that earns marks.",
+      "whyNot": [
+        "",
+        "Being positive is the minimum, not a sign of comfort.",
+        "Volatile demand makes the margin more important, not less.",
+        "They measure different things and are not directly comparable."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-20",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "hard",
+      "stem": "The selling price is increased. What must be done to find the new break-even point?",
+      "options": [
+        "Recalculate contribution per unit first, then divide fixed costs by it",
+        "Reduce the old break-even figure in proportion to the price rise",
+        "Divide the old break-even figure by the new price",
+        "Nothing, because break-even depends only on fixed costs"
+      ],
+      "answer": 0,
+      "why": "Every other formula depends on contribution, so the contribution must be recalculated before anything else.",
+      "whyNot": [
+        "",
+        "Adjusting the old figure proportionally does not work.",
+        "That has no arithmetic basis.",
+        "Break-even depends on contribution as well as fixed costs."
+      ]
+    },
+    {
+      "id": "WAC12-2-7-1-21",
+      "topicRef": "2.7.1",
+      "topicTitle": "Break-even analysis",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a semi-fixed cost?",
+      "options": [
+        "A cost that is fixed over a range of output and then steps up to a new level",
+        "A cost with a fixed element and a variable element per unit",
+        "A cost that is half fixed and half variable",
+        "A cost that varies with output but not in direct proportion"
+      ],
+      "answer": 0,
+      "why": "Employing one supervisor per 20 workers is the standard example, and each step changes total fixed costs.",
+      "whyNot": [
+        "",
+        "That is a semi-variable cost.",
+        "The split is not necessarily equal, and this is not the definition.",
+        "That describes a non-linear cost, not a stepped one."
+      ]
+    }
+  ]
+}

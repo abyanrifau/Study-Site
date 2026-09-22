@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.4.1",
+  "topicTitle": "The impact of MNCs",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-4-1-01",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a multinational corporation?",
+      "options": [
+        "A business that owns or controls production or service operations in more than one country",
+        "A business that exports to more than one country",
+        "A business owned by shareholders from several countries",
+        "A business listed on more than one stock exchange"
+      ],
+      "answer": 0,
+      "why": "Ownership or control of operations abroad is what makes a business multinational, not simply selling abroad.",
+      "whyNot": [
+        "",
+        "That is an exporter.",
+        "Shareholder nationality does not determine multinational status.",
+        "A multiple listing is a financing arrangement."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-02",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines profit repatriation?",
+      "options": [
+        "The transfer of profits earned in a host country back to the multinational's home country",
+        "The reinvestment of profits in the host country",
+        "The payment of tax on profits in the host country",
+        "The distribution of profits to local employees"
+      ],
+      "answer": 0,
+      "why": "Repatriated profit is a debit on the host country's primary income account every year.",
+      "whyNot": [
+        "",
+        "That is reinvestment, which has the opposite effect.",
+        "That is taxation.",
+        "That is profit sharing."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-03",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines transfer pricing?",
+      "options": [
+        "Setting the prices at which parts of the same multinational trade with each other",
+        "Charging different prices in different countries",
+        "Transferring ownership of a business to a local partner",
+        "The price paid to acquire a foreign company"
+      ],
+      "answer": 0,
+      "why": "It can be used to move reported profit to low-tax countries, which is the sharpest criticism of the tax benefit MNCs bring.",
+      "whyNot": [
+        "",
+        "That is price discrimination.",
+        "That is a divestment.",
+        "That is the acquisition price."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-04",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines crowding out in this context?",
+      "options": [
+        "A large entrant taking customers, staff or suppliers from local businesses",
+        "Government borrowing raising interest rates for private firms",
+        "Overcrowding of a local labour market by migrant workers",
+        "Too many products competing for shelf space"
+      ],
+      "answer": 0,
+      "why": "Local competitors may be unable to match a multinational's prices, marketing or purchasing power.",
+      "whyNot": [
+        "",
+        "That is the macroeconomic meaning of the term, used in Economics.",
+        "That is labour market pressure, a different effect.",
+        "That is a retail issue."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-05",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a local benefit of an MNC's arrival?",
+      "options": [
+        "Employment at wages often above the local average, with training and transferable skills",
+        "The elimination of all local competition, which benefits consumers",
+        "A guaranteed permanent rise in national wages",
+        "The removal of the need for local suppliers"
+      ],
+      "answer": 0,
+      "why": "An indirect employment multiplier also arises as local suppliers and services grow around the operation.",
+      "whyNot": [
+        "",
+        "Eliminating competition harms consumers in the long run.",
+        "Wage effects are real but not guaranteed or economy-wide.",
+        "Local sourcing is one of the main potential benefits."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-06",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Why is it said that paying above the local average and below the home rate are both true?",
+      "options": [
+        "Which comparison the answer uses determines the conclusion, so a good answer says so explicitly",
+        "Wage data is always unreliable",
+        "Multinationals pay the same wage in every country",
+        "Local averages exclude multinational employers"
+      ],
+      "answer": 0,
+      "why": "Naming the choice of comparison is the examinable nuance in this part of the topic.",
+      "whyNot": [
+        "",
+        "Wage comparisons are imperfect but usable.",
+        "They pay very different wages in different countries.",
+        "Local averages include all employers."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-07",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "How does the initial FDI appear in the host country's balance of payments?",
+      "options": [
+        "As an inflow on the financial account",
+        "As a debit on the current account",
+        "As a credit on the primary income account",
+        "It does not appear at all"
+      ],
+      "answer": 0,
+      "why": "Exports produced by the operation are current account credits, while imported inputs and repatriated profit are debits.",
+      "whyNot": [
+        "",
+        "The investment itself is a financial account inflow.",
+        "Repatriated profit, not the investment, affects primary income.",
+        "It is recorded in the financial account."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-08",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Why can the balance of payments effect of FDI turn negative over time?",
+      "options": [
+        "Repatriated profit is an annual outflow that can eventually exceed the original investment",
+        "Exports from the operation fall to zero after a few years",
+        "The initial investment must be repaid to the investor",
+        "Host countries must pay interest on inward FDI"
+      ],
+      "answer": 0,
+      "why": "The effect is positive at first and can become permanently negative once cumulative repatriation exceeds the inflow.",
+      "whyNot": [
+        "",
+        "Exports usually continue.",
+        "Equity investment is not repaid like a loan.",
+        "FDI is equity, not debt, so no interest is due."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-09",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following limits technology and skills transfer?",
+      "options": [
+        "The most valuable research and development usually stays in the home country",
+        "Host countries prohibit the transfer of technology",
+        "Technology cannot be moved across borders",
+        "Workers refuse to be trained"
+      ],
+      "answer": 0,
+      "why": "Transfer also requires local firms and workers capable of absorbing it, which depends on the education system.",
+      "whyNot": [
+        "",
+        "Most host countries actively seek transfer.",
+        "Technology moves readily; the question is whether it is shared.",
+        "Training is generally welcomed."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-10",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "hard",
+      "stem": "Why may the tax revenue benefit of an MNC be far smaller than expected?",
+      "options": [
+        "Tax holidays and transfer pricing can mean little tax is paid locally",
+        "Multinationals are legally exempt from all taxation",
+        "Host governments are forbidden from taxing foreign firms",
+        "Corporation tax is collected only in the home country"
+      ],
+      "answer": 0,
+      "why": "Governments competing for investment also bid each other's tax rates down, which is a race to the bottom.",
+      "whyNot": [
+        "",
+        "They are taxable; the issue is where profit is reported.",
+        "Host governments do tax foreign firms.",
+        "Tax is due where profit is deemed to arise."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-11",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "hard",
+      "stem": "What determines how much of an MNC's value creation stays in the host country?",
+      "options": [
+        "Local sourcing, local employment at all levels, reinvested profit and tax actually paid",
+        "The size of the multinational's global revenue",
+        "The number of countries the multinational operates in",
+        "The exchange rate on the day of the investment"
+      ],
+      "answer": 0,
+      "why": "An operation importing all its inputs and repatriating its profit creates jobs and little else.",
+      "whyNot": [
+        "",
+        "Global scale says nothing about local retention.",
+        "Geographic spread is not the relevant measure.",
+        "A single day's rate is not a structural factor."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-12",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "hard",
+      "stem": "Why does a small economy usually have weak bargaining power with an MNC?",
+      "options": [
+        "It competes with other countries for the same investment, so it offers incentives instead of extracting conditions",
+        "Its laws do not apply to foreign companies",
+        "It cannot levy any taxes",
+        "Small economies are not permitted to negotiate"
+      ],
+      "answer": 0,
+      "why": "A large economy with a skilled workforce and a market the MNC wants can negotiate on employment, sourcing and technology transfer.",
+      "whyNot": [
+        "",
+        "National law applies to operations within the country.",
+        "Small economies levy taxes normally.",
+        "They can negotiate; their leverage is simply weaker."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-13",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "hard",
+      "stem": "Which asymmetry explains why governments compete to attract FDI and are later disappointed?",
+      "options": [
+        "Benefits such as jobs are immediate and visible, while costs are gradual and cumulative",
+        "Benefits are always overstated in official statistics",
+        "Costs are paid by the multinational rather than the country",
+        "Governments cannot measure either benefits or costs"
+      ],
+      "answer": 0,
+      "why": "This asymmetry makes a strong concluding point in an essay on MNC impact.",
+      "whyNot": [
+        "",
+        "Both are measured with varying accuracy.",
+        "Environmental and social costs fall on the host country.",
+        "Both can be measured, at least partially."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-14",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following is a local environmental cost of an MNC's operation?",
+      "options": [
+        "Emissions, waste, water use and pressure on land",
+        "The repatriation of profit to the home country",
+        "The use of transfer pricing to reduce tax",
+        "A rise in the host country's exchange rate"
+      ],
+      "answer": 0,
+      "why": "Where regulation is weak, standards may be far below those the same company applies at home.",
+      "whyNot": [
+        "",
+        "That is a financial effect.",
+        "That is a fiscal effect.",
+        "That is a macroeconomic effect."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-15",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "How can an MNC raise standards among local suppliers?",
+      "options": [
+        "By requiring quality and reliability, which makes them more competitive generally",
+        "By buying all their output at the lowest possible price",
+        "By refusing to buy anything locally",
+        "By employing their staff directly"
+      ],
+      "answer": 0,
+      "why": "The offsetting risk is that suppliers become dependent on one dominant customer with enormous bargaining power.",
+      "whyNot": [
+        "",
+        "Price pressure alone does not raise capability.",
+        "Not buying locally transfers nothing.",
+        "That removes suppliers rather than developing them."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-16",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "hard",
+      "stem": "In a small island tourism economy, what is the central question about MNC impact?",
+      "options": [
+        "What share of the value created stays in the country",
+        "Whether the multinational brings any benefits at all",
+        "Whether tourists prefer local or foreign ownership",
+        "Whether the country should ban foreign investment"
+      ],
+      "answer": 0,
+      "why": "High import content, profit repatriation and expatriate senior management all reduce the retained share, even though jobs and tax revenue are real.",
+      "whyNot": [
+        "",
+        "Benefits clearly exist; the question is their distribution.",
+        "Guest preference is not the economic issue.",
+        "A ban would forgo the benefits as well as the costs."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-1-17",
+      "topicRef": "4.3.4.1",
+      "topicTitle": "The impact of MNCs",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines the multiplier effect?",
+      "options": [
+        "An initial injection of spending generating further rounds of income and spending",
+        "The tendency of multinationals to have many subsidiaries",
+        "The growth of a market as incomes rise",
+        "The effect of advertising on total demand"
+      ],
+      "answer": 0,
+      "why": "It is one of the mechanisms by which local incomes and national growth rise after an investment.",
+      "whyNot": [
+        "",
+        "That is corporate structure.",
+        "That is market growth.",
+        "That is a marketing effect."
+      ]
+    }
+  ]
+}

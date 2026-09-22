@@ -1,0 +1,448 @@
+{
+  "topicRef": "2.9.1",
+  "topicTitle": "ICT in accounting",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-9-1-01",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines an audit trail?",
+      "options": [
+        "A record allowing every figure in the accounts to be traced back to the transaction and user that created it",
+        "The route an auditor takes through the company's premises",
+        "The list of documents an auditor must sign",
+        "The order in which the financial statements are prepared"
+      ],
+      "answer": 0,
+      "why": "A trail records the date, user and reference for each posting, which supports internal control and deters fraud.",
+      "whyNot": [
+        "",
+        "It is a data record, not a physical route.",
+        "Signing documents is not what a trail is.",
+        "That is the order of preparation, unrelated to the trail."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-02",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines what-if analysis?",
+      "options": [
+        "Changing one input in a model to see the effect on the result",
+        "Comparing actual results with the budget",
+        "Checking a spreadsheet for formula errors",
+        "Preparing several budgets for different departments"
+      ],
+      "answer": 0,
+      "why": "Spreadsheets recalculate automatically, which makes sensitivity testing practical in a way manual working does not.",
+      "whyNot": [
+        "",
+        "That is variance analysis.",
+        "That is error checking.",
+        "That is departmental budgeting."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-03",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines an integrated accounting package?",
+      "options": [
+        "Software in which entering a transaction once updates all the related ledgers and reports",
+        "Software that combines accounting with word processing",
+        "Software used by more than one company",
+        "Software that prepares only the financial statements"
+      ],
+      "answer": 0,
+      "why": "Integration removes duplicate keying and means the ledgers cannot disagree with each other, because there is only one set of data.",
+      "whyNot": [
+        "",
+        "Integration refers to the accounting modules, not to office software.",
+        "Shared use by companies is not what integration means.",
+        "An integrated package covers invoicing, payroll, inventory and the ledgers."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-04",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "easy",
+      "stem": "What does EPOS stand for and do?",
+      "options": [
+        "Electronic point of sale: it records each sale and updates the inventory records at the same time",
+        "Electronic purchase order system: it places orders with suppliers automatically",
+        "Electronic payroll operating system: it calculates wages and deductions",
+        "Electronic profit and overhead statement: it allocates overheads to products"
+      ],
+      "answer": 0,
+      "why": "EPOS links the till to the inventory records in real time, which supports reordering and sales analysis.",
+      "whyNot": [
+        "",
+        "Automatic reordering can follow from EPOS but is not what the term means.",
+        "Payroll is a separate module.",
+        "That is not a recognised term."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-05",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is the specific weakness of spreadsheets for accounting records?",
+      "options": [
+        "They have almost no built-in controls or audit trail, so an error produces a confident wrong answer",
+        "They cannot perform arithmetic accurately",
+        "They cannot be used for budgeting",
+        "They can only be used by one person at a time"
+      ],
+      "answer": 0,
+      "why": "A formula copied to the wrong range or a hard-coded number typed over a formula produces no warning at all.",
+      "whyNot": [
+        "",
+        "The arithmetic itself is reliable; the model may not be.",
+        "Budgeting is one of their main accounting uses.",
+        "Files can be shared, though version control is then a problem."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-06",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Why do spreadsheets suit cash budgeting particularly well?",
+      "options": [
+        "A cash budget is a chain of dependent calculations, so changing one input recalculates every month instantly",
+        "A cash budget contains no formulas",
+        "Cash budgets are required to be prepared in spreadsheet form",
+        "Spreadsheets automatically exclude depreciation"
+      ],
+      "answer": 0,
+      "why": "That is what makes sensitivity analysis practical: the effect of a delayed receipt or a later purchase appears immediately.",
+      "whyNot": [
+        "",
+        "A cash budget is almost entirely formulas.",
+        "There is no such requirement.",
+        "The user must exclude depreciation; the software does not know to."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-07",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a financial advantage of computerised accounting?",
+      "options": [
+        "Faster invoicing, which improves cash flow",
+        "The removal of all need for training",
+        "The elimination of input errors",
+        "Guaranteed compatibility with every other system"
+      ],
+      "answer": 0,
+      "why": "Faster invoicing and instant ageing analysis both improve cash collection, and routine posting costs fall.",
+      "whyNot": [
+        "",
+        "Training is one of the main costs of implementation.",
+        "Input errors remain; only calculation errors are removed.",
+        "Compatibility is a technical risk that must be managed."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-08",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a financial disadvantage of computerised accounting?",
+      "options": [
+        "High initial costs of hardware, software, licences and training, which a small business may not recover",
+        "Slower production of management reports",
+        "Loss of the ability to produce invoices",
+        "Higher labour costs for routine posting"
+      ],
+      "answer": 0,
+      "why": "For a business with few transactions the savings may simply not justify the cost, which is the sharpest evaluative point in this topic.",
+      "whyNot": [
+        "",
+        "Reports are produced faster, not more slowly.",
+        "Invoicing is one of the main functions gained.",
+        "Routine posting costs generally fall."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-09",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a technical risk of computerised accounting?",
+      "options": [
+        "Dependence on the system, so a failure can halt the accounting function or trading itself",
+        "The inability to handle large volumes of transactions",
+        "The need to recalculate every figure by hand",
+        "The impossibility of backing up data"
+      ],
+      "answer": 0,
+      "why": "With EPOS a failure can stop trading altogether, and data loss, corruption and security threats are real risks.",
+      "whyNot": [
+        "",
+        "Handling volume is one of the main advantages.",
+        "Calculation is automatic.",
+        "Automatic backup is one of the advantages, though backups do fail."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-10",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "What does garbage in, garbage out mean in this context?",
+      "options": [
+        "The system calculates faithfully whatever it is given, so wrong input produces wrong output",
+        "The system deletes data that is entered incorrectly",
+        "Old data must be removed before new data is entered",
+        "The system cannot process unusual transactions"
+      ],
+      "answer": 0,
+      "why": "The output arrives quickly and with an unjustified appearance of authority, which makes the consequence of poor input larger, not smaller.",
+      "whyNot": [
+        "",
+        "The system does not detect or delete incorrect data.",
+        "That is data housekeeping, not the principle.",
+        "Unusual transactions can normally be recorded."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-11",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a human disadvantage of introducing a new accounting system?",
+      "options": [
+        "Resistance to change from staff who fear the system or the loss of their role",
+        "The removal of tedious routine work",
+        "Improved employability from new skills",
+        "Easier reading of reports by non-specialists"
+      ],
+      "answer": 0,
+      "why": "Retraining costs time and money, some staff will not adapt, and job losses damage the morale of those who remain.",
+      "whyNot": [
+        "",
+        "That is an advantage.",
+        "That is an advantage.",
+        "That is an advantage."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-12",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "Why is an audit trail only as good as the system's controls?",
+      "options": [
+        "If users share a single login, actions cannot be attributed to anyone",
+        "Audit trails are only kept for one month",
+        "Auditors are not permitted to examine electronic records",
+        "A trail cannot record the date of a posting"
+      ],
+      "answer": 0,
+      "why": "Attribution is what makes the trail useful for control and deterrence, and shared access destroys it.",
+      "whyNot": [
+        "",
+        "Retention is a matter of configuration, not a fixed limit.",
+        "Electronic records are routinely examined.",
+        "A trail records the date, user and reference."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-13",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "Why can errors be more damaging in a computerised system than a manual one?",
+      "options": [
+        "One wrong setting is applied consistently to thousands of transactions",
+        "Errors cannot be corrected once entered",
+        "Computerised systems make more arithmetic errors",
+        "Errors are never visible in the output"
+      ],
+      "answer": 0,
+      "why": "The speed and consistency that are the system's strength also propagate a single mistake at scale.",
+      "whyNot": [
+        "",
+        "Errors can be corrected, ideally with the correction recorded.",
+        "Arithmetic is more reliable, not less.",
+        "Errors do appear in the output, which is the problem."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-14",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "What is a limitation of EPOS for inventory control?",
+      "options": [
+        "The records show what should be there, so a physical count is still needed",
+        "It cannot record the value of each sale",
+        "It cannot identify slow-moving lines",
+        "It cannot be linked to reordering"
+      ],
+      "answer": 0,
+      "why": "Mis-scanning and theft distort the records, so comparing the count with the system is how stock loss becomes visible.",
+      "whyNot": [
+        "",
+        "Recording the value of each sale is one of its core functions.",
+        "Identifying slow and fast movers is one of its main benefits.",
+        "Automatic reordering at a reorder level is a standard feature."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-15",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "In which situation is investing in ICT for accounting least likely to be worthwhile?",
+      "options": [
+        "A very small business with few transactions and staff who cannot easily be retrained",
+        "A business with several sites and a large inventory of many lines",
+        "A growing business whose manual systems are already straining",
+        "A business needing frequent management information"
+      ],
+      "answer": 0,
+      "why": "The benefit depends on transaction volume, which is the single most useful condition to state in an evaluation.",
+      "whyNot": [
+        "",
+        "Multiple sites and many inventory lines make the case strongest.",
+        "Growth straining the manual system is a clear argument for investing.",
+        "Frequent reporting needs are a strong argument for investing."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-16",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "Why might an unreliable power or internet supply be a legitimate argument against heavy ICT dependence?",
+      "options": [
+        "A system failure can halt both accounting and trading, so dependence becomes an operational risk",
+        "Accounting software cannot be installed without permanent internet access",
+        "Electronic records are not legally valid in such locations",
+        "Power failures corrupt all backups automatically"
+      ],
+      "answer": 0,
+      "why": "For island and remote operations this is a real consideration rather than an excuse, and it belongs under technical aspects.",
+      "whyNot": [
+        "",
+        "Many packages run locally without constant connectivity.",
+        "Electronic records are legally acceptable.",
+        "Backups are not automatically corrupted, though the risk of data loss rises."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-17",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage of an integrated package over separate records?",
+      "options": [
+        "Entering a transaction once updates all the related ledgers, so they cannot disagree",
+        "It removes the need for any accounting knowledge",
+        "It guarantees the business will be profitable",
+        "It eliminates the need for an audit"
+      ],
+      "answer": 0,
+      "why": "Single entry removes duplicate keying and the errors that come with it.",
+      "whyNot": [
+        "",
+        "Interpretation and judgement still require accounting knowledge.",
+        "Software does not affect profitability directly.",
+        "An audit is still required where the law requires one."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-18",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a use of accounting software named in the specification?",
+      "options": [
+        "Producing invoices, a receivables list, payroll and tax returns",
+        "Designing the company's products",
+        "Negotiating with suppliers",
+        "Recruiting and selecting new employees"
+      ],
+      "answer": 0,
+      "why": "Those are the functions the specification lists, alongside spreadsheets for budgeting and EPOS for inventory control.",
+      "whyNot": [
+        "",
+        "Product design is not an accounting function.",
+        "Negotiation is a purchasing activity.",
+        "Recruitment is a human resources activity."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-19",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Will you be examined on the use of specific software packages?",
+      "options": [
+        "No: the specification states that specific applications and packages are not examined",
+        "Yes: you must know one named package in detail",
+        "Yes: you must compare at least two named packages",
+        "Only in Section A of the paper"
+      ],
+      "answer": 0,
+      "why": "The specification says candidates will not be examined on the use of specific applications or software packages, so answers should be about uses and effects.",
+      "whyNot": [
+        "",
+        "No package is prescribed.",
+        "No comparison of named packages is required.",
+        "The exclusion applies to the whole paper."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-20",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "hard",
+      "stem": "What is the most balanced overall judgement on ICT in accounting?",
+      "options": [
+        "It changes the nature of the work rather than removing the need for judgement, while making poor data and weak controls more costly",
+        "It removes the need for accountants entirely",
+        "It has no effect on the quality of accounting information",
+        "It is always worthwhile whatever the size of the business"
+      ],
+      "answer": 0,
+      "why": "Staff move from posting to interpreting, and the consequences of bad input, weak controls and misplaced confidence become larger and quicker.",
+      "whyNot": [
+        "",
+        "Interpretation, judgement and scepticism remain essential.",
+        "It affects speed, accuracy and availability of information substantially.",
+        "For a very small business the cost may exceed the benefit."
+      ]
+    },
+    {
+      "id": "WAC12-2-9-1-21",
+      "topicRef": "2.9.1",
+      "topicTitle": "ICT in accounting",
+      "difficulty": "medium",
+      "stem": "Which four headings does the specification use for the advantages and disadvantages of ICT?",
+      "options": [
+        "Audit trail, financial, technical and human",
+        "Cost, quality, speed and accuracy",
+        "Planning, control, coordination and motivation",
+        "Materials, labour, overhead and capital"
+      ],
+      "answer": 0,
+      "why": "Using these four as the paragraphs of a written answer guarantees breadth and follows the mark scheme's structure.",
+      "whyNot": [
+        "",
+        "Those are general performance measures, not the specified headings.",
+        "Those are the purposes of budgeting.",
+        "Those are cost classifications."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.4.3",
+  "topicTitle": "Inventory control",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-4-3-01",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of buffer stock?",
+      "options": [
+        "A minimum level of inventory held to guard against delays or unexpected demand",
+        "The stock level at which a new order is placed",
+        "The maximum stock a business will hold",
+        "The time between ordering and delivery"
+      ],
+      "answer": 0,
+      "why": "Buffer stock is the safety net. The business intends never to go below it, and it exists to absorb a late delivery or a demand spike.",
+      "whyNot": [
+        "",
+        "That is the reorder level, which is higher.",
+        "That is the maximum stock level.",
+        "That is lead time."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-02",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: the time between placing an order with a supplier and receiving the goods?",
+      "options": [
+        "Lead time",
+        "Buffer stock",
+        "Reorder level",
+        "Just in time"
+      ],
+      "answer": 0,
+      "why": "Lead time determines how early you must reorder. The longer and less reliable it is, the more buffer stock you need.",
+      "whyNot": [
+        "",
+        "Buffer stock is the minimum level held.",
+        "The reorder level is the stock level that triggers an order.",
+        "JIT is an approach holding minimal stock."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-03",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "medium",
+      "stem": "Usage is 200 units a week, lead time is two weeks and buffer stock is 300 units. What is the reorder level?",
+      "options": [
+        "700 units",
+        "500 units",
+        "400 units",
+        "300 units"
+      ],
+      "answer": 0,
+      "why": "Reorder level = buffer + (lead time x usage) = 300 + (2 x 200) = 700 units, so the delivery arrives just as stock reaches the buffer.",
+      "whyNot": [
+        "",
+        "This appears to use one week of lead time rather than two.",
+        "This uses two weeks of usage without the buffer.",
+        "That is the buffer alone, with no allowance for lead time."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-04",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "medium",
+      "stem": "What is the main drawback of holding too much inventory?",
+      "options": [
+        "Cash is tied up in goods sitting still, which worsens liquidity",
+        "Production stops because materials run out",
+        "Customers cannot be supplied",
+        "Bulk discounts are lost"
+      ],
+      "answer": 0,
+      "why": "Stock is cash in another form. Excess stock worsens the acid test ratio, costs storage and insurance, and risks obsolescence.",
+      "whyNot": [
+        "",
+        "That is the consequence of too LITTLE stock.",
+        "Also a consequence of too little stock.",
+        "Bulk discounts are gained by buying more, not lost."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-05",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit of just in time?",
+      "options": [
+        "Minimal cash tied up in stock and no storage cost",
+        "A large safety net against supplier delay",
+        "Maximum bulk-buying discounts",
+        "Fewer, larger deliveries"
+      ],
+      "answer": 0,
+      "why": "JIT frees the cash that would sit in inventory and removes storage and obsolescence costs. It also makes problems visible immediately rather than hiding them behind a stock pile.",
+      "whyNot": [
+        "",
+        "JIT removes the safety net, which is its main risk.",
+        "Smaller, more frequent orders usually lose bulk discounts.",
+        "JIT means more frequent, smaller deliveries."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-06",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "hard",
+      "stem": "Why is just in time close to unworkable for many Maldivian businesses?",
+      "options": [
+        "Lead times are long and variable because goods arrive by sea and transfer between boats",
+        "JIT is prohibited by law",
+        "Maldivian businesses hold no inventory",
+        "Demand is perfectly predictable"
+      ],
+      "answer": 0,
+      "why": "JIT depends on short, reliable lead times. Where weather can delay either leg of a two-stage sea journey, businesses deliberately hold large buffer stocks and accept the tied-up cash as the price of not running out.",
+      "whyNot": [
+        "",
+        "There is no such restriction.",
+        "They hold unusually large buffer stocks, for exactly this reason.",
+        "Both demand and supply are variable, which argues against JIT."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-07",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "medium",
+      "stem": "Which of the following is a category of waste that lean production aims to eliminate?",
+      "options": [
+        "Excess inventory",
+        "Employee wages",
+        "Selling price",
+        "Customer demand"
+      ],
+      "answer": 0,
+      "why": "Lean targets anything that adds cost without adding value: excess stock, defects, waiting time, unnecessary transport, over-production, over-processing and unused talent.",
+      "whyNot": [
+        "",
+        "Wages pay for value-adding work; lean reduces wasted effort, not employment as such.",
+        "Price is a revenue decision, not waste.",
+        "Demand is what the business exists to serve."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-08",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "hard",
+      "stem": "What decides whether a business should adopt JIT?",
+      "options": [
+        "Supplier reliability and lead time, weighed against the cost of a stockout",
+        "The legal form of the business",
+        "Whether it is profitable",
+        "The number of employees"
+      ],
+      "answer": 0,
+      "why": "Close, reliable suppliers and predictable demand make JIT viable; distant or unreliable ones make it dangerous. The cost of a stockout is the other half: an inconvenience in one business, a closed operation in another.",
+      "whyNot": [
+        "",
+        "Legal form is irrelevant to stock policy.",
+        "Profitability does not determine whether supply is reliable.",
+        "Headcount is not the deciding factor."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-3-09",
+      "topicRef": "2.3.4.3",
+      "topicTitle": "Inventory control",
+      "difficulty": "medium",
+      "stem": "On an inventory control diagram, what does a steeper downward slope indicate?",
+      "options": [
+        "Stock is being used up more quickly",
+        "A longer lead time",
+        "A higher buffer stock level",
+        "A late delivery"
+      ],
+      "answer": 0,
+      "why": "The downward slope is the rate of usage. Steeper means faster consumption, which means reordering sooner or more often.",
+      "whyNot": [
+        "",
+        "Lead time is the horizontal gap before a delivery arrives.",
+        "Buffer stock is the flat minimum line.",
+        "A late delivery shows as the line dipping below the buffer."
+      ]
+    }
+  ]
+}

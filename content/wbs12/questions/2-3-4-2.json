@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.4.2",
+  "topicTitle": "Capacity utilisation",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-4-2-01",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "easy",
+      "stem": "A factory can produce 12,000 units a month and currently produces 9,000. What is capacity utilisation?",
+      "options": [
+        "75%",
+        "133%",
+        "3,000 units",
+        "1.33%"
+      ],
+      "answer": 0,
+      "why": "Capacity utilisation = (current output / maximum output) x 100 = (9,000 / 12,000) x 100 = 75%.",
+      "whyNot": [
+        "",
+        "This divides maximum by current, the wrong way round.",
+        "That is spare capacity in units, not a percentage.",
+        "This is a decimal point error."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-02",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of capacity?",
+      "options": [
+        "The maximum output a business can produce in a period with its existing resources",
+        "The output a business currently produces",
+        "The amount a business can sell",
+        "The number of employees a business has"
+      ],
+      "answer": 0,
+      "why": "Capacity is the ceiling set by the resources the business has. Utilisation measures how much of that ceiling is being used.",
+      "whyNot": [
+        "",
+        "That is current output.",
+        "That is demand, which may be above or below capacity.",
+        "Headcount is one input to capacity, not capacity itself."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-03",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "medium",
+      "stem": "Fixed costs are $36,000 a month. What happens to fixed cost per unit when output rises from 9,000 to 11,000 units?",
+      "options": [
+        "It falls from $4.00 to $3.27",
+        "It rises from $3.27 to $4.00",
+        "It stays at $4.00",
+        "It falls from $4.00 to $2.00"
+      ],
+      "answer": 0,
+      "why": "36,000 / 9,000 = $4.00. 36,000 / 11,000 = $3.27. Raising utilisation cuts fixed cost per unit with no new investment at all, because the machinery and rent were already being paid for.",
+      "whyNot": [
+        "",
+        "This reverses the two figures.",
+        "The same fixed cost over more units gives a lower cost per unit.",
+        "36,000 / 11,000 is 3.27, not 2.00."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-04",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "medium",
+      "stem": "Why is operating at 100% capacity utilisation usually undesirable?",
+      "options": [
+        "There is no slack for breakdowns, maintenance, absence or an unexpected order",
+        "Unit costs rise at 100%",
+        "It is illegal to operate at full capacity",
+        "Fixed costs rise at full capacity"
+      ],
+      "answer": 0,
+      "why": "Machines running flat out get no servicing and then fail, a profitable large order has to be turned down, and staff have no time for training or cover. Around 90% is the usual target.",
+      "whyNot": [
+        "",
+        "Unit costs are at their lowest near full capacity; the problem is risk, not cost.",
+        "There is no such restriction.",
+        "Total fixed costs do not change with output."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-05",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "medium",
+      "stem": "A business is under-utilised. Which response uses the spare capacity rather than reducing it?",
+      "options": [
+        "Subcontracting production for another business",
+        "Closing one of its sites",
+        "Selling surplus machinery",
+        "Making staff redundant"
+      ],
+      "answer": 0,
+      "why": "Subcontracting or producing own-label for a retailer fills the idle capacity and earns a contribution from assets that are already being paid for.",
+      "whyNot": [
+        "",
+        "That is rationalisation, which reduces capacity.",
+        "Also rationalisation.",
+        "Also rationalisation."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-06",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "hard",
+      "stem": "What is the key judgement when deciding whether to rationalise after a fall in demand?",
+      "options": [
+        "Whether the fall in demand is temporary or permanent",
+        "Whether the business is a limited company",
+        "Whether staff are unionised",
+        "Whether the business uses flow production"
+      ],
+      "answer": 0,
+      "why": "Temporary means keep the capacity and bridge the gap; permanent means cut it. Rationalising a seasonal dip means paying redundancy for capacity you will need again in three months, and it is hard to reverse.",
+      "whyNot": [
+        "",
+        "Legal form does not determine the answer.",
+        "Relevant to how it is implemented, not to whether it is right.",
+        "The production method does not determine whether demand will return."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-07",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "medium",
+      "stem": "A guesthouse sells 210 room nights in a 30-day month with 10 rooms. What is its capacity utilisation?",
+      "options": [
+        "70%",
+        "21%",
+        "30%",
+        "700%"
+      ],
+      "answer": 0,
+      "why": "Maximum capacity = 10 rooms x 30 days = 300 room nights. Utilisation = (210 / 300) x 100 = 70%.",
+      "whyNot": [
+        "",
+        "This divides by 1,000 or misreads the capacity figure.",
+        "That is the number of days, not a utilisation figure.",
+        "A decimal point error; utilisation cannot exceed 100%."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-08",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "medium",
+      "stem": "Which response to over-utilisation improves the margin as well as easing the pressure?",
+      "options": [
+        "Raising prices to reduce demand",
+        "Adding a night shift",
+        "Subcontracting to another producer",
+        "Buying more machinery"
+      ],
+      "answer": 0,
+      "why": "Raising the price reduces the quantity demanded to a manageable level and earns more on each unit sold, so it eases capacity pressure and widens the margin at the same time.",
+      "whyNot": [
+        "",
+        "It adds capacity and adds cost.",
+        "It adds output and the subcontractor takes a margin.",
+        "It adds capacity at significant capital cost."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-2-09",
+      "topicRef": "2.3.4.2",
+      "topicTitle": "Capacity utilisation",
+      "difficulty": "hard",
+      "stem": "Why can a seasonal business not be judged on its annual capacity utilisation?",
+      "options": [
+        "It may be near 100% in the peak and around 30% in the trough, and the average hides both problems",
+        "Annual figures cannot be calculated",
+        "Utilisation only applies to manufacturing",
+        "Seasonal businesses have no fixed capacity"
+      ],
+      "answer": 0,
+      "why": "Both problems occur in the same year and need opposite responses: discount and market the low season to lift utilisation, and raise rates in the peak to manage demand. An average of 65% would suggest neither.",
+      "whyNot": [
+        "",
+        "They can be, and the average is the problem.",
+        "It applies to hotels, restaurants, airlines and any capacity-constrained service.",
+        "Room numbers are precisely a fixed capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.6.1",
+  "topicTitle": "Key factors in change",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-6-1-01",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines organisational change?",
+      "options": [
+        "A significant alteration to the structure, culture, processes or strategy of a business",
+        "Any day-to-day variation in the number of orders received",
+        "A change in the share price of a listed company",
+        "A change in the rate of corporation tax"
+      ],
+      "answer": 0,
+      "why": "Organisational change refers to significant internal alteration, not to routine fluctuation or external conditions.",
+      "whyNot": [
+        "",
+        "Normal fluctuations in demand are not organisational change.",
+        "Share price movement is a market outcome, not a change in the organisation.",
+        "A tax change is an external influence that may cause change but is not itself organisational."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-02",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines delayering?",
+      "options": [
+        "Removing one or more levels of management from the hierarchy",
+        "Reducing the total number of employees across the business",
+        "Moving from a functional to a divisional structure",
+        "Employing more staff on temporary contracts"
+      ],
+      "answer": 0,
+      "why": "Delayering removes a level of management, which widens spans of control for those who remain.",
+      "whyNot": [
+        "",
+        "That is downsizing, which reduces headcount without necessarily removing a level.",
+        "That is restructuring, which changes the shape rather than the number of levels.",
+        "That is a move towards a flexible workforce."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-03",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a flexible workforce?",
+      "options": [
+        "A workforce whose size, hours or skills can be varied to match changing needs",
+        "A workforce that is paid entirely by results",
+        "A workforce with no formal contracts of employment",
+        "A workforce that works only from home"
+      ],
+      "answer": 0,
+      "why": "Flexibility comes from part-time, temporary, multi-skilled, flexible-hours and outsourced working.",
+      "whyNot": [
+        "",
+        "Payment method is a reward issue, not a measure of flexibility.",
+        "Flexible workers still have contracts, though the terms differ.",
+        "Homeworking is one form of flexibility, not the definition of it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-04",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines resistance to change?",
+      "options": [
+        "Opposition by employees or managers to a proposed change in the business",
+        "The time taken for a change to be fully implemented",
+        "The cost of training employees in new methods",
+        "The legal restrictions on changing employment contracts"
+      ],
+      "answer": 0,
+      "why": "Resistance is opposition from inside the organisation, and it has identifiable causes.",
+      "whyNot": [
+        "",
+        "That is the implementation period, not opposition to the change.",
+        "Training cost is a cost of change rather than resistance to it.",
+        "Legal constraints are external, not internal opposition."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-05",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Why is imposed change harder to manage than planned change?",
+      "options": [
+        "There is no time to prepare people, resource the change or communicate the reasons",
+        "Imposed change is always larger in scale",
+        "Imposed change is always illegal",
+        "Imposed change never affects employees"
+      ],
+      "answer": 0,
+      "why": "Planned change is chosen, timed and resourced; imposed change arrives whether the business is ready or not, which is the whole argument for being flexible in advance.",
+      "whyNot": [
+        "",
+        "Scale varies; the difficulty comes from the absence of preparation time.",
+        "Change forced by events such as a recession is not unlawful.",
+        "Imposed change usually affects employees most of all."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-06",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of delayering?",
+      "options": [
+        "Wider spans of control stretch the remaining managers and career paths disappear",
+        "It increases the number of levels in the hierarchy",
+        "It always raises total costs",
+        "It slows communication between the top and the bottom"
+      ],
+      "answer": 0,
+      "why": "Removing a level increases the load on those who remain, and it takes away promotion steps, which weakens the succession pipeline.",
+      "whyNot": [
+        "",
+        "Delayering reduces the number of levels by definition.",
+        "It usually reduces costs, which is the main reason it is done.",
+        "It typically speeds communication by shortening the chain."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-07",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Which of the following is a disadvantage of a flexible workforce?",
+      "options": [
+        "Insecurity damages motivation and loyalty, and temporary staff are less trained",
+        "It raises the business's fixed costs",
+        "It makes the business slower to respond to demand changes",
+        "It prevents multi-skilling"
+      ],
+      "answer": 0,
+      "why": "Flexibility is bought at the cost of commitment, and the ethical objections about insecure work also apply.",
+      "whyNot": [
+        "",
+        "It lowers fixed costs by converting them towards variable costs.",
+        "It makes the business faster to respond, which is its main benefit.",
+        "Multi-skilling is one of the ways flexibility is achieved."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-08",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Which group typically resists delayering most strongly, and why?",
+      "options": [
+        "Middle managers, because their authority came from the level being removed",
+        "New recruits, because they have the least experience",
+        "Shareholders, because costs will fall",
+        "Customers, because prices may fall"
+      ],
+      "answer": 0,
+      "why": "Those whose status and authority depend on the existing hierarchy have the most to lose.",
+      "whyNot": [
+        "",
+        "New recruits have least invested in the old structure.",
+        "Shareholders generally welcome lower costs.",
+        "Customers are not usually affected by internal layers."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-09",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Why should a business explain why a change is happening, not just what will change?",
+      "options": [
+        "People accept change more readily when they understand the reason for it",
+        "Explaining the reason removes the need for any training",
+        "The law requires an explanation of all business decisions",
+        "It guarantees that nobody will oppose the change"
+      ],
+      "answer": 0,
+      "why": "Managing information is central to managing change, and the reason is the part that converts compliance into acceptance.",
+      "whyNot": [
+        "",
+        "Training is still needed wherever new skills are required.",
+        "There is no such general legal requirement.",
+        "Some opposition is likely regardless; good communication reduces it rather than removing it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-10",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "What happens when a business delays communicating a change?",
+      "options": [
+        "Staff fill the gap with rumours that are usually worse than the truth",
+        "Staff lose interest in the change entirely",
+        "Resistance disappears because there is nothing to react to",
+        "The change becomes cheaper to implement"
+      ],
+      "answer": 0,
+      "why": "In the absence of information people invent their own version, so early communication is a practical necessity rather than a courtesy.",
+      "whyNot": [
+        "",
+        "Uncertainty about job security raises anxiety rather than indifference.",
+        "Uncertainty increases resistance rather than removing it.",
+        "Poorly communicated change usually costs more through lost productivity."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-11",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "hard",
+      "stem": "In Lewin's force field analysis, which action is usually more effective?",
+      "options": [
+        "Weakening the restraining forces, for example by removing a specific fear through training",
+        "Strengthening the driving forces by increasing pressure on staff",
+        "Removing the driving forces so the change becomes voluntary",
+        "Increasing both sets of forces equally"
+      ],
+      "answer": 0,
+      "why": "Removing a restrainer removes the resistance itself, whereas adding pressure to a resisting organisation raises tension on both sides.",
+      "whyNot": [
+        "",
+        "More pressure tends to provoke more resistance rather than overcoming it.",
+        "Removing the drivers would stop the change from happening at all.",
+        "Raising both leaves the balance unchanged and the organisation under strain."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-12",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "hard",
+      "stem": "A force field analysis scores driving forces at 14 and restraining forces at 19. What does this suggest?",
+      "options": [
+        "The change is likely to stall unless the restraining forces are reduced",
+        "The change will proceed smoothly as planned",
+        "The scores prove the change should be abandoned permanently",
+        "The analysis cannot be used to draw any conclusion"
+      ],
+      "answer": 0,
+      "why": "Restrainers outweigh drivers, so the change will not move until the balance is altered, most cheaply by addressing the restrainers.",
+      "whyNot": [
+        "",
+        "A change facing stronger restraint than drive does not proceed smoothly.",
+        "It shows the change cannot proceed as currently planned, not that it is wrong in principle.",
+        "Comparing the totals is precisely the conclusion the technique is designed to give."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-13",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "hard",
+      "stem": "Why can dismissing employee objections as mere resistance be a serious management error?",
+      "options": [
+        "The people doing the work may be able to see that the plan will not work",
+        "Employees have a legal right to veto changes",
+        "Resistance always disappears if it is ignored",
+        "Objections are never related to the change itself"
+      ],
+      "answer": 0,
+      "why": "Resistance sometimes contains genuine information the plan needs, which is why consultation is a source of intelligence and not just a way to build acceptance.",
+      "whyNot": [
+        "",
+        "Employees generally have consultation rights rather than a veto.",
+        "Ignored resistance tends to persist and to reappear during implementation.",
+        "Objections are usually specific to the change being proposed."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-14",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "hard",
+      "stem": "What is the most common weakness in relying on communication alone to deliver change?",
+      "options": [
+        "Staff judge the change by behaviour and rewards, not by announcements",
+        "Communication is prohibitively expensive",
+        "Communication increases resistance in every case",
+        "Communication is only possible in small businesses"
+      ],
+      "answer": 0,
+      "why": "Communication is necessary and not sufficient: if rewards and management behaviour do not change, staff conclude that nothing has.",
+      "whyNot": [
+        "",
+        "Communication is one of the cheapest elements of a change programme.",
+        "Good communication generally reduces resistance.",
+        "Large businesses communicate change routinely, though it is harder."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-15",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of force field analysis?",
+      "options": [
+        "The scores are subjective and it gives a snapshot rather than showing how forces interact",
+        "It requires audited financial statements",
+        "It can only be used for changes costing under $1m",
+        "It cannot be applied to organisational change"
+      ],
+      "answer": 0,
+      "why": "It is a useful structuring tool whose weightings depend on judgement, and it does not show how the forces affect one another over time.",
+      "whyNot": [
+        "",
+        "It uses management judgement, not financial statements.",
+        "There is no cost limit on its use.",
+        "Organisational change is exactly what it was designed for."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-6-1-16",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "difficulty": "medium",
+      "stem": "Which of the following is a benefit of restructuring?",
+      "options": [
+        "It can fit the structure to the strategy and bring decisions closer to customers",
+        "It removes the need to communicate with employees",
+        "It reduces the number of employees automatically",
+        "It guarantees a fall in total costs"
+      ],
+      "answer": 0,
+      "why": "Restructuring aligns the shape of the organisation with what the strategy requires, for example moving to divisions as the business expands internationally.",
+      "whyNot": [
+        "",
+        "Restructuring makes communication more important, not less.",
+        "It changes the shape rather than necessarily the headcount.",
+        "It can duplicate functions and raise costs in the short term."
+      ]
+    }
+  ]
+}

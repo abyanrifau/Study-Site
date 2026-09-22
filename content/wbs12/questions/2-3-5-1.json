@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.5.1",
+  "topicTitle": "Economic influences",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-5-1-01",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "easy",
+      "stem": "A country's currency appreciates. What is the effect on its imports and exports?",
+      "options": [
+        "Imports become cheaper and exports become dearer",
+        "Imports become dearer and exports become cheaper",
+        "Both become cheaper",
+        "Both become dearer"
+      ],
+      "answer": 0,
+      "why": "SPICED: Strong Pound, Imports Cheaper, Exports Dearer. Good for an importer, bad for an exporter.",
+      "whyNot": [
+        "",
+        "That is what a DEPRECIATION does.",
+        "The two move in opposite directions.",
+        "The two move in opposite directions."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-02",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of inflation?",
+      "options": [
+        "A sustained rise in the general price level, reducing the purchasing power of money",
+        "A rise in the price of one product",
+        "A rise in interest rates",
+        "A fall in national output"
+      ],
+      "answer": 0,
+      "why": "Inflation raises input costs, prompts wage demands and reduces real incomes, which weakens demand for non-essentials.",
+      "whyNot": [
+        "",
+        "A single price rise is not inflation, which is a general and sustained rise.",
+        "That is monetary policy, which may be a response to inflation.",
+        "That is a recession."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-03",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "easy",
+      "stem": "Which business is hit hardest by a rise in interest rates?",
+      "options": [
+        "A highly geared business selling expensive items bought on credit",
+        "A debt-free business selling cheap essentials",
+        "A business with large cash reserves",
+        "A business with no customers who borrow"
+      ],
+      "answer": 0,
+      "why": "It suffers twice: its own variable-rate debt costs more, and its customers, who buy on credit, cut back. Both effects hit at once.",
+      "whyNot": [
+        "",
+        "That business is largely insulated on both counts.",
+        "It earns more interest on its cash, so it may benefit.",
+        "The demand side is unaffected for that business."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-04",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "medium",
+      "stem": "A business has $400,000 of variable-rate debt and interest rates rise by 2 percentage points. Roughly how much extra interest is there a year?",
+      "options": [
+        "$8,000",
+        "$800",
+        "$80,000",
+        "$2,000"
+      ],
+      "answer": 0,
+      "why": "400,000 x 0.02 = $8,000 a year. Sizing the effect like this turns a general point into a quantified one, which is where the application marks are.",
+      "whyNot": [
+        "",
+        "This appears to use $40,000 of debt.",
+        "This uses 20% rather than 2%.",
+        "This does not use the debt figure at all."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-05",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "medium",
+      "stem": "A Maldivian guesthouse imports most of its supplies. What is the effect of a weaker local currency?",
+      "options": [
+        "Input costs rise even though nothing about the product has changed",
+        "Input costs fall",
+        "There is no effect, because the guests are foreign",
+        "Its room rates automatically fall"
+      ],
+      "answer": 0,
+      "why": "A weaker currency means more local currency is needed to buy the same imported food, fuel and materials. Supply shifts left with no change in the product itself.",
+      "whyNot": [
+        "",
+        "A weaker currency makes imports dearer, not cheaper.",
+        "The costs are paid in local currency, so the effect is real.",
+        "Rates are a pricing decision, not automatic."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-06",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "medium",
+      "stem": "For a tourism business, which economy's cycle matters most to demand?",
+      "options": [
+        "The economies of its main source markets",
+        "Its own domestic economy",
+        "The global average",
+        "Neither, because tourism is recession-proof"
+      ],
+      "answer": 0,
+      "why": "A long-haul holiday is close to a pure luxury, so a recession in a few wealthy source countries cuts bookings sharply even while the domestic economy grows. Spreading across more source markets is the standard response.",
+      "whyNot": [
+        "",
+        "Domestic incomes matter far less when most customers are foreign.",
+        "A global average conceals the specific countries visitors come from.",
+        "Tourism is one of the most cycle-sensitive sectors."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-07",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "medium",
+      "stem": "What should a business do in a boom, according to the business cycle framework?",
+      "options": [
+        "Invest and build capacity, while keeping cash back for the downturn",
+        "Cut all spending and hold cash only",
+        "Rationalise and reduce capacity",
+        "Take on as much debt as possible"
+      ],
+      "answer": 0,
+      "why": "Demand is high so capacity is needed, and the discipline is to keep reserves because the downturn follows. Businesses that spend the whole boom struggle in the recession.",
+      "whyNot": [
+        "",
+        "That is the recession response.",
+        "Reducing capacity in a boom means turning away profitable demand.",
+        "Maximum gearing going into a downturn is how businesses fail."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-08",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "hard",
+      "stem": "Why do luxury goods businesses swing hardest through the business cycle?",
+      "options": [
+        "They have a high income elasticity of demand, so demand changes by more than income does",
+        "They have higher fixed costs than other businesses",
+        "They are always highly geared",
+        "Luxury goods are always imported"
+      ],
+      "answer": 0,
+      "why": "A YED above 1 amplifies the income change. A 3% fall in incomes with a YED of 2.5 cuts demand by about 7.5%, which is why these businesses boom and collapse hardest.",
+      "whyNot": [
+        "",
+        "Cost structure varies and is not what drives the cyclical swing.",
+        "Gearing varies between firms.",
+        "Many are produced domestically."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-1-09",
+      "topicRef": "2.3.5.1",
+      "topicTitle": "Economic influences",
+      "difficulty": "medium",
+      "stem": "Which response to inflation depends on price elasticity of demand?",
+      "options": [
+        "Passing the cost increase on to customers through higher prices",
+        "Negotiating a fixed-price supply contract",
+        "Improving productivity to offset the cost",
+        "Reducing package sizes"
+      ],
+      "answer": 0,
+      "why": "Whether you can pass it on depends on how customers respond to a higher price, and on what competitors do. With elastic demand, passing it on loses significant volume.",
+      "whyNot": [
+        "",
+        "A supply-side response that does not depend on customer behaviour.",
+        "An internal efficiency response.",
+        "A way of avoiding a headline price rise, and its success depends on whether customers notice rather than on elasticity as such."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "intro": "WBS11 is 80 marks in 2 hours, so roughly 1.5 minutes per mark. Sections A and B are 30 marks each of short and extended response from sources; Section C is one 20-mark essay. The 20-mark essay is where most marks are won and lost, so plan it before you write.",
+  "questions": [
+    {
+      "id": "wbs11-w-01",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "commandWord": "Assess",
+      "marks": 10,
+      "context": "Blue Lagoon Cafe sells 500 coffees a week at $4.00. Each coffee costs $1.50 to make. The owner is considering raising the price to $4.40. Past data suggests the price elasticity of demand for its coffee is -1.2. Three other cafes have opened within 200 metres in the last year.",
+      "question": "Assess whether Blue Lagoon Cafe should raise the price of its coffee to $4.40.",
+      "planner": [
+        {
+          "label": "State the elasticity and what it means",
+          "prompt": "PED of -1.2 means demand is price elastic: a 1% price rise loses 1.2% of sales. Say it in words, do not just quote the number."
+        },
+        {
+          "label": "Work out the effect on revenue",
+          "prompt": "Quantity falls about 12%, so 500 becomes 440. Revenue moves from 500 x $4.00 = $2,000 to 440 x $4.40 = $1,936. Revenue falls $64."
+        },
+        {
+          "label": "Now work out the effect on profit",
+          "prompt": "This is the mark most students miss. Profit before = 500 x $2.50 = $1,250. Profit after = 440 x $2.90 = $1,276. Profit RISES by $26, because 60 fewer coffees also means 60 fewer lots of ingredients."
+        },
+        {
+          "label": "Weigh it up",
+          "prompt": "Pick two or three: how reliable is the PED figure given three new rivals; the risk of losing customers permanently to a competitor next door; whether the extra $26 a week is worth that risk; whether capacity or staff costs change."
+        },
+        {
+          "label": "Judge",
+          "prompt": "Commit. Say yes or no, and say what it depends on most. A balanced answer with no decision cannot reach the top band."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 Knowledge + AO2 Application",
+          "text": "A price elasticity of demand of -1.2 means demand for Blue Lagoon's coffee is price elastic: the percentage fall in quantity demanded is greater than the percentage rise in price. Raising the price by 10%, from $4.00 to $4.40, would therefore be expected to cut weekly sales by around 12%, from 500 coffees to roughly 440.",
+          "note": "Defines the term and immediately puts the cafe's own numbers into it. Never quote an elasticity without saying what it means in words."
+        },
+        {
+          "earns": "AO2 Application + AO3 Analysis",
+          "text": "The effect on revenue is negative. Current weekly revenue is 500 x $4.00 = $2,000. After the rise it would be 440 x $4.40 = $1,936, a fall of $64 a week. This is exactly what elastic demand predicts: the volume lost outweighs the extra earned on each cup.",
+          "note": "Calculation carried out in full and then interpreted. The interpretation sentence is what turns arithmetic into analysis."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "Revenue is not the same as profit, however. Each coffee costs $1.50, so contribution per cup rises from $2.50 to $2.90. Weekly profit moves from 500 x $2.50 = $1,250 to 440 x $2.90 = $1,276, an increase of $26. Selling 60 fewer coffees also saves 60 lots of ingredients, so the cafe can be worse off on revenue and better off on profit at the same time.",
+          "note": "The strongest paragraph in the answer. Very few candidates separate revenue from profit here, and it is the clearest way into the top band."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The decision depends heavily on how reliable that PED figure still is. It was estimated from past data, but three competitors have opened within 200 metres in the last year, which gives customers far more substitutes and makes demand more elastic than -1.2. If the true elasticity is now nearer -2, sales would fall by about 20% to 400 cups and profit would drop to $1,160.",
+          "note": "Questions the data rather than accepting it, and quantifies the alternative. Using the source detail about the three new cafes is the application that makes the evaluation specific."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The time frame matters too. A gain of $26 a week is around $1,350 a year, which is small set against the risk of customers forming a habit of going next door. Once a regular switches, they may not come back even if the price is reduced again.",
+          "note": "A second, different evaluation point. Range of evaluation is what the Assess criteria reward, so two distinct angles beat one laboured one."
+        },
+        {
+          "earns": "AO4 Judgement",
+          "text": "On balance Blue Lagoon should not raise the price to $4.40. The profit gain is real but tiny, while the risk to its customer base in a suddenly crowded market is significant and hard to reverse. A better route to the same $26 would be to reduce the $1.50 unit cost, or to add a higher-margin item alongside the coffee, neither of which risks losing regulars.",
+          "note": "A clear decision, justified by the factor the candidate has argued matters most, plus a practical alternative. The recommendation is what completes the Assess."
+        }
+      ],
+      "markScheme": [
+        "Knowledge (AO1): defines price elastic demand correctly.",
+        "Application (AO2): uses the cafe's own figures, the PED of -1.2 and the detail about the three new competitors.",
+        "Analysis (AO3): develops a chain from the price rise to quantity, to revenue, and separately to profit.",
+        "Evaluation (AO4): questions the reliability of the PED figure, considers the time frame or competitor reaction, and reaches a supported judgement."
+      ]
+    },
+    {
+      "id": "wbs11-w-02",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Reef Retreat is a small guesthouse operator on a local island. It currently sells 4,800 room nights a year at an average of $95. The island guesthouse market is worth $6.8 million and grew 15.3% last year. Nearby island resorts charge upwards of $600 a night. The owner is considering repositioning Reef Retreat as a premium boutique property at $280 a night.",
+      "question": "Evaluate whether Reef Retreat should reposition itself as a premium boutique guesthouse.",
+      "planner": [
+        {
+          "label": "Set the scene with the numbers",
+          "prompt": "Market share = (4,800 x $95) / $6,800,000 = $456,000 / $6.8m = 6.7%. Market growing 15.3%. Establish that this is a small player in a fast-growing market."
+        },
+        {
+          "label": "Argue FOR repositioning",
+          "prompt": "Two developed chains. Higher added value per guest; escaping a crowded low-price segment where demand is elastic; the market map shows a gap between $95 guesthouses and $600 resorts."
+        },
+        {
+          "label": "Argue AGAINST repositioning",
+          "prompt": "Two developed chains. Cost base built for budget operation; premium guests expect service, facilities and brand it does not have; a gap on a market map may be empty because demand is not there; it would be abandoning a segment growing at 15.3%."
+        },
+        {
+          "label": "Weigh the factors",
+          "prompt": "Which matters most? Size and finance of the business; whether the gap is real; how defendable the new position is; the time and cash needed to get there; what happens to the 6.7% share meanwhile."
+        },
+        {
+          "label": "Conclude and recommend",
+          "prompt": "A perceptive conclusion proposes a solution. Consider a middle route: a few premium rooms tested first rather than repositioning the whole property."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2",
+          "text": "Reef Retreat currently earns 4,800 x $95 = $456,000 a year, which in a market worth $6.8 million is a market share of 6.7%. The market grew 15.3% last year, so this is a small operator in a rapidly expanding segment. Repositioning at $280 a night would move it to a quite different point on the market map, roughly halfway between the budget guesthouses and the $600 island resorts.",
+          "note": "Opens by calculating share rather than describing it. The market map framing sets up the whole answer."
+        },
+        {
+          "earns": "AO3 Analysis, for",
+          "text": "The strongest argument for repositioning is added value. At $95 a night in a crowded budget segment, demand is highly price elastic, because a traveller can compare twenty near-identical guesthouses online at no cost. At $280 with genuine differentiation, demand becomes less elastic, so Reef Retreat could protect its margin instead of competing on price. Even at half its current occupancy it would earn 2,400 x $280 = $672,000, well above the $456,000 it makes now.",
+          "note": "A chain of reasoning, not an assertion, and it is quantified. Showing the revenue at halved occupancy is the kind of application that lifts the band."
+        },
+        {
+          "earns": "AO3 Analysis, against",
+          "text": "Against this, the whole cost base and reputation of the business were built for a budget operation. Premium guests at $280 expect standards of service, food, facilities and design that a local guesthouse does not currently provide, and acquiring all of that means significant capital investment and higher running costs long before any higher rate is actually achieved. A repositioning that raises costs but fails to convince guests leaves the business with premium costs and budget revenue, which is the worst of both.",
+          "note": "The counter-chain. Naming the specific failure mode, premium costs on budget revenue, is stronger than saying it is risky."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The decisive question is whether the gap between $95 and $600 is genuinely an unserved need or simply an empty space. It may be empty because visitors self-select: those willing to pay several hundred dollars a night want a private island, which no guesthouse on an inhabited island can offer, however well it is finished. If that is the case, the gap is not a market at all and the investment would be lost.",
+          "note": "This is the single most valuable evaluation point on any positioning question. It attacks the premise rather than the arithmetic."
+        },
+        {
+          "earns": "AO4 Evaluation",
+          "text": "The opportunity cost also matters. The budget segment is growing at 15.3% a year, so simply holding its 6.7% share would grow revenue by around $70,000 next year with no capital investment and no risk. Repositioning means walking away from that growth at exactly the moment it is fastest.",
+          "note": "A second, independent evaluation angle using the growth figure from the source. Opportunity cost is an easy way to add genuine weighing."
+        },
+        {
+          "earns": "AO4 Judgement and recommendation",
+          "text": "Reef Retreat should not reposition the whole property. As a small operator with limited finance, in a segment growing at over 15%, the risk of taking on a premium cost base to chase a gap that may not exist is too great. A better course is to test the premium position first: upgrade two or three rooms, price them at around $200, and see whether they fill. That gives real evidence of demand at a fraction of the cost, and if the demand is there the full repositioning can follow with the budget rooms still funding it.",
+          "note": "Decides, justifies with the factor argued as most important, and proposes a concrete, proportionate solution. The staged test is what makes this a perceptive conclusion rather than just a choice."
+        }
+      ],
+      "markScheme": [
+        "AO1: correct use of terms such as market share, positioning, added value and price elasticity.",
+        "AO2: uses the $95, 4,800, $6.8m, 15.3% and $600 figures from the source, and calculates share.",
+        "AO3: developed chains of reasoning on both sides, not a list.",
+        "AO4: weighs the validity of the arguments, questions whether the gap is real, considers opportunity cost, and reaches a perceptive conclusion proposing a solution."
+      ]
+    },
+    {
+      "id": "wbs11-w-03",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "commandWord": "Analyse",
+      "marks": 6,
+      "context": "A resort has a fixed number of rooms. Bookings rise sharply every December as the dry season begins.",
+      "question": "Analyse the likely effect on the resort's room rates of the rise in demand each December.",
+      "planner": [
+        {
+          "label": "Name the change",
+          "prompt": "Demand shifts right. Say it in those words: more rooms are demanded at every price."
+        },
+        {
+          "label": "Note the supply constraint",
+          "prompt": "Supply is fixed in the short run. You cannot build rooms for December in November. This is the whole point of the question."
+        },
+        {
+          "label": "Follow the mechanism",
+          "prompt": "At the old rate there is excess demand. Rates are bid up. The new equilibrium has a much higher price and only slightly higher quantity."
+        },
+        {
+          "label": "Finish on the business",
+          "prompt": "Revenue rises sharply because almost the entire adjustment comes through price rather than volume. No evaluation needed: Analyse does not ask for it."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2",
+          "text": "As the dry season begins, more visitors want rooms at every price, so the demand curve for the resort's rooms shifts to the right.",
+          "note": "Precise language. 'Shifts to the right' and 'at every price' are the phrases that earn the knowledge mark."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "The resort has a fixed number of rooms, so supply is almost perfectly inelastic in the short run: it cannot add capacity for December. At the existing rate there is therefore substantial excess demand, with more guests wanting rooms than there are rooms available.",
+          "note": "Identifies the supply constraint and names the imbalance. This is the link most answers skip."
+        },
+        {
+          "earns": "AO3 Analysis",
+          "text": "That excess demand is rationed by price. The resort raises its nightly rate, and because quantity can barely respond, almost the whole adjustment comes through price rather than volume. The new equilibrium is at a much higher rate with only a marginally higher number of rooms sold, which is why peak season rates can be several times the low season rate for an identical room. Revenue rises sharply as a result.",
+          "note": "Completes the chain to the effect on the business, with the mechanism, price rationing, made explicit. Six marks needs three or four links like this and no evaluation."
+        }
+      ],
+      "markScheme": [
+        "Up to 2 marks for identifying the rightward shift in demand.",
+        "Up to 2 marks for recognising fixed short-run supply and the resulting excess demand.",
+        "Up to 2 marks for a developed chain to the higher equilibrium rate and the effect on revenue.",
+        "No evaluation is required, and adding it earns nothing."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wbs11-c-01",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "title": "Market share and market growth from a table",
+      "given": [
+        "Own sales, this year        $456,000",
+        "Total market, this year     $6,800,000",
+        "Total market, last year     $5,900,000"
+      ],
+      "steps": [
+        {
+          "label": "1. Market share this year",
+          "working": "Market share = (own sales / total market) x 100\n            = (456,000 / 6,800,000) x 100\n            = 6.7%",
+          "note": "Same measure top and bottom: both are values, so the units cancel."
+        },
+        {
+          "label": "2. Market growth over the year",
+          "working": "Growth = ((new - old) / old) x 100\n       = ((6,800,000 - 5,900,000) / 5,900,000) x 100\n       = (900,000 / 5,900,000) x 100\n       = 15.3%",
+          "note": "Divide by the ORIGINAL figure. Dividing by 6.8m instead gives 13.2% and loses the mark."
+        }
+      ],
+      "answer": "Market share 6.7%, market growth 15.3%",
+      "tryIt": {
+        "given": [
+          "Own sales, this year        $312,000",
+          "Total market, this year     $4,160,000",
+          "Total market, last year     $3,700,000"
+        ],
+        "answer": "Market share = (312,000 / 4,160,000) x 100 = 7.5%.  Market growth = ((4,160,000 - 3,700,000) / 3,700,000) x 100 = 12.4%"
+      }
+    },
+    {
+      "id": "wbs11-c-02",
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "title": "PED, then the effect on revenue and profit",
+      "given": [
+        "Price before   $4.00      Price after   $4.40",
+        "Sales before   500/week   Sales after   440/week",
+        "Cost per unit  $1.50"
+      ],
+      "steps": [
+        {
+          "label": "1. Percentage change in price",
+          "working": "(0.40 / 4.00) x 100 = +10%"
+        },
+        {
+          "label": "2. Percentage change in quantity",
+          "working": "(-60 / 500) x 100 = -12%"
+        },
+        {
+          "label": "3. PED",
+          "working": "PED = -12 / +10 = -1.2",
+          "note": "Ignore the sign and compare to 1: 1.2 > 1, so demand is price ELASTIC."
+        },
+        {
+          "label": "4. Revenue before and after",
+          "working": "Before = 500 x 4.00 = $2,000\nAfter  = 440 x 4.40 = $1,936\nChange = -$64",
+          "note": "Elastic demand plus a price rise means revenue falls, exactly as predicted."
+        },
+        {
+          "label": "5. Profit before and after",
+          "working": "Before = 500 x (4.00 - 1.50) = 500 x 2.50 = $1,250\nAfter  = 440 x (4.40 - 1.50) = 440 x 2.90 = $1,276\nChange = +$26",
+          "note": "The point of the whole drill: revenue fell but profit rose, because 60 fewer units also means 60 fewer lots of cost."
+        }
+      ],
+      "answer": "PED = -1.2 (elastic). Revenue falls $64. Profit rises $26.",
+      "tryIt": {
+        "given": [
+          "Price before   $2.50      Price after   $2.75",
+          "Sales before   800/week   Sales after   720/week",
+          "Cost per unit  $1.00"
+        ],
+        "answer": "Price +10%. Quantity -10%. PED = -1.0 (unitary). Revenue before = $2,000, after = $1,980, so roughly unchanged (a small fall from rounding). Profit before = 800 x 1.50 = $1,200; after = 720 x 1.75 = $1,260, so profit rises $60."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "points": [
+        "It depends on the size of the business: a start-up with limited finance rarely survives a price war in a mass market, so a niche may be the only viable option.",
+        "It depends on the time frame: a niche gives high margins now, a mass market gives scale later.",
+        "It depends on how defendable the niche is: if it can be copied cheaply, the advantage is temporary and a large rival can enter and outspend you.",
+        "It depends on the data in the source: quote the actual market size, share and growth figures rather than describing the market as large or growing.",
+        "Remember growing sales and growing share are different things: a firm can grow 10% and still lose share in a market growing 25%.",
+        "Risk can be measured and insured; uncertainty cannot. Saying which one the business faces shows judgement."
+      ]
+    },
+    {
+      "topicRef": "1.3.1.2",
+      "topicTitle": "Market research",
+      "points": [
+        "It depends on the cost of the research against the size of the decision: a $200,000 launch justifies primary research, a new flavour does not.",
+        "It depends on the sample: comment on sample size and bias if the source gives numbers. This is the most reliable evaluation mark on this topic.",
+        "It depends on how fast the market moves: in a dynamic market, data six months old may already be wrong.",
+        "Research reduces risk, it never removes it. Plenty of well-researched products still fail.",
+        "Stated intention is not behaviour: what people say they would buy consistently overstates what they do buy, which is why test marketing exists.",
+        "For a cash-poor business, secondary data and its own sales records give the most understanding per pound spent."
+      ]
+    },
+    {
+      "topicRef": "1.3.1.3",
+      "topicTitle": "Market positioning",
+      "points": [
+        "An empty space on a market map is a hypothesis, not an opportunity: it may be empty because there is no demand there, or because it cannot be served profitably at that price.",
+        "It depends on whether the business can actually get to the new position: a low-price operator rarely has the brand, skills or cost base to go premium.",
+        "Added value is not profit: it deducts only bought-in materials, so rising added value does not prove rising profit.",
+        "It depends on how quickly a USP can be copied. Most can be, unless protected by a patent or a brand built over years.",
+        "Repositioning carries opportunity cost: what growth in the current position is being given up?",
+        "Trying to be both cheapest and most differentiated usually achieves neither."
+      ]
+    },
+    {
+      "topicRef": "1.3.2.1",
+      "topicTitle": "Demand",
+      "points": [
+        "It depends on the size of the shift: a small change in one minor factor is not the same as a major shift.",
+        "It depends on how long the shift lasts: a temporary change may not justify investing in capacity.",
+        "It depends on whether the business can respond: a demand shift it cannot supply is worth very little to it.",
+        "Seasonality is predictable and can be planned for; a shock cannot. Saying which one this is shows judgement.",
+        "Advertising is the one shifter the business controls, but it costs money, so the campaign can shift demand right and still lose money overall.",
+        "Several factors usually act at once, and they can pull in opposite directions."
+      ]
+    },
+    {
+      "topicRef": "1.3.2.2",
+      "topicTitle": "Supply",
+      "points": [
+        "It depends on the size of the cost rise as a proportion of total costs: 2% on a minor input is not 30% on the main one.",
+        "It depends on whether the business can switch supplier or is locked in.",
+        "It depends on whether the change is permanent or temporary.",
+        "It depends on elasticity of demand: that decides how much of a cost rise can be passed on to customers rather than absorbed.",
+        "New technology lowers unit costs eventually, but there is a capital cost, a learning period and often a dip in output first.",
+        "In an import-dependent economy, currency movements shift supply even though nothing about the product has changed."
+      ]
+    },
+    {
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "points": [
+        "It depends on how quickly supply can respond: if it cannot, price does all the adjusting. This is the strongest point available on this topic.",
+        "It depends on how long the shift lasts: a temporary shift rarely justifies new capacity.",
+        "It depends on elasticity: inelastic demand means a bigger price change and a smaller quantity change.",
+        "A higher price is not automatically good: it can damage long-term customer relationships and attract new entrants.",
+        "If both curves shift, one outcome is certain and the other genuinely depends on the relative size of the two shifts. Say so rather than inventing an answer."
+      ]
+    },
+    {
+      "topicRef": "1.3.2.4",
+      "topicTitle": "Price elasticity of demand (PED)",
+      "points": [
+        "A PED figure is estimated from past data, so it may not hold for a larger price change or in changed market conditions.",
+        "PED rises over time: short-run inelastic can become long-run elastic as customers find substitutes.",
+        "Revenue is not profit. An elastic price rise lowers revenue but can still raise profit, because fewer units sold also means fewer units of cost.",
+        "It depends on competitor reaction: a price rise that rivals match is very different from one they undercut.",
+        "It depends on brand strength: investment in branding is precisely an attempt to make demand less elastic.",
+        "A price rise can damage customer loyalty in a way the elasticity figure does not capture."
+      ]
+    },
+    {
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "points": [
+        "Income is only one influence on demand: price, tastes, competitors and marketing all act at the same time.",
+        "YED is calculated from past data and may not hold through a large or sudden income change.",
+        "Which incomes matter? For an exporter or a tourism business it is incomes in the source market, not the home market. Very few candidates spot this.",
+        "A high YED is not simply bad: it means volatility, which cuts both ways. The judgement is whether the business can survive the downswing.",
+        "The same product can have a different YED for different customer segments and income levels.",
+        "Holding products with different YEDs spreads risk across the economic cycle, which is why supermarkets run both premium and value ranges."
+      ]
+    }
+  ]
+}

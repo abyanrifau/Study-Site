@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.3",
+  "topicTitle": "Cultural and social factors",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-3-3-01",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines culture?",
+      "options": [
+        "The shared values, beliefs, customs and behaviours of a group of people",
+        "The level of education in a country",
+        "The artistic output of a nation",
+        "The language spoken in a market"
+      ],
+      "answer": 0,
+      "why": "Culture covers religion, family structure, attitudes to gender and authority, and attitudes to time.",
+      "whyNot": [
+        "",
+        "Education is one influence on culture, not its definition.",
+        "The arts are one expression of culture.",
+        "Language is one element among many."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-02",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines an unintended meaning?",
+      "options": [
+        "A meaning a brand name or slogan carries in another language that the business did not intend",
+        "A deliberate double meaning used in advertising",
+        "A translation error in a product manual",
+        "A claim that breaches advertising regulation"
+      ],
+      "answer": 0,
+      "why": "The professional response is transcreation, recreating the intended effect, checked by native speakers in the market.",
+      "whyNot": [
+        "",
+        "That is intentional wordplay.",
+        "A manual error is a quality problem, not necessarily a meaning problem.",
+        "That is a regulatory breach."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-03",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines ethnocentrism?",
+      "options": [
+        "Judging another culture by the standards of one's own and assuming what works at home will work abroad",
+        "Marketing only to one ethnic group",
+        "Employing only local staff in a foreign market",
+        "Adapting a product for each country"
+      ],
+      "answer": 0,
+      "why": "It is the underlying error behind most cultural marketing failures.",
+      "whyNot": [
+        "",
+        "That is targeted segmentation.",
+        "That is a staffing policy, and often good practice.",
+        "That is localisation, the opposite error."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-04",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "easy",
+      "stem": "Which of the following is a cultural consideration named in the specification?",
+      "options": [
+        "Language and unintended meanings",
+        "The level of corporation tax",
+        "The reliability of the power supply",
+        "The rate of inflation"
+      ],
+      "answer": 0,
+      "why": "The four named considerations are cultural differences, tastes and preferences, language and unintended meanings, and inappropriate branding and promotion.",
+      "whyNot": [
+        "",
+        "That is a fiscal factor.",
+        "That is infrastructure.",
+        "That is a macroeconomic factor."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-05",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Which element of advertising travels worst between cultures?",
+      "options": [
+        "Humour, because it depends on shared reference points",
+        "The product photograph",
+        "The brand logo",
+        "The price shown"
+      ],
+      "answer": 0,
+      "why": "Imagery, gender portrayal and religious references are also culturally specific and frequently misjudged.",
+      "whyNot": [
+        "",
+        "Product images generally travel reasonably well.",
+        "Logos are usually retained globally.",
+        "Prices are simply localised."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-06",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Why can religion affect a product decision?",
+      "options": [
+        "Dietary rules, prohibited ingredients and modesty in imagery all constrain the offer",
+        "Religion determines the exchange rate",
+        "Religion sets the level of tariffs",
+        "Religion determines infrastructure quality"
+      ],
+      "answer": 0,
+      "why": "Fasting periods and festival timing also drive seasonal demand patterns.",
+      "whyNot": [
+        "",
+        "Exchange rates are set in currency markets.",
+        "Tariffs are set by government.",
+        "Infrastructure depends on investment."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-07",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Which is an example of confusing cultural difference with income difference?",
+      "options": [
+        "Explaining small pack sizes as a cultural preference rather than a matter of affordability",
+        "Adapting a product for religious dietary rules",
+        "Changing advertising imagery for local modesty norms",
+        "Translating a slogan with a native speaker's help"
+      ],
+      "answer": 0,
+      "why": "Pack size, price point and purchase frequency are usually about income and retail structure rather than culture.",
+      "whyNot": [
+        "",
+        "That is a genuine cultural adaptation.",
+        "That is a genuine cultural adaptation.",
+        "That is a language adaptation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-08",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Why is comparative advertising a cultural and regulatory risk?",
+      "options": [
+        "It is normal in some markets and unlawful or considered rude in others",
+        "It is banned worldwide",
+        "It cannot be translated",
+        "It always increases sales"
+      ],
+      "answer": 0,
+      "why": "Advertising content regulation is far stricter in some markets, especially for food, medicines and products marketed to children.",
+      "whyNot": [
+        "",
+        "It is lawful in many markets.",
+        "Translation is not the difficulty.",
+        "Its effect varies and can be negative."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-09",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Why does text expansion in translation matter?",
+      "options": [
+        "It breaks packaging layouts, and right-to-left scripts change design entirely",
+        "It increases the tariff payable",
+        "It changes the product's ingredients",
+        "It makes the product heavier"
+      ],
+      "answer": 0,
+      "why": "Script and direction are practical design constraints that catch businesses by surprise.",
+      "whyNot": [
+        "",
+        "Tariffs do not depend on label text length.",
+        "Labelling does not change the formulation.",
+        "Weight is unaffected."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-10",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "hard",
+      "stem": "Why is there no longer any such thing as a purely local campaign?",
+      "options": [
+        "A campaign made for one market is visible everywhere within hours",
+        "All advertising must now be approved internationally",
+        "Local media no longer exists",
+        "Campaigns are legally required to run in every market"
+      ],
+      "answer": 0,
+      "why": "An advertisement that offends in one country becomes a global reputational problem, which is the most useful modern point in this topic.",
+      "whyNot": [
+        "",
+        "No such approval requirement exists.",
+        "Local media is still substantial.",
+        "No such legal requirement exists."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-11",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "hard",
+      "stem": "Why must local staff be given authority rather than just consulted?",
+      "options": [
+        "A business cannot see its own assumptions, so buying the information and overruling it wastes it",
+        "Local staff are legally entitled to make marketing decisions",
+        "Head office cannot communicate with local offices",
+        "Local staff are always more experienced"
+      ],
+      "answer": 0,
+      "why": "A firm that hires local people and overrules them has bought the information and thrown it away.",
+      "whyNot": [
+        "",
+        "No such legal entitlement exists.",
+        "Communication is not the obstacle.",
+        "Experience varies; local knowledge is the specific asset."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-12",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "hard",
+      "stem": "Why is generalising about a whole region a mistake in this topic?",
+      "options": [
+        "Cultures vary within countries as well as between them",
+        "Regions are defined differently by different governments",
+        "Regional data is never published",
+        "Marketing is always national by law"
+      ],
+      "answer": 0,
+      "why": "Primary research in the specific market is what the answer should recommend, not desk research about a region.",
+      "whyNot": [
+        "",
+        "Definitional issues are not the substantive problem.",
+        "Regional data is widely available.",
+        "Marketing is not legally restricted to national boundaries."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-13",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "hard",
+      "stem": "How important are cultural factors compared with the other factors in this unit?",
+      "options": [
+        "Decisive for food and media products, far less so for industrial components",
+        "Always the single most important factor",
+        "Never important where the product is well made",
+        "Important only in developing economies"
+      ],
+      "answer": 0,
+      "why": "Saying which type of product is in the source, and therefore how much weight to give culture, is the comparative judgement that earns marks.",
+      "whyNot": [
+        "",
+        "Their weight depends on the product.",
+        "Product quality does not overcome cultural mismatch.",
+        "Cultural difference exists everywhere."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-14",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Which of the following reduces the risk of a cultural marketing error?",
+      "options": [
+        "Pre-testing campaigns with local consumers before launch",
+        "Relying on desk research from head office",
+        "Using machine translation for all materials",
+        "Launching quickly to gain first-mover advantage"
+      ],
+      "answer": 0,
+      "why": "Local research, local staff and agencies, and monitoring social media are the other safeguards.",
+      "whyNot": [
+        "",
+        "Desk research from home is exactly the weakness.",
+        "Machine translation misses meaning and connotation.",
+        "Speed without testing increases the risk."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-15",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "hard",
+      "stem": "What is the commercial cost of a withdrawn campaign?",
+      "options": [
+        "The wasted production spend plus reputational damage that lasts considerably longer",
+        "Only the cost of the media space already bought",
+        "Nothing, because the campaign was stopped",
+        "A fine payable to the WTO"
+      ],
+      "answer": 0,
+      "why": "The pattern is consistent: approved at home by people who did not know what it would mean elsewhere, and visible worldwide before anyone in the target market had been asked.",
+      "whyNot": [
+        "",
+        "Production, agency fees and the reputational effect all count.",
+        "The damage is done once it has been seen.",
+        "The WTO does not fine businesses."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-3-16",
+      "topicRef": "4.3.3.3",
+      "topicTitle": "Cultural and social factors",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines localisation?",
+      "options": [
+        "Adapting a product, brand or campaign to suit the language and culture of a specific market",
+        "Producing a product within the market where it is sold",
+        "Employing only local staff",
+        "Registering a trademark in a local market"
+      ],
+      "answer": 0,
+      "why": "It is the practical activity that glocalisation describes as a strategy.",
+      "whyNot": [
+        "",
+        "That is local production.",
+        "That is a staffing policy.",
+        "That is a legal step."
+      ]
+    }
+  ]
+}

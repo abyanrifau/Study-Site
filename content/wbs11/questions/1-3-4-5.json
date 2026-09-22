@@ -1,0 +1,259 @@
+{
+  "topicRef": "1.3.4.5",
+  "topicTitle": "Leadership",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-4-5-01",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "easy",
+      "stem": "Which of the following best distinguishes leadership from management?",
+      "options": [
+        "Leadership sets direction and influences others; management organises and controls resources",
+        "Management sets direction; leadership organises resources",
+        "They are two words for the same role",
+        "Leadership applies only to large businesses"
+      ],
+      "answer": 0,
+      "why": "Leaders decide what the plan should be and take people with them. Managers deliver a plan that already exists. A business needs both.",
+      "whyNot": [
+        "",
+        "This reverses the two.",
+        "They are distinct, and the distinction is directly examinable.",
+        "Businesses of any size need leadership, including sole traders."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-02",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a style in which the leader makes decisions alone and tells employees what to do?",
+      "options": [
+        "Autocratic",
+        "Paternalistic",
+        "Democratic",
+        "Laissez-faire"
+      ],
+      "answer": 0,
+      "why": "Autocratic means decisions without consultation. It is right in a crisis, with inexperienced staff, or where safety demands it, and demotivating for capable people.",
+      "whyNot": [
+        "",
+        "Paternalistic still means the leader decides, but they explain why and consider welfare.",
+        "Democratic involves employees in the decision.",
+        "Laissez-faire leaves employees to decide how the work is done."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-03",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of paternalistic leadership?",
+      "options": [
+        "The leader decides, but explains the decision and considers employees' welfare",
+        "The leader lets the team decide everything",
+        "The leader makes decisions with no explanation",
+        "Employees elect their own leader"
+      ],
+      "answer": 0,
+      "why": "Often described as parental: the leader believes they know best and genuinely has employees' interests at heart. Authority still rests with them.",
+      "whyNot": [
+        "",
+        "That is laissez-faire.",
+        "That is autocratic. The explanation and the concern for welfare are what make it paternalistic.",
+        "Not one of the four styles in the specification."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-04",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "easy",
+      "stem": "Which leadership style is most appropriate during an emergency evacuation?",
+      "options": [
+        "Autocratic",
+        "Democratic",
+        "Laissez-faire",
+        "Paternalistic"
+      ],
+      "answer": 0,
+      "why": "There is no time to consult. Clear, immediate instruction is correct, and this is the standard example of autocratic leadership being the right choice rather than a bad one.",
+      "whyNot": [
+        "",
+        "Democratic leadership is slow, which is exactly wrong in an emergency.",
+        "Leaving people to decide for themselves in an evacuation would be dangerous.",
+        "Explaining the reasoning takes time an emergency does not allow."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-05",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "When is laissez-faire leadership most likely to work well?",
+      "options": [
+        "With expert, self-motivated professionals in creative or research work",
+        "With newly recruited, inexperienced staff",
+        "In a safety-critical production environment",
+        "During a financial crisis"
+      ],
+      "answer": 0,
+      "why": "It depends entirely on the people. Given experts who know more than the leader about the task, stepping back is sensible. Given novices, it becomes drift.",
+      "whyNot": [
+        "",
+        "Inexperienced staff need direction, so this would produce mistakes and confusion.",
+        "Safety-critical work needs supervision and defined procedures.",
+        "A crisis needs fast, clear decisions."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-06",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "Why is it wrong to say democratic leadership is always the best style?",
+      "options": [
+        "It is slow and depends on staff being capable enough to contribute well",
+        "It is illegal in most businesses",
+        "It always produces worse decisions",
+        "Employees dislike being consulted"
+      ],
+      "answer": 0,
+      "why": "Involvement takes time and produces good decisions only if the people involved know enough. Saying that no style is universally best, and naming what it depends on, is where the evaluation marks are.",
+      "whyNot": [
+        "",
+        "It is a normal management practice.",
+        "It often produces better decisions and better buy-in. The issue is speed and staff capability.",
+        "Most employees value genuine consultation."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-07",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "What makes the transition from entrepreneur to leader difficult?",
+      "options": [
+        "The founder has to delegate decisions and trust others, which feels like risk",
+        "Founders are legally barred from leading larger businesses",
+        "Leadership requires a formal qualification",
+        "Entrepreneurs never want their business to grow"
+      ],
+      "answer": 0,
+      "why": "The founder built the business and nobody else cares as much, so letting go is genuinely hard. Meanwhile they become the bottleneck: if every decision needs them, growth stops at their capacity.",
+      "whyNot": [
+        "",
+        "There is no such restriction.",
+        "No qualification is required.",
+        "Many want to grow, which is exactly why this transition matters."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-08",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "A founder insists on approving every decision in a growing business. What is the main consequence?",
+      "options": [
+        "The founder becomes a bottleneck and growth stalls at their capacity",
+        "Decisions become better as the business grows",
+        "Employees become more motivated",
+        "The chain of command shortens"
+      ],
+      "answer": 0,
+      "why": "One person can only make so many decisions. Everything queues behind them, so the organisation can grow no faster than the founder can process, and capable staff are demotivated by having no authority.",
+      "whyNot": [
+        "",
+        "Quality falls as the founder is stretched thinner across more decisions.",
+        "Being denied any authority is demotivating, not motivating.",
+        "Centralising every decision effectively lengthens the route to a decision."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-09",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "hard",
+      "stem": "Which statement about choosing a leadership style would earn the most credit?",
+      "options": [
+        "Good leaders switch style to suit the urgency, the stakes and the capability of the staff",
+        "Every leader should pick one style and stick to it",
+        "Autocratic leadership is always wrong",
+        "Democratic leadership works in every situation"
+      ],
+      "answer": 0,
+      "why": "The examinable insight is that style should be situational. The same manager consulting on shift patterns and directing a fire evacuation is being correct both times.",
+      "whyNot": [
+        "",
+        "A fixed style will be wrong whenever the situation changes.",
+        "It is correct in a crisis, with novices and where safety matters.",
+        "It is too slow for urgent decisions and depends on staff capability."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-10",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of democratic leadership?",
+      "options": [
+        "A style in which the leader involves employees in making decisions",
+        "A style in which the leader decides alone",
+        "A style in which employees are left to work unsupervised",
+        "A style in which decisions are made by a vote of shareholders"
+      ],
+      "answer": 0,
+      "why": "Ideas are gathered and discussed before the decision. It improves buy-in and uses staff knowledge, at the cost of speed.",
+      "whyNot": [
+        "",
+        "That is autocratic.",
+        "That is laissez-faire.",
+        "Shareholder voting is a governance mechanism, not a leadership style."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-11",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "hard",
+      "stem": "A growing guesthouse business appoints managers for two new properties. What must the founder accept?",
+      "options": [
+        "Decisions will be made that they would have made differently",
+        "The properties will inevitably fail",
+        "They must sell the original property",
+        "Managers will require no training"
+      ],
+      "answer": 0,
+      "why": "Delegating authority genuinely means other people deciding, and deciding differently. A founder unwilling to accept that has not actually delegated, and the bottleneck remains.",
+      "whyNot": [
+        "",
+        "Nothing inevitable about it, provided standards are set and managers supported.",
+        "There is no reason to sell the original property.",
+        "New managers need standards, training and support precisely so they decide well."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-4-5-12",
+      "topicRef": "1.3.4.5",
+      "topicTitle": "Leadership",
+      "difficulty": "medium",
+      "stem": "Why can a business with strong management but weak leadership still perform badly?",
+      "options": [
+        "It becomes efficient at pursuing the wrong direction",
+        "Management and leadership are the same thing",
+        "Strong management always causes losses",
+        "Weak leadership reduces the wage bill"
+      ],
+      "answer": 0,
+      "why": "Management delivers the plan; leadership decides what the plan should be. Executing a poor strategy efficiently still ends badly, which is why both are needed.",
+      "whyNot": [
+        "",
+        "They are distinct: organising what exists against setting direction.",
+        "Good management is an asset. The gap is in direction.",
+        "Leadership quality has no direct relationship to the wage bill."
+      ]
+    }
+  ]
+}

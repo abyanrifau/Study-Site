@@ -1,0 +1,322 @@
+---
+ref: "2.8.1"
+title: "Marginal costing and absorption costing"
+unit: "WAC12"
+section: "Marginal costing and absorption costing"
+oneMinute:
+  - "Marginal costing charges only variable costs to the product; fixed costs are written off in the period."
+  - "Absorption costing charges a share of fixed overhead to each unit as well."
+  - "So absorption values closing inventory higher, and the two methods report different profits."
+  - "Inventory rising means absorption profit is higher; inventory falling means marginal profit is higher."
+  - "Use marginal costing for short-run decisions: accept or refuse an order, make or buy, discontinue, and limiting factors."
+keyTerms:
+  - term: "Marginal costing"
+    definition: "A costing method in which only variable costs are charged to units of output, and fixed costs are treated as a period cost."
+  - term: "Absorption costing"
+    definition: "A costing method in which each unit is charged with a share of fixed production overhead as well as its variable costs."
+  - term: "Marginal cost"
+    definition: "The additional cost of producing one more unit, being the variable cost per unit."
+  - term: "Overhead absorption rate"
+    definition: "The rate at which fixed production overhead is charged to output, based on budgeted overhead and budgeted activity."
+  - term: "Over-absorption"
+    definition: "Where the overhead absorbed into output exceeds the overhead actually incurred, which increases reported profit."
+  - term: "Under-absorption"
+    definition: "Where the overhead absorbed into output is less than the overhead actually incurred, which reduces reported profit."
+  - term: "Relevant cost"
+    definition: "A future cash cost that changes as a result of a decision, and is therefore the only kind of cost the decision should consider."
+  - term: "Limiting factor"
+    definition: "A resource in short supply that restricts output, such as machine hours, labour hours or a scarce material."
+  - term: "Contribution per unit of limiting factor"
+    definition: "Contribution per unit divided by the amount of the scarce resource each unit uses, used to rank products when a resource is limited."
+formulas:
+  - name: "Marginal cost per unit"
+    formula: "Direct materials + Direct labour + Variable overhead"
+  - name: "Absorption cost per unit"
+    formula: "Marginal cost per unit + Fixed production overhead per unit"
+  - name: "Overhead absorption rate"
+    formula: "Budgeted fixed production overhead ÷ Budgeted activity"
+  - name: "Profit difference between the methods"
+    formula: "Change in inventory units × Fixed overhead per unit"
+  - name: "Contribution per unit of limiting factor"
+    formula: "Contribution per unit ÷ Units of the scarce resource used per unit"
+commandWords:
+  - "Calculate"
+  - "Prepare"
+  - "Explain"
+  - "Evaluate"
+---
+
+## The single difference, and everything that follows from it
+
+<Figure caption="What goes into the cost of a unit of closing inventory under each method">
+<MarginalVsAbsorptionDiagram />
+</Figure>
+
+Both methods charge materials, labour and variable overhead to the product. **Absorption costing also charges a share of fixed production overhead.** That is the only difference, and it produces all the consequences:
+
+- **Inventory is valued higher** under absorption costing, because each unit in stock carries fixed overhead with it.
+- **Profit differs between the methods whenever inventory changes**, because absorption costing carries fixed overhead forward in inventory to the next period instead of charging it now.
+- **Absorption costing can over- or under-absorb**, because the rate is set on budgeted figures and actual activity differs.
+
+**Note:** non-production overheads, such as administration and distribution, are period costs under **both** methods. Only **production** overhead is absorbed.
+
+## Profit statements under each method
+
+<Chunk title="The two layouts" open>
+
+**Marginal costing:**
+
+| | $ |
+| --- | --- |
+| Sales revenue | X |
+| Opening inventory at **variable** cost | X |
+| Variable production cost of the period | X |
+| Closing inventory at **variable** cost | (X) |
+| **Variable cost of sales** | X |
+| **Contribution** | X |
+| Fixed production overhead **incurred** | (X) |
+| Fixed non-production overheads | (X) |
+| **Profit** | X |
+
+**Absorption costing:**
+
+| | $ |
+| --- | --- |
+| Sales revenue | X |
+| Opening inventory at **full** cost | X |
+| Full production cost of the period | X |
+| Closing inventory at **full** cost | (X) |
+| **Cost of sales** | X |
+| **Gross profit** | X |
+| Over-absorption of overhead | X |
+| Under-absorption of overhead | (X) |
+| Fixed non-production overheads | (X) |
+| **Profit** | X |
+
+**The two details that carry marks.** Under marginal costing, fixed production overhead is charged at the amount **actually incurred**, so there is no absorption adjustment at all. Under absorption costing, the overhead charged to production is **absorbed at the standard rate**, so any difference from the amount incurred must be corrected as an over- or under-absorption.
+
+</Chunk>
+
+<Formula name="Reconciling the two profits" note="Rising inventory means absorption profit is HIGHER, because fixed overhead is carried forward in the inventory rather than charged this period. Falling inventory means marginal profit is higher.">
+Absorption profit − Marginal profit = Change in inventory units × Fixed overhead per unit
+</Formula>
+
+<Worked title="Worked example: both statements and the reconciliation">
+
+Selling price **$60**. Variable production cost **$34** per unit. Fixed production overhead **$150,000** a year, absorbed on a budgeted output of **10,000** units. Fixed administration costs **$40,000**.
+
+Actual output **10,000** units; actual sales **8,500** units; no opening inventory. Actual fixed production overhead was exactly $150,000.
+
+`Fixed overhead per unit = 150,000 ÷ 10,000 = $15`
+
+`Absorption cost per unit = 34 + 15 = $49`
+
+`Closing inventory = 10,000 − 8,500 = 1,500 units`
+
+**Marginal costing:**
+
+| | $ |
+| --- | --- |
+| Sales (8,500 × 60) | 510,000 |
+| Variable production cost (10,000 × 34) | 340,000 |
+| Closing inventory (1,500 × 34) | (51,000) |
+| Variable cost of sales | (289,000) |
+| **Contribution** | **221,000** |
+| Fixed production overhead incurred | (150,000) |
+| Administration | (40,000) |
+| **Profit** | **31,000** |
+
+**Absorption costing:**
+
+| | $ |
+| --- | --- |
+| Sales (8,500 × 60) | 510,000 |
+| Full production cost (10,000 × 49) | 490,000 |
+| Closing inventory (1,500 × 49) | (73,500) |
+| Cost of sales | (416,500) |
+| **Gross profit** | **93,500** |
+| Over / under absorption (10,000 absorbed at budget, none) | – |
+| Administration | (40,000) |
+| **Profit** | **53,500** |
+
+**Reconciliation.**
+
+`Difference = 53,500 − 31,000 = $22,500`
+
+`Check = change in inventory × fixed overhead per unit = 1,500 × 15 = $22,500`
+
+**What this means.** Inventory rose by 1,500 units, and absorption costing carried **$22,500** of fixed overhead forward inside that inventory instead of charging it against this year's profit. Neither profit is wrong; they answer different questions. **Absorption costing is required for published financial statements** under IAS 2, because inventory must be valued at full production cost. **Marginal costing is better for internal decisions**, because it does not let an inventory movement change the reported result.
+
+**A warning worth remembering:** because building inventory raises absorption profit, a manager judged on absorption profit has an incentive to overproduce. Marginal costing removes that incentive, which is one of its strongest arguments.
+
+**Now suppose actual output had been 9,000 units** with overhead still $150,000. Absorbed = 9,000 × $15 = $135,000, so **$15,000 was under-absorbed** and must be deducted in the absorption statement. Under-absorption arises when actual activity falls below the budget used to set the rate.
+
+</Worked>
+
+## Advantages and disadvantages
+
+| | Marginal costing | Absorption costing |
+| --- | --- | --- |
+| **For** | Simple; no arbitrary apportionment; contribution is ideal for short-run decisions; profit is not distorted by inventory movements; removes the incentive to overproduce | Required by IAS 2 for financial statements; inventory carries its full cost so profit is matched to the period of sale; ensures pricing covers all costs; reflects that fixed costs must be paid |
+| **Against** | Not acceptable for published inventory valuation; understates inventory value; risks pricing below full cost if used for long-run pricing decisions | Apportionment of fixed overhead is arbitrary; over- and under-absorption complicate the statements; profit varies with inventory, which can be manipulated; unit cost changes with volume, which is confusing for decisions |
+
+**The most important line in that table:** marginal costing risks setting prices that cover variable cost and not fixed cost, which is sustainable for a one-off order and ruinous as a general policy. Making that point separates a good evaluation from a list.
+
+## Marginal costing in decision making
+
+The principle in every case: **ignore fixed costs that will be incurred anyway, and choose the option with the highest contribution.** Only **relevant** costs matter, meaning future cash costs that change because of the decision. Sunk costs and apportioned fixed overheads are irrelevant.
+
+<Chunk title="Accept or refuse a special order" open>
+
+**Rule:** accept if the price exceeds the **variable** cost per unit, so the order makes a positive contribution, **provided** there is spare capacity.
+
+<Worked title="Worked example">
+
+Normal price $60, variable cost $34, full cost $49. A customer offers to buy **2,000** units at **$41** each. There is spare capacity.
+
+`Contribution per unit = 41 − 34 = $7`
+
+`Total contribution = 2,000 × 7 = $14,000`
+
+**Accept on the figures:** profit rises by $14,000, because the fixed costs are being paid regardless. Note that the price of $41 is **below the full cost of $49**, so an absorption-costing view would reject an order that actually adds $14,000 of profit. That is the clearest illustration of why marginal costing is used for decisions.
+
+**Now the qualitative factors, which is where the real marks are:**
+
+- **Will existing customers find out** and demand the same price? If so, the lost contribution on normal sales could exceed $14,000.
+- **Is the capacity genuinely spare**, or would this displace full-price work? If it displaces sales at $26 contribution, refusing is right.
+- **Is it a one-off or the start of a pattern?** A permanent price of $41 does not cover full cost.
+- **Are there extra costs** of delivery, packaging or modification specific to this order?
+- **Does it open a new market** or use up capacity needed for a better opportunity?
+
+</Worked>
+
+</Chunk>
+
+<Chunk title="Make or buy">
+
+**Rule:** compare the **variable cost of making** with the **buying price**, and include any fixed costs that would genuinely be avoided by stopping production.
+
+<Worked title="Worked example">
+
+A component is made at a variable cost of **$18** per unit, with **$40,000** of apportioned fixed overhead. **5,000** units are needed. A supplier offers them at **$23** each. Of the fixed overhead, **$12,000** would genuinely be avoided if production stopped.
+
+`Cost of making = (5,000 × 18) + 12,000 avoidable = 90,000 + 12,000 = $102,000`
+
+`Cost of buying = 5,000 × 23 = $115,000`
+
+**Make**, saving **$13,000**. Note that the $28,000 of unavoidable fixed overhead is excluded from both sides, because it will be incurred either way, and including it would not change the answer but would obscure the reasoning.
+
+**Qualitative factors:** supplier reliability and quality, loss of control and of in-house expertise, whether the freed capacity could earn more elsewhere, the effect on employees, and the risk of becoming dependent on one supplier.
+
+</Worked>
+
+</Chunk>
+
+<Chunk title="Continue or discontinue">
+
+**Rule:** keep the product or service if it makes a **positive contribution**, because dropping it loses that contribution while the fixed costs continue.
+
+<Worked title="Worked example">
+
+| | Product A | Product B | Product C |
+| --- | --- | --- | --- |
+| Sales revenue $ | 300,000 | 220,000 | 150,000 |
+| Variable costs $ | (180,000) | (160,000) | (126,000) |
+| **Contribution $** | **120,000** | **60,000** | **24,000** |
+| Apportioned fixed costs $ | (90,000) | (66,000) | (44,000) |
+| **Profit / (loss) $** | **30,000** | **(6,000)** | **(20,000)** |
+
+Total profit = 30,000 − 6,000 − 20,000 = **$4,000**.
+
+**Should C be dropped?** On the profit line it loses $20,000, so it looks obvious. But C makes a **positive contribution of $24,000**, and its $44,000 of apportioned fixed costs will still have to be paid by A and B. Dropping C therefore **reduces** total profit from $4,000 to a loss of $20,000.
+
+**The same applies to B**, which contributes $60,000. Both apparent losses are created by the arbitrary apportionment of fixed costs, not by the products themselves.
+
+**Drop a product only if** its contribution is negative, or the fixed costs attributed to it are genuinely avoidable, or the capacity it uses can earn a larger contribution elsewhere.
+
+</Worked>
+
+</Chunk>
+
+<Chunk title="Limiting factors">
+
+When a resource is scarce, the product with the highest contribution per unit is **not** necessarily the best one to make. Rank by **contribution per unit of the scarce resource**.
+
+<Worked title="Worked example">
+
+Only **6,000** machine hours are available.
+
+| | Product X | Product Y | Product Z |
+| --- | --- | --- | --- |
+| Contribution per unit $ | 36 | 28 | 45 |
+| Machine hours per unit | 3.0 | 2.0 | 4.5 |
+| **Contribution per machine hour $** | **12.00** | **14.00** | **10.00** |
+| **Rank** | 2nd | **1st** | 3rd |
+| Maximum demand (units) | 1,000 | 1,200 | 800 |
+
+**Allocate the 6,000 hours in rank order.**
+
+`Y: 1,200 × 2.0 = 2,400 hours. Contribution = 1,200 × 28 = $33,600. Hours left: 3,600`
+
+`X: 1,000 × 3.0 = 3,000 hours. Contribution = 1,000 × 36 = $36,000. Hours left: 600`
+
+`Z: 600 hours available ÷ 4.5 = 133 units. Contribution = 133 × 45 = $5,985`
+
+`Total contribution = 33,600 + 36,000 + 5,985 = $75,585`
+
+**Note the result.** Z has the highest contribution per unit at $45, and it is made **last**, because each unit consumes 4.5 scarce hours. Ranking by contribution per unit rather than per machine hour would have produced a materially worse answer, and that is precisely what the question is testing.
+
+**Qualitative factors:** the effect on customers of not fully supplying Z, whether the limiting factor can be relaxed by overtime, subcontracting or buying capacity, and whether products are sold together so that dropping one damages the sales of another.
+
+</Worked>
+
+</Chunk>
+
+<Tip>
+
+**How this topic is tested.** Very frequently, as a Section B 30-mark question or a Section A part. Typical parts: prepare profit statements under both methods (12–16 marks), reconcile the two profits (3–4 marks), a decision calculation such as a special order or a limiting factor (8–10 marks), then an evaluation of 8–12 marks.
+
+**Method:**
+
+1. **Calculate the fixed overhead per unit first** from the **budgeted** figures, and use it for every absorption valuation.
+2. **Value opening and closing inventory at the right cost** for each statement: variable cost for marginal, full cost for absorption. Using the same figure in both is the commonest error.
+3. **Charge fixed production overhead at the amount incurred** in the marginal statement, with no absorption adjustment.
+4. **Check for over- or under-absorption** in the absorption statement by comparing overhead absorbed with overhead incurred.
+5. **Reconcile the two profits** using the change in inventory, even if the question does not ask you to. It catches errors in seconds.
+6. **For any decision, ignore unavoidable fixed costs**, and state that you have done so and why.
+7. **For a limiting factor, always divide by the scarce resource** and then allocate strictly in rank order, stopping at maximum demand.
+
+**Structuring the evaluation:**
+
+1. **State the financial answer with the figure**, in one sentence.
+2. **Say why the two methods differ**, using the inventory movement.
+3. **Give the strongest argument for the recommendation** on the figures.
+4. **Give two or three qualitative factors drawn from the source**, not a generic list.
+5. **Distinguish short run from long run.** Accepting below full cost works once, not permanently.
+6. **Recommend**, and state the condition it depends on.
+
+**Getting evaluation marks:**
+
+- **Neither profit figure is wrong**; they answer different questions.
+- **Absorption costing lets a manager raise profit by overproducing.**
+- **Fixed cost apportionment is arbitrary**, so an apparently loss-making product may be worth keeping.
+- **Accepting below full cost is a short-run decision only.**
+- **Spare capacity is the condition** on which a special order decision turns.
+- **Rank by contribution per unit of the scarce resource**, not per unit of output.
+
+</Tip>
+
+<Mistakes>
+
+- **Valuing inventory at full cost in the marginal costing statement**, or at variable cost in the absorption statement.
+- **Including an absorption adjustment in a marginal costing statement.** There is none.
+- **Absorbing overhead on actual output** when calculating the rate. The rate comes from budgeted figures.
+- **Treating under-absorption as an addition to profit.** It is a deduction.
+- **Rejecting a special order because the price is below full cost.**
+- **Dropping a product that makes a positive contribution.**
+- **Including unavoidable fixed costs in a make-or-buy comparison.**
+- **Ranking products by contribution per unit when a resource is limited.**
+- **Allocating beyond maximum demand** for the highest-ranked product.
+- **Giving a decision with no qualitative factors**, which caps the marks available.
+
+</Mistakes>

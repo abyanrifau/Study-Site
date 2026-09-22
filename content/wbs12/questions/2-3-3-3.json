@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.3.3",
+  "topicTitle": "Business failure",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-3-3-01",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of overtrading?",
+      "options": [
+        "Expanding faster than working capital allows, so the business runs out of cash",
+        "Trading at a loss for a long period",
+        "Selling more than the business can produce",
+        "Borrowing more than the business can repay"
+      ],
+      "answer": 0,
+      "why": "Overtrading businesses are usually profitable and growing. They pay for stock and staff now and wait to be paid, and the cash runs out. It is failure caused by success, which is why it catches good businesses.",
+      "whyNot": [
+        "",
+        "That is trading at a loss, a different problem.",
+        "That is an over-utilisation or capacity problem.",
+        "That is excessive gearing."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-02",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "easy",
+      "stem": "Which of these is an internal cause of business failure?",
+      "options": [
+        "Poor management of cash flow",
+        "A rise in interest rates",
+        "A new competitor entering the market",
+        "A natural disaster"
+      ],
+      "answer": 0,
+      "why": "Internal causes arise from the business's own decisions and are therefore preventable. The specification lists cash flow, overestimating sales, overtrading, inventory control, marketing and quality.",
+      "whyNot": [
+        "",
+        "Interest rates are set externally.",
+        "Competitor entry is external.",
+        "A natural event is external."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-03",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "easy",
+      "stem": "Which of these is an external cause of business failure?",
+      "options": [
+        "A sharp fall in the exchange rate",
+        "Overestimating sales",
+        "Poor inventory control",
+        "Poor quality control"
+      ],
+      "answer": 0,
+      "why": "Exchange rates are outside the business's control. The other three are internal decisions.",
+      "whyNot": [
+        "",
+        "That is an internal forecasting failure.",
+        "Internal.",
+        "Internal."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-04",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "medium",
+      "stem": "Why are most business failures described as cash failures rather than profit failures?",
+      "options": [
+        "A business can be profitable and still be unable to pay its bills when they fall due",
+        "Profit is never important",
+        "Cash and profit are the same",
+        "Businesses never fail while profitable"
+      ],
+      "answer": 0,
+      "why": "Insolvency is a cash event. Credit sales, stock, asset purchases and loan repayments all consume cash that profit does not reflect, so the business can be sound on paper and unable to pay wages.",
+      "whyNot": [
+        "",
+        "Profit matters over the long run; it just is not what stops the business this month.",
+        "They are different, and the distinction is central to WBS12.",
+        "Profitable businesses fail regularly, which is exactly the point."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-05",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "hard",
+      "stem": "Why is overtrading counter-intuitive as a cause of failure?",
+      "options": [
+        "It is caused by growth: sales and profit are rising while cash runs out",
+        "It only affects unprofitable businesses",
+        "It is caused by a fall in demand",
+        "It only happens to very large firms"
+      ],
+      "answer": 0,
+      "why": "Large orders require stock and staff to be paid for now, with payment arriving 60 days later. The faster the growth, the wider the cash gap, so success itself creates the failure.",
+      "whyNot": [
+        "",
+        "It typically affects profitable, growing ones.",
+        "Falling demand causes a different kind of failure.",
+        "It is most common in small and fast-growing businesses."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-06",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "hard",
+      "stem": "A business fails during a recession. What is the strongest analysis?",
+      "options": [
+        "The recession was the trigger, and weak cash reserves and high fixed costs were why it could not absorb it",
+        "The recession was entirely to blame",
+        "The management was entirely to blame",
+        "Recessions always cause failure"
+      ],
+      "answer": 0,
+      "why": "External triggers meet internal vulnerabilities. A well-run business with cash reserves, low fixed commitments and a spread of customers survives the same recession, and saying so is the highest-level point on this topic.",
+      "whyNot": [
+        "",
+        "Blaming only external factors reads as an excuse and misses the analysis.",
+        "One-sided in the other direction, and it ignores a genuine external shock.",
+        "Many businesses survive recessions, which is what makes the comparison interesting."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-07",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "medium",
+      "stem": "Why is poor quality especially dangerous for a service business?",
+      "options": [
+        "Reviews are public and drive demand, so the damage is immediate and visible",
+        "Service businesses have no quality standards",
+        "Poor quality cannot be measured in services",
+        "Service businesses have no customers to lose"
+      ],
+      "answer": 0,
+      "why": "A run of poor reviews drops a platform ranking, which cuts bookings directly. There is no gap between quality and demand, and no way to inspect the product before the customer receives it.",
+      "whyNot": [
+        "",
+        "They have standards, and they are judged publicly against them.",
+        "Review scores measure it very directly.",
+        "They depend entirely on repeat custom and recommendation."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-08",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "medium",
+      "stem": "Which internal cause is most closely linked to the failure of a business with an optimistic forecast?",
+      "options": [
+        "Overestimation of sales, which leads to a cost base too large for the actual revenue",
+        "Poor quality control",
+        "A rise in interest rates",
+        "A supplier failing"
+      ],
+      "answer": 0,
+      "why": "Staff, stock and premises are committed on the basis of sales that never arrive. The cost base is then too big for the revenue, and the gap is filled with cash the business does not have.",
+      "whyNot": [
+        "",
+        "Related but distinct: this is about volume forecast, not product standard.",
+        "That is external.",
+        "Also external."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-3-09",
+      "topicRef": "2.3.3.3",
+      "topicTitle": "Business failure",
+      "difficulty": "medium",
+      "stem": "Which of the following would make a business more likely to survive an external shock?",
+      "options": [
+        "Cash reserves, low fixed commitments and a spread of customers",
+        "High gearing and a single large customer",
+        "Just-in-time stock with one distant supplier",
+        "Maximum capacity utilisation at all times"
+      ],
+      "answer": 0,
+      "why": "Resilience comes from slack: cash to absorb a revenue fall, low fixed obligations, and no single point of failure in customers or suppliers.",
+      "whyNot": [
+        "",
+        "Both increase vulnerability: debt must be serviced and one customer leaving is catastrophic.",
+        "A single distant supplier with no buffer stock is a single point of failure.",
+        "Running at 100% leaves no slack for anything."
+      ]
+    }
+  ]
+}

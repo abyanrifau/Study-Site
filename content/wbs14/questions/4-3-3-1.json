@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.3.1",
+  "topicTitle": "Marketing",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-3-1-01",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines glocalisation?",
+      "options": [
+        "Adapting a globally standardised product or marketing mix to suit local conditions",
+        "Marketing a product identically in every country",
+        "Producing only for the local market",
+        "Translating advertising into local languages"
+      ],
+      "answer": 0,
+      "why": "The phrase worth remembering is think global, act local: keep the global brand and adapt what has to be adapted.",
+      "whyNot": [
+        "",
+        "That is a pure global marketing strategy.",
+        "That is domestic production.",
+        "Translation is one small part of adaptation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-02",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "easy",
+      "stem": "Which of the following best describes an ethnocentric marketing approach?",
+      "options": [
+        "The home market's product and marketing are exported unchanged",
+        "Each country is treated as a separate market with its own product",
+        "A global strategy is combined with local adaptation",
+        "The product is designed for the largest foreign market"
+      ],
+      "answer": 0,
+      "why": "It is cheap and treats foreign markets as an afterthought, which is why it so often fails.",
+      "whyNot": [
+        "",
+        "That is polycentric.",
+        "That is geocentric.",
+        "That is not one of the three named approaches."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-03",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "easy",
+      "stem": "Which of the following best describes a polycentric marketing approach?",
+      "options": [
+        "Each country is treated as a separate market with its own product and marketing",
+        "The home offer is exported unchanged",
+        "A global strategy with local adaptation at the margin",
+        "Marketing is centralised at head office"
+      ],
+      "answer": 0,
+      "why": "It fits each market best and forfeits scale economies and any consistent global brand.",
+      "whyNot": [
+        "",
+        "That is ethnocentric.",
+        "That is geocentric.",
+        "Centralisation describes structure, not this approach."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-04",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "easy",
+      "stem": "Where does selling an existing product in a new country sit in Ansoff's matrix?",
+      "options": [
+        "Market development",
+        "Market penetration",
+        "Product development",
+        "Diversification"
+      ],
+      "answer": 0,
+      "why": "Existing product, new market. It is the second-riskiest of the four options.",
+      "whyNot": [
+        "",
+        "Penetration means selling more of the same product in the same market.",
+        "Product development means a new product in the existing market.",
+        "Diversification means a new product in a new market."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-05",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Which elements of the marketing mix usually stay global?",
+      "options": [
+        "The brand name, logo, core positioning and quality standards",
+        "Flavours, pack sizes and advertising imagery",
+        "Price points and distribution channels",
+        "Language and promotional media"
+      ],
+      "answer": 0,
+      "why": "What usually adapts is the formulation, sizes, price points, channels and the execution of the message.",
+      "whyNot": [
+        "",
+        "Those are typically adapted.",
+        "Those are typically adapted.",
+        "Those are typically adapted."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-06",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Which of the following forces product adaptation whether the business wants it or not?",
+      "options": [
+        "Local safety, labelling and ingredient regulation",
+        "A preference for the home country's advertising style",
+        "The business's own desire for scale economies",
+        "The existence of a trading bloc"
+      ],
+      "answer": 0,
+      "why": "Regulation is a hard constraint, unlike a taste preference which the business could choose to ignore.",
+      "whyNot": [
+        "",
+        "That is an internal preference.",
+        "Scale economies argue against adaptation.",
+        "A bloc harmonises standards rather than forcing product change."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-07",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Why are smaller pack sizes used in lower-income markets?",
+      "options": [
+        "They reach a lower price point while protecting the price per unit",
+        "They cost less per unit to produce",
+        "They are required by international standards",
+        "They avoid import tariffs"
+      ],
+      "answer": 0,
+      "why": "Single-use sachets bring a product within reach of a daily rather than a monthly budget, which is adaptation of price and packaging rather than the product.",
+      "whyNot": [
+        "",
+        "Smaller packs usually cost more per unit to produce and package.",
+        "No such standard exists.",
+        "Tariffs depend on the goods, not the pack size."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-08",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Which element of the marketing mix differs most between countries?",
+      "options": [
+        "Place, because retail structures and payment methods vary enormously",
+        "Product, because customers want the same things everywhere",
+        "Price, because currencies are convertible",
+        "Promotion, because advertising is globally standardised"
+      ],
+      "answer": 0,
+      "why": "Reaching the customer is frequently the binding constraint, not persuading them.",
+      "whyNot": [
+        "",
+        "Tastes and regulation differ substantially.",
+        "Convertibility does not mean prices should be converted directly.",
+        "Advertising media and content regulation vary widely."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-09",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Why does adapting the product move a strategy towards diversification in Ansoff's terms?",
+      "options": [
+        "The product is no longer the existing one, so both cost and risk rise",
+        "Adaptation changes the market rather than the product",
+        "Diversification always means entering a new country",
+        "Ansoff's matrix does not apply internationally"
+      ],
+      "answer": 0,
+      "why": "It is a neat way of expressing the cost of glocalisation in a framework the examiner recognises.",
+      "whyNot": [
+        "",
+        "Adaptation changes the product; the market is already new.",
+        "Diversification means a new product in a new market.",
+        "It applies directly to global marketing decisions."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-10",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "hard",
+      "stem": "Why is a foreign entrant particularly exposed to being stuck in the middle?",
+      "options": [
+        "It usually cannot beat local producers on cost and has not yet built enough brand to charge a premium",
+        "It is legally prevented from pursuing cost leadership",
+        "Porter's strategies do not apply to new entrants",
+        "It must always choose a focus strategy"
+      ],
+      "answer": 0,
+      "why": "Naming that risk is a strong evaluative point in a global marketing question.",
+      "whyNot": [
+        "",
+        "No legal barrier applies.",
+        "They apply to any firm choosing a competitive basis.",
+        "Focus is often sensible but not compulsory."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-11",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "hard",
+      "stem": "Why does a focus strategy often suit market entry?",
+      "options": [
+        "Serving an urban premium segment first and broadening later limits risk and cost",
+        "Focus strategies require no marketing spend",
+        "Narrow segments are always the most profitable",
+        "Focus avoids the need to understand the local culture"
+      ],
+      "answer": 0,
+      "why": "It concentrates limited resources where the business is most likely to succeed before committing to the whole market.",
+      "whyNot": [
+        "",
+        "Targeted marketing still costs money.",
+        "Profitability depends on the segment and the competition.",
+        "Cultural understanding is still required."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-12",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "hard",
+      "stem": "What is the strongest reason for standardising a marketing mix globally?",
+      "options": [
+        "Economies of scale in production and advertising, plus one consistent global brand",
+        "Local customers prefer foreign advertising",
+        "Standardisation guarantees regulatory compliance everywhere",
+        "It removes the need for market research"
+      ],
+      "answer": 0,
+      "why": "Every adaptation costs money and loses some scale economy, so the test is whether it buys more extra revenue than it costs.",
+      "whyNot": [
+        "",
+        "Preferences vary and cannot be assumed.",
+        "Standardisation can breach local regulation.",
+        "Research is still needed to know what works."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-13",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "hard",
+      "stem": "Why is a single verdict on standardise-or-adapt usually a weak answer?",
+      "options": [
+        "The answer differs by element of the mix, so each P needs its own judgement",
+        "Examiners never award marks for a conclusion",
+        "The two options are identical in practice",
+        "The mix cannot be separated into elements"
+      ],
+      "answer": 0,
+      "why": "The product may standardise while the promotion and distribution must adapt, which is the move that lifts the answer.",
+      "whyNot": [
+        "",
+        "A judgement is required; it simply has to be differentiated.",
+        "They are materially different strategies.",
+        "The 4Ps are routinely considered separately."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-14",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Which approach do most large multinationals actually use?",
+      "options": [
+        "Geocentric, standardising where they can and adapting where they must",
+        "Ethnocentric, exporting the home offer unchanged",
+        "Polycentric, designing everything separately for each country",
+        "None, because they market only in their home countries"
+      ],
+      "answer": 0,
+      "why": "It is the honest answer to most questions in this topic.",
+      "whyNot": [
+        "",
+        "This is usually a sign of an inexperienced exporter.",
+        "It is too expensive and destroys brand consistency.",
+        "Multinationals by definition operate across countries."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-15",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "medium",
+      "stem": "Why must brand names be checked by native speakers in the target market?",
+      "options": [
+        "A name can carry an unintended or offensive meaning in another language",
+        "Names must be legally registered in each language",
+        "Native speakers set the local price",
+        "Translation software cannot handle brand names"
+      ],
+      "answer": 0,
+      "why": "Pronounceability and existing associations matter too: a name customers cannot say does not get recommended.",
+      "whyNot": [
+        "",
+        "Registration is a separate legal step.",
+        "Pricing is a commercial decision.",
+        "The issue is cultural meaning, not software capability."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-3-1-16",
+      "topicRef": "4.3.3.1",
+      "topicTitle": "Marketing",
+      "difficulty": "hard",
+      "stem": "Which product type standardises most successfully across countries?",
+      "options": [
+        "Culturally neutral technology",
+        "Food and drink",
+        "Clothing and fashion",
+        "Media and entertainment"
+      ],
+      "answer": 0,
+      "why": "Identifying what the product depends on should be the first step in a standardise-or-adapt answer.",
+      "whyNot": [
+        "",
+        "Food is among the most culturally sensitive categories.",
+        "Clothing is strongly affected by climate and culture.",
+        "Media depends heavily on language and cultural reference."
+      ]
+    }
+  ]
+}

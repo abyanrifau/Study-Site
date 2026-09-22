@@ -1,0 +1,469 @@
+{
+  "topicRef": "2.1.1",
+  "topicTitle": "Limited companies",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-1-1-01",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a capital reserve?",
+      "options": [
+        "A reserve that has not arisen from trading profit and cannot be distributed as a cash dividend",
+        "A reserve created from trading profit that may be paid out as a dividend",
+        "The cash a company holds to meet unexpected costs",
+        "The nominal value of the shares a company has issued"
+      ],
+      "answer": 0,
+      "why": "Capital reserves such as share premium and revaluation reserve do not represent realised trading profit, so they cannot be paid out in cash.",
+      "whyNot": [
+        "",
+        "That is a revenue reserve.",
+        "That is a cash balance, not a reserve.",
+        "That is issued share capital."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-02",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "easy",
+      "stem": "Which of the following is a revenue reserve?",
+      "options": [
+        "General reserve",
+        "Share premium",
+        "Revaluation reserve",
+        "Capital redemption reserve"
+      ],
+      "answer": 0,
+      "why": "A general reserve is created by transferring retained earnings, so it is a revenue reserve and can be transferred back and distributed.",
+      "whyNot": [
+        "",
+        "Share premium arises on issuing shares above nominal value, so it is a capital reserve.",
+        "A revaluation reserve arises from restating an asset, not from trading, so it is a capital reserve.",
+        "A capital redemption reserve is created to keep capital intact, and is a capital reserve."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-03",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines authorised share capital?",
+      "options": [
+        "The maximum nominal value of shares the company may issue under its constitution",
+        "The nominal value of the shares actually issued to shareholders",
+        "The amount shareholders have been asked to pay",
+        "The market value of all the company's shares"
+      ],
+      "answer": 0,
+      "why": "Authorised capital is the ceiling, and it appears as a disclosure note rather than on the face of the statement of financial position.",
+      "whyNot": [
+        "",
+        "That is issued share capital.",
+        "That is called-up share capital.",
+        "That is market capitalisation, which does not appear in the financial statements."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-04",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "easy",
+      "stem": "In which statement do dividends paid appear?",
+      "options": [
+        "The statement of changes in equity",
+        "The statement of comprehensive income, as an expense",
+        "The statement of financial position, as a non-current liability",
+        "They do not appear in any financial statement"
+      ],
+      "answer": 0,
+      "why": "A dividend is an appropriation of profit, not an expense, so it is shown as a deduction from retained earnings in the statement of changes in equity.",
+      "whyNot": [
+        "",
+        "Dividends are not an expense and never reduce profit for the year.",
+        "A dividend already paid is not a liability at all.",
+        "It appears in the statement of changes in equity and in the cash flow statement."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-05",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "easy",
+      "stem": "Where is debenture interest shown in the statement of comprehensive income?",
+      "options": [
+        "As a finance cost, after operating profit",
+        "As an administrative expense, before operating profit",
+        "As an appropriation of profit, after taxation",
+        "It is not shown, because it is an equity distribution"
+      ],
+      "answer": 0,
+      "why": "Debenture interest is a finance cost, deducted after operating profit to arrive at profit before tax.",
+      "whyNot": [
+        "",
+        "Treating it as an administrative expense distorts operating profit.",
+        "It is a cost of borrowing, not an appropriation like a dividend.",
+        "It is an expense of the company because a debenture holder is a lender."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-06",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "A company issues 200,000 ordinary shares of $0.50 each at $1.40. How much is credited to share premium?",
+      "options": [
+        "$180,000",
+        "$280,000",
+        "$100,000",
+        "$70,000"
+      ],
+      "answer": 0,
+      "why": "Premium per share = 1.40 - 0.50 = $0.90. Share premium = 200,000 x 0.90 = $180,000.",
+      "whyNot": [
+        "",
+        "That is the total cash received, which must be split between capital and premium.",
+        "That is the amount credited to share capital, 200,000 x $0.50.",
+        "That halves the premium by using $0.35 per share in error."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-07",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "A company makes a 1 for 4 bonus issue on 600,000 shares of $0.25 each. What is the entry?",
+      "options": [
+        "Dr reserves $37,500; Cr share capital $37,500",
+        "Dr bank $37,500; Cr share capital $37,500",
+        "Dr reserves $150,000; Cr share capital $150,000",
+        "Dr share capital $37,500; Cr reserves $37,500"
+      ],
+      "answer": 0,
+      "why": "Bonus shares = 600,000 / 4 = 150,000, at a nominal value of $0.25 = $37,500, funded by debiting a reserve.",
+      "whyNot": [
+        "",
+        "A bonus issue raises no cash, so the bank is not involved.",
+        "That uses 150,000 shares at $1 instead of at the $0.25 nominal value.",
+        "The entry is the other way round: share capital increases and the reserve falls."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-08",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Which of the following is true of a bonus issue?",
+      "options": [
+        "It raises no cash and leaves total equity unchanged",
+        "It raises cash from existing shareholders",
+        "It increases total equity by the nominal value of the shares issued",
+        "It reduces the number of shares in issue"
+      ],
+      "answer": 0,
+      "why": "A bonus issue converts reserves into share capital, so it changes the composition of equity without changing its total.",
+      "whyNot": [
+        "",
+        "That is a rights issue.",
+        "Total equity is unchanged, because one part of equity is debited and another credited.",
+        "It increases the number of shares in issue."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-09",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Which of the following is an advantage of a rights issue over a public offer of shares?",
+      "options": [
+        "It is cheaper, needs no prospectus and protects existing shareholders from dilution",
+        "It raises more cash per share than a public offer",
+        "It does not increase the number of shares in issue",
+        "It avoids any obligation to pay future dividends"
+      ],
+      "answer": 0,
+      "why": "A rights issue is offered to existing shareholders in proportion to their holdings, which is administratively simpler and cheaper.",
+      "whyNot": [
+        "",
+        "The discount means it usually raises less per share than a public offer.",
+        "New shares are issued, so the share count rises.",
+        "Ordinary shares carry the same dividend expectations however they are issued."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-10",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Which statement about debentures compared with ordinary shares is correct?",
+      "options": [
+        "Debenture interest must be paid even if there is no profit, while dividends need not be",
+        "Debenture holders vote at general meetings, while ordinary shareholders do not",
+        "Debenture interest is an appropriation of profit, while dividends are an expense",
+        "Debenture holders are paid after ordinary shareholders on liquidation"
+      ],
+      "answer": 0,
+      "why": "Interest is a contractual obligation, which is precisely where the risk of high gearing comes from.",
+      "whyNot": [
+        "",
+        "Debenture holders are lenders and have no voting rights.",
+        "It is the reverse: interest is an expense and dividends are an appropriation.",
+        "Lenders rank ahead of all shareholders on liquidation."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-11",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Ordinary share capital is $400,000, reserves are $200,000, 8% debentures are $250,000 and 6% preference shares are $150,000. What is capital gearing?",
+      "options": [
+        "40%",
+        "25%",
+        "33.3%",
+        "66.7%"
+      ],
+      "answer": 0,
+      "why": "Fixed-return capital = 250,000 + 150,000 = $400,000. Total long-term capital = $1,000,000. Gearing = 40%.",
+      "whyNot": [
+        "",
+        "That includes only the debentures and omits the preference shares.",
+        "That uses a denominator of $1.2m or omits the reserves.",
+        "That is the proportion of equity, which is the complement of gearing."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-12",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Using the figures above, what are the annual fixed charges that must be met before any ordinary dividend?",
+      "options": [
+        "$29,000",
+        "$20,000",
+        "$9,000",
+        "$32,000"
+      ],
+      "answer": 0,
+      "why": "Debenture interest = 250,000 x 8% = $20,000. Preference dividend = 150,000 x 6% = $9,000. Total = $29,000.",
+      "whyNot": [
+        "",
+        "That is the debenture interest only.",
+        "That is the preference dividend only.",
+        "That applies 8% to both sources."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-13",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "A company has high capital gearing. Which pair of consequences is correct?",
+      "options": [
+        "Higher risk because interest is obligatory, and higher returns to ordinary shareholders in good years",
+        "Lower risk and lower returns to ordinary shareholders",
+        "Higher risk and no possibility of higher returns",
+        "No change in risk, because interest is tax deductible"
+      ],
+      "answer": 0,
+      "why": "Fixed charges magnify outcomes in both directions: any surplus above the interest belongs entirely to the ordinary shareholders.",
+      "whyNot": [
+        "",
+        "Gearing raises risk rather than lowering it.",
+        "The potential for higher returns is the reason companies use debt.",
+        "Tax deductibility lowers the cost of debt but does not remove the obligation to pay it."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-14",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines a provision?",
+      "options": [
+        "A liability of uncertain timing or amount, recognised where an obligation exists and can be reliably estimated",
+        "An amount set aside out of profit for a future expansion",
+        "A liability whose timing and amount are both known exactly",
+        "An amount deducted from an asset to show its reduced value"
+      ],
+      "answer": 0,
+      "why": "The uncertainty over timing or amount is what distinguishes a provision from an accrual.",
+      "whyNot": [
+        "",
+        "That is a reserve, which is part of equity, not a liability.",
+        "That is an accrual.",
+        "That describes an allowance offset against an asset, such as an allowance for doubtful debts."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-15",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "What is the role of the external auditor?",
+      "options": [
+        "To give an independent opinion on whether the financial statements give a true and fair view",
+        "To prepare the financial statements on behalf of the directors",
+        "To guarantee that the figures in the statements are exactly correct",
+        "To certify that no fraud has taken place in the company"
+      ],
+      "answer": 0,
+      "why": "The auditor provides an independent check that makes directors accountable to shareholders, which is its role in corporate governance.",
+      "whyNot": [
+        "",
+        "Preparing the statements is the directors' responsibility.",
+        "An audit gives reasonable assurance based on sampling, not a guarantee.",
+        "Detecting all fraud is neither the purpose nor within the scope of an audit."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-16",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Why must exceptional items be disclosed separately?",
+      "options": [
+        "So users can judge the underlying performance that is likely to recur",
+        "Because they are not allowed to affect profit",
+        "Because they are always losses rather than gains",
+        "Because the auditor cannot verify them"
+      ],
+      "answer": 0,
+      "why": "An item of unusual size or incidence would distort the trend if it were buried within operating expenses.",
+      "whyNot": [
+        "",
+        "They do affect profit; they are simply shown separately.",
+        "They can be gains, such as a large one-off disposal profit.",
+        "Verifiability is not the reason for separate disclosure."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-17",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "medium",
+      "stem": "Why must discontinued activities be shown separately from continuing activities?",
+      "options": [
+        "A user forecasting future results needs to know which profits will recur",
+        "Discontinued activities are exempt from taxation",
+        "Discontinued activities cannot be audited",
+        "The law requires discontinued activities to be excluded from profit"
+      ],
+      "answer": 0,
+      "why": "Separating them lets users see the performance of the operations the company will still have next year.",
+      "whyNot": [
+        "",
+        "There is no such tax exemption.",
+        "They are audited like any other part of the statements.",
+        "They are included in profit, shown separately."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-18",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "Company A pays $720,000 for Company B, whose assets at fair value are $623,000 and whose liabilities assumed are $37,000. What is goodwill?",
+      "options": [
+        "$134,000",
+        "$97,000",
+        "$171,000",
+        "$83,000"
+      ],
+      "answer": 0,
+      "why": "Net assets at fair value = 623,000 - 37,000 = $586,000. Goodwill = 720,000 - 586,000 = $134,000.",
+      "whyNot": [
+        "",
+        "That deducts the assets only and ignores the liabilities assumed.",
+        "That adds the liabilities to the net assets instead of deducting them from the assets.",
+        "That uses an incorrect net asset figure."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-19",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "A purchaser pays for a company with 500,000 shares of $1 issued at $1.30. How is the consideration recorded?",
+      "options": [
+        "Cr share capital $500,000 and Cr share premium $150,000",
+        "Cr share capital $650,000",
+        "Cr share capital $500,000 and Cr goodwill $150,000",
+        "Cr share premium $650,000"
+      ],
+      "answer": 0,
+      "why": "Shares are credited to capital at nominal value, and the excess of $0.30 per share goes to share premium.",
+      "whyNot": [
+        "",
+        "Crediting the whole consideration to share capital is the most frequently penalised error in this topic.",
+        "Goodwill is an asset and is not credited with the premium.",
+        "Only the excess over nominal value goes to share premium."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-20",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "How is purchased goodwill treated under current accounting standards?",
+      "options": [
+        "Recognised as a non-current intangible asset and reviewed for impairment",
+        "Written off against profit immediately in the year of purchase",
+        "Amortised on a straight-line basis over a fixed 20-year life",
+        "Not recognised at all, because it cannot be measured"
+      ],
+      "answer": 0,
+      "why": "A price was paid for it, so it is recognised, and it is written down only if a review shows its value has fallen.",
+      "whyNot": [
+        "",
+        "Immediate write-off is not the current treatment.",
+        "Straight-line amortisation over a set life is not required under current standards.",
+        "Purchased goodwill can be measured, unlike internally generated goodwill."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-21",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "Which of the following rows in a statement of changes in equity must total nil?",
+      "options": [
+        "A bonus issue and a transfer to the general reserve",
+        "Dividends paid and a share issue",
+        "Total comprehensive income and dividends paid",
+        "A rights issue and a revaluation gain"
+      ],
+      "answer": 0,
+      "why": "Both simply move value between columns of equity, so the total column must be zero. A bonus issue row with a total is an error.",
+      "whyNot": [
+        "",
+        "Both of these change total equity: one reduces it and one increases it.",
+        "Both change total equity.",
+        "Both increase total equity."
+      ]
+    },
+    {
+      "id": "WAC12-2-1-1-22",
+      "topicRef": "2.1.1",
+      "topicTitle": "Limited companies",
+      "difficulty": "hard",
+      "stem": "Why is debt often described as cheaper than its headline interest rate suggests?",
+      "options": [
+        "Interest is deductible against tax, while dividends are not",
+        "Interest does not have to be paid in a loss-making year",
+        "Debenture holders accept a lower return than they are promised",
+        "Debt does not have to be repaid"
+      ],
+      "answer": 0,
+      "why": "The tax relief reduces the effective cost, which is one reason a company with stable profits will use some debt.",
+      "whyNot": [
+        "",
+        "Interest is contractual and must be paid whatever the result.",
+        "The contractual rate is what is paid.",
+        "Debentures are repayable on a stated date."
+      ]
+    }
+  ]
+}

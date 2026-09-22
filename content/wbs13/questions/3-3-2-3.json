@@ -1,0 +1,217 @@
+{
+  "topicRef": "3.3.2.3",
+  "topicTitle": "Inorganic growth",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-2-3-01",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of backward vertical integration?",
+      "options": [
+        "Combining with a supplier, moving back down the supply chain",
+        "Combining with a customer or distributor",
+        "Combining with a competitor at the same stage",
+        "Combining with a business in an unrelated industry"
+      ],
+      "answer": 0,
+      "why": "Backward means towards the supplier. It secures supply, controls input cost and quality, and reduces supplier power.",
+      "whyNot": [
+        "",
+        "That is forward vertical integration.",
+        "That is horizontal integration.",
+        "That is conglomerate integration."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-02",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "easy",
+      "stem": "A supermarket buys a farm that supplies it. This is:",
+      "options": [
+        "backward vertical integration",
+        "forward vertical integration",
+        "horizontal integration",
+        "conglomerate integration"
+      ],
+      "answer": 0,
+      "why": "The farm is a supplier, so the supermarket has moved back down its own supply chain.",
+      "whyNot": [
+        "",
+        "Forward would mean buying something closer to the final customer.",
+        "Horizontal would mean buying another supermarket.",
+        "Conglomerate would mean an unrelated industry."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-03",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "easy",
+      "stem": "Two airlines of similar size agree to combine. This is:",
+      "options": [
+        "horizontal integration",
+        "backward vertical integration",
+        "forward vertical integration",
+        "conglomerate integration"
+      ],
+      "answer": 0,
+      "why": "Same industry, same stage. Horizontal deals bring market share and economies of scale, and are the most likely to attract competition authority scrutiny.",
+      "whyNot": [
+        "",
+        "Neither is a supplier to the other.",
+        "Neither is a distributor for the other.",
+        "Airlines are the same industry, not unrelated."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-04",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of synergy?",
+      "options": [
+        "The idea that two combined businesses are worth more than the sum of their parts",
+        "The premium paid above the market value of a target",
+        "The process of investigating a business before buying it",
+        "A takeover opposed by the target's board"
+      ],
+      "answer": 0,
+      "why": "Synergy is the justification for most acquisitions, usually through cost savings or cross-selling. It is promised before a deal and often not delivered after it.",
+      "whyNot": [
+        "",
+        "That is the acquisition premium.",
+        "That is due diligence.",
+        "That is a hostile takeover."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-05",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "medium",
+      "stem": "What is the most common reason acquisitions fail to create value for the acquirer?",
+      "options": [
+        "Overpayment, because the premium exceeds the synergies achieved",
+        "The target business always collapses",
+        "Competition authorities always block them",
+        "Acquisitions are illegal in most countries"
+      ],
+      "answer": 0,
+      "why": "Buying control requires a premium, and the promised synergies frequently fall short of it. Overpayment and culture clash are the two standard causes of failure.",
+      "whyNot": [
+        "",
+        "Targets usually continue trading; the problem is the price paid.",
+        "Most deals proceed; only some face intervention.",
+        "Acquisitions are legal and routine."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-06",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "medium",
+      "stem": "Why is culture clash such a common cause of acquisition failure?",
+      "options": [
+        "Two workforces with different ways of working do not merge because a contract was signed",
+        "Cultures are legally required to remain separate",
+        "Culture has no effect on business performance",
+        "Staff always welcome acquisitions"
+      ],
+      "answer": 0,
+      "why": "Different pay structures, working practices and loyalties persist long after the deal. Integration failure is more common than financial failure, which is why examiners look for this point.",
+      "whyNot": [
+        "",
+        "No such requirement.",
+        "It affects motivation, retention and productivity directly.",
+        "Acquisitions typically create anxiety about job security."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-07",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "hard",
+      "stem": "What is the main criticism of conglomerate diversification?",
+      "options": [
+        "There is no synergy, and shareholders could diversify their own portfolios more cheaply",
+        "It is illegal in most countries",
+        "It always reduces total revenue",
+        "It concentrates risk in one market"
+      ],
+      "answer": 0,
+      "why": "No shared costs, no shared customers and no management expertise in the new industry. Investors can spread their own risk by buying different shares, so the company adds little by doing it for them.",
+      "whyNot": [
+        "",
+        "It is legal and common.",
+        "It usually raises revenue by adding a business.",
+        "It spreads risk, which is its main justification."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-08",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of due diligence?",
+      "options": [
+        "Detailed investigation of a business before acquiring it, to verify finances and identify risks",
+        "The premium paid to gain control of a target",
+        "The legal process of registering a merger",
+        "The integration of two workforces after a deal"
+      ],
+      "answer": 0,
+      "why": "Due diligence is what should find hidden liabilities before the deal completes. It does not always succeed, which is one of the financial risks of acquisition.",
+      "whyNot": [
+        "",
+        "That is the acquisition premium.",
+        "That is regulatory filing.",
+        "That is post-merger integration."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-09",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "medium",
+      "stem": "Why does a debt-funded acquisition increase risk?",
+      "options": [
+        "Gearing and interest costs rise, reducing resilience if trading worsens",
+        "Debt never has to be repaid",
+        "Debt dilutes ownership",
+        "Interest payments are optional"
+      ],
+      "answer": 0,
+      "why": "The interest must be paid whether or not the synergies materialise. A highly geared acquirer facing a downturn has very little room to manoeuvre.",
+      "whyNot": [
+        "",
+        "It must be repaid with interest.",
+        "Debt preserves ownership; equity dilutes it.",
+        "Interest is contractually due."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-3-10",
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "difficulty": "hard",
+      "stem": "What should always be compared against an acquisition proposal?",
+      "options": [
+        "The organic alternative, and whether speed is genuinely necessary",
+        "The colour of the target's logo",
+        "The number of employees at the acquirer",
+        "The age of the target business"
+      ],
+      "answer": 0,
+      "why": "Acquisition buys speed at high cost and high risk. If the same capability could be built internally and there is time to do so, the organic route is usually safer. Making that comparison is what a strong evaluation does.",
+      "whyNot": [
+        "",
+        "Irrelevant.",
+        "Not the decisive comparison.",
+        "Not the decisive comparison."
+      ]
+    }
+  ]
+}

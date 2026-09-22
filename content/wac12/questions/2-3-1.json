@@ -1,0 +1,427 @@
+{
+  "topicRef": "2.3.1",
+  "topicTitle": "Statement of cash flows",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-3-1-01",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "easy",
+      "stem": "Under IAS 7, what are the three sections of the statement of cash flows?",
+      "options": [
+        "Operating, investing and financing activities",
+        "Revenue, expenses and profit",
+        "Assets, liabilities and equity",
+        "Current, non-current and contingent items"
+      ],
+      "answer": 0,
+      "why": "IAS 7 requires cash flows to be classified into operating, investing and financing activities.",
+      "whyNot": [
+        "",
+        "Those are elements of the statement of comprehensive income.",
+        "Those are elements of the statement of financial position.",
+        "That is not a classification used in IAS 7."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-02",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "easy",
+      "stem": "How is depreciation treated in the statement of cash flows?",
+      "options": [
+        "Added back to operating profit, because no cash left the business",
+        "Deducted from operating profit, because it is an expense",
+        "Shown under investing activities",
+        "Excluded entirely, with no adjustment made"
+      ],
+      "answer": 0,
+      "why": "Depreciation reduced profit without any movement of cash, so it must be added back to arrive at cash generated from operations.",
+      "whyNot": [
+        "",
+        "It was already deducted in arriving at operating profit.",
+        "Investing activities show the cash cost of buying assets, not depreciation.",
+        "An adjustment is essential, because the statement starts from operating profit."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-03",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "easy",
+      "stem": "Inventory has increased over the year. What is the effect in the statement of cash flows?",
+      "options": [
+        "A negative adjustment, because cash has been spent on stock",
+        "A positive adjustment, because stock is an asset",
+        "No adjustment, because inventory is not cash",
+        "It is shown under investing activities"
+      ],
+      "answer": 0,
+      "why": "Cash moves in the opposite direction to an asset: more inventory means cash has been used.",
+      "whyNot": [
+        "",
+        "Holding more of an asset consumes cash rather than providing it.",
+        "The whole purpose of the working capital adjustments is to convert profit into cash.",
+        "Inventory is part of working capital, within operating activities."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-04",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "easy",
+      "stem": "Trade payables have increased over the year. What is the effect?",
+      "options": [
+        "A positive adjustment, because suppliers have not yet been paid",
+        "A negative adjustment, because the company owes more",
+        "No adjustment, because payables are not cash",
+        "It is shown under financing activities"
+      ],
+      "answer": 0,
+      "why": "Cash moves in the same direction as a liability: more credit from suppliers means cash has been retained.",
+      "whyNot": [
+        "",
+        "Owing more means less cash has gone out this year.",
+        "Payables are part of the working capital adjustment.",
+        "Trade payables are an operating item, not financing."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-05",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "easy",
+      "stem": "Where are dividends paid shown?",
+      "options": [
+        "Under financing activities",
+        "Under operating activities",
+        "Under investing activities",
+        "They are not shown at all"
+      ],
+      "answer": 0,
+      "why": "Dividends paid are a return to the providers of equity finance, so they belong in financing activities.",
+      "whyNot": [
+        "",
+        "Interest paid is shown within operating activities, but dividends are not.",
+        "Investing activities concern non-current assets and investments.",
+        "They are a real cash outflow and must be shown."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-06",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "A profit on disposal of a non-current asset of $9,000 is included in operating profit. How is it treated?",
+      "options": [
+        "Deducted, because the full proceeds appear under investing activities",
+        "Added back, because it is a non-cash gain",
+        "Ignored, because it is included in profit already",
+        "Shown as a financing inflow"
+      ],
+      "answer": 0,
+      "why": "The whole of the cash received appears separately under investing activities, so leaving the profit in operating would double count it.",
+      "whyNot": [
+        "",
+        "A loss on disposal is added back; a profit is deducted.",
+        "Leaving it in would overstate operating cash flow.",
+        "Disposal proceeds are an investing inflow, not financing."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-07",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Operating profit is $210,000, depreciation $85,000, profit on disposal $9,000, inventory up $56,000, receivables up $57,000 and payables up $12,000. What is cash generated from operations?",
+      "options": [
+        "$185,000",
+        "$203,000",
+        "$167,000",
+        "$295,000"
+      ],
+      "answer": 0,
+      "why": "210,000 + 85,000 - 9,000 - 56,000 - 57,000 + 12,000 = $185,000.",
+      "whyNot": [
+        "",
+        "That adds the profit on disposal instead of deducting it.",
+        "That deducts the increase in payables instead of adding it.",
+        "That omits the working capital movements entirely."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-08",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Opening cash was $26,000 and net cash flow for the year was an outflow of $11,000. What is closing cash?",
+      "options": [
+        "$15,000",
+        "$37,000",
+        "($11,000)",
+        "$26,000"
+      ],
+      "answer": 0,
+      "why": "26,000 - 11,000 = $15,000, which must agree with the cash figure in the statement of financial position.",
+      "whyNot": [
+        "",
+        "That adds the outflow instead of deducting it.",
+        "That ignores the opening balance.",
+        "That is the opening balance."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-09",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "A share issue raises $200,000, of which $80,000 is share premium. What appears under financing activities?",
+      "options": [
+        "$200,000, because the premium is cash too",
+        "$120,000, being the nominal value only",
+        "$80,000, being the premium only",
+        "Nothing, because a share issue is not a cash flow"
+      ],
+      "answer": 0,
+      "why": "The statement records cash, so the whole of the proceeds is shown regardless of how it is split within equity.",
+      "whyNot": [
+        "",
+        "Including only the nominal value understates the cash raised.",
+        "The premium alone is not the total received.",
+        "A share issue for cash is a financing inflow."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-10",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Which of the following appears under investing activities?",
+      "options": [
+        "Proceeds from the sale of a delivery vehicle",
+        "Interest paid on a debenture",
+        "Repayment of a bank loan",
+        "An increase in trade receivables"
+      ],
+      "answer": 0,
+      "why": "Investing activities cover cash flows from buying and selling non-current assets and investments.",
+      "whyNot": [
+        "",
+        "Interest paid is shown within operating activities.",
+        "Loan repayment is a financing outflow.",
+        "That is a working capital movement within operating activities."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-11",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Why can a profitable company still run out of cash?",
+      "options": [
+        "Profit is recognised when a sale is made, while the cash may arrive much later",
+        "Profit figures are always inaccurate",
+        "Cash is not recorded in the accounting system",
+        "Profit includes only cash transactions"
+      ],
+      "answer": 0,
+      "why": "The gap between profit and cash comes from credit sales, inventory build-up, capital spending and non-cash charges.",
+      "whyNot": [
+        "",
+        "Audited profit is reasonably reliable; the issue is timing.",
+        "Cash is recorded fully; the point is that it differs from profit.",
+        "Profit includes credit transactions, which is exactly the problem."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-12",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "A company bought $260,000 of equipment and raised only $150,000 of long-term finance. What does this indicate?",
+      "options": [
+        "A financing mismatch: long-term investment funded partly out of short-term resources",
+        "That the company is over-capitalised",
+        "That the company has made a loss",
+        "That the equipment was bought at the wrong price"
+      ],
+      "answer": 0,
+      "why": "Long-term assets should be funded by long-term finance, and naming the mismatch is what earns the evaluation marks.",
+      "whyNot": [
+        "",
+        "Over-capitalisation means holding too much long-term finance, which is the opposite.",
+        "Cash flow says nothing directly about whether a loss was made.",
+        "The issue is how it was funded, not what it cost."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-13",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "Which of the following best defines overtrading?",
+      "options": [
+        "Expanding sales faster than the working capital available to support them",
+        "Selling goods below their cost price",
+        "Trading in more countries than the company can manage",
+        "Paying dividends greater than profit for the year"
+      ],
+      "answer": 0,
+      "why": "Rapid growth consumes cash, because inventory and receivables grow with sales while the cash to fund them must come from somewhere.",
+      "whyNot": [
+        "",
+        "That is loss-making pricing, a different problem.",
+        "That is over-expansion, not overtrading in the technical sense.",
+        "That is an uncovered dividend."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-14",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "Which of the following positive cash flows is least likely to be repeatable?",
+      "options": [
+        "Proceeds from selling non-current assets",
+        "Cash generated from operations",
+        "A reduction in receivables days achieved by better credit control",
+        "An increase in sales volume"
+      ],
+      "answer": 0,
+      "why": "Asset sales cannot be repeated each year, and they often shrink the capacity to earn, so distinguishing them from trading cash flow is essential.",
+      "whyNot": [
+        "",
+        "Operating cash flow is the recurring source and the one that matters most.",
+        "A sustained improvement in credit control has a lasting effect on the level of receivables.",
+        "Higher sales volume can continue, though growth also consumes cash."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-15",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "Why is cash flow information often considered more reliable than profit?",
+      "options": [
+        "Cash received and paid is a matter of record, while profit depends on accounting judgements",
+        "Cash flow statements are audited and profit statements are not",
+        "Cash flow includes forecasts, while profit does not",
+        "Cash flow is not affected by the level of sales"
+      ],
+      "answer": 0,
+      "why": "Profit depends on judgements about depreciation, inventory valuation and provisions, whereas cash movements are factual.",
+      "whyNot": [
+        "",
+        "Both statements are covered by the audit.",
+        "Neither statement contains forecasts; a cash budget does.",
+        "Cash flow is heavily affected by sales and how they are collected."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-16",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "Net book value of an asset disposed of was $25,000 and the proceeds were $34,000. What appears where?",
+      "options": [
+        "A profit of $9,000 deducted in operating activities and $34,000 added in investing activities",
+        "A profit of $9,000 added in operating activities and $25,000 in investing activities",
+        "$25,000 in investing activities only",
+        "$34,000 deducted in investing activities"
+      ],
+      "answer": 0,
+      "why": "The cash received is $34,000, and the $9,000 profit already in operating profit must be removed to avoid double counting.",
+      "whyNot": [
+        "",
+        "A profit on disposal is deducted, and the cash shown is the proceeds.",
+        "The net book value is not a cash flow.",
+        "Proceeds are an inflow, not an outflow."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-17",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Interest paid during the year is shown:",
+      "options": [
+        "Within operating activities, after cash generated from operations",
+        "Within financing activities, alongside dividends paid",
+        "Within investing activities",
+        "As an adjustment added back to operating profit"
+      ],
+      "answer": 0,
+      "why": "IAS 7 as applied in this specification shows interest paid within operating activities, after cash generated from operations.",
+      "whyNot": [
+        "",
+        "Dividends paid are financing; interest paid is operating in this layout.",
+        "Investing activities concern non-current assets.",
+        "It is a genuine cash outflow, not a non-cash adjustment."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-18",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Which figure must the statement of cash flows reconcile to?",
+      "options": [
+        "The closing cash balance in the statement of financial position",
+        "The profit for the year",
+        "The total of non-current assets",
+        "The closing balance of retained earnings"
+      ],
+      "answer": 0,
+      "why": "Opening cash plus the net change must equal closing cash, and that is the first check to apply.",
+      "whyNot": [
+        "",
+        "Profit and cash differ, which is the purpose of the statement.",
+        "Non-current assets are only part of the investing section.",
+        "Retained earnings is reconciled in the statement of changes in equity."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-19",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "medium",
+      "stem": "Why does a company's liquidity matter more than its profit in the short term?",
+      "options": [
+        "A company fails when it cannot pay what it owes, whatever its reported profit",
+        "Profit is not important to any stakeholder",
+        "Liquidity determines the level of taxation payable",
+        "Lenders do not look at profit"
+      ],
+      "answer": 0,
+      "why": "Wages, suppliers and interest have to be paid in cash, and a supplier who is not paid stops supplying.",
+      "whyNot": [
+        "",
+        "Profit matters greatly over the longer term.",
+        "Tax is based on profit, not liquidity.",
+        "Lenders look at both, with particular attention to the ability to service the debt."
+      ]
+    },
+    {
+      "id": "WAC12-2-3-1-20",
+      "topicRef": "2.3.1",
+      "topicTitle": "Statement of cash flows",
+      "difficulty": "hard",
+      "stem": "What is the main limitation of the statement of cash flows?",
+      "options": [
+        "It is historical and contains no forecast, so a cash budget is needed to look ahead",
+        "It cannot be prepared from published financial statements",
+        "It excludes all capital expenditure",
+        "It is not required by accounting standards"
+      ],
+      "answer": 0,
+      "why": "It explains why cash moved in a period that has ended, and a single year can be distorted by timing around the year end.",
+      "whyNot": [
+        "",
+        "It is prepared from the two statements of financial position and the income statement.",
+        "Capital expenditure appears under investing activities.",
+        "IAS 7 requires it."
+      ]
+    }
+  ]
+}

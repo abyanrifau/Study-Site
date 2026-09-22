@@ -1,0 +1,217 @@
+{
+  "topicRef": "2.3.4.1",
+  "topicTitle": "Production, productivity and efficiency",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-4-1-01",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of productivity?",
+      "options": [
+        "Output per unit of input per period of time",
+        "The total output of a business",
+        "Producing at the minimum average cost",
+        "The maximum output a business can produce"
+      ],
+      "answer": 0,
+      "why": "Productivity is a ratio of output to input, most often output per worker. Production is total output; efficiency is minimum average cost; capacity is the maximum possible.",
+      "whyNot": [
+        "",
+        "That is production.",
+        "That is efficiency.",
+        "That is capacity."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-02",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "easy",
+      "stem": "A workshop produces 7,200 units a month with 24 employees. What is labour productivity?",
+      "options": [
+        "300 units per employee per month",
+        "172,800 units",
+        "0.003 units",
+        "24 units"
+      ],
+      "answer": 0,
+      "why": "Labour productivity = total output / number of employees = 7,200 / 24 = 300 units per employee per month.",
+      "whyNot": [
+        "",
+        "This multiplies instead of dividing.",
+        "This divides employees by output, the wrong way round.",
+        "That is the number of employees."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-03",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "easy",
+      "stem": "Which production method involves producing one item at a time to a customer's specific requirements?",
+      "options": [
+        "Job production",
+        "Batch production",
+        "Flow production",
+        "Cell production"
+      ],
+      "answer": 0,
+      "why": "Job production is bespoke: tailoring, construction, one-off engineering. Highest unit cost, highest flexibility.",
+      "whyNot": [
+        "",
+        "Batch production makes groups of identical items, then switches.",
+        "Flow production makes large volumes of a standardised product continuously.",
+        "Cell production divides the process into teams owning a complete stage."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-04",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "medium",
+      "stem": "Which production method gives the lowest unit cost but the least flexibility?",
+      "options": [
+        "Flow production",
+        "Job production",
+        "Batch production",
+        "Cell production"
+      ],
+      "answer": 0,
+      "why": "A continuous standardised line achieves the lowest cost per unit through scale and specialisation, and it cannot easily change what it makes.",
+      "whyNot": [
+        "",
+        "Job production is the most flexible and most expensive per unit.",
+        "Batch sits between the two on both measures.",
+        "Cell production is moderately flexible with moderate unit costs."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-05",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "medium",
+      "stem": "Why does cell production tend to improve motivation?",
+      "options": [
+        "Teams own a complete stage, so the work is varied and the output is identifiable",
+        "Workers are paid more in cell production",
+        "Cells have no supervision at all",
+        "Cell production requires fewer workers"
+      ],
+      "answer": 0,
+      "why": "Rather than repeating one task on a line, the team is responsible for a whole section. That is job enrichment in Herzberg's terms, and it also improves quality because the team can see and fix its own problems.",
+      "whyNot": [
+        "",
+        "Pay is a separate decision.",
+        "Cells are still managed; they have more autonomy, not none.",
+        "Headcount depends on the work, not the layout."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-06",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "medium",
+      "stem": "Labour costs are $48,000 a month. Output rises from 7,200 to 9,000 units with the same staff. What happens to labour cost per unit?",
+      "options": [
+        "It falls from $6.67 to $5.33",
+        "It rises from $5.33 to $6.67",
+        "It stays the same",
+        "It falls from $6.67 to $4.80"
+      ],
+      "answer": 0,
+      "why": "48,000 / 7,200 = $6.67. 48,000 / 9,000 = $5.33. Higher productivity with the same wage bill cuts unit labour cost by about 20%, which feeds straight into either a lower price or a wider margin.",
+      "whyNot": [
+        "",
+        "This reverses the two figures.",
+        "The same cost spread over more units must give a lower cost per unit.",
+        "48,000 / 9,000 is 5.33, not 4.80."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-07",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "hard",
+      "stem": "How can a business raise productivity and become less efficient at the same time?",
+      "options": [
+        "If the equipment that raised output cost more than the labour it saved",
+        "This is impossible by definition",
+        "If output falls at the same time",
+        "If it hires more workers"
+      ],
+      "answer": 0,
+      "why": "Productivity is output per input; efficiency is minimum average cost. New machinery can raise output per worker while raising total cost per unit, so the two measures move in opposite directions. Making this distinction is a strong exam point.",
+      "whyNot": [
+        "",
+        "They measure different things, so they can diverge.",
+        "Falling output would reduce productivity too.",
+        "More workers with the same output would lower productivity."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-08",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "medium",
+      "stem": "Which type of production is a guesthouse closest to?",
+      "options": [
+        "Job production, because each guest's stay is handled individually",
+        "Flow production, because rooms are standardised",
+        "Batch production, because guests arrive in groups",
+        "Cell production, because staff work in teams"
+      ],
+      "answer": 0,
+      "why": "Each stay is individually delivered rather than produced as standardised output, which is why unit costs are high and service quality, and therefore staff, matter so much.",
+      "whyNot": [
+        "",
+        "Rooms may be similar, and the service delivered is not standardised or continuous.",
+        "Arrival patterns are not a production method.",
+        "Teams may be used, and the output is still individual rather than a repeated process stage."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-09",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "medium",
+      "stem": "When is capital-intensive production most appropriate?",
+      "options": [
+        "High volume, standardised output and high wage costs",
+        "Low volume, bespoke output and low wage costs",
+        "Highly variable demand",
+        "When the business has very little finance"
+      ],
+      "answer": 0,
+      "why": "Machinery needs volume to justify the investment, and it is most attractive where labour is expensive. It is inflexible, so variable demand argues against it.",
+      "whyNot": [
+        "",
+        "Those conditions favour labour-intensive production.",
+        "Capital intensity is inflexible, so variable demand is a problem.",
+        "It requires heavy upfront investment."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-4-1-10",
+      "topicRef": "2.3.4.1",
+      "topicTitle": "Production, productivity and efficiency",
+      "difficulty": "hard",
+      "stem": "Why is a short product lead-in time a competitive advantage?",
+      "options": [
+        "The business reaches the market first, can charge a premium before rivals arrive, and responds faster to changing tastes",
+        "It reduces the cost of raw materials",
+        "It removes the need for market research",
+        "It guarantees higher quality"
+      ],
+      "answer": 0,
+      "why": "Speed to market is an advantage in its own right, not just an operational detail. First movers set the standard and earn at a premium before competition catches up.",
+      "whyNot": [
+        "",
+        "Material costs are unrelated to development speed.",
+        "Research is still needed, and arguably faster.",
+        "Speed and quality are separate, and rushing can reduce quality."
+      ]
+    }
+  ]
+}

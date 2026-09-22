@@ -1,0 +1,449 @@
+{
+  "unit": "WBS13",
+  "intro": "Two hours for 80 marks. Section A is short and extended response from sources (40 marks); Sections B and C are one 20-mark essay each. That is 90 seconds a mark, so a 20-mark essay gets 30 minutes and Section A gets 60.\n\nThe command word tells you what to do. Explain wants one chain of cause and effect. Analyse wants two or three chains. Assess and Evaluate want chains PLUS a judgement with a condition attached. A balanced answer with no decision cannot reach the top band.\n\nWork each planner in note form first, then read the model and compare the structure, not the wording. What lifts a 12-mark answer from 7 to 11 is almost always the same three things: using the actual figures from the source, chaining each point two or three steps further than feels necessary, and finishing with 'it depends on...' rather than 'in conclusion'.",
+  "questions": [
+    {
+      "id": "wbs13-w-01",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "commandWord": "Evaluate",
+      "marks": 20,
+      "context": "Delta Foods is choosing between two projects and can afford only one. Project A costs $500,000 with inflows of $180,000 a year for four years. Project B costs $500,000 with inflows of $90,000, $140,000, $210,000 and $290,000. The cost of capital is 10%. Discount factors at 10%: 0.909, 0.826, 0.751, 0.683. Delta has an overdraft of $210,000 and its bank has asked for it to be reduced. The board has set a maximum acceptable payback period of three years.",
+      "question": "Evaluate which project Delta Foods should choose.",
+      "planner": [
+        {
+          "label": "Do all three calculations before writing (6 minutes)",
+          "prompt": "Payback A: 500,000/180,000 = 2.78 years, so 2 years 9 months. Payback B: cumulative 90, 230, 440, so 3 years + (60,000/290,000) x 12 = 3 years 2 months. NPV A: 180,000 x (0.909+0.826+0.751+0.683 = 3.169) = 570,420, so NPV +70,420. NPV B: work each year separately."
+        },
+        {
+          "label": "NPV of B, carefully",
+          "prompt": "90,000 x 0.909 = 81,810; 140,000 x 0.826 = 115,640; 210,000 x 0.751 = 157,710; 290,000 x 0.683 = 198,070. Total 553,230, so NPV = +$53,230."
+        },
+        {
+          "label": "State the conflict",
+          "prompt": "A wins on BOTH measures here: shorter payback AND higher NPV. So this is not a conflict question; it is a question about whether the numbers should decide. Say that clearly, because it changes the answer."
+        },
+        {
+          "label": "Bring in the overdraft and the payback rule",
+          "prompt": "The overdraft of $210,000 and the bank's request make early cash flow critical, which reinforces A. And B fails the board's own three-year payback criterion by two months."
+        },
+        {
+          "label": "Make the case for B anyway",
+          "prompt": "B's inflows are rising and its final year is $290,000 against A's $180,000, so beyond four years B is likely to be worth far more. The appraisal period may be cutting B off artificially."
+        },
+        {
+          "label": "Evaluate the method itself",
+          "prompt": "Pick three: the forecasts are estimates and B's later years are the least reliable; the 10% rate is an assumption and NPV is sensitive to it; non-financial factors are excluded; and neither project's residual value is given."
+        },
+        {
+          "label": "Judge",
+          "prompt": "Commit to A, with reasons from the liquidity position, and state what would change the decision."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO2: the calculations",
+          "text": "Project A pays back in 500,000 / 180,000 = 2.78 years, or 2 years 9 months. Project B's cumulative inflows are $90,000, $230,000 and $440,000 after three years, leaving $60,000 to recover from the fourth year's $290,000, so payback is 3 years 2 months. On net present value, A's inflows are constant, so the four discount factors can be totalled to 3.169: 180,000 x 3.169 = $570,420, giving an NPV of +$70,420. B's inflows must be discounted individually: 81,810 + 115,640 + 157,710 + 198,070 = $553,230, giving an NPV of +$53,230.",
+          "note": "All four figures calculated and laid out. Note the shortcut of totalling the factors for constant inflows: it saves time and is worth knowing."
+        },
+        {
+          "earns": "AO3: read the result",
+          "text": "Both projects are financially acceptable, since both have a positive net present value at the 10% cost of capital. Project A is superior on both measures: it pays back five months sooner and generates $17,190 more present value. This is not therefore a case where payback and NPV conflict, which means the arithmetic points in a single direction and the remaining question is whether other factors should override it.",
+          "note": "Identifying that the measures agree is an important observation. Many candidates assume a conflict and argue one that does not exist."
+        },
+        {
+          "earns": "AO2 + AO3: the liquidity dimension",
+          "text": "Delta's financial position reinforces the choice. It has an overdraft of $210,000 which the bank has asked it to reduce, so the timing of cash inflows is not a secondary consideration but a constraint. Project A returns $180,000 in the first year against B's $90,000, a difference of $90,000 in the year when Delta most needs cash to reduce its borrowing. B also fails the board's own stated criterion of a maximum three-year payback, by two months.",
+          "note": "Connects the appraisal to the liquidity position given in the source. This is what applying data means, rather than repeating it."
+        },
+        {
+          "earns": "AO4: the case against A",
+          "text": "There is a case for B that the four-year appraisal understates. Its inflows rise steadily and its fourth-year figure of $290,000 is more than 60% above A's constant $180,000, which suggests B is a project whose returns are still growing when the appraisal period ends, while A's are flat. If both assets continue beyond four years, B would very likely overtake A, and the appraisal period may be cutting it off artificially. Nothing in the source gives the useful life of either asset, and that is a material omission.",
+          "note": "Genuine evaluation: it identifies a limitation of the appraisal as constructed, not just of NPV in general. Noting the missing information is a strong move."
+        },
+        {
+          "earns": "AO4: limitations of the method",
+          "text": "Three further limitations qualify the calculations. The cash flows are estimates, and B's later years, which carry most of its value, are the least reliable. The 10% cost of capital is itself an assumption, and NPV is sensitive to it: a higher rate would penalise B more heavily than A, because B's cash arrives later, while a lower rate would favour B. And neither figure captures non-financial factors such as which project fits Delta's existing operations, requires skills the business has, or carries reputational or environmental risk.",
+          "note": "The point that a higher discount rate penalises the later-cash-flow project more heavily is a genuinely sophisticated observation about the technique."
+        },
+        {
+          "earns": "AO4: judgement",
+          "text": "Delta should choose Project A. It is superior on both financial measures, and its faster early cash generation directly addresses the overdraft the bank has asked the business to reduce, which is a current constraint rather than a hypothetical one. B additionally fails the board's own payback criterion. The judgement depends chiefly on the useful life of the two assets: if Project B's cash flows were shown to continue well beyond four years, its higher and rising later inflows would probably make it the more valuable project, and Delta should ask for that information before deciding. It also depends on whether the overdraft position is temporary. A business under no immediate financing pressure and able to wait for returns should weight NPV over payback, but that is not Delta's position.",
+          "note": "Commits clearly with three reasons, then states two distinct conditions that would change the answer. Distinguishing Delta's actual position from the general principle is exactly the kind of judgement the command word asks for."
+        }
+      ],
+      "markScheme": [
+        "AO1 (4): payback, net present value, discounting, cost of capital.",
+        "AO2 (4): correct calculations and use of the overdraft, bank request and payback criterion from the source.",
+        "AO3 (6): identifies that the measures agree, links cash timing to the liquidity constraint, and analyses the effect of the appraisal period.",
+        "AO4 (6): limitations of the method including discount rate sensitivity, and a judgement with two stated conditions."
+      ]
+    },
+    {
+      "id": "wbs13-w-02",
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "commandWord": "Assess",
+      "marks": 12,
+      "context": "Norland Insurance employs 1,400 people across four regional offices. It plans to remove a layer of middle management, reducing 96 team leader posts to 48, and to move to remote working for two thirds of staff. The chief executive has announced the change in an email and set an implementation date three months away. Staff turnover is currently 6%. An internal survey last year found that 71% of staff described communication from senior management as poor.",
+      "question": "Assess whether Norland Insurance will be able to implement this change successfully.",
+      "planner": [
+        {
+          "label": "Identify what kind of change this is",
+          "prompt": "Two changes at once: delayering (96 to 48 posts) and a move to remote working. Say that: attempting both simultaneously is itself a risk factor and most candidates treat it as one change."
+        },
+        {
+          "label": "Force field analysis",
+          "prompt": "Driving forces: cost saving from 48 fewer posts, faster decisions, staff demand for flexibility. Restraining forces: 48 people losing their jobs, the remaining 48 facing doubled spans of control, and 71% already reporting poor communication."
+        },
+        {
+          "label": "The resistance you would expect, and from whom",
+          "prompt": "Middle managers hardest, because their authority came from the layer being removed and half of them lose their posts. Use the 96 to 48 figure. Note the 6% turnover is currently low, so Norland has something to lose."
+        },
+        {
+          "label": "Attack the communication method",
+          "prompt": "This is the strongest point in the source. An email announcing redundancies, from a leadership 71% of staff already consider poor at communicating, in a change that depends on trust. Chain it: no consultation means no ownership, rumours fill the gap, and productivity falls during the three months."
+        },
+        {
+          "label": "Attack the timescale",
+          "prompt": "Three months for a change that removes half a management layer AND relocates two thirds of staff. Changing how people work is culture change, which takes years."
+        },
+        {
+          "label": "Judge with a condition",
+          "prompt": "Commit: likely to achieve the structural change and unlikely to achieve it well. Say what would improve the odds: consultation, phasing the two changes, and support for the remaining team leaders."
+        }
+      ],
+      "model": [
+        {
+          "earns": "AO1 + AO2",
+          "text": "Norland is attempting two substantial changes at once. Delayering removes a management level by halving team leader posts from 96 to 48, and the move to remote working for two thirds of staff changes how work is done rather than merely who supervises it. Attempting both simultaneously is itself a risk, because each would individually absorb considerable management attention and the effects interact: the remaining 48 team leaders will be supervising roughly double the number of people, and doing so remotely.",
+          "note": "Identifies both changes and, crucially, the interaction between them. That interaction point is the analytical opening."
+        },
+        {
+          "earns": "AO3: force field analysis",
+          "text": "Applying force field analysis, the driving forces are real: the saving from 48 fewer management posts, faster decision-making through a shorter chain of command, and probable staff demand for flexible working. The restraining forces are stronger. Forty-eight people lose their jobs and every remaining team leader faces a doubled span of control. Those whose authority derived from the layer being removed have most to lose and, as experienced middle managers, most capacity to obstruct implementation.",
+          "note": "Uses the technique to structure the argument rather than describing it, and identifies WHY middle management resistance matters."
+        },
+        {
+          "earns": "AO2 + AO3: the communication failure",
+          "text": "The most serious weakness is the method of communication. Announcing redundancies by email is the least consultative approach available, and it is being used by a leadership that 71% of staff already described as poor at communicating. The consequence is predictable and chains through the implementation: with no consultation there is no opportunity for staff to shape the change and therefore no ownership of it; in the absence of information staff will construct worse versions than the truth; and the three months before implementation become a period of rumour, anxiety and reduced productivity. Communicating the reason for a change, not merely the fact of it, is what secures acceptance, and an email does neither.",
+          "note": "Three-step chain from the method to the consequence, with the 71% figure doing real work. This paragraph carries the answer."
+        },
+        {
+          "earns": "AO3 + AO4: the timescale",
+          "text": "The three-month timescale compounds the problem. Removing a management layer is an organisational change that can be executed to a date, but moving two thirds of staff to remote working changes working relationships, supervision and the informal communication on which the business currently relies, which is closer to culture change. Culture is unwritten and reinforced by habit, so it shifts over years rather than quarters. Setting a date three months away suggests the structural change has been planned and the behavioural change has not.",
+          "note": "Distinguishes structural from cultural change and uses the distinction to explain why the deadline is the wrong one."
+        },
+        {
+          "earns": "AO4: the counter-argument",
+          "text": "Two factors work in Norland's favour. Current staff turnover of 6% is low, which suggests reasonable underlying satisfaction and a workforce with some reason to stay and make the new arrangements work. And remote working is a change many staff are likely to want, so the second half of the programme may generate support rather than resistance if it is separated from the redundancies.",
+          "note": "Balances the answer and, importantly, suggests the two changes have different levels of support, which sets up the recommendation."
+        },
+        {
+          "earns": "AO4: judgement with a condition",
+          "text": "Norland will probably implement the structural change on time and is unlikely to implement it well. The posts can be removed to a deadline; the trust, communication and revised supervision that remote working requires cannot. The 71% figure indicates that the organisation's principal weakness is precisely the capability this change depends on, and an email announcement has made it worse rather than better. Success depends on three things Norland could still do: consulting staff on how remote working will operate, even though the decision itself has been taken; separating the two changes so the redundancies are completed before working patterns are altered; and training and supporting the 48 remaining team leaders, whose doubled and now remote span of control is the point at which the new structure is most likely to fail.",
+          "note": "Commits to a differentiated judgement, identifies the single figure that supports it, and gives three specific remedies that are still available. Naming where the structure will fail is a genuinely business-like observation."
+        }
+      ],
+      "markScheme": [
+        "Identifies both changes and their interaction (2).",
+        "Applies force field analysis or resistance theory to the source (3).",
+        "Develops the communication failure through to its consequences (4).",
+        "Judgement distinguishing structural from behavioural success, with specific remedies (3)."
+      ]
+    }
+  ],
+  "calculations": [
+    {
+      "id": "wbs13-c-01",
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "title": "Payback, ARR and NPV compared on two competing projects",
+      "given": [
+        "Both projects cost $500,000. Cost of capital 10%",
+        "Project A inflows: 180,000 a year for 4 years",
+        "Project B inflows: 90,000, 140,000, 210,000, 290,000",
+        "Discount factors at 10%: 0.909, 0.826, 0.751, 0.683"
+      ],
+      "steps": [
+        {
+          "label": "1. Payback, Project A",
+          "working": "500,000 / 180,000 = 2.78 years\n0.78 x 12 = 9.3 months\n-> 2 years 9 months",
+          "note": "With constant inflows you can divide directly. With uneven ones you must use cumulative flows."
+        },
+        {
+          "label": "2. Payback, Project B",
+          "working": "Year  Inflow    Cumulative\n 1    90,000     90,000\n 2   140,000    230,000\n 3   210,000    440,000\n 4   290,000    730,000\n\n60,000 still to recover in year 4:\n(60,000 / 290,000) x 12 = 2.5 months\n-> 3 years 2 months",
+          "note": "Build the cumulative column. Never try to do uneven payback in your head."
+        },
+        {
+          "label": "3. ARR, Project A",
+          "working": "Total inflows = 4 x 180,000 = 720,000\nTotal profit  = 720,000 - 500,000 = 220,000\nAverage profit = 220,000 / 4 = 55,000\nARR = (55,000 / 500,000) x 100 = 11.0%",
+          "note": "With no residual value, total depreciation equals the full cost. For WBS13, ARR conventionally uses the initial investment."
+        },
+        {
+          "label": "4. ARR, Project B",
+          "working": "Total inflows = 730,000\nTotal profit  = 230,000\nAverage profit = 57,500\nARR = (57,500 / 500,000) x 100 = 11.5%",
+          "note": "B is marginally better on ARR, because its total inflows are higher. ARR ignores WHEN the money arrives."
+        },
+        {
+          "label": "5. NPV, Project A",
+          "working": "Inflows are constant, so total the factors:\n0.909 + 0.826 + 0.751 + 0.683 = 3.169\n\nPV = 180,000 x 3.169 = 570,420\nNPV = 570,420 - 500,000 = +70,420",
+          "note": "The shortcut only works for CONSTANT inflows. It saves a lot of time when it applies."
+        },
+        {
+          "label": "6. NPV, Project B",
+          "working": "Year  Inflow     DF      PV\n 1    90,000   0.909    81,810\n 2   140,000   0.826   115,640\n 3   210,000   0.751   157,710\n 4   290,000   0.683   198,070\n                     --------\nTotal PV              553,230\nNPV = 553,230 - 500,000 = +53,230",
+          "note": "Each year separately. Do not discount the year 0 outflow."
+        },
+        {
+          "label": "7. Compare and decide",
+          "working": "             Payback        ARR      NPV\nProject A  2 yrs 9 mths   11.0%   +70,420\nProject B  3 yrs 2 mths   11.5%   +53,230\n\nA wins on payback and NPV; B wins marginally on ARR.\n\nCHOOSE A, and note WHY B's NPV is lower despite\nhigher total inflows: B's cash arrives later, so\ndiscounting reduces it more.",
+          "note": "State the decision. And explain the ARR-NPV divergence: ARR ignores timing, NPV does not. That explanation is where the analysis marks are."
+        }
+      ],
+      "answer": "A: payback 2 years 9 months, ARR 11.0%, NPV +$70,420. B: payback 3 years 2 months, ARR 11.5%, NPV +$53,230. Choose A, because B's higher total inflows arrive later and are discounted more heavily.",
+      "tryIt": {
+        "given": [
+          "Both projects cost $320,000; cost of capital 10%",
+          "Project P: 120,000 a year for 3 years",
+          "Project Q: 60,000, 130,000, 220,000",
+          "DFs at 10%: 0.909, 0.826, 0.751"
+        ],
+        "answer": "P: payback 320,000/120,000 = 2.67 years = 2 years 8 months. Total inflows 360,000, total profit 40,000, average 13,333, ARR = 4.2%. NPV: factors total 2.486, so 120,000 x 2.486 = 298,320, NPV = -21,680, so REJECT. Q: cumulative 60,000, 190,000, 410,000, so payback = 2 years + (130,000/220,000) x 12 = 2 years 7 months. Total inflows 410,000, profit 90,000, average 30,000, ARR 9.4%. NPV = 54,540 + 107,380 + 165,220 = 327,140, NPV = +7,140, so ACCEPT. Here Q wins on every measure, and note P has a positive ARR and a NEGATIVE NPV, which shows why discounting matters."
+      }
+    },
+    {
+      "id": "wbs13-c-02",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "title": "A full ratio set for two years, with the interpretation",
+      "given": [
+        "                            Year 1      Year 2",
+        "Revenue                  1,840,000   2,210,000",
+        "Gross profit               736,000     840,000",
+        "Operating profit           184,000     177,000",
+        "Inventory                  138,000     221,000",
+        "Trade receivables          202,000     318,000",
+        "Cash                        46,000      12,000",
+        "Current liabilities        224,000     396,000",
+        "Non-current liabilities    300,000     450,000",
+        "Total equity               820,000     870,000"
+      ],
+      "steps": [
+        {
+          "label": "1. Gross profit margin",
+          "working": "Y1: (736,000 / 1,840,000) x 100 = 40.0%\nY2: (840,000 / 2,210,000) x 100 = 38.0%",
+          "note": "A 2 point fall: either selling prices were cut or input costs rose."
+        },
+        {
+          "label": "2. Operating profit margin",
+          "working": "Y1: (184,000 / 1,840,000) x 100 = 10.0%\nY2: (177,000 / 2,210,000) x 100 =  8.0%",
+          "note": "Both margins fell, and the operating margin fell further, so overheads rose as well."
+        },
+        {
+          "label": "3. Current ratio",
+          "working": "Y1: (138,000 + 202,000 + 46,000) / 224,000\n  = 386,000 / 224,000 = 1.72\nY2: (221,000 + 318,000 + 12,000) / 396,000\n  = 551,000 / 396,000 = 1.39",
+          "note": "Liquidity has weakened, and the composition is worse: cash fell from 46,000 to 12,000."
+        },
+        {
+          "label": "4. Gearing",
+          "working": "Y1: (300,000 / (300,000 + 820,000)) x 100 = 26.8%\nY2: (450,000 / (450,000 + 870,000)) x 100 = 34.1%",
+          "note": "State the version of the formula you used: non-current liabilities over total long-term capital."
+        },
+        {
+          "label": "5. ROCE",
+          "working": "Y1: (184,000 / 1,120,000) x 100 = 16.4%\nY2: (177,000 / 1,320,000) x 100 = 13.4%",
+          "note": "Capital employed = equity + non-current liabilities. Use OPERATING profit."
+        },
+        {
+          "label": "6. Receivables days",
+          "working": "Y1: (202,000 / 1,840,000) x 365 = 40 days\nY2: (318,000 / 2,210,000) x 365 = 53 days",
+          "note": "Customers are taking 13 days longer to pay, which is where the cash has gone."
+        },
+        {
+          "label": "7. Put the story together",
+          "working": "Revenue up 20.1%  but operating profit DOWN 3.8%\n\nWhat happened:\n- margins cut to win the extra revenue (40% -> 38%)\n- overheads rose faster than revenue (10% -> 8%)\n- receivables up 57% against revenue up 20%\n- inventory up 60% against revenue up 20%\n- cash fell 46,000 -> 12,000; gearing 26.8% -> 34.1%\n\nThis is OVERTRADING: growth bought with discounts and\nfunded by borrowing and by extending credit, with\nfalling returns and weakening liquidity.",
+          "note": "This synthesis is the answer. Individual ratios are worth few marks; the pattern across them is worth many."
+        }
+      ],
+      "answer": "Year 1 to Year 2: gross margin 40.0% to 38.0%; operating margin 10.0% to 8.0%; current ratio 1.72 to 1.39; gearing 26.8% to 34.1%; ROCE 16.4% to 13.4%; receivables 40 to 53 days. Revenue rose 20% while operating profit fell 4%: the classic signature of overtrading.",
+      "tryIt": {
+        "given": [
+          "                        Year 1      Year 2",
+          "Revenue               960,000   1,150,000",
+          "Gross profit          384,000     437,000",
+          "Operating profit      115,000     149,000",
+          "Inventory              72,000      78,000",
+          "Receivables           105,000     118,000",
+          "Cash                   31,000      64,000",
+          "Current liabilities   140,000     158,000",
+          "Non-current liabs     260,000     200,000",
+          "Total equity          430,000     540,000"
+        ],
+        "answer": "Gross margin 40.0% to 38.0%. Operating margin 12.0% to 13.0%. Current ratio (208,000/140,000) 1.49 to (260,000/158,000) 1.65. Gearing (260,000/690,000) 37.7% to (200,000/740,000) 27.0%. ROCE (115,000/690,000) 16.7% to (149,000/740,000) 20.1%. Receivables 40 days to 37 days. The opposite story: the gross margin fell but overheads were controlled so the operating margin ROSE, liquidity improved, gearing fell and ROCE rose. Growth here was profitable and well funded."
+      }
+    },
+    {
+      "id": "wbs13-c-03",
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "title": "A decision tree with expected values and the net gain",
+      "given": [
+        "Option 1: launch nationally. Cost $400,000",
+        "  70% chance of success: payoff $900,000",
+        "  30% chance of failure: payoff $150,000",
+        "Option 2: test in one region first. Cost $120,000",
+        "  If the test is positive (60% chance), roll out nationally for a further $400,000",
+        "    then 85% chance of $900,000 and 15% chance of $150,000",
+        "  If the test is negative (40% chance), abandon: payoff $0"
+      ],
+      "steps": [
+        {
+          "label": "1. Expected value of Option 1",
+          "working": "EV = (0.70 x 900,000) + (0.30 x 150,000)\n   = 630,000 + 45,000\n   = 675,000\n\nNet gain = 675,000 - 400,000 = $275,000",
+          "note": "Always deduct the cost of the option to get the NET figure. An EV with the cost left in is the commonest error."
+        },
+        {
+          "label": "2. Work the test route BACKWARDS, starting at the far right",
+          "working": "If the test is positive and Delta rolls out:\nEV = (0.85 x 900,000) + (0.15 x 150,000)\n   = 765,000 + 22,500\n   = 787,500\nLess the roll-out cost of 400,000 = 387,500",
+          "note": "Decision trees are always solved right to left. Resolve the furthest-right chance node first."
+        },
+        {
+          "label": "3. Now the test outcome node",
+          "working": "EV of the test result:\n= (0.60 x 387,500) + (0.40 x 0)\n= 232,500 + 0\n= 232,500",
+          "note": "A negative test leads to abandonment, so that branch is worth zero rather than a loss, because the roll-out cost is never incurred."
+        },
+        {
+          "label": "4. Net gain of Option 2",
+          "working": "232,500 - 120,000 test cost = $112,500",
+          "note": "Now both options are expressed the same way: net of all costs."
+        },
+        {
+          "label": "5. Compare",
+          "working": "Option 1 (launch now):  $275,000\nOption 2 (test first):  $112,500\n\nDifference:             $162,500 in favour of\n                        launching immediately",
+          "note": "State the decision AND the size of the difference."
+        },
+        {
+          "label": "6. Evaluate before you commit",
+          "working": "The probabilities are ESTIMATES, and the whole\nanswer turns on them. Test the sensitivity:\n\nIf Option 1's success chance were 50% rather than 70%:\nEV = (0.5 x 900,000) + (0.5 x 150,000) = 525,000\nNet = 125,000, which is close to Option 2's 112,500.\n\nSo the recommendation is not robust.",
+          "note": "Sensitivity testing one probability is the strongest evaluation available on a decision tree, and it takes thirty seconds."
+        }
+      ],
+      "answer": "Option 1 net expected value $275,000; Option 2 net expected value $112,500. Launch nationally, though the answer is sensitive to the 70% success probability: at 50% the two options are almost equal.",
+      "tryIt": {
+        "given": [
+          "Option A: invest now, cost 250,000. 60% chance of 600,000; 40% chance of 100,000",
+          "Option B: research first, cost 60,000. 50% chance of a positive result,",
+          "  then invest 250,000 with an 80% chance of 600,000 and 20% chance of 100,000.",
+          "  If negative (50%), abandon with a payoff of 0"
+        ],
+        "answer": "Option A: EV = 360,000 + 40,000 = 400,000; net = 400,000 - 250,000 = $150,000. Option B: if positive, EV = 480,000 + 20,000 = 500,000, less 250,000 = 250,000. Test node = (0.5 x 250,000) + (0.5 x 0) = 125,000, less 60,000 research = $65,000. Choose A. Sensitivity: if A's success chance fell to 40%, EV = 240,000 + 60,000 = 300,000, net = 50,000, and B would then win."
+      }
+    }
+  ],
+  "evaluation": [
+    {
+      "topicRef": "3.3.1.1",
+      "topicTitle": "Corporate objectives",
+      "points": [
+        "A written objective is only useful if it is SMART. Test the one in the source against each element and say which it fails.",
+        "Objectives conflict: growth against profit, short term against long term, shareholders against other stakeholders. Name the specific conflict in the source.",
+        "What a business rewards reveals its real objectives far more reliably than what it publishes.",
+        "It depends on the stage the business is at: survival objectives for a start-up, growth for an expanding firm, profit maximisation for a mature one.",
+        "Objectives set in a stable market may be inappropriate once conditions change, so the review process matters as much as the objective."
+      ]
+    },
+    {
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "points": [
+        "Porter's five forces measures how much PROFIT is available in a market, which is a different question from how large the market is.",
+        "A growing market attracts entrants, which erodes the very margins that attracted them.",
+        "The five forces are not the same for every firm: a new entrant usually faces worse supplier and buyer power than the incumbent.",
+        "Being stuck in the middle, neither cheapest nor distinctive, is the most common strategic failure and the one a new entrant is most exposed to.",
+        "The models are snapshots. Conditions change, so a strategy that fits today's forces may not fit in three years."
+      ]
+    },
+    {
+      "topicRef": "3.3.2.1",
+      "topicTitle": "Growth",
+      "points": [
+        "Distinguish growth in SALES from growth in SHARE. A firm can grow 10% and lose share in a market growing 25%.",
+        "Diseconomies of scale are about coordination and communication, so they set in earlier where operations are geographically dispersed.",
+        "Growth consumes cash, so a profitable growing business can still fail. Check the liquidity position in the source.",
+        "Organic growth is slower and controllable; inorganic growth is fast and imports someone else's culture and problems.",
+        "It depends on whether the business has the management capacity to run a larger operation, which is the constraint most often overlooked."
+      ]
+    },
+    {
+      "topicRef": "3.3.2.3",
+      "topicTitle": "Inorganic growth",
+      "points": [
+        "Culture clash is the most common single cause of acquisition failure, and it is worse across borders.",
+        "Overpayment is the commonest financial cause: a premium is paid and the forecast synergies do not appear.",
+        "Synergies assume the two operations can actually be combined, which regulation, geography and incompatible systems may prevent.",
+        "Acquisition buys speed and reversibility is almost nil, which matters most where the market is unfamiliar.",
+        "Due diligence limits the damage and cannot eliminate it, because the most important problems are cultural and therefore hard to inspect."
+      ]
+    },
+    {
+      "topicRef": "3.3.3.2",
+      "topicTitle": "Investment appraisal",
+      "points": [
+        "NPV is theoretically superior because it uses cash and allows for the time value of money, and payback answers the question a cash-constrained business is actually asking.",
+        "Where ARR and NPV disagree, the explanation is usually timing: ARR ignores when the cash arrives and NPV does not.",
+        "A higher discount rate penalises a project whose cash arrives later more heavily, so the choice of rate can change the ranking.",
+        "The forecasts are estimates, and the later years carry most of the NPV while being the least reliable.",
+        "The appraisal period may cut off a project whose returns are still growing. Check whether the useful lives are given.",
+        "Always state the decision, and always bring in the non-financial factors the source provides."
+      ]
+    },
+    {
+      "topicRef": "3.3.3.3",
+      "topicTitle": "Decision trees",
+      "points": [
+        "The probabilities are estimates, and the whole answer depends on them. Test what happens if one key probability is 20 points lower: that is the strongest evaluation available.",
+        "Expected values are averages over many repetitions, and a business making the decision once may not get the average outcome.",
+        "Deduct the cost of each option to compare NET expected values. An EV with the cost left in is not comparable.",
+        "Decision trees exclude everything qualitative: reputation, staff capacity, strategic fit and the effect of a public failure.",
+        "A high expected value with a large downside may be the wrong choice for a business that cannot survive the bad outcome."
+      ]
+    },
+    {
+      "topicRef": "3.3.4.1",
+      "topicTitle": "Corporate culture",
+      "points": [
+        "Culture follows rewards, not statements. A business that says it values teamwork and promotes the most aggressive individual has a culture of individual aggression.",
+        "Culture change takes years, while senior managers are usually judged in quarters.",
+        "A strong culture is an asset or a liability depending on whether it points in the right direction.",
+        "Strategy must fit the culture, or the culture has to change first, which takes longer than the strategy allows.",
+        "Middle managers resist hardest, because their authority came from the arrangement being changed."
+      ]
+    },
+    {
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "points": [
+        "A single ratio means little. The pattern ACROSS ratios is where the marks are: revenue up with operating profit down, cash falling and receivables rising is overtrading.",
+        "Compare ROCE with the cost of borrowing, not with zero.",
+        "State the version of the gearing formula you have used, then interpret the number rather than just reporting it.",
+        "A very high current ratio may mean idle resources rather than strength.",
+        "Ratios are historical and contain nothing non-financial, yet management quality and order books drive future performance.",
+        "Say what further information you would want: the industry average, the previous three years, or the composition of current assets."
+      ]
+    },
+    {
+      "topicRef": "3.3.6.1",
+      "topicTitle": "Key factors in change",
+      "points": [
+        "Weakening the restraining forces usually beats strengthening the driving forces, because adding pressure to a resisting organisation raises tension on both sides.",
+        "Resistance is often rational and may contain information the plan needs. Dismissing it as resistance is a management error.",
+        "Communication is necessary and not sufficient: staff judge a change by behaviour and rewards, not announcements.",
+        "Distinguish structural change, which can be delivered to a deadline, from behavioural or cultural change, which cannot.",
+        "Attempting two major changes at once is itself a risk factor, because each absorbs the management attention the other needs.",
+        "It depends on the speed required: a phased change is better managed and may arrive too late."
+      ]
+    }
+  ]
+}

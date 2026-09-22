@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.3",
+  "topicTitle": "Terms of trade",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-2-3-01",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "easy",
+      "stem": "How are the terms of trade calculated?",
+      "options": [
+        "(Index of export prices / Index of import prices) x 100",
+        "(Index of import prices / Index of export prices) x 100",
+        "Export value minus import value",
+        "(Export volume / Import volume) x 100"
+      ],
+      "answer": 0,
+      "why": "Export prices on top. Getting this the wrong way round inverts the whole answer.",
+      "whyNot": [
+        "",
+        "That inverts the formula.",
+        "That is the trade balance.",
+        "That is a volume ratio, not the terms of trade."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-02",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "easy",
+      "stem": "Export prices index 114, import prices index 105. What are the terms of trade?",
+      "options": [
+        "108.6",
+        "92.1",
+        "119.7",
+        "9.0"
+      ],
+      "answer": 0,
+      "why": "(114 / 105) x 100 = 108.6, an improvement of 8.6% from a base of 100.",
+      "whyNot": [
+        "",
+        "That inverts the formula.",
+        "That uses an incorrect calculation.",
+        "That is the difference in the indices, not the ratio."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-03",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "easy",
+      "stem": "Export prices index 106, import prices index 128. What are the terms of trade?",
+      "options": [
+        "82.8",
+        "120.8",
+        "134.0",
+        "22.0"
+      ],
+      "answer": 0,
+      "why": "(106 / 128) x 100 = 82.8, a deterioration.",
+      "whyNot": [
+        "",
+        "That inverts the formula.",
+        "That uses an incorrect calculation.",
+        "That is the difference in the indices."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-04",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best describes an improvement in the terms of trade?",
+      "options": [
+        "Export prices have risen relative to import prices, so exports buy more imports",
+        "Export volumes have risen relative to import volumes",
+        "The trade balance has moved into surplus",
+        "Both export and import prices have fallen"
+      ],
+      "answer": 0,
+      "why": "The terms of trade are a price ratio, not a volume or value measure.",
+      "whyNot": [
+        "",
+        "It concerns prices, not volumes.",
+        "That is the trade balance, a different measure.",
+        "What matters is their movement relative to each other."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-05",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "The terms of trade move from 108.6 to 82.8. What is the percentage change?",
+      "options": [
+        "A fall of 23.8%",
+        "A fall of 25.8%",
+        "A rise of 23.8%",
+        "A fall of 31.2%"
+      ],
+      "answer": 0,
+      "why": "((82.8 - 108.6) / 108.6) x 100 = -23.8%.",
+      "whyNot": [
+        "",
+        "That divides by the new figure rather than the old.",
+        "The index has fallen, so the change is negative.",
+        "That uses an incorrect denominator."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-06",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "Higher domestic inflation than trading partners has what effect?",
+      "options": [
+        "The terms of trade improve and competitiveness worsens",
+        "The terms of trade worsen and competitiveness improves",
+        "Both the terms of trade and competitiveness improve",
+        "Neither is affected"
+      ],
+      "answer": 0,
+      "why": "Export prices rise faster than import prices, improving the ratio while making the country less competitive. Almost everything that improves one worsens the other.",
+      "whyNot": [
+        "",
+        "Higher inflation raises export prices, improving the ratio.",
+        "They move in opposite directions.",
+        "Relative price movements affect both."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-07",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "Faster productivity growth than competitors has what effect?",
+      "options": [
+        "The terms of trade deteriorate and competitiveness improves",
+        "The terms of trade improve and competitiveness worsens",
+        "Both deteriorate",
+        "Neither is affected"
+      ],
+      "answer": 0,
+      "why": "Lower unit costs mean lower export prices, which worsens the price ratio while improving competitiveness.",
+      "whyNot": [
+        "",
+        "Lower export prices worsen the ratio.",
+        "Competitiveness improves with productivity.",
+        "Both are affected."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-08",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "An appreciation of the currency has what immediate effect on the terms of trade?",
+      "options": [
+        "They improve, because export prices rise in foreign currency and import prices fall in domestic currency",
+        "They deteriorate, because exports become dearer",
+        "They are unaffected, because the exchange rate is not a price",
+        "They improve only if the Marshall-Lerner condition holds"
+      ],
+      "answer": 0,
+      "why": "The price ratio moves favourably immediately, whatever happens to volumes afterwards.",
+      "whyNot": [
+        "",
+        "Dearer exports raise the export price index, which improves the ratio.",
+        "The exchange rate directly changes both price indices.",
+        "The condition concerns the trade balance, not the terms of trade."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-09",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "An improvement in the terms of trade occurs and demand for exports is price elastic. What happens to export revenue?",
+      "options": [
+        "It falls, because the proportional fall in quantity exceeds the proportional rise in price",
+        "It rises, because prices are higher",
+        "It is unchanged, because the effects offset exactly",
+        "It cannot be determined without knowing import elasticity"
+      ],
+      "answer": 0,
+      "why": "With PED greater than 1, a price rise reduces total revenue.",
+      "whyNot": [
+        "",
+        "That would be the result with inelastic demand.",
+        "Exact offsetting occurs only at unit elasticity.",
+        "Export revenue depends on export elasticity alone."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-10",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "An improvement in the terms of trade occurs and demand for exports is price inelastic. What happens to export revenue?",
+      "options": [
+        "It rises, because quantity falls proportionally less than the price rises",
+        "It falls, because quantity falls",
+        "It is unchanged",
+        "It depends on the exchange rate regime"
+      ],
+      "answer": 0,
+      "why": "With PED less than 1, a price rise raises total revenue.",
+      "whyNot": [
+        "",
+        "The quantity fall is proportionally smaller than the price rise.",
+        "Revenue changes unless elasticity is exactly 1.",
+        "Elasticity determines the outcome."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-11",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "Why is an improvement in the terms of trade not automatically good news?",
+      "options": [
+        "It usually reflects lost competitiveness, and export volumes and employment may fall",
+        "It always causes inflation",
+        "It reduces the country's imports of essential goods",
+        "It always worsens the balance of payments"
+      ],
+      "answer": 0,
+      "why": "Real income rises for consumers and export sector workers may lose out, which is a distributional effect worth naming.",
+      "whyNot": [
+        "",
+        "Higher export prices are not inflationary domestically.",
+        "It makes imports cheaper relative to exports.",
+        "The effect on the balance depends on elasticities."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-12",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "What does the Prebisch-Singer hypothesis propose?",
+      "options": [
+        "The terms of trade of primary product exporters decline over the long run relative to manufactures",
+        "Primary product prices rise faster than manufactured goods prices",
+        "Terms of trade converge between all countries over time",
+        "Commodity prices are stable in the long run"
+      ],
+      "answer": 0,
+      "why": "The reasoning rests on income inelastic demand for primary products and on differing market power in passing on productivity gains.",
+      "whyNot": [
+        "",
+        "The hypothesis predicts the opposite.",
+        "It predicts divergence, not convergence.",
+        "Commodity prices are notably volatile."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-13",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "Why is the Prebisch-Singer hypothesis used as an argument for diversification?",
+      "options": [
+        "A country dependent on primary exports faces a structural decline in its purchasing power",
+        "Diversified economies always grow faster",
+        "Primary production is always less profitable per unit",
+        "Manufacturing requires no capital investment"
+      ],
+      "answer": 0,
+      "why": "It adds a long-run structural problem on top of the short-run volatility of commodity prices.",
+      "whyNot": [
+        "",
+        "Growth depends on many factors.",
+        "Profitability varies; the argument concerns the trend in relative prices.",
+        "Manufacturing is capital-intensive."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-14",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "Which condition determines whether a price change moves the trade balance in the expected direction?",
+      "options": [
+        "The Marshall-Lerner condition, that the two elasticities sum to more than 1",
+        "The Prebisch-Singer hypothesis",
+        "Purchasing power parity",
+        "The Laffer curve"
+      ],
+      "answer": 0,
+      "why": "Referring to it in a terms of trade question shows synthesis between topics and earns a mark.",
+      "whyNot": [
+        "",
+        "That concerns the long-run trend in relative prices.",
+        "That concerns long-run exchange rate determination.",
+        "That concerns tax revenue."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-15",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "hard",
+      "stem": "A country exports tourism services and imports oil. Oil prices rise sharply. What happens?",
+      "options": [
+        "The terms of trade deteriorate and real national income falls without any change in output",
+        "The terms of trade improve, because tourism is a service",
+        "The terms of trade are unaffected, because oil is not exported",
+        "The trade balance necessarily moves into surplus"
+      ],
+      "answer": 0,
+      "why": "The import price index rises directly while tourism prices adjust slowly because they are set in advance.",
+      "whyNot": [
+        "",
+        "A higher import price index worsens the ratio.",
+        "Import prices are half the ratio.",
+        "A higher import bill worsens the balance, other things equal."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-3-16",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Terms of trade",
+      "difficulty": "medium",
+      "stem": "Why is a deterioration in the terms of trade particularly damaging for a developing economy?",
+      "options": [
+        "It must export more merely to buy the same quantity of essential imports such as fuel and machinery",
+        "It always causes a currency appreciation",
+        "It reduces the country's export volumes automatically",
+        "It prevents the country from receiving aid"
+      ],
+      "answer": 0,
+      "why": "Real purchasing power falls even with unchanged output, and the imports affected are often essential capital and consumption goods.",
+      "whyNot": [
+        "",
+        "It tends to put downward pressure on the currency.",
+        "Volumes respond to prices and elasticities rather than automatically.",
+        "Aid is unaffected."
+      ]
+    }
+  ]
+}

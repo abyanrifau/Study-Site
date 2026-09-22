@@ -1,0 +1,175 @@
+{
+  "topicRef": "3.3.2.4",
+  "topicTitle": "Problems arising from growth",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-2-4-01",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of diseconomies of scale?",
+      "options": [
+        "The rise in average cost per unit when a business grows beyond its optimum size",
+        "The fall in average cost per unit as a business grows",
+        "A fall in total revenue as a business grows",
+        "The cost of acquiring another business"
+      ],
+      "answer": 0,
+      "why": "Beyond the optimum size, average cost per unit starts to rise again. The three causes are communication, coordination and motivation.",
+      "whyNot": [
+        "",
+        "Those are economies of scale.",
+        "Diseconomies are about cost per unit, not revenue.",
+        "That is the acquisition price."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-02",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "easy",
+      "stem": "Which of these is one of the three standard causes of diseconomies of scale?",
+      "options": [
+        "Falling motivation among employees",
+        "Rising raw material prices",
+        "A fall in market demand",
+        "An increase in interest rates"
+      ],
+      "answer": 0,
+      "why": "The three causes are communication problems, coordination difficulties and falling motivation. All three are human rather than technical.",
+      "whyNot": [
+        "",
+        "An external cost change, not a consequence of size.",
+        "A demand change, not a diseconomy.",
+        "An external economic factor."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-03",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "medium",
+      "stem": "Why does communication worsen as a business grows?",
+      "options": [
+        "The chain of command lengthens, so messages travel slowly and get distorted",
+        "Employees stop being able to speak to each other",
+        "Larger businesses have fewer managers",
+        "Communication technology becomes unavailable"
+      ],
+      "answer": 0,
+      "why": "More layers means more filtering and more delay. Informal communication that worked with twelve people fails with three hundred, so formal systems have to replace conversation.",
+      "whyNot": [
+        "",
+        "Overstated: communication becomes harder, not impossible.",
+        "Larger businesses usually have more managers.",
+        "Technology is available; the structural problem remains."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-04",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "medium",
+      "stem": "Why does motivation tend to fall in a very large organisation?",
+      "options": [
+        "Individuals feel remote from the outcome, so the link between effort and result weakens",
+        "Large businesses always pay less",
+        "Large businesses have no managers",
+        "Motivation theories do not apply to large firms"
+      ],
+      "answer": 0,
+      "why": "Work becomes more specialised and less varied, and the Herzberg motivators, achievement, recognition, responsibility, all weaken with scale. Turnover rises and productivity falls, raising unit costs.",
+      "whyNot": [
+        "",
+        "Large firms often pay more; the issue is engagement.",
+        "They have many layers of management.",
+        "They apply in full, and the motivators are harder to deliver at scale."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-05",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "medium",
+      "stem": "How can a large business reduce diseconomies of scale?",
+      "options": [
+        "Decentralise authority and keep individual units small",
+        "Add more layers of hierarchy",
+        "Centralise every decision at head office",
+        "Increase the span of control to fifty"
+      ],
+      "answer": 0,
+      "why": "Flatter structures, delegated authority and semi-autonomous divisions are how large businesses try to keep the benefits of being small. It costs money to manage, which is the trade-off.",
+      "whyNot": [
+        "",
+        "More layers worsens communication.",
+        "Centralisation creates bottlenecks and demotivates.",
+        "An unmanageably wide span removes effective supervision."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-06",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "hard",
+      "stem": "Why is overtrading described as failure caused by success?",
+      "options": [
+        "Sales and profit are rising while the cash gap between paying out and being paid widens",
+        "It only happens to businesses making losses",
+        "It is caused by a fall in demand",
+        "It only affects businesses that do not grow"
+      ],
+      "answer": 0,
+      "why": "Larger orders require stock and staff paid for now, with payment arriving 60 days later. The faster the growth, the wider the gap, so growth itself creates the failure.",
+      "whyNot": [
+        "",
+        "It typically affects profitable, growing businesses.",
+        "Falling demand causes a different failure.",
+        "It is specifically a growth problem."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-07",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "medium",
+      "stem": "Which response most directly addresses the risk of overtrading?",
+      "options": [
+        "Forecast cash monthly and arrange finance before it is needed",
+        "Increase the marketing budget",
+        "Reduce the selling price",
+        "Take on more large orders"
+      ],
+      "answer": 0,
+      "why": "Overtrading is a cash timing problem, so the remedy is to see the gap coming and arrange finance in advance, or to grow more slowly.",
+      "whyNot": [
+        "",
+        "More demand widens the cash gap.",
+        "Lower prices reduce the cash coming in per unit.",
+        "That accelerates the problem."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-2-4-08",
+      "topicRef": "3.3.2.4",
+      "topicTitle": "Problems arising from growth",
+      "difficulty": "hard",
+      "stem": "Why does the optimum size differ between industries?",
+      "options": [
+        "Car manufacturing has huge technical economies; a restaurant has very small ones",
+        "Optimum size is set by government",
+        "All industries have the same optimum size",
+        "Optimum size depends only on the number of employees"
+      ],
+      "answer": 0,
+      "why": "Where large specialised plant produces big technical economies, the optimum is very large. Where the product is delivered personally, it is small, which is why restaurant chains replicate small units rather than building one enormous one.",
+      "whyNot": [
+        "",
+        "It is determined by the cost structure, not by regulation.",
+        "It varies widely.",
+        "It depends on the cost structure of the industry."
+      ]
+    }
+  ]
+}

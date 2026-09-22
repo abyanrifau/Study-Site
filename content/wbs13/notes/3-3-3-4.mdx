@@ -1,0 +1,137 @@
+---
+ref: "3.3.3.4"
+title: "Critical path analysis"
+unit: "WBS13"
+section: "3.3.3 Decision-making techniques"
+oneMinute:
+  - "CPA finds the shortest possible time to complete a project and which activities control it."
+  - "The critical path is the longest route through the network, and it sets the minimum project duration."
+  - "Earliest start time (EST) is calculated left to right. Latest finish time (LFT) right to left."
+  - "Total float = LFT − duration − EST. Activities on the critical path have zero float."
+  - "Delay a critical activity and the whole project is delayed."
+keyTerms:
+  - term: "Critical path analysis (CPA)"
+    definition: "A technique that identifies the sequence of activities determining the minimum time to complete a project."
+  - term: "Network diagram"
+    definition: "A diagram showing the activities in a project, their durations and the order in which they must be done."
+  - term: "Critical path"
+    definition: "The longest path through the network, which determines the shortest possible project duration."
+  - term: "Earliest start time (EST)"
+    definition: "The earliest an activity can begin, given that all preceding activities must be finished first."
+  - term: "Latest finish time (LFT)"
+    definition: "The latest an activity can finish without delaying the whole project."
+  - term: "Total float"
+    definition: "The amount of time an activity can be delayed without delaying the project as a whole."
+  - term: "Dummy activity"
+    definition: "A notional activity with no duration, used to show a dependency correctly in a network."
+formulas:
+  - name: "Total float"
+    formula: "LFT − Duration − EST"
+    note: "An activity on the critical path has a total float of zero. That is the test."
+  - name: "Earliest start time"
+    formula: "Work left to right, taking the HIGHEST EST plus duration where paths merge"
+  - name: "Latest finish time"
+    formula: "Work right to left, taking the LOWEST LFT minus duration where paths split"
+---
+
+## The network
+
+<Figure caption="Each node is a point in the project; each arrow is an activity with a duration. The longest route through the network is the critical path, and it sets the minimum project duration.">
+  <CriticalPathDiagram />
+</Figure>
+
+In the diagram, activities A, C and E take 4 + 6 + 5 = 15 days. The alternative route B and D takes 3 + 2 = 5 days before joining C. So the longest path is **A, C, E at 15 days**, and that is the shortest time the whole project can take.
+
+**The key insight:** the project cannot finish faster than its longest path, however quickly the other activities are done.
+
+## Calculating EST and LFT
+
+**Earliest start time — work forwards, left to right.**
+
+Start at zero. For each node, EST = the EST of the previous node plus the duration of the activity. **Where two paths merge, take the higher figure**, because the activity cannot start until *both* preceding activities are finished.
+
+**Latest finish time — work backwards, right to left.**
+
+Start at the final node, where LFT equals the project duration. For each node, LFT = the LFT of the following node minus the duration of the activity. **Where two paths split, take the lower figure**, because the activity must finish in time for the earliest of the activities that follow.
+
+Those two rules, **highest going forwards, lowest coming back**, are what examiners check.
+
+## Total float
+
+<Formula name="Total float" note="Critical activities have zero float by definition, so calculating float is how you prove which activities are critical.">
+Total float = LFT − Duration − EST
+</Formula>
+
+<Worked title="Worked example">
+
+Take activity D in the diagram: duration 2 days, running from node 3 to node 4.
+
+Node 3 has an EST of 3 days, because B takes 3 days.
+
+Node 4 has an LFT of 10 days, because the project takes 15 days and E, which follows, takes 5.
+
+`Total float for D = 10 − 2 − 3 = 5 days`
+
+So D could be delayed by up to five days without delaying the project.
+
+Now activity C: duration 6, from node 2 (EST 4) to node 4 (LFT 10).
+
+`Total float for C = 10 − 6 − 4 = 0 days`
+
+Zero float, so **C is critical**. Any delay to C delays the whole project.
+
+</Worked>
+
+## Why businesses use it
+
+- **It identifies the minimum project duration**, which is needed for planning and for promising a completion date.
+- **It shows which activities matter.** Management attention and resources go to the critical ones.
+- **It shows where there is slack**, so resources can be moved from activities with float to critical activities.
+- **It allows activities to run in parallel**, which is how projects are shortened.
+- **It supports just-in-time ordering**, because you know when each activity starts and therefore when materials are needed.
+- **It helps monitor progress** and shows immediately whether a delay matters.
+
+## Limitations
+
+- **The durations are estimates.** A wrong duration can change which path is critical.
+- **It assumes resources are available** when each activity is due to start. In reality the same team may be needed on two activities at once.
+- **It does not guarantee anything.** It is a plan, not a schedule that manages itself.
+- **Complex projects produce very large networks** that are hard to draw and harder to update.
+- **It ignores cost.** Shortening the critical path usually costs money, through overtime or extra equipment, and the technique does not weigh that.
+- **It needs updating constantly.** One delay can make a previously non-critical path critical, so the analysis has to be redone.
+- **It ignores quality.** Rushing a critical activity to save a day can create rework that costs a week.
+
+<Tip>
+
+**How this topic is tested.** Complete (4) a network with ESTs and LFTs, Calculate (4) total float, Explain (4) the significance of the critical path, Assess (12) the usefulness of CPA to a business.
+
+**Method, in order:**
+
+1. Draw or complete the network with durations on the activities.
+2. **ESTs forwards**, taking the highest where paths merge.
+3. **LFTs backwards**, taking the lowest where paths split.
+4. Identify the critical path as the route with zero float.
+5. Calculate any floats asked for using LFT − duration − EST.
+6. State the project duration.
+
+**Getting evaluation marks:**
+
+- **The durations are estimates**, and the critical path depends on them.
+- **Shortening the critical path costs money**, and the technique does not say whether that is worth it.
+- **It assumes resources are available** on demand.
+- **One delay can change which path is critical**, so it needs constant updating.
+- **It is a planning tool, not a guarantee.** It tells you where to focus, and somebody still has to manage the work.
+
+</Tip>
+
+<Mistakes>
+
+- **Taking the lowest figure when calculating ESTs forwards.** Take the highest: the activity waits for all predecessors.
+- **Taking the highest when calculating LFTs backwards.** Take the lowest.
+- **Getting the float formula wrong.** It is LFT − duration − EST.
+- **Saying an activity with float is unimportant.** It becomes critical if delayed beyond its float.
+- **Assuming the critical path is the route with the most activities.** It is the route with the longest total duration.
+- **Forgetting that the critical path can change** when durations change.
+- **Ignoring cost** when recommending that the project be shortened.
+
+</Mistakes>

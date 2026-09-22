@@ -1,0 +1,238 @@
+{
+  "topicRef": "2.3.3.2",
+  "topicTitle": "Liquidity",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-3-2-01",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of liquidity?",
+      "options": [
+        "The ability of a business to pay its short-term debts as they fall due",
+        "The total profit a business makes in a year",
+        "The value of a business's non-current assets",
+        "The amount a business has borrowed"
+      ],
+      "answer": 0,
+      "why": "Liquidity is about being able to pay now. It is a different question from profitability, and it is illiquidity that actually closes businesses.",
+      "whyNot": [
+        "",
+        "That is profitability.",
+        "Non-current assets are the opposite of liquid; they cannot quickly be turned into cash.",
+        "That is borrowing or gearing."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-02",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "easy",
+      "stem": "Current assets are $180,000 and current liabilities are $100,000. What is the current ratio?",
+      "options": [
+        "1.8:1",
+        "0.56:1",
+        "$80,000",
+        "180%"
+      ],
+      "answer": 0,
+      "why": "Current ratio = current assets / current liabilities = 180,000 / 100,000 = 1.8:1.",
+      "whyNot": [
+        "",
+        "This divides liabilities by assets, the wrong way round.",
+        "That is working capital, a different measure.",
+        "The current ratio is expressed as a ratio, not a percentage."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-03",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "easy",
+      "stem": "Current assets are $180,000, of which inventory is $90,000. Current liabilities are $100,000. What is the acid test ratio?",
+      "options": [
+        "0.9:1",
+        "1.8:1",
+        "2.7:1",
+        "0.5:1"
+      ],
+      "answer": 0,
+      "why": "Acid test = (current assets - inventory) / current liabilities = (180,000 - 90,000) / 100,000 = 0.9:1.",
+      "whyNot": [
+        "",
+        "That is the current ratio, which includes inventory.",
+        "This adds inventory instead of subtracting it.",
+        "This divides inventory by current liabilities."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-04",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of working capital?",
+      "options": [
+        "Current assets minus current liabilities",
+        "Current assets divided by current liabilities",
+        "Total assets minus total liabilities",
+        "The cash a business holds"
+      ],
+      "answer": 0,
+      "why": "Working capital is the finance available for day-to-day operations. It is a money amount, whereas the current ratio is a ratio.",
+      "whyNot": [
+        "",
+        "That is the current ratio.",
+        "That is net assets or capital employed.",
+        "Cash is one component of current assets."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-05",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "medium",
+      "stem": "Why does the acid test ratio exclude inventory?",
+      "options": [
+        "Inventory is the hardest current asset to turn into cash quickly, and may not sell at all",
+        "Inventory is not owned by the business",
+        "Inventory is a non-current asset",
+        "Inventory is always worthless"
+      ],
+      "answer": 0,
+      "why": "Trade receivables become cash on a known timetable; stock has to be sold first. The acid test shows whether the business could pay its bills without relying on selling stock.",
+      "whyNot": [
+        "",
+        "It is owned by the business.",
+        "Inventory is a current asset.",
+        "It has value; the question is how quickly that value becomes cash."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-06",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "hard",
+      "stem": "A business has a current ratio of 1.8:1 and an acid test of 0.9:1. What does the gap tell you?",
+      "options": [
+        "It holds a lot of inventory, so its liquidity depends on selling stock",
+        "It has no inventory at all",
+        "Its customers pay very quickly",
+        "It has too much cash"
+      ],
+      "answer": 0,
+      "why": "The whole difference between the two ratios is inventory. A large gap means the healthy-looking current ratio is being flattered by stock, and whether that matters depends on how fast that stock sells.",
+      "whyNot": [
+        "",
+        "With no inventory the two ratios would be identical.",
+        "Fast-paying customers would raise receivables and cash, narrowing the gap.",
+        "Excess cash would raise both ratios equally."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-07",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "medium",
+      "stem": "Which action would improve the acid test ratio most directly?",
+      "options": [
+        "Reducing inventory and holding the cash instead",
+        "Buying more inventory",
+        "Buying a new delivery van for cash",
+        "Taking out a short-term loan"
+      ],
+      "answer": 0,
+      "why": "Converting stock into cash moves value from the excluded category into the included one, so the acid test rises. That is why JIT improves liquidity.",
+      "whyNot": [
+        "",
+        "More inventory raises the current ratio and leaves the acid test unchanged or worse.",
+        "This converts cash into a non-current asset, reducing liquidity.",
+        "A short-term loan raises cash and raises current liabilities by the same amount, so it helps little."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-08",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "medium",
+      "stem": "Why can a current ratio well above 2:1 be a problem?",
+      "options": [
+        "Cash and stock sitting idle earn nothing, so assets are not being worked",
+        "It means the business cannot pay its debts",
+        "It always indicates fraud",
+        "High ratios are illegal"
+      ],
+      "answer": 0,
+      "why": "Very high liquidity is very safe and inefficient. Idle cash earns almost nothing and excess stock costs storage and risks obsolescence, which shows up as a poor return on capital. Very few candidates make this point.",
+      "whyNot": [
+        "",
+        "A high ratio means it comfortably can pay its debts.",
+        "No connection.",
+        "There is no legal limit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-09",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "medium",
+      "stem": "What is the cost of using factoring to improve liquidity?",
+      "options": [
+        "The business receives less than the full value of its invoices",
+        "It has to give up shares in the business",
+        "Its inventory is confiscated",
+        "It loses its overdraft facility"
+      ],
+      "answer": 0,
+      "why": "The factor advances cash now and takes a fee, so margin is sacrificed for speed. Every liquidity remedy has a price, and naming it is how you earn the evaluation mark.",
+      "whyNot": [
+        "",
+        "No equity is involved in factoring.",
+        "Factoring concerns receivables, not stock.",
+        "Existing facilities are unaffected."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-10",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "hard",
+      "stem": "Why is the 1.5 to 2:1 rule of thumb for the current ratio unreliable on its own?",
+      "options": [
+        "It depends on the sector: a supermarket with daily cash sales is safe on ratios that would alarm a manufacturer",
+        "Ratios cannot be calculated accurately",
+        "The rule applies only to companies",
+        "Current ratios are always above 2:1"
+      ],
+      "answer": 0,
+      "why": "How fast stock sells and how quickly customers pay differ enormously between sectors. The direction of travel and the business's cash flow profile matter more than the absolute level.",
+      "whyNot": [
+        "",
+        "They are straightforward to calculate from the statement of financial position.",
+        "Any business with current assets and liabilities can use it.",
+        "Many businesses operate below 1.5:1 quite safely."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-3-2-11",
+      "topicRef": "2.3.3.2",
+      "topicTitle": "Liquidity",
+      "difficulty": "hard",
+      "stem": "Why is a current ratio of 1.2:1 more dangerous for a seasonal business entering its quiet season?",
+      "options": [
+        "There are months of fixed costs ahead with little revenue coming in",
+        "Seasonal businesses cannot use ratios",
+        "Ratios change automatically with the season",
+        "Quiet seasons reduce current liabilities"
+      ],
+      "answer": 0,
+      "why": "Liquidity has to be judged against the cash flow profile. The same ratio is comfortable for a business with steady monthly income and dangerous for one facing four months of wages and loan instalments on minimal revenue.",
+      "whyNot": [
+        "",
+        "They can and should.",
+        "The ratio changes because the underlying figures change, not automatically.",
+        "Wages, rent and loan instalments continue through the quiet season."
+      ]
+    }
+  ]
+}

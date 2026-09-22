@@ -1,0 +1,238 @@
+{
+  "topicRef": "2.3.2.3",
+  "topicTitle": "Break-even",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-2-3-01",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of contribution per unit?",
+      "options": [
+        "Selling price minus variable cost per unit",
+        "Selling price minus total costs per unit",
+        "Total revenue minus total costs",
+        "Fixed costs divided by output"
+      ],
+      "answer": 0,
+      "why": "Contribution is what each unit contributes towards fixed costs, and then towards profit once the fixed costs are covered.",
+      "whyNot": [
+        "",
+        "Deducting total cost per unit gives profit per unit, not contribution.",
+        "That is total profit.",
+        "That is fixed cost per unit."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-02",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "easy",
+      "stem": "Fixed costs are $8,000. Contribution per unit is $80. What is break-even output?",
+      "options": [
+        "100 units",
+        "640,000 units",
+        "$8,080",
+        "80 units"
+      ],
+      "answer": 0,
+      "why": "Break-even output = fixed costs / contribution per unit = 8,000 / 80 = 100 units.",
+      "whyNot": [
+        "",
+        "This multiplies instead of dividing.",
+        "This adds the two figures, which has no meaning.",
+        "This appears to divide by 100 rather than 80."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-03",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "easy",
+      "stem": "A product sells for $95 with a variable cost of $15. What is contribution per unit?",
+      "options": [
+        "$80",
+        "$110",
+        "$6.33",
+        "$15"
+      ],
+      "answer": 0,
+      "why": "Contribution = 95 - 15 = $80 per unit.",
+      "whyNot": [
+        "",
+        "This adds the two figures. Contribution is a difference.",
+        "This divides price by variable cost.",
+        "That is the variable cost, which is what you subtract."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-04",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "Actual output is 250 units and break-even output is 100 units. What is the margin of safety?",
+      "options": [
+        "150 units",
+        "350 units",
+        "100 units",
+        "2.5 units"
+      ],
+      "answer": 0,
+      "why": "Margin of safety = actual output - break-even output = 250 - 100 = 150 units. Sales could fall by 150 units before a loss is made.",
+      "whyNot": [
+        "",
+        "This adds the two figures.",
+        "That is the break-even output itself.",
+        "This divides actual by break-even, which gives a ratio, not a margin."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-05",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "Contribution per unit is $80, output is 250 units and fixed costs are $8,000. What is profit?",
+      "options": [
+        "$12,000",
+        "$20,000",
+        "$8,000",
+        "$28,000"
+      ],
+      "answer": 0,
+      "why": "Profit = (contribution x output) - fixed costs = (80 x 250) - 8,000 = 20,000 - 8,000 = $12,000.",
+      "whyNot": [
+        "",
+        "That is total contribution. Fixed costs still have to be deducted.",
+        "That is fixed costs, which is what you subtract.",
+        "This adds fixed costs instead of subtracting them."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-06",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "What happens to break-even output if fixed costs rise and contribution per unit is unchanged?",
+      "options": [
+        "It rises",
+        "It falls",
+        "It stays the same",
+        "It becomes zero"
+      ],
+      "answer": 0,
+      "why": "There is more to cover from the same contribution per unit, so more units must be sold. Higher fixed costs mean a higher break-even point and a smaller margin of safety, which means more risk.",
+      "whyNot": [
+        "",
+        "Break-even falls when contribution rises or fixed costs fall.",
+        "Break-even is fixed costs divided by contribution, so changing either changes the answer.",
+        "It would only be zero if there were no fixed costs."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-07",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "hard",
+      "stem": "Selling price and variable cost per unit both rise by $5. What happens to break-even output?",
+      "options": [
+        "It stays the same, because contribution per unit is unchanged",
+        "It rises, because variable costs rose",
+        "It falls, because the price rose",
+        "It cannot be calculated"
+      ],
+      "answer": 0,
+      "why": "Contribution is price minus variable cost. Adding $5 to both leaves the difference unchanged, so break-even is unchanged. It is contribution, not price, that drives break-even, and questions test this directly.",
+      "whyNot": [
+        "",
+        "The variable cost rise is exactly offset by the price rise.",
+        "The price rise is exactly offset by the variable cost rise.",
+        "It can be calculated, and the answer is that it does not change."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-08",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "On a break-even chart, where does the total costs line start?",
+      "options": [
+        "At the level of fixed costs on the vertical axis",
+        "At the origin",
+        "Above total revenue",
+        "At the break-even point"
+      ],
+      "answer": 0,
+      "why": "At zero output the business still pays its fixed costs, so total costs start at that level and slope upwards by the variable cost per unit. Total revenue is the line that starts at the origin.",
+      "whyNot": [
+        "",
+        "Total revenue starts at the origin, because no sales means no revenue.",
+        "Total costs start above total revenue and are crossed by it at break-even.",
+        "The break-even point is where the lines cross, not where either begins."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-09",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "Which of the following is a limitation of break-even analysis?",
+      "options": [
+        "It assumes everything produced is sold",
+        "It cannot be used by small businesses",
+        "It requires a computer to calculate",
+        "It only works for service businesses"
+      ],
+      "answer": 0,
+      "why": "In reality unsold stock has been paid for and earns nothing, so the model overstates the position. It also assumes constant costs and prices and is a single-product model.",
+      "whyNot": [
+        "",
+        "It is especially useful for small businesses and for loan applications.",
+        "It is a short calculation done by hand.",
+        "It applies to any business with fixed and variable costs."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-10",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "hard",
+      "stem": "A guesthouse takes a loan that raises fixed costs from $8,000 to $10,400 a month, with contribution unchanged at $80. What is the effect?",
+      "options": [
+        "Break-even rises from 100 to 130 room nights, so the margin of safety shrinks",
+        "Break-even falls, because the business is now larger",
+        "Break-even is unchanged, because contribution is unchanged",
+        "The margin of safety rises"
+      ],
+      "answer": 0,
+      "why": "10,400 / 80 = 130 room nights. With sales still at 250, the margin of safety falls from 150 to 120. The refurbishment is only worth it if it raises the rate or occupancy by more than the extra $2,400 a month.",
+      "whyNot": [
+        "",
+        "Higher fixed costs always raise break-even.",
+        "Break-even depends on BOTH fixed costs and contribution. Fixed costs changed.",
+        "A higher break-even with unchanged sales means a smaller margin of safety."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-2-3-11",
+      "topicRef": "2.3.2.3",
+      "topicTitle": "Break-even",
+      "difficulty": "medium",
+      "stem": "Why is the margin of safety a useful measure of risk?",
+      "options": [
+        "It shows how far sales could fall before the business made a loss",
+        "It shows the profit the business will make",
+        "It shows the level of fixed costs",
+        "It shows the selling price needed to break even"
+      ],
+      "answer": 0,
+      "why": "A break-even figure alone says little. How far above it you are operating is what tells you how much of a sales fall the business could absorb.",
+      "whyNot": [
+        "",
+        "Profit is contribution times output minus fixed costs, a different calculation.",
+        "Fixed costs are an input to break-even, not what the margin of safety measures.",
+        "The margin of safety is measured in units of output, not in price."
+      ]
+    }
+  ]
+}

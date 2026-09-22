@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.3.5",
+  "topicTitle": "Contribution",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-3-5-01",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "easy",
+      "stem": "Selling price is $40 and variable cost per unit is $22. What is contribution per unit?",
+      "options": [
+        "$18",
+        "$62",
+        "$1.82",
+        "$22"
+      ],
+      "answer": 0,
+      "why": "Contribution = 40 - 22 = $18 per unit.",
+      "whyNot": [
+        "",
+        "This adds the two figures.",
+        "This divides price by variable cost.",
+        "That is the variable cost, which is what you subtract."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-02",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "easy",
+      "stem": "Contribution per unit is $18 and 15,000 units are sold. Fixed costs are $180,000. What is profit?",
+      "options": [
+        "$90,000",
+        "$270,000",
+        "$180,000",
+        "$450,000"
+      ],
+      "answer": 0,
+      "why": "Total contribution = 15,000 x 18 = $270,000. Profit = 270,000 - 180,000 = $90,000.",
+      "whyNot": [
+        "",
+        "That is total contribution before fixed costs are deducted.",
+        "That is fixed costs, which is what you subtract.",
+        "This adds fixed costs instead of subtracting them."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-03",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "medium",
+      "stem": "Why are fixed costs usually irrelevant to a short-term special order decision?",
+      "options": [
+        "They are paid whether or not the order is accepted, so they do not change as a result of the decision",
+        "Fixed costs do not exist in the short run",
+        "Fixed costs are always zero",
+        "Fixed costs are included in variable costs"
+      ],
+      "answer": 0,
+      "why": "Only costs that change as a result of a decision are relevant to it. That is why the decision rests on contribution alone.",
+      "whyNot": [
+        "",
+        "They exist and are paid; they simply do not change with the decision.",
+        "They are usually substantial.",
+        "They are separate from variable costs."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-04",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "hard",
+      "stem": "A business normally sells at $40 with variable costs of $22. A customer offers $28 for 2,000 units and there is spare capacity. What should it do?",
+      "options": [
+        "Accept: the order adds 2,000 x $6 = $12,000 of contribution",
+        "Reject: $28 is below the total cost per unit of $34",
+        "Reject: the price is below the normal selling price",
+        "Accept only if fixed costs are reduced first"
+      ],
+      "answer": 0,
+      "why": "Fixed costs are already covered by existing sales and do not change, so the order adds $6 of contribution per unit. Using total cost per unit here is the error the topic exists to correct.",
+      "whyNot": [
+        "",
+        "Total cost per unit includes fixed costs that are paid either way, so it is the wrong basis.",
+        "A lower price is acceptable if it still exceeds variable cost, assuming spare capacity.",
+        "Fixed costs need not change for the order to be worthwhile."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-05",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "hard",
+      "stem": "What would reverse the decision to accept a low-price order?",
+      "options": [
+        "If accepting it displaced full-price sales, losing $18 of contribution to gain $6",
+        "If the customer paid in advance",
+        "If fixed costs were lower than stated",
+        "If the order were larger"
+      ],
+      "answer": 0,
+      "why": "Without genuine spare capacity the relevant comparison is what the order displaces. Checking capacity is the first evaluation point on any special order question.",
+      "whyNot": [
+        "",
+        "Earlier payment improves cash flow and strengthens the case.",
+        "Lower fixed costs would raise profit and not change the contribution logic.",
+        "A larger order adds more contribution, provided capacity exists."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-06",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "medium",
+      "stem": "Product X gives $30 contribution and uses 3 machine hours. Product Y gives $20 and uses 1 hour. Machine hours are scarce. Which should be made?",
+      "options": [
+        "Y, because it gives $20 contribution per machine hour against X's $10",
+        "X, because its contribution per unit is higher",
+        "Both equally, because total contribution is the same",
+        "Neither, because contribution is too low"
+      ],
+      "answer": 0,
+      "why": "With a limiting factor, rank by contribution per unit of the scarce resource. X gives 30/3 = $10 an hour; Y gives 20/1 = $20 an hour.",
+      "whyNot": [
+        "",
+        "Ranking by contribution per unit when a resource is scarce is the classic trap.",
+        "Per machine hour they differ by a factor of two.",
+        "Both have positive contribution and are worth making; the question is which first."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-07",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of a relevant cost?",
+      "options": [
+        "A cost that changes as a result of a decision",
+        "A cost that has already been incurred",
+        "The total cost per unit of production",
+        "Any cost recorded in the accounts"
+      ],
+      "answer": 0,
+      "why": "Only costs that change because of the decision should be considered in it. In a short-term decision with spare capacity, that means variable costs only.",
+      "whyNot": [
+        "",
+        "A cost already incurred is sunk and therefore irrelevant.",
+        "Total cost per unit includes irrelevant fixed costs.",
+        "Most recorded costs are irrelevant to any particular decision."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-08",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "hard",
+      "stem": "What is the main limitation of using contribution for decisions?",
+      "options": [
+        "It is short term: in the long run fixed costs must be covered or the business fails",
+        "It cannot be calculated without fixed costs",
+        "It only applies to manufacturing",
+        "It always overstates profit"
+      ],
+      "answer": 0,
+      "why": "A recurring low-price order becomes the price, and then the fixed costs are no longer covered. Contribution is the right tool for a one-off decision with spare capacity, not a pricing policy.",
+      "whyNot": [
+        "",
+        "Contribution per unit needs only price and variable cost.",
+        "It applies to services too.",
+        "It measures contribution accurately; the risk is applying it to the wrong kind of decision."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-3-5-09",
+      "topicRef": "3.3.3.5",
+      "topicTitle": "Contribution",
+      "difficulty": "medium",
+      "stem": "A product covers its variable costs but not its share of fixed costs. Why might the business keep it?",
+      "options": [
+        "It still contributes towards fixed costs that would otherwise fall on other products",
+        "It is more profitable than the other products",
+        "Fixed costs disappear if a product is dropped",
+        "Variable costs would rise if it were dropped"
+      ],
+      "answer": 0,
+      "why": "Dropping it removes its contribution, so the fixed costs it was helping to cover land on everything else. Total profit can fall as a result of dropping a seemingly loss-making product.",
+      "whyNot": [
+        "",
+        "It is less profitable; the point is that it still helps.",
+        "Fixed costs generally remain after a product is dropped.",
+        "Its own variable costs would disappear with it."
+      ]
+    }
+  ]
+}

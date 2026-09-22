@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.2.2",
+  "topicTitle": "Patterns and volume of world trade",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-2-2-01",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the pattern of trade?",
+      "options": [
+        "The composition and direction of a country's trade: what it trades and with whom",
+        "The total value of a country's exports",
+        "The balance between a country's exports and imports",
+        "The rate at which a country's trade is growing"
+      ],
+      "answer": 0,
+      "why": "Pattern concerns composition and direction, not size or balance.",
+      "whyNot": [
+        "",
+        "That is export value.",
+        "That is the trade balance.",
+        "That is trade growth."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-02",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the volume of trade?",
+      "options": [
+        "The quantity of goods and services traded, measured independently of price changes",
+        "The money value of goods and services traded",
+        "The number of countries a nation trades with",
+        "The weight of goods shipped in a period"
+      ],
+      "answer": 0,
+      "why": "Volume is quantity; value is quantity multiplied by price. The distinction carries marks in data questions.",
+      "whyNot": [
+        "",
+        "That is the value of trade.",
+        "That is the number of trading partners.",
+        "Weight is one physical measure, not the economic definition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-03",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "easy",
+      "stem": "Which region gained the largest share of world manufacturing over recent decades?",
+      "options": [
+        "Asia",
+        "Western Europe",
+        "Sub-Saharan Africa",
+        "South America"
+      ],
+      "answer": 0,
+      "why": "Low labour costs, improving infrastructure and large-scale investment made Asia the location for assembly and then for more sophisticated production.",
+      "whyNot": [
+        "",
+        "Western Europe's share fell.",
+        "Its share of world manufacturing remains small.",
+        "Its share did not grow comparably."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-04",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a bilateral trade agreement?",
+      "options": [
+        "A trade agreement between two countries reducing barriers between them",
+        "An agreement among all WTO members",
+        "An agreement between a country and a trading bloc",
+        "An agreement to fix exchange rates between two currencies"
+      ],
+      "answer": 0,
+      "why": "Bilateral and regional deals now account for most new liberalisation, since multilateral negotiation has stalled.",
+      "whyNot": [
+        "",
+        "That would be a multilateral agreement.",
+        "That is a country-to-bloc agreement, a related but different form.",
+        "That is a monetary arrangement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-05",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "How did the growth of emerging economies change commodity trade flows?",
+      "options": [
+        "Commodity exporters found their largest customers were no longer in the developed world",
+        "Demand for commodities fell as emerging economies industrialised",
+        "Commodity prices became permanently stable",
+        "Commodity exports were replaced entirely by services"
+      ],
+      "answer": 0,
+      "why": "Industrialisation and construction require metals, energy and food, which redirected flows and not just their size.",
+      "whyNot": [
+        "",
+        "Industrialisation raises commodity demand sharply.",
+        "Commodity prices remained highly volatile.",
+        "Commodity exports continued to grow."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-06",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "What is the ladder pattern in changing comparative advantage?",
+      "options": [
+        "Each cohort of industrialising economies moves up as the next takes over the lowest-value work",
+        "Countries move down the value chain as they develop",
+        "All countries specialise in the same goods over time",
+        "Comparative advantage is fixed once established"
+      ],
+      "answer": 0,
+      "why": "Wage growth in an industrialising country pushes its advantage towards higher-value production, and lower-cost countries take over assembly.",
+      "whyNot": [
+        "",
+        "Development moves countries up, not down, the value chain.",
+        "Specialisation patterns continue to differ.",
+        "It moves with wages, education, technology and exchange rates."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-07",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "How do trading blocs change the pattern rather than the volume of trade?",
+      "options": [
+        "Trade becomes more regional as firms source within the bloc rather than from the cheapest world supplier",
+        "Blocs prevent all trade with non-members",
+        "Blocs reduce the total volume of world trade to zero",
+        "Blocs have no effect on where goods are sourced"
+      ],
+      "answer": 0,
+      "why": "That is trade diversion, and the geographic pattern shifts even where the total does not.",
+      "whyNot": [
+        "",
+        "Trade with non-members continues, subject to the external tariff.",
+        "Blocs generally raise total trade.",
+        "The external tariff directly changes sourcing decisions."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-08",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "Why is a country whose competitiveness rests on a weak currency not genuinely more competitive?",
+      "options": [
+        "The exchange rate changes trade flows without changing underlying costs or productivity",
+        "A weak currency has no effect on export prices",
+        "Weak currencies are always accompanied by low productivity",
+        "Exchange rates are fixed by the WTO"
+      ],
+      "answer": 0,
+      "why": "Inflation will typically erode the advantage over time, so the effect on the pattern of trade is temporary.",
+      "whyNot": [
+        "",
+        "It lowers export prices in foreign currency directly.",
+        "The two are not necessarily linked.",
+        "The WTO does not set exchange rates."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-09",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "Which two effects of protectionism on trade should be distinguished?",
+      "options": [
+        "Trade reduction, lowering the total traded, and trade redirection, shifting it to another partner",
+        "Trade creation and trade diversion",
+        "Volume and value",
+        "Exports and imports"
+      ],
+      "answer": 0,
+      "why": "Recent tariff increases between major economies produced mainly redirection: goods were rerouted through third countries rather than not traded at all.",
+      "whyNot": [
+        "",
+        "Those are the effects of bloc formation, not protection generally.",
+        "That is a measurement distinction rather than an effect.",
+        "Those are the two sides of trade, not two effects."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-10",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "hard",
+      "stem": "Why did trade grow faster than world output for several decades?",
+      "options": [
+        "Falling barriers and transport costs, plus the fragmentation of production into supply chains",
+        "World output stopped growing entirely",
+        "Trade statistics began to include domestic sales",
+        "Countries stopped consuming their own production"
+      ],
+      "answer": 0,
+      "why": "A single finished good crosses borders several times in a fragmented supply chain and is counted at each border, which inflates recorded trade.",
+      "whyNot": [
+        "",
+        "Output grew throughout; trade simply grew faster.",
+        "Trade statistics record cross-border transactions.",
+        "Domestic consumption remains the largest component of demand."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-11",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "hard",
+      "stem": "Why did trade in services grow faster than trade in goods?",
+      "options": [
+        "Cheap reliable communication made software, design, finance and support tradable",
+        "Services became physically easier to ship",
+        "Tariffs on services were always higher",
+        "Demand for goods fell in absolute terms"
+      ],
+      "answer": 0,
+      "why": "Tourism and education also grew with rising incomes, adding to the shift towards services.",
+      "whyNot": [
+        "",
+        "Services are not shipped; they are delivered electronically.",
+        "Services remained less liberalised, which held the growth back rather than driving it.",
+        "Goods trade continued to grow."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-12",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "hard",
+      "stem": "A commodity exporter's export value rises while its export volume falls. What has happened?",
+      "options": [
+        "Prices have risen faster than quantities have fallen",
+        "Quantities have risen faster than prices have fallen",
+        "The exchange rate has been fixed",
+        "The data must be inconsistent"
+      ],
+      "answer": 0,
+      "why": "This is exactly what happens during a commodity price boom, and noticing it earns credit in a data question.",
+      "whyNot": [
+        "",
+        "That would raise volume, not reduce it.",
+        "Exchange rate policy does not explain the divergence.",
+        "Value and volume routinely move differently."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-13",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "hard",
+      "stem": "Which recent change suggests the growth of trade relative to output is not automatic?",
+      "options": [
+        "Supply chains have been shortened as firms prioritise resilience over cost",
+        "Communication costs have started to rise",
+        "Containerisation has been abandoned",
+        "The WTO has raised all members' tariffs"
+      ],
+      "answer": 0,
+      "why": "Rising barriers and a preference for resilience slowed, and in some periods reversed, the growth of trade relative to output.",
+      "whyNot": [
+        "",
+        "Communication costs have continued to fall.",
+        "Container shipping remains the dominant mode.",
+        "The WTO does not set members' tariffs."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-14",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "What does south-south trade mean?",
+      "options": [
+        "Trade between developing and emerging economies",
+        "Trade between countries in the southern hemisphere only",
+        "Trade in primary products only",
+        "Trade conducted in a single currency"
+      ],
+      "answer": 0,
+      "why": "It was historically small and is now substantial, which is one of the major changes in the pattern of world trade.",
+      "whyNot": [
+        "",
+        "It refers to development status rather than geography.",
+        "It covers manufactures and services too.",
+        "Currency is not part of the definition."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-15",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "hard",
+      "stem": "In a data question on trade flows, what should be done first?",
+      "options": [
+        "Describe the change accurately, with direction, size and period, quoting the figures",
+        "State the recommendation before analysing the data",
+        "Explain all five influences on trade patterns",
+        "Calculate the terms of trade"
+      ],
+      "answer": 0,
+      "why": "Accurate description comes first, then the volume-against-value check, then two or three reasons matched to the evidence.",
+      "whyNot": [
+        "",
+        "A conclusion before analysis is unsupported.",
+        "Two or three selected influences beat all five superficially.",
+        "Only if the data supports it and the question asks."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-2-2-16",
+      "topicRef": "4.3.2.2",
+      "topicTitle": "Patterns and volume of world trade",
+      "difficulty": "medium",
+      "stem": "Which of the following is a structural rather than temporary cause of a change in trade patterns?",
+      "options": [
+        "A change in comparative advantage through education and technology",
+        "A movement in the exchange rate",
+        "A one-year commodity price spike",
+        "A temporary export licensing delay"
+      ],
+      "answer": 0,
+      "why": "Distinguishing structural from temporary causes is what allows a judgement about whether the change will persist.",
+      "whyNot": [
+        "",
+        "Exchange rate movements are typically temporary in their effect.",
+        "A price spike is by definition temporary.",
+        "Administrative delay is short-lived."
+      ]
+    }
+  ]
+}

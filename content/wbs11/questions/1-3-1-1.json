@@ -1,0 +1,553 @@
+{
+  "topicRef": "1.3.1.1",
+  "topicTitle": "The market",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-1-1-01",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which of the following best describes a niche market?",
+      "options": [
+        "A small segment of a larger market with specific customer needs",
+        "A market in which only one business is allowed to trade",
+        "A market where all products are sold at the same price",
+        "A market that is shrinking in size each year"
+      ],
+      "answer": 0,
+      "why": "A niche is a small, clearly defined part of a wider market whose customers want something the mainstream product does not give them. That is why a niche product can usually be sold at a premium price.",
+      "whyNot": [
+        "",
+        "That describes a monopoly protected by law, which is about market structure, not about the size or specificity of the segment.",
+        "Identical pricing has nothing to do with whether a market is niche. Niche products are typically priced higher, not uniformly.",
+        "A niche market can be growing, stable or shrinking. Size relative to the wider market is what makes it niche, not its direction of travel."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-02",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "A business has annual sales of $240,000. Total sales in the market are $3,000,000. What is its market share?",
+      "options": [
+        "8%",
+        "12.5%",
+        "0.08%",
+        "80%"
+      ],
+      "answer": 0,
+      "why": "Market share = (sales of the business ÷ total market sales) × 100 = (240,000 ÷ 3,000,000) × 100 = 8%.",
+      "whyNot": [
+        "",
+        "This divides the market by the business (3,000,000 ÷ 240,000 = 12.5). That gives how many times bigger the market is, not a share.",
+        "This is the decimal 0.08 with a percentage sign attached. The × 100 step converts the decimal into the percentage, so you cannot do both.",
+        "This is ten times too large, which usually comes from slipping a decimal place. Check the order of magnitude: $240,000 is clearly a small part of $3 million."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-03",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "A market was worth $4.0 million last year and is worth $4.6 million this year. What is the market growth?",
+      "options": [
+        "15%",
+        "13%",
+        "6%",
+        "115%"
+      ],
+      "answer": 0,
+      "why": "Market growth = ((new size − old size) ÷ old size) × 100 = ((4.6 − 4.0) ÷ 4.0) × 100 = (0.6 ÷ 4.0) × 100 = 15%.",
+      "whyNot": [
+        "",
+        "This divides the change by the new figure (0.6 ÷ 4.6). Percentage change is always measured against the original value.",
+        "This is the change in dollars ($0.6m) read as a percentage. The change has to be expressed as a proportion of the starting size.",
+        "This is the new size as a percentage of the old one. To get growth, subtract the original 100%."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-04",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "In a market, 12,000 units are sold in a year at an average price of $35. What is the market size by value?",
+      "options": [
+        "$420,000",
+        "$42,000",
+        "$343",
+        "$4,200,000"
+      ],
+      "answer": 0,
+      "why": "Market size by value = volume sold × average price = 12,000 × $35 = $420,000.",
+      "whyNot": [
+        "",
+        "This is ten times too small. 12,000 × 35 is just over 12,000 × 30 = 360,000, so the answer must be in the hundreds of thousands.",
+        "This divides volume by price (12,000 ÷ 35). Dividing would give you a quantity, not a value in dollars.",
+        "This is ten times too large, most likely from an extra zero on the volume figure."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-05",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which of the following is a characteristic of operating in a mass market rather than a niche market?",
+      "options": [
+        "A low profit margin on each unit sold",
+        "The ability to charge premium prices",
+        "Tightly focused, low-cost marketing",
+        "Very few competitors selling a similar product"
+      ],
+      "answer": 0,
+      "why": "Mass markets are highly competitive and products are broadly standardised, so prices are pushed down and the profit on each unit is thin. The business makes its money from the volume it sells, not from the margin.",
+      "whyNot": [
+        "",
+        "Premium pricing is a niche characteristic. It works because niche customers have a specific need and few alternatives.",
+        "Focused, cheap marketing suits a niche, where the audience is small and easy to identify. Mass-market advertising is broad and expensive.",
+        "Mass markets are usually crowded. It is the niche that tends to have few direct competitors, at least until it is discovered."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-06",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which of the following is an example of uncertainty rather than risk for a manufacturer?",
+      "options": [
+        "A new government suddenly banning one of its key raw materials",
+        "A predictable proportion of output failing quality control each month",
+        "Seasonal variation in sales that repeats every year",
+        "The share of deliveries that arrive damaged, based on five years of records"
+      ],
+      "answer": 0,
+      "why": "Uncertainty means no probability can sensibly be attached to the outcome. A sudden change in the law is unpredictable, has no useful past data behind it, and cannot be insured against, so it is uncertainty.",
+      "whyNot": [
+        "",
+        "A predictable failure rate is measurable from past output, so a probability can be attached. That makes it risk.",
+        "Seasonality repeats and can be forecast from previous years, so it can be planned for and quantified. That is risk, not uncertainty.",
+        "Five years of records is exactly what lets a business attach a probability and take out insurance. That is the definition of risk."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-07",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "What is the main reason a business in a niche market can often charge a higher price than one in a mass market?",
+      "options": [
+        "Its customers have specific needs and few close substitutes to switch to",
+        "Its costs per unit are lower because it produces in bulk",
+        "Government regulations require higher prices in small markets",
+        "Niche products are always of higher quality"
+      ],
+      "answer": 0,
+      "why": "Niche customers want something particular and there are few alternatives that meet that need. Demand is therefore less price sensitive, so raising the price loses relatively few customers and the business keeps a higher margin.",
+      "whyNot": [
+        "",
+        "This is the wrong way round. Bulk production and economies of scale belong to the mass market. Niche producers usually have a higher cost per unit.",
+        "There is no such regulation. Prices in a niche are set by what customers are willing to pay, not by law.",
+        "A niche product is different, which is not the same as better. Some niches are built on convenience, ethics or availability rather than quality."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-08",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "hard",
+      "stem": "In a market, the average price falls by 20% while the volume of units sold rises by 10%. What happens to the market size measured by value?",
+      "options": [
+        "It falls by 12%",
+        "It rises by 10%",
+        "It falls by 10%",
+        "It stays the same"
+      ],
+      "answer": 0,
+      "why": "Value = volume × price. Take a starting value of 100: the new value is 100 × 0.80 × 1.10 = 88, which is a fall of 12%. This is why value and volume can move in opposite directions, and examiners like testing it.",
+      "whyNot": [
+        "",
+        "This looks only at the rise in volume and ignores the fall in price. Value depends on both together.",
+        "This subtracts the two percentages (20 − 10). Percentage changes multiply rather than add, so subtracting them gives the wrong figure.",
+        "They would only cancel out if the percentage rise in volume exactly offset the fall in price, which a 10% rise does not do against a 20% fall."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-09",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "hard",
+      "stem": "A business increases its sales from $500,000 to $550,000. Over the same year the whole market grows from $5 million to $6 million. What has happened to its market share?",
+      "options": [
+        "It has fallen, from 10% to about 9.2%",
+        "It has risen, from 10% to about 11%",
+        "It has stayed at 10%",
+        "It cannot be worked out without the number of units sold"
+      ],
+      "answer": 0,
+      "why": "Share before = (500,000 ÷ 5,000,000) × 100 = 10%. Share after = (550,000 ÷ 6,000,000) × 100 = 9.17%. The business grew sales by 10% but the market grew by 20%, so it lost share. Growing sales and growing share are not the same thing.",
+      "whyNot": [
+        "",
+        "Rising sales do not automatically mean rising share. Share depends on how the firm's growth compares with the market's growth.",
+        "Share only stays the same if the business grows at exactly the same rate as the market. Here it grew at half the rate.",
+        "Both figures are given by value, so share can be calculated directly. You only need units if the question mixes value with volume."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-10",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "An increase in the number of competitors in a market is most likely to lead to which outcome for an existing business?",
+      "options": [
+        "Lower prices and reduced profit margins",
+        "Higher prices and wider profit margins",
+        "A guaranteed increase in market share",
+        "A fall in the total size of the market"
+      ],
+      "answer": 0,
+      "why": "More rivals give customers more alternatives, so businesses compete on price and on quality. Prices are pushed down and margins are squeezed, which also increases the pressure to cut costs and innovate.",
+      "whyNot": [
+        "",
+        "This is what happens when competition falls. A business with little competition has pricing power; a business with a lot does not.",
+        "More competitors means the same total market is split more ways, so share is more likely to fall than rise.",
+        "New entrants do not shrink a market. They may even grow it by advertising more widely. What changes is how the market is divided."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-11",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which is the most likely effect of the growth of online retailing on a market?",
+      "options": [
+        "Lower barriers to entry, so more competition",
+        "Higher set-up costs, so fewer new businesses",
+        "Less price competition, because customers cannot compare prices",
+        "A permanent end to market growth"
+      ],
+      "answer": 0,
+      "why": "Selling online removes the need for expensive premises and reaches customers a single shop never could, so it is cheaper and easier to start trading. Barriers to entry fall and more competitors appear.",
+      "whyNot": [
+        "",
+        "Online selling generally costs less to set up than a physical store, not more. That is the main reason it lowers barriers to entry.",
+        "The opposite is true. Price comparison online is easy, so demand becomes more price sensitive and price competition intensifies.",
+        "Online retailing usually grows markets by widening access to them. It changes how a market is served, not whether it can grow."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-12",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "A holiday destination that once sold only expensive all-inclusive resorts now also has a large number of cheap guesthouses serving a quite different type of visitor. This change is best described as the market:",
+      "options": [
+        "fragmenting",
+        "shrinking",
+        "disappearing",
+        "becoming a monopoly"
+      ],
+      "answer": 0,
+      "why": "The market has split into separate segments with different customers, different prices and different cost structures. That is fragmentation, one of the standard ways a dynamic market changes.",
+      "whyNot": [
+        "",
+        "A shrinking market is getting smaller in total. Here a whole new segment has been added, so the total market has grown.",
+        "A market disappears when demand for it ends, as DVD rental did. Demand here is clearly still strong.",
+        "A monopoly means one dominant seller. The arrival of many new guesthouses is the opposite: more sellers, not fewer."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-13",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Why does selling in a mass market allow a business to achieve economies of scale?",
+      "options": [
+        "Producing in large volumes spreads fixed costs over more units, lowering the cost per unit",
+        "Mass-market customers are willing to pay more per unit",
+        "Mass markets have fewer competitors, so costs are lower",
+        "Fixed costs disappear once output is high enough"
+      ],
+      "answer": 0,
+      "why": "Economies of scale come from volume. Fixed costs such as rent, machinery and management are spread across far more units, and bulk buying cuts input prices, so the average cost per unit falls.",
+      "whyNot": [
+        "",
+        "Mass-market customers typically pay less per unit, not more. Economies of scale are about costs, not about the price charged.",
+        "Mass markets usually have more competitors. In any case the number of rivals affects prices and margins, not the scale of production.",
+        "Fixed costs do not disappear. They stay the same in total and simply become a smaller amount per unit as output rises."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-14",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "hard",
+      "stem": "Building a strong brand is likely to affect the price elasticity of demand for a business's product by:",
+      "options": [
+        "making demand less price elastic, because loyal customers are less willing to switch",
+        "making demand more price elastic, because the product becomes better known",
+        "having no effect, because elasticity depends only on price",
+        "making demand perfectly inelastic, so price rises never lose customers"
+      ],
+      "answer": 0,
+      "why": "A strong brand builds loyalty and makes customers see the product as harder to replace. Fewer of them leave when the price rises, so demand becomes less price elastic and the business can protect its margin.",
+      "whyNot": [
+        "",
+        "Being better known is not the same as being easier to replace. Brand strength reduces willingness to switch, which reduces elasticity.",
+        "Elasticity depends on how readily customers can and will switch, which is influenced by substitutes, brand loyalty and necessity, not by price alone.",
+        "Perfectly inelastic demand means quantity never changes at any price, which no real product has. Branding weakens the response to price, it does not remove it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-15",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which pair of figures would you need in order to calculate a business's market share by value?",
+      "options": [
+        "The business's sales revenue and total sales revenue in the market",
+        "The business's sales revenue and its profit",
+        "The number of units the business sold and the number of competitors",
+        "The business's sales revenue and the market's growth rate"
+      ],
+      "answer": 0,
+      "why": "Market share = (sales of the business ÷ total market sales) × 100. You need the firm's own figure and the whole market's figure, both measured the same way, in this case by value.",
+      "whyNot": [
+        "",
+        "Profit tells you nothing about size relative to rivals. A business can hold a large share while making a loss.",
+        "The number of competitors does not tell you how sales are divided between them. One firm could hold most of the market.",
+        "Growth describes how the market is changing over time. It does not tell you what proportion of it any one business holds."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-16",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "A small business relies entirely on one niche product. What is the most significant drawback of this position?",
+      "options": [
+        "Its sales are vulnerable because it has no other product or market to fall back on",
+        "It will be unable to charge a premium price for the product",
+        "It will automatically face more competition than a mass-market business",
+        "It cannot use branding to differentiate its product"
+      ],
+      "answer": 0,
+      "why": "Depending on a single niche means risk is not spread. If tastes shift, or a large competitor enters and undercuts it, there is no second product or market to carry the business, and it may not survive.",
+      "whyNot": [
+        "",
+        "Premium pricing is normally an advantage of a niche, not a problem. Specific needs and few substitutes are what support the higher price.",
+        "Niches usually face less direct competition initially. The risk is that success attracts a large entrant later, not that rivalry is higher from the start.",
+        "Niche businesses use branding heavily, often to signal that they understand a particular need better than mainstream rivals do."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-17",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of market size?",
+      "options": [
+        "The total sales of all businesses in a market over a period of time",
+        "The proportion of total sales held by the largest business in the market",
+        "The number of businesses competing in the market",
+        "The percentage change in the sales of a market over a year"
+      ],
+      "answer": 0,
+      "why": "Market size is the whole market added together, measured either by value (total revenue) or by volume (total units) over a stated period.",
+      "whyNot": [
+        "",
+        "That is the market leader's market share. Share is one firm's slice; size is the whole thing.",
+        "The number of competitors describes the structure of the market. A market with two firms can be far larger than one with fifty.",
+        "That is market growth. Growth describes how the size is changing, not what the size is."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-18",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: the proportion of total market sales held by one business, expressed as a percentage?",
+      "options": [
+        "Market share",
+        "Market size",
+        "Market growth",
+        "Market segment"
+      ],
+      "answer": 0,
+      "why": "That is the definition of market share. It is always a percentage, and all the shares in a market add up to 100%.",
+      "whyNot": [
+        "",
+        "Market size is the total sales of every business in the market, given in currency or units, not as a percentage.",
+        "Market growth is the percentage change in the size of the market between two points in time.",
+        "A market segment is a group of customers with similar characteristics. It is a part of a market, not a measure of sales."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-19",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a brand?",
+      "options": [
+        "A name, symbol or design that identifies a product and distinguishes it from competitors",
+        "The total amount a business spends on advertising each year",
+        "A legal monopoly granted over a new invention",
+        "The difference between the selling price of a product and its unit cost"
+      ],
+      "answer": 0,
+      "why": "A brand is the identity that makes a product recognisable and separates it from near-identical rivals. That is what allows loyalty to build and a premium price to be charged.",
+      "whyNot": [
+        "",
+        "Advertising spending is one way a brand is built, but it is not what a brand is. A strong brand can exist with little advertising.",
+        "That describes a patent. A patent protects an invention; a brand identifies a product.",
+        "That is the profit margin per unit. Strong branding can widen a margin, but the margin is not the brand."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-20",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a dynamic market?",
+      "options": [
+        "A market that is changing in size, in the products sold, or in how they are sold",
+        "A market in which prices are fixed by the government",
+        "A market with a very large number of customers",
+        "A market in which every business earns the same level of profit"
+      ],
+      "answer": 0,
+      "why": "Dynamic simply means changing. A market is dynamic if it is growing, shrinking, fragmenting or disappearing, or if the products and selling methods in it are shifting.",
+      "whyNot": [
+        "",
+        "Fixed prices would make a market static rather than dynamic, and price controls are a form of government intervention, not a description of change.",
+        "Size and change are separate ideas. A small niche market can be highly dynamic, and a huge market can be very stable.",
+        "Equal profits across firms has nothing to do with whether a market is changing."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-21",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of risk?",
+      "options": [
+        "A situation where the possible outcomes are known and a probability can be attached to each one",
+        "A situation where outcomes cannot be predicted and no probability can be attached",
+        "Any event that reduces the profit of a business",
+        "The chance that a business will fail within its first year"
+      ],
+      "answer": 0,
+      "why": "Risk means the outcomes can be quantified. Because a probability can be attached, risk can be measured from past data, planned for and often insured against.",
+      "whyNot": [
+        "",
+        "That is the definition of uncertainty. The two are separately examinable and the difference is whether a probability can be attached.",
+        "Risk is about whether an outcome can be quantified in advance, not about whether it happens to be harmful. A risk may never materialise.",
+        "That is one specific risk a business faces, not the definition of the term."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-22",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which term is defined as: selling goods and services to consumers over the internet rather than through a physical store?",
+      "options": [
+        "Online retailing",
+        "Market segmentation",
+        "Product differentiation",
+        "Distribution"
+      ],
+      "answer": 0,
+      "why": "Online retailing is selling direct to consumers over the internet. It is one of the main causes of markets becoming dynamic, because it lowers the barriers to entry.",
+      "whyNot": [
+        "",
+        "Market segmentation is dividing customers into groups with similar characteristics. It is about who you sell to, not the channel you sell through.",
+        "Product differentiation is making a product distinct from rivals. A product can be differentiated whether it is sold online or in a shop.",
+        "Distribution is the wider question of how a product reaches the consumer. Online retailing is one channel within it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-23",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "A business sells a standardised product in high volume to the majority of consumers. Which term describes the market it operates in?",
+      "options": [
+        "A mass market",
+        "A niche market",
+        "A fragmented market",
+        "A monopoly"
+      ],
+      "answer": 0,
+      "why": "Selling a standardised product in high volume to most consumers is the definition of a mass market. The business makes its money from volume rather than from the margin on each unit.",
+      "whyNot": [
+        "",
+        "A niche market is a small segment with specific needs, served by a differentiated product at a premium price. That is the opposite of standardised and high volume.",
+        "A fragmented market is one that has split into separate segments. The description here points to one broad, undivided market.",
+        "A monopoly is a market with one dominant seller. Nothing here says the business has no competitors."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-24",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which of the following is NOT part of the definition of a niche market?",
+      "options": [
+        "It is always served by a small business",
+        "It is a segment of a larger market",
+        "Its customers have specific needs",
+        "It is small relative to the whole market"
+      ],
+      "answer": 0,
+      "why": "Nothing about a niche requires the seller to be small. Large companies deliberately run niche brands because of the higher margin. A niche is defined by its customers and by the size of the segment, not by the size of the firm.",
+      "whyNot": [
+        "",
+        "This is part of the definition. A niche exists inside a wider market rather than standing alone.",
+        "This is part of the definition, and it is what allows a premium price to be charged.",
+        "This is part of the definition. Being small relative to the whole market is what makes a segment a niche."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-25",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "medium",
+      "stem": "Which of the following is the best definition of innovation?",
+      "options": [
+        "Bringing a new or significantly improved product or process to the market",
+        "Spending money on advertising to raise awareness of a product",
+        "Copying a successful product sold by a competitor",
+        "Cutting the price of a product to win market share"
+      ],
+      "answer": 0,
+      "why": "Innovation is about bringing something new or meaningfully improved to market, and it can apply to a process as well as a product. It is one of the main reasons markets grow or new markets appear.",
+      "whyNot": [
+        "",
+        "Advertising promotes what already exists. It may support an innovation but it is not itself innovation.",
+        "Copying a rival is imitation. Innovation requires something new or significantly improved.",
+        "A price cut is a pricing decision. It changes what customers pay, not what the product or process is."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-1-1-26",
+      "topicRef": "1.3.1.1",
+      "topicTitle": "The market",
+      "difficulty": "hard",
+      "stem": "Which statement correctly distinguishes market growth from market share?",
+      "options": [
+        "Growth measures the change in the size of the whole market; share measures one firm's portion of it",
+        "Growth measures one firm's rise in sales; share measures the change in the size of the market",
+        "Growth is measured in currency; share is measured in units",
+        "They are two names for the same calculation"
+      ],
+      "answer": 0,
+      "why": "Growth is about the whole market over time. Share is about one business at a point in time. Keeping them apart is what lets you spot a firm whose sales are rising while its share falls, because the market is growing faster than it is.",
+      "whyNot": [
+        "",
+        "This has the two the wrong way round. Growth refers to the market, not to a single firm.",
+        "Both can be calculated from value or from volume. What matters is using the same measure top and bottom, not which one you pick.",
+        "They use different formulas and answer different questions, even though both end in a percentage."
+      ]
+    }
+  ]
+}

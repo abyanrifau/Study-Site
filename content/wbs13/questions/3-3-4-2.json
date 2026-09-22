@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.4.2",
+  "topicTitle": "Stakeholder model versus shareholder model",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-4-2-01",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a stakeholder?",
+      "options": [
+        "Any individual or group affected by, or able to affect, the activities of a business",
+        "Any person who owns shares in a business",
+        "Any employee with a permanent contract",
+        "Any customer who has bought from the business more than once"
+      ],
+      "answer": 0,
+      "why": "A stakeholder is anyone with an interest in the business, whether or not they own any part of it.",
+      "whyNot": [
+        "",
+        "That describes a shareholder, who is only one type of stakeholder.",
+        "Employees are stakeholders, but so are many groups outside the business.",
+        "Customers are stakeholders regardless of how often they buy."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-02",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "easy",
+      "stem": "Which of the following is an internal stakeholder?",
+      "options": [
+        "An employee",
+        "A supplier",
+        "The local community",
+        "A pressure group"
+      ],
+      "answer": 0,
+      "why": "Internal stakeholders are inside the business: employees, managers and owners.",
+      "whyNot": [
+        "",
+        "Suppliers are outside the business, so they are external stakeholders.",
+        "The local community is external to the business.",
+        "A pressure group is an external stakeholder with no role inside the business."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-03",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the shareholder model?",
+      "options": [
+        "The view that a business should focus on maximising returns to its owners",
+        "The view that a business should consider everyone affected by its decisions",
+        "The view that employees should own shares in the business",
+        "The view that the government should regulate business objectives"
+      ],
+      "answer": 0,
+      "why": "The shareholder model judges decisions by their effect on share price and dividends, because the owners bear the risk.",
+      "whyNot": [
+        "",
+        "That is the stakeholder model.",
+        "That is employee share ownership, which is a reward scheme rather than a model of purpose.",
+        "Regulation is an external influence, not a model of who the business is run for."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-04",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "easy",
+      "stem": "Which stakeholder group is most interested in prompt payment and regular orders?",
+      "options": [
+        "Suppliers",
+        "Shareholders",
+        "The local community",
+        "Pressure groups"
+      ],
+      "answer": 0,
+      "why": "Suppliers depend on being paid on time and on a predictable flow of orders.",
+      "whyNot": [
+        "",
+        "Shareholders are concerned with profit, dividends and share price.",
+        "The community is concerned with employment and local impact.",
+        "Pressure groups focus on ethical and environmental behaviour."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-05",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "Which of the following is a criticism of the shareholder model?",
+      "options": [
+        "It encourages short-termism because share price responds to quarterly results",
+        "It gives managers an objective that is too vague to measure",
+        "It makes it impossible to raise equity finance",
+        "It prevents a business from making a profit"
+      ],
+      "answer": 0,
+      "why": "Because performance is judged on share price, managers face pressure to cut spending on training, maintenance and quality that only pays back later.",
+      "whyNot": [
+        "",
+        "Vagueness is the criticism of the stakeholder model; the shareholder model is criticised for being too narrow.",
+        "The shareholder model makes equity easier to raise, because returns are the stated priority.",
+        "It is designed to maximise profit, not prevent it."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-06",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "Which of the following is a criticism of the stakeholder model?",
+      "options": [
+        "Stakeholders' objectives conflict, so managers are given a vague objective and wide discretion",
+        "It ignores the interests of employees",
+        "It is illegal in most countries",
+        "It removes the need for any objectives at all"
+      ],
+      "answer": 0,
+      "why": "Because stakeholder interests genuinely conflict, telling managers to consider everyone leaves them deciding whose interests come first, which is hard to hold them accountable for.",
+      "whyNot": [
+        "",
+        "It explicitly includes employees; that is one of its main attractions.",
+        "It is a legitimate approach and widely adopted.",
+        "It still requires objectives; the criticism is that they are less measurable."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-07",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "Which is the most examinable conflict between stakeholder interests?",
+      "options": [
+        "Short-term profit against long-term capability",
+        "Marketing against operations",
+        "Cash against profit",
+        "Fixed costs against variable costs"
+      ],
+      "answer": 0,
+      "why": "Cutting training and maintenance raises this year's profit and weakens the business later, and that time-based conflict runs through almost every stakeholder question.",
+      "whyNot": [
+        "",
+        "That is an internal functional issue, not a stakeholder conflict.",
+        "That is a finance distinction rather than a conflict between stakeholders.",
+        "Cost classification is a costing matter, not a stakeholder conflict."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-08",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "In stakeholder mapping, how should a stakeholder with high power and high interest be managed?",
+      "options": [
+        "Manage closely",
+        "Monitor only",
+        "Keep informed",
+        "Keep satisfied"
+      ],
+      "answer": 0,
+      "why": "High power combined with high interest means the stakeholder can and will act, so they need close management.",
+      "whyNot": [
+        "",
+        "Monitoring is the response to low power and low interest.",
+        "Keeping informed suits low power with high interest, such as small community groups.",
+        "Keeping satisfied suits high power with low interest, such as a disengaged large investor."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-09",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "In stakeholder mapping, a large institutional investor that currently takes little interest in the business should be:",
+      "options": [
+        "Kept satisfied",
+        "Managed closely",
+        "Kept informed",
+        "Monitored only"
+      ],
+      "answer": 0,
+      "why": "They have high power and low interest, so the aim is to avoid giving them a reason to become engaged.",
+      "whyNot": [
+        "",
+        "Close management is for those who are both powerful and already interested.",
+        "Keeping informed applies to interested stakeholders with little power.",
+        "Monitoring is for those with neither power nor interest."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-10",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "hard",
+      "stem": "What is the convergence argument in stakeholder theory?",
+      "options": [
+        "Over a long enough horizon, treating stakeholders well is usually the route to shareholder value",
+        "All stakeholders eventually want exactly the same thing",
+        "Shareholders and managers always have identical objectives",
+        "Stakeholder interests can be measured on a single financial scale"
+      ],
+      "answer": 0,
+      "why": "Mistreated employees leave, cheated suppliers withdraw credit and disappointed customers do not return, so the two models conflict mainly in the short run.",
+      "whyNot": [
+        "",
+        "Their objectives remain different; what converges is the outcome over time, not the wants.",
+        "The divergence between managers and shareholders is precisely why incentive schemes exist.",
+        "Many stakeholder concerns, such as reputation and morale, cannot be reduced to one financial measure."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-11",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "hard",
+      "stem": "A resort develops an island and considers cutting construction costs in ways that would damage the surrounding reef. Why does the convergence argument apply with unusual force?",
+      "options": [
+        "The reef is the product, so damaging it destroys the asset the shareholders own",
+        "Construction costs are always a small part of total cost",
+        "Environmental groups have legal control of the business",
+        "Shareholders are not interested in long-term returns"
+      ],
+      "answer": 0,
+      "why": "Where the environment is the thing customers are paying for, the environmental interest and the shareholders' long-term interest are the same, and only the short-run saving pulls the other way.",
+      "whyNot": [
+        "",
+        "The size of construction cost is irrelevant to whether the saving damages the asset.",
+        "Pressure groups may lobby and regulate, but they do not control the business.",
+        "Shareholders are typically very interested in long-term value; the problem is short-term pressure."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-12",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "hard",
+      "stem": "Why can it be misleading to say a business will consider all its stakeholders equally?",
+      "options": [
+        "Stakeholders have unequal power, so in practice the powerful ones are considered most",
+        "Only shareholders are legally recognised as existing",
+        "Businesses are required by law to ignore external stakeholders",
+        "Stakeholder interests never actually conflict"
+      ],
+      "answer": 0,
+      "why": "Stakeholder mapping shows who the business will actually listen to, and it is usually those with the power to act on their interest.",
+      "whyNot": [
+        "",
+        "Many stakeholder groups have legal rights, including employees, customers and lenders.",
+        "No such legal requirement exists.",
+        "Conflict between stakeholder objectives is the norm, not the exception."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-13",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "hard",
+      "stem": "A profitable business announces a large profit increase. Which combination of stakeholder reactions is most likely?",
+      "options": [
+        "Shareholders pleased, unions prompted to claim higher pay, and greater government tax interest",
+        "All stakeholders equally pleased",
+        "Shareholders concerned and employees indifferent",
+        "Customers pleased and shareholders opposed"
+      ],
+      "answer": 0,
+      "why": "The same figures support opposite conclusions depending on who reads them, which is a strong evaluation point.",
+      "whyNot": [
+        "",
+        "Stakeholders have different objectives, so a single figure does not please all of them.",
+        "Shareholders welcome higher profit, and employees are far from indifferent to it.",
+        "Shareholders are not opposed to higher profit; it is their main objective."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-14",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "Which stakeholder group is a business's managers, and why does it matter?",
+      "options": [
+        "They are internal stakeholders whose interests may diverge from those of shareholders",
+        "They are external stakeholders with no interest in performance",
+        "They are not stakeholders because they do not own shares",
+        "They are stakeholders only if they are also employees"
+      ],
+      "answer": 0,
+      "why": "Managers may pursue growth or acquisitions for status rather than returns, which is the reason incentive schemes exist.",
+      "whyNot": [
+        "",
+        "Managers are inside the business and have a strong interest in its performance.",
+        "Ownership is not required to be a stakeholder.",
+        "All managers are stakeholders regardless of contract type."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-15",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "hard",
+      "stem": "Which of the following is the most useful distinction to draw when judging between the two models?",
+      "options": [
+        "The time horizon over which performance is judged",
+        "The legal form of the business",
+        "The size of the marketing budget",
+        "Whether the business exports"
+      ],
+      "answer": 0,
+      "why": "The models conflict in the short run and largely align in the long run, so stating the horizon is what turns a list into a judgement.",
+      "whyNot": [
+        "",
+        "Legal form affects who the owners are but not the underlying conflict between short and long run.",
+        "The marketing budget is unrelated to the models of business purpose.",
+        "Exporting raises other issues but does not resolve the stakeholder question."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-4-2-16",
+      "topicRef": "3.3.4.2",
+      "topicTitle": "Stakeholder model versus shareholder model",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines stakeholder mapping?",
+      "options": [
+        "Assessing stakeholders by their power and their level of interest in order to decide how to manage them",
+        "Listing every stakeholder a business has in alphabetical order",
+        "Calculating the financial value of each stakeholder to the business",
+        "Recording which stakeholders own shares"
+      ],
+      "answer": 0,
+      "why": "The two dimensions are power and interest, and the position of each stakeholder determines the management approach.",
+      "whyNot": [
+        "",
+        "A list alone gives no guidance on how to handle each group.",
+        "Many stakeholder interests cannot be reduced to a financial value.",
+        "Share ownership is only one narrow aspect of stakeholder relations."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "topicRef": "3.3.1.4",
+  "topicTitle": "Impact of external influences",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-1-4-01",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "easy",
+      "stem": "What does the L in PESTLE stand for?",
+      "options": [
+        "Legal",
+        "Labour",
+        "Location",
+        "Logistics"
+      ],
+      "answer": 0,
+      "why": "Political, Economic, Social, Technological, Legal, Environmental. Legal covers employment, consumer, environmental, competition and intellectual property law.",
+      "whyNot": [
+        "",
+        "Labour issues fall under social or legal depending on the aspect.",
+        "Location is not a PESTLE category.",
+        "Logistics is an operational matter."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-02",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "easy",
+      "stem": "Which of Porter's five forces refers to customers being able to force prices down?",
+      "options": [
+        "Buyer power",
+        "Supplier power",
+        "Competitive rivalry",
+        "Threat of substitutes"
+      ],
+      "answer": 0,
+      "why": "Buyer power is strong when there are few large buyers, the product is undifferentiated and switching is easy.",
+      "whyNot": [
+        "",
+        "Supplier power is about those who sell TO the business.",
+        "Rivalry is competition between existing firms.",
+        "Substitutes are different ways of meeting the same need."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-03",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of the threat of substitutes?",
+      "options": [
+        "The extent to which customers could meet the same need in a different way",
+        "The number of rival brands of the same product",
+        "The likelihood of new firms entering the industry",
+        "The power of suppliers to raise prices"
+      ],
+      "answer": 0,
+      "why": "A substitute meets the same need differently: a video call instead of a flight, a bicycle instead of a car. It is not a rival brand of the same product.",
+      "whyNot": [
+        "",
+        "Rival brands are competitive rivalry, not substitutes. This is the most common confusion on this topic.",
+        "That is the threat of new entrants.",
+        "That is supplier power."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-04",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "medium",
+      "stem": "Porter's five forces framework is used to analyse:",
+      "options": [
+        "how profitable an industry is and why",
+        "how strong one particular firm is",
+        "which products a business should sell",
+        "the internal strengths of a business"
+      ],
+      "answer": 0,
+      "why": "It explains industry profitability. Where all five forces are strong, profit is competed away for everyone in it. A strong firm can still do well in a bad industry.",
+      "whyNot": [
+        "",
+        "It analyses the industry, not the individual firm. This distinction matters.",
+        "That is portfolio analysis.",
+        "That is the internal half of a SWOT."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-05",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "medium",
+      "stem": "What makes the threat of new entrants strong?",
+      "options": [
+        "Low barriers to entry, such as small capital requirements and no licensing",
+        "High capital requirements and strong brand loyalty",
+        "Economies of scale enjoyed by existing firms",
+        "Exclusive access to distribution held by incumbents"
+      ],
+      "answer": 0,
+      "why": "Where entry is cheap and easy, competitors arrive quickly. That is why online markets are so crowded.",
+      "whyNot": [
+        "",
+        "Those are barriers, which make the threat weak.",
+        "A barrier: newcomers cannot match incumbent costs.",
+        "Also a barrier."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-06",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "medium",
+      "stem": "What makes supplier power strong?",
+      "options": [
+        "Few suppliers, no substitutes for their input, and costly switching",
+        "Many competing suppliers offering identical inputs",
+        "Suppliers desperate to win business",
+        "Buyers able to produce the input themselves"
+      ],
+      "answer": 0,
+      "why": "Where a supplier is one of few and their input is critical, they can raise prices or reduce quality without losing the business.",
+      "whyNot": [
+        "",
+        "Many interchangeable suppliers means weak supplier power.",
+        "Desperate suppliers have little power.",
+        "Backward integration reduces supplier power."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-07",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "hard",
+      "stem": "Why are guesthouse margins thinner than headline room rates suggest, in five forces terms?",
+      "options": [
+        "Four or five of the forces are strong, so profit is competed away",
+        "Rivalry is the only strong force",
+        "Supplier power is the only strong force",
+        "All five forces are weak"
+      ],
+      "answer": 0,
+      "why": "High rivalry between similar properties, high buyer power through easy online comparison and platform commission, moderate to high supplier power on imports and transfers, low barriers to entry, and many substitutes. Strong forces mean thin profits for everyone.",
+      "whyNot": [
+        "",
+        "Buyer power, entry and substitutes are all strong too.",
+        "Rivalry and buyer power are at least as strong.",
+        "If they were weak, margins would be high and sustainable."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-08",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "medium",
+      "stem": "How should PESTLE be used in an exam answer?",
+      "options": [
+        "Identify the two or three factors that matter for this business and develop them into chains",
+        "List all six factors with one example each",
+        "Define each of the six letters",
+        "Use it only for large multinational businesses"
+      ],
+      "answer": 0,
+      "why": "A full listing earns little. One developed technological threat is worth more than six labelled headings, because development is where the analysis marks are.",
+      "whyNot": [
+        "",
+        "Listing is the weakest use of the framework.",
+        "Definitions earn knowledge marks only.",
+        "It applies to businesses of any size."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-4-09",
+      "topicRef": "3.3.1.4",
+      "topicTitle": "Impact of external influences",
+      "difficulty": "hard",
+      "stem": "What is the main limitation of both PESTLE and five forces?",
+      "options": [
+        "They describe the current situation but do not predict what happens next or weigh the factors",
+        "They cannot be applied to service businesses",
+        "They require detailed financial data",
+        "They can only be used once a year"
+      ],
+      "answer": 0,
+      "why": "Both organise what is happening and neither ranks the factors or forecasts change. Deciding which force or influence matters most is a judgement you have to make, and saying so is an evaluation point.",
+      "whyNot": [
+        "",
+        "Both are widely applied to services.",
+        "Both are largely qualitative.",
+        "They can be revisited whenever conditions change."
+      ]
+    }
+  ]
+}

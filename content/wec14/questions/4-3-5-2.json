@@ -1,0 +1,343 @@
+{
+  "topicRef": "4.3.5.2",
+  "topicTitle": "Taxation",
+  "unit": "WEC14",
+  "questions": [
+    {
+      "id": "WEC14-4-3-5-2-01",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "easy",
+      "stem": "Which of the following is a direct tax?",
+      "options": [
+        "Corporation tax",
+        "Value added tax",
+        "Excise duty on fuel",
+        "An import tariff"
+      ],
+      "answer": 0,
+      "why": "Direct taxes are levied on income, profit or wealth; indirect taxes on spending.",
+      "whyNot": [
+        "",
+        "VAT is levied on spending.",
+        "Excise duty is levied on spending.",
+        "A tariff is levied on spending on imports."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-02",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a regressive tax?",
+      "options": [
+        "A tax that takes a falling proportion of income as income rises",
+        "A tax that takes a rising proportion of income as income rises",
+        "A tax that takes the same proportion at all income levels",
+        "A tax that falls only on the wealthy"
+      ],
+      "answer": 0,
+      "why": "Indirect taxes are generally regressive, because the poorest spend a larger proportion of their income.",
+      "whyNot": [
+        "",
+        "That is a progressive tax.",
+        "That is a proportional tax.",
+        "That would be progressive in the extreme."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-03",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the marginal tax rate?",
+      "options": [
+        "The proportion of an additional unit of income paid in tax",
+        "Total tax paid as a proportion of total income",
+        "The highest rate in the tax schedule",
+        "The rate paid by the average taxpayer"
+      ],
+      "answer": 0,
+      "why": "The marginal rate determines the incentive effect; the average rate determines the burden.",
+      "whyNot": [
+        "",
+        "That is the average tax rate.",
+        "The marginal rate for an individual depends on their income, not the top band.",
+        "That is closer to the average rate."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-04",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "easy",
+      "stem": "Which of the following distinguishes tax avoidance from tax evasion?",
+      "options": [
+        "Avoidance is lawful; evasion is not",
+        "Avoidance applies to firms; evasion to individuals",
+        "Avoidance applies to direct taxes; evasion to indirect taxes",
+        "They are the same thing"
+      ],
+      "answer": 0,
+      "why": "Both reduce revenue, and only one is a criminal matter.",
+      "whyNot": [
+        "",
+        "Both can be done by either.",
+        "Both can apply to either type of tax.",
+        "The legal status differs."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-05",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "An allowance of $10,000, then 20% up to $40,000, then 40% above. What tax does someone on $25,000 pay?",
+      "options": [
+        "$3,000",
+        "$5,000",
+        "$8,000",
+        "$2,000"
+      ],
+      "answer": 0,
+      "why": "Taxable income = 25,000 - 10,000 = $15,000. Tax = 15,000 x 20% = $3,000.",
+      "whyNot": [
+        "",
+        "That applies 20% to the whole income.",
+        "That applies too high a rate.",
+        "That uses an incorrect taxable income."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-06",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "Using the same schedule, what tax does someone on $80,000 pay?",
+      "options": [
+        "$22,000",
+        "$28,000",
+        "$32,000",
+        "$16,000"
+      ],
+      "answer": 0,
+      "why": "Taxable = $70,000. Tax = (30,000 x 20%) + (40,000 x 40%) = 6,000 + 16,000 = $22,000.",
+      "whyNot": [
+        "",
+        "That applies 40% to the whole taxable income.",
+        "That applies 40% to the whole income.",
+        "That omits the 20% band."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-07",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "Tax of $3,000 on $25,000 and $22,000 on $80,000. What kind of tax is this?",
+      "options": [
+        "Progressive, because the average rate rises from 12% to 27.5%",
+        "Regressive, because the higher earner pays more in total",
+        "Proportional, because both pay tax",
+        "Regressive, because the marginal rate is 40%"
+      ],
+      "answer": 0,
+      "why": "A tax is progressive when it takes a rising proportion of income, not merely a rising amount.",
+      "whyNot": [
+        "",
+        "Paying more in total is not the test; the proportion is.",
+        "The proportions differ, so it is not proportional.",
+        "A high top marginal rate is a feature of a progressive tax."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-08",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "A 15% sales tax. A spends all of $25,000; B spends $50,000 of $80,000. What does this show?",
+      "options": [
+        "The tax is regressive: A pays 15% of income and B pays 9.4%",
+        "The tax is progressive: B pays more in total",
+        "The tax is proportional: both pay 15% of spending",
+        "The tax has no distributional effect"
+      ],
+      "answer": 0,
+      "why": "A pays $3,750 on $25,000 of income; B pays $7,500 on $80,000. The poorest spend a larger proportion of income, so they pay a larger proportion in tax.",
+      "whyNot": [
+        "",
+        "Paying more in total does not make it progressive.",
+        "As a share of income, which is what matters, the rates differ.",
+        "The effect is clearly regressive."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-09",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "Why can a cut in income tax fail to raise the hours people work?",
+      "options": [
+        "The income effect may dominate: higher income for the same hours can encourage more leisure",
+        "Nobody responds to financial incentives",
+        "Tax cuts always reduce disposable income",
+        "Hours worked are fixed by law"
+      ],
+      "answer": 0,
+      "why": "The substitution and income effects pull in opposite directions, and for higher earners the income effect can dominate.",
+      "whyNot": [
+        "",
+        "Many people do respond; the direction is the question.",
+        "A tax cut raises disposable income.",
+        "Some hours are contractual, not legally fixed."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-10",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "What does the Laffer curve show?",
+      "options": [
+        "Tax revenue rising as the rate rises up to a point, then falling",
+        "Tax revenue rising continuously with the tax rate",
+        "Tax revenue falling continuously with the tax rate",
+        "The relationship between tax rates and inflation"
+      ],
+      "answer": 0,
+      "why": "At 0% revenue is zero, and at 100% it is also zero because nobody works for nothing, so there is a revenue-maximising rate.",
+      "whyNot": [
+        "",
+        "Beyond the maximising rate, revenue falls.",
+        "Revenue rises initially.",
+        "It concerns revenue, not inflation."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-11",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "hard",
+      "stem": "The current tax rate is below the revenue-maximising rate. What happens if it is cut?",
+      "options": [
+        "Revenue falls",
+        "Revenue rises",
+        "Revenue is unchanged",
+        "Revenue rises then falls"
+      ],
+      "answer": 0,
+      "why": "Cutting a rate only raises revenue if the rate is above t*, and in most countries most of the time it is below.",
+      "whyNot": [
+        "",
+        "That would be the case only if the rate were above t*.",
+        "A rate change moves revenue unless at the peak.",
+        "A single cut produces a single movement."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-12",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "hard",
+      "stem": "Why is the Laffer argument stronger for corporation tax than for income tax on employees?",
+      "options": [
+        "The revenue-maximising rate is much lower for mobile tax bases than for workers who cannot relocate",
+        "Corporation tax raises more revenue",
+        "Companies are legally exempt from income tax",
+        "Employees never respond to tax rates"
+      ],
+      "answer": 0,
+      "why": "Corporate profit can be shifted between jurisdictions; the wages of ordinary employees cannot.",
+      "whyNot": [
+        "",
+        "Income tax usually raises far more.",
+        "Companies pay corporation tax on profit; the comparison is about mobility.",
+        "They respond somewhat, though far less than mobile capital."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-13",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "hard",
+      "stem": "Why can the effective marginal rate at the bottom of the income distribution exceed that at the top?",
+      "options": [
+        "Benefit withdrawal combines with income tax to produce a very high combined rate",
+        "The poorest pay a higher statutory rate",
+        "Indirect taxes are levied only on low earners",
+        "The tax-free allowance does not apply to low earners"
+      ],
+      "answer": 0,
+      "why": "That is the poverty trap, and it means the weakest work incentives in the economy can be at the bottom.",
+      "whyNot": [
+        "",
+        "Statutory rates are lower at the bottom.",
+        "Indirect taxes apply to everyone.",
+        "The allowance applies to all taxpayers."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-14",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "hard",
+      "stem": "Why can the distributional effect of a tax not be judged from the tax alone?",
+      "options": [
+        "It depends on what the revenue funds, so a regressive tax funding services used by the poorest can be redistributive overall",
+        "Tax incidence cannot be measured",
+        "All taxes are equally distributed in their effect",
+        "Spending has no distributional effect"
+      ],
+      "answer": 0,
+      "why": "Judging a tax in isolation from the spending it funds is a common and serious error.",
+      "whyNot": [
+        "",
+        "Incidence is studied extensively.",
+        "Their incidence differs sharply.",
+        "Spending is strongly redistributive in most systems."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-15",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "Why do developing countries rely more on indirect taxes?",
+      "options": [
+        "Collecting income tax requires records, formal employment and administrative capacity",
+        "Indirect taxes are more progressive",
+        "Income tax is prohibited by the IMF",
+        "Indirect taxes raise more revenue in every country"
+      ],
+      "answer": 0,
+      "why": "The consequence is that the tax system tends to be less progressive, not by preference but because of capacity.",
+      "whyNot": [
+        "",
+        "Indirect taxes are generally regressive.",
+        "No such prohibition exists.",
+        "Direct taxes dominate in most developed economies."
+      ]
+    },
+    {
+      "id": "WEC14-4-3-5-2-16",
+      "topicRef": "4.3.5.2",
+      "topicTitle": "Taxation",
+      "difficulty": "medium",
+      "stem": "What is the effect of a rise in an indirect tax on the price level?",
+      "options": [
+        "A one-off increase in the price level, rather than continuing inflation unless wages respond",
+        "Continuing inflation indefinitely",
+        "No effect, because it falls on producers",
+        "A fall in the price level"
+      ],
+      "answer": 0,
+      "why": "It raises prices directly, and the effect is a level shift rather than a sustained rate of increase.",
+      "whyNot": [
+        "",
+        "A single tax change does not sustain inflation by itself.",
+        "It is passed on to consumers in the price.",
+        "It raises prices."
+      ]
+    }
+  ]
+}

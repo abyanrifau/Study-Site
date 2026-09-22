@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.1.4",
+  "topicTitle": "Protectionism",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-1-4-01",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a tariff?",
+      "options": [
+        "A tax on imported goods, which raises their price in the domestic market",
+        "A physical limit on the quantity of a good that may be imported",
+        "A payment by government to domestic producers",
+        "A ban on trade with a particular country"
+      ],
+      "answer": 0,
+      "why": "A tariff raises the price paid in the domestic market from the world price to the world price plus the tariff.",
+      "whyNot": [
+        "",
+        "That is an import quota.",
+        "That is a domestic subsidy.",
+        "That is an embargo."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-02",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines an import quota?",
+      "options": [
+        "A physical limit on the quantity of a good that may be imported in a period",
+        "A tax on goods entering the country",
+        "A minimum price at which imports may be sold",
+        "A requirement that imports meet local safety standards"
+      ],
+      "answer": 0,
+      "why": "A quota caps the quantity regardless of price, so no amount of cost cutting gets more product through.",
+      "whyNot": [
+        "",
+        "That is a tariff.",
+        "That is a price floor, not a quota.",
+        "That is a non-tariff barrier."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-03",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a domestic subsidy?",
+      "options": [
+        "A payment by government to domestic producers, lowering their costs relative to imports",
+        "A tax on imported goods",
+        "A payment by consumers to domestic producers",
+        "A limit on the quantity a domestic firm may produce"
+      ],
+      "answer": 0,
+      "why": "Subsidies are paid by the taxpayer rather than the consumer, which makes them politically easier and no less distorting.",
+      "whyNot": [
+        "",
+        "That is a tariff.",
+        "Consumers pay prices, not subsidies.",
+        "That is a production quota."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-04",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a non-tariff barrier?",
+      "options": [
+        "Any restriction on imports other than a tax, such as standards, licensing or labelling rules",
+        "A tariff set at a very low rate",
+        "A voluntary agreement between two businesses",
+        "A tax on exports"
+      ],
+      "answer": 0,
+      "why": "Non-tariff barriers are the fastest-growing form of protection because they are hard to challenge when dressed as consumer protection.",
+      "whyNot": [
+        "",
+        "A low tariff is still a tariff.",
+        "A private agreement is not a government barrier.",
+        "That is an export tax, which is not a barrier to imports."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-05",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "A component costs $40 and a 15% tariff is imposed. What is the tariff per unit?",
+      "options": [
+        "$6.00",
+        "$15.00",
+        "$0.60",
+        "$46.00"
+      ],
+      "answer": 0,
+      "why": "40 x 15% = $6.00 per unit.",
+      "whyNot": [
+        "",
+        "That treats the percentage as a dollar amount.",
+        "That misplaces the decimal point.",
+        "That is the new cost per unit, not the tariff."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-06",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "A tariff adds $6.00 per unit and the business uses 50,000 units a year. What is the extra annual cost?",
+      "options": [
+        "$300,000",
+        "$56,000",
+        "$8,333",
+        "$30,000"
+      ],
+      "answer": 0,
+      "why": "50,000 x 6.00 = $300,000.",
+      "whyNot": [
+        "",
+        "That adds rather than multiplies.",
+        "That divides rather than multiplies.",
+        "That misplaces the decimal point by a factor of ten."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-07",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "A tariff cuts contribution per unit from $22 to $16. Fixed costs are $250,000. What happens to break-even output?",
+      "options": [
+        "It rises from about 11,364 to about 15,625 units",
+        "It falls from about 15,625 to about 11,364 units",
+        "It stays the same, because fixed costs are unchanged",
+        "It rises from about 11,364 to about 12,500 units"
+      ],
+      "answer": 0,
+      "why": "250,000 / 22 = 11,364 and 250,000 / 16 = 15,625, a rise of nearly 38%.",
+      "whyNot": [
+        "",
+        "A lower contribution raises break-even, not lowers it.",
+        "Break-even depends on contribution as well as fixed costs.",
+        "That uses an incorrect contribution figure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-08",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "Who bears the cost of a tariff on an imported input?",
+      "options": [
+        "The business using the input, and ultimately its customers",
+        "Only the foreign producer",
+        "Only the government",
+        "Nobody, because tariffs raise revenue"
+      ],
+      "answer": 0,
+      "why": "A tariff on steel protects steelmakers and raises costs for every manufacturer that buys steel, which is the effect students most often miss.",
+      "whyNot": [
+        "",
+        "The foreign producer may cut its price, but the importer pays the duty.",
+        "Government receives the revenue rather than bearing the cost.",
+        "The revenue is paid by someone, which is the point."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-09",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "Which of the following is the infant industry argument for protection?",
+      "options": [
+        "A new domestic industry needs temporary protection until it is large enough to compete",
+        "Protection should be given to the oldest industries in an economy",
+        "Industries serving children should be protected",
+        "Protection should apply only to agriculture"
+      ],
+      "answer": 0,
+      "why": "The standard objection is that temporary protection rarely ends, because the industry has every incentive to lobby to keep it.",
+      "whyNot": [
+        "",
+        "Age of the industry is not the argument.",
+        "The term refers to the industry being new, not its customers.",
+        "The argument is not sector-specific."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-10",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why is a quota worse than a tariff for an exporting business?",
+      "options": [
+        "No amount of cost cutting gets more product through a fixed quantity limit",
+        "Quotas raise the exporter's own tax bill",
+        "Quotas are always set at zero",
+        "Quotas apply only to services"
+      ],
+      "answer": 0,
+      "why": "A tariff gives a certain cost and an uncertain volume; a quota gives a certain limit on volume whatever the exporter does.",
+      "whyNot": [
+        "",
+        "The exporter's domestic tax position is unaffected.",
+        "A zero quota would be an embargo, which is a different instrument.",
+        "Quotas typically apply to goods."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-11",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why does a quota raise the domestic price without generating government revenue?",
+      "options": [
+        "The gain goes to whoever holds the import licences rather than to the government",
+        "The government refuses to collect it",
+        "Prices do not rise under a quota",
+        "The revenue goes to the foreign government"
+      ],
+      "answer": 0,
+      "why": "This is a real difference from a tariff, where the government collects the duty.",
+      "whyNot": [
+        "",
+        "There is no duty to collect under a quantity limit.",
+        "Restricting quantity raises the price.",
+        "No revenue passes to any government."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-12",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why can retaliation turn a gain from protection into a loss?",
+      "options": [
+        "A tariff imposed to protect one industry invites a tariff on another country's exports, harming businesses that were never protected",
+        "Retaliation always removes the original tariff",
+        "Retaliation only affects government revenue",
+        "Retaliation is prohibited under all circumstances"
+      ],
+      "answer": 0,
+      "why": "The businesses harmed by retaliation are usually not the ones that were protected, which is the key evaluative point.",
+      "whyNot": [
+        "",
+        "Retaliation adds barriers rather than removing them.",
+        "Exporters lose sales, which is a direct business effect.",
+        "The WTO permits retaliation where a member breaks the rules."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-13",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why may protection leave a domestic industry less competitive in the long run?",
+      "options": [
+        "Protection removes the pressure to become efficient, so the industry becomes more dependent on it continuing",
+        "Protection raises the industry's costs directly",
+        "Protection forces the industry to export",
+        "Protection reduces domestic demand for the product"
+      ],
+      "answer": 0,
+      "why": "Short-run relief is real; the long-run danger is a permanently uncompetitive industry lobbying to keep the protection.",
+      "whyNot": [
+        "",
+        "Protection raises the price it receives, not its costs.",
+        "Protection is aimed at the domestic market.",
+        "Protection raises the quantity domestically supplied."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-14",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "What happens to domestic production when a tariff is imposed?",
+      "options": [
+        "It rises, because the higher price makes more output profitable",
+        "It falls, because prices are higher",
+        "It stays the same, because supply is fixed",
+        "It rises only if the tariff revenue is given to producers"
+      ],
+      "answer": 0,
+      "why": "Domestic supply rises, domestic consumption falls, and imports are squeezed from both ends.",
+      "whyNot": [
+        "",
+        "Producers receive the higher price, so they supply more.",
+        "Domestic supply responds to price.",
+        "The supply response comes from the price, not from any transfer."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-15",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why can a non-tariff barrier cost a business more than a tariff would?",
+      "options": [
+        "Redesigning a product to meet one market's standards can cost more than the duty",
+        "Non-tariff barriers are always set at higher rates",
+        "Non-tariff barriers are collected twice",
+        "Non-tariff barriers apply to domestic producers only"
+      ],
+      "answer": 0,
+      "why": "Compliance and delay are the real costs, and they are harder to challenge as protectionist than a tariff is.",
+      "whyNot": [
+        "",
+        "They are not expressed as rates at all.",
+        "There is no duty to collect.",
+        "They apply to imports, which is what makes them a barrier."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-16",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines dumping?",
+      "options": [
+        "Selling exports below cost, or below the home price, to capture a foreign market",
+        "Exporting surplus goods at the full market price",
+        "Disposing of waste in another country",
+        "Selling goods at a discount in the domestic market"
+      ],
+      "answer": 0,
+      "why": "An anti-dumping duty is a defensible response, though proving dumping is difficult and the accusation is easily misused.",
+      "whyNot": [
+        "",
+        "Selling at the market price is ordinary exporting.",
+        "That is waste export, a different issue.",
+        "Domestic discounting is not dumping."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-1-4-17",
+      "topicRef": "4.3.1.4",
+      "topicTitle": "Protectionism",
+      "difficulty": "hard",
+      "stem": "Why is a tariff generally ineffective at correcting a trade deficit?",
+      "options": [
+        "Imports are also inputs, and retaliation reduces exports",
+        "Tariffs cannot be applied to all goods",
+        "Trade deficits are always caused by exchange rates alone",
+        "Tariffs increase the volume of imports"
+      ],
+      "answer": 0,
+      "why": "Raising input costs damages domestic producers, and lost exports offset any reduction in imports.",
+      "whyNot": [
+        "",
+        "Tariffs can be applied broadly; effectiveness is the issue.",
+        "Deficits have several causes.",
+        "Tariffs reduce imports; the problem is the side effects."
+      ]
+    }
+  ]
+}

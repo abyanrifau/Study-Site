@@ -1,0 +1,212 @@
+---
+ref: "3.3.3.2"
+title: "Investment appraisal"
+unit: "WBS13"
+section: "3.3.3 Decision-making techniques"
+oneMinute:
+  - "Three methods: simple payback, average rate of return, and net present value."
+  - "Payback measures how long the investment takes to repay itself. It ignores everything after that."
+  - "ARR gives an average annual return as a percentage of the initial investment."
+  - "NPV discounts future cash flows to today's value, because money in five years is worth less than money now."
+  - "A positive NPV means the project beats the discount rate and should be accepted."
+keyTerms:
+  - term: "Investment appraisal"
+    definition: "The process of evaluating whether a proposed investment is financially worthwhile."
+  - term: "Payback period"
+    definition: "The time taken for the net cash inflows from an investment to cover its initial cost."
+  - term: "Average rate of return (ARR)"
+    definition: "The average annual profit from an investment expressed as a percentage of the initial investment."
+  - term: "Net present value (NPV)"
+    definition: "The total of all future cash flows discounted to their present value, minus the initial investment."
+  - term: "Discounted cash flow"
+    definition: "A future cash flow adjusted downwards to reflect what it is worth in today's money."
+  - term: "Discount factor"
+    definition: "The multiplier applied to a future cash flow to convert it to present value."
+  - term: "Criterion rate"
+    definition: "The minimum acceptable return a business requires before approving an investment."
+formulas:
+  - name: "Payback period"
+    formula: "Years until cumulative net cash flow turns positive, then (remaining amount ÷ that year's cash flow) × 12 months"
+  - name: "Average rate of return"
+    formula: "((Total net profit ÷ Number of years) ÷ Initial investment) × 100"
+    note: "Total NET profit, so deduct the initial investment from total cash inflows first."
+  - name: "Net present value"
+    formula: "Sum of (Net cash flow × Discount factor) − Initial investment"
+    note: "The discount factors are always supplied in the exam. A positive NPV means accept."
+commandWords:
+  - "Calculate"
+  - "Explain"
+  - "Assess"
+  - "Evaluate"
+---
+
+## The data you are given
+
+Investment appraisal questions always give you a table like this:
+
+| Year | Net cash flow ($000) | Discount factor (10%) |
+| --- | --- | --- |
+| 0 | (400) | 1.00 |
+| 1 | 120 | 0.91 |
+| 2 | 160 | 0.83 |
+| 3 | 180 | 0.75 |
+| 4 | 140 | 0.68 |
+
+Year 0 is the initial investment, shown as a negative. The discount factors are always provided; you never calculate them.
+
+## Simple payback
+
+<Formula name="Payback period" note="Work down the cumulative column until it turns positive. Then convert the part-year into months.">
+Cumulative net cash flow, year by year, until it turns positive
+
+Part year = (Amount still to recover ÷ That year's cash flow) × 12
+</Formula>
+
+<Worked title="Worked example: payback">
+
+| Year | Cash flow | Cumulative |
+| --- | --- | --- |
+| 0 | (400) | (400) |
+| 1 | 120 | (280) |
+| 2 | 160 | (120) |
+| 3 | 180 | +60 |
+
+After year 2 the business is still $120,000 short. Year 3 brings in $180,000.
+
+`Part year = (120 ÷ 180) × 12 = 8 months`
+
+**Payback = 2 years and 8 months.**
+
+</Worked>
+
+**For:** simple, quick, easy to explain, and it focuses on risk. A business short of cash cares most about how soon it gets its money back.
+
+**Against:** it **ignores everything after payback**. A project paying back in three years then earning nothing looks better than one paying back in four years then earning for a decade. It also ignores the time value of money and gives no measure of profitability.
+
+## Average rate of return
+
+<Formula name="ARR" note="The most common error is forgetting to deduct the initial investment before averaging. Total profit is total inflows MINUS the investment.">
+Total net profit = Total cash inflows − Initial investment
+
+Average annual profit = Total net profit ÷ Number of years
+
+ARR = (Average annual profit ÷ Initial investment) × 100
+</Formula>
+
+<Worked title="Worked example: ARR">
+
+Total inflows over four years: `120 + 160 + 180 + 140 = $600,000`
+
+`Total net profit = 600 − 400 = $200,000`
+
+`Average annual profit = 200 ÷ 4 = $50,000`
+
+`ARR = (50 ÷ 400) × 100 = 12.5%`
+
+**Interpreting it:** 12.5% a year on average. The decision depends on comparison: against the criterion rate the business has set, against the interest rate it could earn or must pay, and against alternative projects. If the business borrows at 9%, a 12.5% return is worthwhile; if it borrows at 14%, it is not.
+
+</Worked>
+
+**For:** gives a percentage, so it is directly comparable with interest rates and with other projects. Uses all the cash flows, not just those up to payback.
+
+**Against:** ignores the **timing** of the cash flows entirely, so a project earning most of its money in year one scores the same as one earning it in year four. It also ignores the time value of money.
+
+## Net present value
+
+The idea: $100 received in three years is worth less than $100 today, because today's $100 could be invested, and because of inflation and risk. So future cash flows are **discounted** back to present value.
+
+<Formula name="NPV" note="Multiply each year's cash flow by its discount factor, add them up, then subtract the initial investment. Positive NPV means accept.">
+NPV = Σ (Net cash flow × Discount factor) − Initial investment
+</Formula>
+
+<Worked title="Worked example: NPV at 10%">
+
+| Year | Cash flow | Factor | Present value |
+| --- | --- | --- | --- |
+| 1 | 120 | 0.91 | 109.2 |
+| 2 | 160 | 0.83 | 132.8 |
+| 3 | 180 | 0.75 | 135.0 |
+| 4 | 140 | 0.68 | 95.2 |
+| | | **Total PV** | **472.2** |
+
+`NPV = 472.2 − 400 = +$72,200`
+
+**Interpreting it:** positive, so the project returns more than the 10% cost of capital used to discount it. Accept it.
+
+**Notice what discounting did.** The undiscounted surplus was $200,000; the discounted surplus is $72,200. Most of that difference is the year 3 and 4 money, which is worth far less in today's terms. A project whose returns come late is hurt most by discounting, and that is exactly the weakness the other two methods miss.
+
+</Worked>
+
+**For:** the only method that accounts for the time value of money. Uses all cash flows. Gives a clear decision rule: positive means accept.
+
+**Against:** the answer depends entirely on the **discount rate chosen**, and choosing it is a judgement. It is harder to explain to non-financial managers, and it still relies on forecast cash flows that may be wrong.
+
+## Using all three together
+
+| | Payback | ARR | NPV |
+| --- | --- | --- | --- |
+| Measures | risk and liquidity | profitability | value in today's money |
+| Uses all cash flows | no | yes | yes |
+| Accounts for timing | no | no | yes |
+| Gives a percentage | no | yes | no |
+
+They answer different questions, so a good business uses more than one. A project can have a short payback and a negative NPV, or a high ARR and a dangerously long payback. Where two methods disagree, say so and explain which matters more given this business's situation.
+
+## The limitation that applies to all three
+
+**They all depend on forecast cash flows.** Those forecasts are estimates, often optimistic, and the further out they go the less reliable they are. A precise NPV calculated from guesses is still a guess.
+
+**And they are all purely financial.** They ignore staff, reputation, environmental impact, strategic fit and the effect on existing products. A project with the best NPV can still be the wrong decision.
+
+<RealWorld where="Maldives">
+
+A guesthouse considering a $400,000 room extension faces exactly this trade-off. Payback matters enormously, because the loan has to be serviced through the wet season, so a four-year payback is risky in a way it would not be for a business with steady income.
+
+NPV matters because the returns are spread over many years and the discount rate should reflect real risk: tourism demand is volatile and exposed to external shocks. A discount rate that ignores that understates the risk and overstates the NPV.
+
+So the sensible approach is to calculate all three, weight payback heavily because of the seasonal cash flow, and test the NPV at a higher discount rate to see whether the project still stands up. That sensitivity point is a strong evaluation move.
+
+</RealWorld>
+
+<Tip>
+
+**How this topic is tested.** Calculate (4) very often, and Evaluate (20) on whether to proceed with an investment.
+
+**Method for the calculations:**
+
+- **Payback:** build the cumulative column, then convert the part-year to months. Give the answer in years and months.
+- **ARR:** deduct the investment from total inflows FIRST, then average, then express as a percentage of the initial investment.
+- **NPV:** multiply each year by its factor, total the present values, subtract the investment. State whether it is positive and therefore acceptable.
+
+**Structuring the Evaluate answer:**
+
+1. Calculate whichever methods the data allows, and show the workings.
+2. **Interpret each one**, not just report it. What does a 12.5% ARR mean against the cost of borrowing?
+3. Note where the methods agree or disagree.
+4. **Evaluate the forecasts**: how reliable are the cash flows, and what happens if they are 20% lower?
+5. Bring in the non-financial factors: strategic fit, staff, capacity, reputation.
+6. Judge.
+
+**Getting evaluation marks:**
+
+- **All three rest on forecast cash flows**, which are estimates.
+- **The discount rate is a judgement**, and the NPV is sensitive to it.
+- **Payback ignores everything after payback.**
+- **ARR ignores timing.**
+- **Non-financial factors can outweigh the numbers.**
+- **What is the opportunity cost** of the $400,000?
+
+</Tip>
+
+<Mistakes>
+
+- **Forgetting to deduct the initial investment** before averaging in ARR. The single most common error.
+- **Dividing by the wrong figure in ARR.** The denominator is the initial investment, not total profit.
+- **Giving payback as a decimal of a year** when months are expected. Convert it.
+- **Trying to calculate discount factors.** They are always given.
+- **Forgetting to subtract the initial investment** at the end of the NPV.
+- **Saying a positive NPV means the project is profitable in cash terms only.** It means it beats the discount rate used.
+- **Reporting the numbers with no interpretation.** The comparison is the analysis.
+- **Treating the forecasts as facts.**
+
+</Mistakes>

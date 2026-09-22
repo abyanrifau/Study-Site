@@ -1,0 +1,448 @@
+{
+  "topicRef": "2.4.1",
+  "topicTitle": "Budgeting",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-4-1-01",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a budget?",
+      "options": [
+        "A financial plan for a future period, expressed in money or units",
+        "A statement of what a business actually spent last year",
+        "A forecast of the share price at the end of the year",
+        "A record of cash received and paid during a period"
+      ],
+      "answer": 0,
+      "why": "A budget is forward looking, which is what distinguishes it from the historical financial statements.",
+      "whyNot": [
+        "",
+        "That is historical information, not a budget.",
+        "Share price forecasting is not part of budgeting.",
+        "That is a cash flow statement, which is historical."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-02",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the principal budget factor?",
+      "options": [
+        "The factor that limits activity and therefore determines which budget is prepared first",
+        "The largest single cost in the budget",
+        "The department with the biggest budget allocation",
+        "The manager responsible for approving the budget"
+      ],
+      "answer": 0,
+      "why": "It is usually sales demand, but a scarce material or full capacity can take its place.",
+      "whyNot": [
+        "",
+        "Size of cost does not determine the order of preparation.",
+        "Budget size is not the same as the limiting factor.",
+        "That is a role within the budget committee."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-03",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a flexible budget?",
+      "options": [
+        "A budget restated for the level of activity actually achieved",
+        "A budget that managers may change whenever they wish",
+        "A budget prepared for several different departments",
+        "A budget that excludes all fixed costs"
+      ],
+      "answer": 0,
+      "why": "Flexing makes the comparison with actual results fair, because variable costs should differ when output differs.",
+      "whyNot": [
+        "",
+        "Flexing is a technical restatement, not permission to alter targets.",
+        "Covering several departments does not make a budget flexible.",
+        "Fixed costs are included; they are simply not flexed."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-04",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "easy",
+      "stem": "Which of the following is NOT included in a cash budget?",
+      "options": [
+        "Depreciation",
+        "Wages paid",
+        "Payments for new equipment",
+        "Cash received from customers"
+      ],
+      "answer": 0,
+      "why": "Depreciation involves no movement of cash, so it never appears in a cash budget.",
+      "whyNot": [
+        "",
+        "Wages are a cash payment in the month paid.",
+        "Capital payments appear in full in the month of payment.",
+        "Receipts from customers are the main inflow."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-05",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Sales are expected to be 24,000 units. Opening finished goods inventory is 2,000 units and closing is to be 3,500 units. What is the production budget?",
+      "options": [
+        "25,500 units",
+        "22,500 units",
+        "24,000 units",
+        "29,500 units"
+      ],
+      "answer": 0,
+      "why": "Production = 24,000 + 3,500 - 2,000 = 25,500 units. Building inventory means producing more than you sell.",
+      "whyNot": [
+        "",
+        "That reverses the inventory adjustment.",
+        "That ignores the change in inventory.",
+        "That adds both inventory figures instead of netting them."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-06",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Production requires 102,000 kg of material. Opening material inventory is 9,000 kg and closing is to be 12,000 kg. What is the purchases budget in kg?",
+      "options": [
+        "105,000 kg",
+        "99,000 kg",
+        "102,000 kg",
+        "123,000 kg"
+      ],
+      "answer": 0,
+      "why": "Purchases = 102,000 + 12,000 - 9,000 = 105,000 kg.",
+      "whyNot": [
+        "",
+        "That reverses the inventory adjustment.",
+        "That ignores the change in inventory.",
+        "That adds both inventory figures."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-07",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "January sales are $80,000. 30% is for cash and 70% is received the following month. What is received in January from January sales?",
+      "options": [
+        "$24,000",
+        "$56,000",
+        "$80,000",
+        "$0"
+      ],
+      "answer": 0,
+      "why": "Only the cash proportion is received in the month of sale: 80,000 x 30% = $24,000.",
+      "whyNot": [
+        "",
+        "That is the credit portion, received in February.",
+        "The whole amount is not received in January.",
+        "The cash sales are received immediately."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-08",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "December sales were $70,000 and 70% is received the month after sale. How much of this appears in January receipts?",
+      "options": [
+        "$49,000",
+        "$21,000",
+        "$70,000",
+        "$24,500"
+      ],
+      "answer": 0,
+      "why": "70,000 x 70% = $49,000 received in January. Forgetting the opening receivables is a common error.",
+      "whyNot": [
+        "",
+        "That is the 30% received in December.",
+        "Only the credit portion is received in January.",
+        "That applies the wrong percentage."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-09",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Overheads are $9,000 a month including $2,000 of depreciation. What appears in the cash budget?",
+      "options": [
+        "$7,000",
+        "$9,000",
+        "$2,000",
+        "$11,000"
+      ],
+      "answer": 0,
+      "why": "Only the cash element is included, so the depreciation is removed: 9,000 - 2,000 = $7,000.",
+      "whyNot": [
+        "",
+        "That wrongly includes the depreciation.",
+        "That is the depreciation, which is excluded.",
+        "That adds the depreciation instead of removing it."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-10",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Opening cash is $12,000, receipts are $73,000 and payments are $69,000. What is the closing balance?",
+      "options": [
+        "$16,000",
+        "$4,000",
+        "$154,000",
+        "$8,000"
+      ],
+      "answer": 0,
+      "why": "12,000 + 73,000 - 69,000 = $16,000, which becomes next month's opening balance.",
+      "whyNot": [
+        "",
+        "That omits the opening balance.",
+        "That adds all three figures.",
+        "That uses an incorrect calculation."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-11",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "A budget set for 10,000 units shows variable costs of $6.00 per unit. What is the flexed variable cost at 12,000 units?",
+      "options": [
+        "$72,000",
+        "$60,000",
+        "$6.00",
+        "$120,000"
+      ],
+      "answer": 0,
+      "why": "Variable costs are flexed in proportion to activity: 12,000 x 6.00 = $72,000.",
+      "whyNot": [
+        "",
+        "That is the original budget at 10,000 units, which would not be a fair comparison.",
+        "That is the cost per unit, not the flexed total.",
+        "That doubles the output level in error."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-12",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Budgeted maintenance is $18,000 at 10,000 units, of which $8,000 is fixed. What is the flexed figure at 12,000 units?",
+      "options": [
+        "$20,000",
+        "$21,600",
+        "$18,000",
+        "$24,000"
+      ],
+      "answer": 0,
+      "why": "Variable element = 10,000 over 10,000 units = $1.00 per unit. Flexed = 8,000 + (12,000 x 1.00) = $20,000.",
+      "whyNot": [
+        "",
+        "That flexes the whole cost including the fixed part.",
+        "That fails to flex the variable element at all.",
+        "That treats the entire cost as variable and flexes it wrongly."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-13",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "Why is comparing actual costs at 12,000 units with a budget set for 10,000 units misleading?",
+      "options": [
+        "Variable costs should have been higher, so most of the variance simply reflects the higher volume",
+        "Fixed costs should have been higher, which the budget ignores",
+        "The comparison overstates the actual costs",
+        "Actual costs cannot be measured at a different activity level"
+      ],
+      "answer": 0,
+      "why": "Without flexing, the variance measures volume rather than cost control, which is the whole reason flexible budgets exist.",
+      "whyNot": [
+        "",
+        "Fixed costs should not change with volume, which is why they are not flexed.",
+        "The actual costs are what they are; it is the benchmark that is wrong.",
+        "Actual costs are measured normally; the issue is the comparison."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-14",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "Which of the following best defines budgetary slack?",
+      "options": [
+        "Deliberately understating revenue or overstating costs so the target is easier to meet",
+        "The unspent balance of a budget at the end of a period",
+        "The time allowed between preparing and approving a budget",
+        "The difference between the budget and the actual result"
+      ],
+      "answer": 0,
+      "why": "Slack is an argument against pure participation, because managers judged against a budget have an incentive to make it easy.",
+      "whyNot": [
+        "",
+        "An unspent balance is an underspend, not slack.",
+        "That is simply part of the budget timetable.",
+        "That is a variance."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-15",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "Which of the following is a strong argument for participative budgeting?",
+      "options": [
+        "The managers closest to the work know the most, so accuracy and commitment both improve",
+        "It removes the need for a budget committee",
+        "It guarantees that no variances will arise",
+        "It makes budgets cheaper to prepare"
+      ],
+      "answer": 0,
+      "why": "Participation improves both accuracy and motivation, and the usual answer combines it with independent review to control slack.",
+      "whyNot": [
+        "",
+        "A committee is still needed to coordinate and to review for slack.",
+        "Variances arise whatever the process.",
+        "Participation generally takes more time, not less."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-16",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "A company's sales budget is rising every month while its cash budget worsens every month. What is the most likely explanation?",
+      "options": [
+        "Growth consumes cash, because payments for materials fall due before the sales receipts arrive",
+        "The company must be making a loss on every sale",
+        "The sales budget must have been calculated incorrectly",
+        "Depreciation has been omitted from the cash budget"
+      ],
+      "answer": 0,
+      "why": "Growth requires inventory and gives customers credit, so cash goes out ahead of coming in. This is a timing problem, not a profitability problem.",
+      "whyNot": [
+        "",
+        "Rising sales with a cash deficit is entirely consistent with profitable trading.",
+        "The pattern is normal for a growing business.",
+        "Depreciation is correctly omitted from a cash budget."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-17",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "A cash budget shows a deficit in month three caused by buying equipment outright. What is the most appropriate remedy?",
+      "options": [
+        "Finance the equipment over its life with a loan or lease",
+        "Reduce the selling price to increase sales volume",
+        "Stop charging depreciation on the equipment",
+        "Delay paying wages until the following month"
+      ],
+      "answer": 0,
+      "why": "Long-term assets should be funded by long-term finance, which spreads the payment over the period the asset earns.",
+      "whyNot": [
+        "",
+        "A price cut reduces cash received per unit and may worsen the position.",
+        "Depreciation does not appear in a cash budget, so it has no effect.",
+        "Deferring wages is neither lawful nor practical and would damage morale."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-18",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Which of the following is a purpose of budgeting?",
+      "options": [
+        "Coordinating departments so that production matches expected sales",
+        "Guaranteeing that the forecast will be accurate",
+        "Removing the need for management judgement",
+        "Replacing the published financial statements"
+      ],
+      "answer": 0,
+      "why": "Coordination is one of the main purposes, alongside planning, communication, motivation, control and authorisation.",
+      "whyNot": [
+        "",
+        "A budget cannot make a forecast accurate; it rests on one.",
+        "Budgets require a great deal of judgement.",
+        "Budgets are internal; the published statements are separate and historical."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-19",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Why can an imposed and unattainable budget target reduce performance?",
+      "options": [
+        "Staff stop trying once the target is seen as impossible",
+        "It breaches accounting standards",
+        "It makes variance analysis impossible",
+        "It reduces the fixed costs of the business"
+      ],
+      "answer": 0,
+      "why": "A target that is challenging and achievable raises effort; one that cannot be met destroys it.",
+      "whyNot": [
+        "",
+        "Internal budgets are not governed by accounting standards.",
+        "Variances can still be calculated, but they lose their motivational value.",
+        "Target setting does not change the level of fixed costs."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-20",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "hard",
+      "stem": "Which of the following best describes dysfunctional behaviour caused by budgeting?",
+      "options": [
+        "Spending the remainder of a budget in the final month to protect next year's allocation",
+        "Preparing the sales budget before the production budget",
+        "Flexing variable costs when comparing with actual results",
+        "Involving departmental managers in setting their own budgets"
+      ],
+      "answer": 0,
+      "why": "Behaviour that serves the budget rather than the business is a real cost of budgetary control, as is cutting maintenance to hit a cost target.",
+      "whyNot": [
+        "",
+        "That is the correct order of preparation.",
+        "Flexing is good practice.",
+        "Participation is generally beneficial, though it invites slack."
+      ]
+    },
+    {
+      "id": "WAC12-2-4-1-21",
+      "topicRef": "2.4.1",
+      "topicTitle": "Budgeting",
+      "difficulty": "medium",
+      "stem": "Which budget is prepared last?",
+      "options": [
+        "The master budget",
+        "The sales budget",
+        "The cash budget",
+        "The production budget"
+      ],
+      "answer": 0,
+      "why": "The master budget is the budgeted statement of comprehensive income and statement of financial position, which summarise all the others.",
+      "whyNot": [
+        "",
+        "The sales budget is normally first.",
+        "The cash budget is near the end but feeds into the master budget.",
+        "Production follows sales, near the beginning."
+      ]
+    }
+  ]
+}

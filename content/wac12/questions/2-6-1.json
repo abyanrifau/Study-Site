@@ -1,0 +1,469 @@
+{
+  "topicRef": "2.6.1",
+  "topicTitle": "Project appraisal",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-6-1-01",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the payback period?",
+      "options": [
+        "The time taken for the net cash inflows to repay the initial investment",
+        "The time taken for a project to become profitable in accounting terms",
+        "The time over which an asset is depreciated",
+        "The period over which a loan used to fund a project is repaid"
+      ],
+      "answer": 0,
+      "why": "Payback is calculated from cumulative net cash flows and measures how quickly the outlay is recovered.",
+      "whyNot": [
+        "",
+        "Payback uses cash flows, not accounting profit.",
+        "That is the useful life used for depreciation.",
+        "That is the loan term, which is a financing matter."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-02",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines net present value?",
+      "options": [
+        "The total present value of a project's future cash flows less the initial investment",
+        "The total cash inflows less the total cash outflows, undiscounted",
+        "The average annual profit as a percentage of the investment",
+        "The discount rate at which a project breaks even"
+      ],
+      "answer": 0,
+      "why": "NPV discounts future cash flows to today's values and deducts the outlay, so a positive figure means value is added.",
+      "whyNot": [
+        "",
+        "That ignores the time value of money.",
+        "That is the average rate of return.",
+        "That is the internal rate of return."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-03",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the internal rate of return?",
+      "options": [
+        "The discount rate at which a project's net present value is zero",
+        "The rate of interest charged on the loan funding the project",
+        "The average annual return on the capital invested",
+        "The rate at which a project repays its initial cost"
+      ],
+      "answer": 0,
+      "why": "IRR is the break-even discount rate, and a project is accepted if it exceeds the cost of capital.",
+      "whyNot": [
+        "",
+        "That is the borrowing rate, which forms part of WACC.",
+        "That is the average rate of return.",
+        "That relates to payback."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-04",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines the weighted average cost of capital?",
+      "options": [
+        "The average return a company must earn, weighted by the proportion of each source of finance",
+        "The interest rate on the company's cheapest source of finance",
+        "The total cost of raising new finance in a year",
+        "The dividend yield on the company's ordinary shares"
+      ],
+      "answer": 0,
+      "why": "WACC is the minimum return a project must earn simply to satisfy the providers of finance.",
+      "whyNot": [
+        "",
+        "Taking only the cheapest source ignores the rest of the capital structure.",
+        "Issue costs are a separate matter.",
+        "The cost of equity is only one component of WACC."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-05",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "A project costs $400,000. Cumulative inflows reach $350,000 after three years and year four brings $130,000. What is the payback period?",
+      "options": [
+        "3 years 5 months",
+        "3 years 2 months",
+        "4 years 5 months",
+        "3 years"
+      ],
+      "answer": 0,
+      "why": "$50,000 remains. (50,000 / 130,000) x 12 = 4.6 months, so about 3 years 5 months.",
+      "whyNot": [
+        "",
+        "That uses an incorrect fraction of the year.",
+        "Payback occurs during year four, not after it.",
+        "Payback is not reached at the end of year three."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-06",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "A machine costs $400,000 with a residual value of $50,000. Total cash inflows over five years are $590,000. What is the average annual profit?",
+      "options": [
+        "$48,000",
+        "$118,000",
+        "$38,000",
+        "$240,000"
+      ],
+      "answer": 0,
+      "why": "Depreciation = 400,000 - 50,000 = $350,000. Total profit = 590,000 - 350,000 = $240,000. Average = 240,000 / 5 = $48,000.",
+      "whyNot": [
+        "",
+        "That is average annual cash flow, not profit, because depreciation has not been deducted.",
+        "That deducts the full cost of $400,000 as depreciation and ignores the residual value.",
+        "That is total profit over the five years, not the annual average."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-07",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "A machine costs $400,000 with a residual value of $50,000. What is the average investment?",
+      "options": [
+        "$225,000",
+        "$400,000",
+        "$450,000",
+        "$200,000"
+      ],
+      "answer": 0,
+      "why": "Average investment = (400,000 + 50,000) / 2 = $225,000.",
+      "whyNot": [
+        "",
+        "Using the initial cost overstates the denominator and understates ARR.",
+        "That is the sum, not the average.",
+        "That halves the initial cost and ignores the residual value."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-08",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Average annual profit is $48,000 and average investment is $225,000. What is the average rate of return?",
+      "options": [
+        "21.3%",
+        "12.0%",
+        "4.7%",
+        "10.7%"
+      ],
+      "answer": 0,
+      "why": "ARR = (48,000 / 225,000) x 100 = 21.3%.",
+      "whyNot": [
+        "",
+        "That uses the initial cost of $400,000 as the denominator.",
+        "That inverts the ratio.",
+        "That uses an incorrect profit figure."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-09",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "What discount factor applies to the initial investment at time zero?",
+      "options": [
+        "1.000",
+        "0.909 at 10%",
+        "0.000",
+        "It depends on the cost of capital"
+      ],
+      "answer": 0,
+      "why": "The outlay occurs today, so it is already at present value and is not discounted.",
+      "whyNot": [
+        "",
+        "That factor applies to a cash flow one year away.",
+        "A factor of zero would remove the investment altogether.",
+        "The factor at time zero is always 1 whatever the rate."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-10",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Total present value of inflows is $474,220 and the investment is $400,000. What is the NPV and the decision?",
+      "options": [
+        "+$74,220, so accept the project",
+        "+$74,220, so reject the project",
+        "-$74,220, so reject the project",
+        "$474,220, so accept the project"
+      ],
+      "answer": 0,
+      "why": "A positive NPV means the project returns more than the required return, so it should be accepted.",
+      "whyNot": [
+        "",
+        "A positive NPV is an accept signal.",
+        "The present value exceeds the investment, so the NPV is positive.",
+        "The NPV is the present value less the investment."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-11",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Present value of inflows is $474,220 and the investment is $400,000. What is the profitability index?",
+      "options": [
+        "1.19",
+        "0.84",
+        "0.19",
+        "18.6"
+      ],
+      "answer": 0,
+      "why": "PI = 474,220 / 400,000 = 1.19, so the project returns $1.19 of present value per $1 invested.",
+      "whyNot": [
+        "",
+        "That inverts the ratio.",
+        "That is the NPV as a proportion, not the index itself, which must exceed 1.",
+        "That misplaces the decimal point."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-12",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Ordinary shares are 60% of capital at 12%, preference shares 15% at 8% and debentures 25% at 6%. What is the WACC?",
+      "options": [
+        "9.9%",
+        "8.7%",
+        "26.0%",
+        "12.0%"
+      ],
+      "answer": 0,
+      "why": "(0.60 x 12) + (0.15 x 8) + (0.25 x 6) = 7.20 + 1.20 + 1.50 = 9.9%.",
+      "whyNot": [
+        "",
+        "That is a simple average of the three rates.",
+        "That adds the rates without weighting them.",
+        "That uses only the cost of equity."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-13",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "NPV at 10% is +$74,220 and at 18% is -$15,350. What is the IRR?",
+      "options": [
+        "16.6%",
+        "13.4%",
+        "18.7%",
+        "10.7%"
+      ],
+      "answer": 0,
+      "why": "IRR = 10 + [74,220 / (74,220 + 15,350)] x 8 = 10 + 6.6 = 16.6%.",
+      "whyNot": [
+        "",
+        "That interpolates from the wrong end of the range.",
+        "The IRR must lie between the two rates tested.",
+        "That uses an incorrect denominator."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-14",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "Why are the two NPVs added rather than subtracted in the IRR interpolation formula?",
+      "options": [
+        "One of them is negative, so subtracting it adds its magnitude",
+        "Because the formula requires the total of all cash flows",
+        "Because the discount rates must be added together",
+        "Because NPV is always positive"
+      ],
+      "answer": 0,
+      "why": "The denominator is the difference between the two NPVs, and with one negative that difference is the sum of the magnitudes.",
+      "whyNot": [
+        "",
+        "The formula uses the two NPVs, not the cash flows.",
+        "The rates are subtracted in the final bracket, not added.",
+        "NPV is negative at the higher rate, which is why the IRR lies between them."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-15",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "A project has an IRR of 16.6% and the cost of capital is 10%. What does the margin of 6.6 percentage points represent?",
+      "options": [
+        "The cushion: the cost of capital could rise that far before the project ceased to be worthwhile",
+        "The annual profit as a percentage of the investment",
+        "The rate at which the project pays back",
+        "The error in the cash flow forecasts"
+      ],
+      "answer": 0,
+      "why": "Expressing the gap between IRR and WACC as a cushion is a useful way of describing the project's resilience to a rise in financing costs.",
+      "whyNot": [
+        "",
+        "That is closer to the average rate of return.",
+        "Payback is measured in time, not in percentage points.",
+        "The margin says nothing about forecast accuracy."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-16",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "NPV favours a large project and IRR favours a smaller one. Which should be followed?",
+      "options": [
+        "NPV, because absolute value added is the shareholders' objective",
+        "IRR, because a percentage is easier to compare",
+        "Payback, because it resolves the conflict",
+        "Neither: the projects cannot be compared"
+      ],
+      "answer": 0,
+      "why": "A small project earning 40% may add less value than a large one earning 15%, so NPV is the correct tie-breaker.",
+      "whyNot": [
+        "",
+        "Ease of comparison does not make IRR the better decision rule.",
+        "Payback ignores the time value of money and everything after payback.",
+        "They are comparable, and NPV is the measure that resolves it."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-17",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "Under capital rationing, which measure should be used to rank projects?",
+      "options": [
+        "The profitability index, because it maximises NPV per dollar available",
+        "The absolute NPV, because it measures value added",
+        "The payback period, because cash is short",
+        "The average rate of return, because it is a percentage"
+      ],
+      "answer": 0,
+      "why": "With limited funds, value added per dollar invested is what matters, which is exactly what the profitability index measures.",
+      "whyNot": [
+        "",
+        "Absolute NPV is the right rule when finance is unlimited, not when it is rationed.",
+        "Payback ignores profitability altogether.",
+        "ARR ignores the time value of money."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-18",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "What is the main weakness of the payback period?",
+      "options": [
+        "It ignores all cash flows after payback is reached",
+        "It is difficult to calculate",
+        "It requires a discount rate to be estimated",
+        "It uses accounting profit rather than cash"
+      ],
+      "answer": 0,
+      "why": "A project paying back in three years and then earning nothing would beat one paying back in four and earning for a decade.",
+      "whyNot": [
+        "",
+        "It is the simplest of the methods.",
+        "It is a non-discounted method, so no rate is needed.",
+        "It uses cash flows; ARR uses profit."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-19",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "What is the main weakness of the average rate of return?",
+      "options": [
+        "It ignores the time value of money and uses accounting profit rather than cash",
+        "It ignores the whole life of the project",
+        "It cannot be compared with the cost of capital",
+        "It requires discount factor tables"
+      ],
+      "answer": 0,
+      "why": "Averaging also conceals the pattern, so a project earning most of its return late looks identical to one earning it early.",
+      "whyNot": [
+        "",
+        "ARR uses the whole life, which is one of its strengths.",
+        "Being a percentage, it compares directly with ROCE and the cost of capital.",
+        "It is a non-discounted method."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-20",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Why is NPV considered theoretically the best method?",
+      "options": [
+        "It allows for the time value of money, uses cash, covers the whole life and measures absolute value added",
+        "It is the simplest method to calculate",
+        "It does not require any estimates",
+        "It always agrees with the other methods"
+      ],
+      "answer": 0,
+      "why": "Measuring the absolute amount of value added matches the shareholders' objective.",
+      "whyNot": [
+        "",
+        "Payback is far simpler.",
+        "It needs cash flow forecasts and a discount rate, both estimates.",
+        "It can conflict with IRR, particularly for projects of different size."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-21",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "hard",
+      "stem": "Which limitation applies to all the appraisal methods?",
+      "options": [
+        "The cash flow forecasts are estimates, and the later years are the least reliable",
+        "They all require a discount rate",
+        "They all use accounting profit",
+        "They all ignore the initial investment"
+      ],
+      "answer": 0,
+      "why": "Much of the value sits in the later years, which are the hardest to forecast, and sensitivity analysis is the standard remedy.",
+      "whyNot": [
+        "",
+        "Payback and ARR are non-discounted.",
+        "Only ARR uses profit.",
+        "All of them include the initial investment."
+      ]
+    },
+    {
+      "id": "WAC12-2-6-1-22",
+      "topicRef": "2.6.1",
+      "topicTitle": "Project appraisal",
+      "difficulty": "medium",
+      "stem": "Which of the following is a non-financial factor that could outweigh a positive NPV?",
+      "options": [
+        "The company lacks the skills and capacity to run the project",
+        "The discount rate used was 10%",
+        "The project has a payback period of three years",
+        "The profitability index exceeds 1"
+      ],
+      "answer": 0,
+      "why": "Strategic fit, skills, staff morale, reputation and environmental impact are all excluded from the calculations and can be decisive.",
+      "whyNot": [
+        "",
+        "That is a financial input to the appraisal.",
+        "That is a financial result.",
+        "That is a financial result."
+      ]
+    }
+  ]
+}

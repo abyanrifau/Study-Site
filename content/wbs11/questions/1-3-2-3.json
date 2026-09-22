@@ -1,0 +1,333 @@
+{
+  "topicRef": "1.3.2.3",
+  "topicTitle": "Markets",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-2-3-01",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of the equilibrium price?",
+      "options": [
+        "The price at which quantity demanded equals quantity supplied",
+        "The highest price customers are willing to pay",
+        "The lowest price at which a producer will sell",
+        "The average of all prices charged in a market"
+      ],
+      "answer": 0,
+      "why": "At the equilibrium price the market clears: nothing is left unsold and no buyer is left unserved. It is the only price that satisfies both buyers and sellers.",
+      "whyNot": [
+        "",
+        "That would leave producers wanting to supply far more than is bought, creating excess supply.",
+        "That would leave buyers wanting far more than is offered, creating excess demand.",
+        "An average of prices is just a statistic. Equilibrium is defined by demand equalling supply, not by averaging."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-02",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a situation where quantity supplied is greater than quantity demanded at the current price?",
+      "options": ["Excess supply", "Excess demand", "Equilibrium", "Unitary elasticity"],
+      "answer": 0,
+      "why": "Excess supply, also called a surplus, happens when the price is above the equilibrium. Stock builds up unsold, so sellers cut prices until the market clears.",
+      "whyNot": [
+        "",
+        "Excess demand is the opposite: buyers want more than is offered, which happens when price is below equilibrium.",
+        "At equilibrium the two are equal by definition, so neither exceeds the other.",
+        "Unitary elasticity means a PED of 1. It describes responsiveness, not an imbalance between supply and demand."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-03",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "easy",
+      "stem": "If the price in a market is set below the equilibrium price, what happens?",
+      "options": [
+        "There is excess demand, so price is pushed up",
+        "There is excess supply, so price is pushed down",
+        "The market stays in equilibrium",
+        "Demand shifts to the left"
+      ],
+      "answer": 0,
+      "why": "A low price means buyers want more than sellers will offer, so products sell out and queues form. Sellers realise they can charge more, and as price rises demand falls and supply rises until the two meet.",
+      "whyNot": [
+        "",
+        "Excess supply happens when price is *above* equilibrium, not below. This is the most common mix-up on this topic.",
+        "The market is not in equilibrium, because quantity demanded and supplied are not equal at that price.",
+        "The demand curve does not move. Only the price is out of line, so there is a movement along the existing curves."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-04",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Demand for a product increases. What happens to the equilibrium price and quantity?",
+      "options": [
+        "Price rises and quantity rises",
+        "Price rises and quantity falls",
+        "Price falls and quantity rises",
+        "Price falls and quantity falls"
+      ],
+      "answer": 0,
+      "why": "The demand curve shifts right. At the old price there is now excess demand, so price is bid up, and the higher price draws out more supply. With a demand shift, price and quantity always move the same way.",
+      "whyNot": [
+        "",
+        "That is what a *decrease in supply* does. With a demand shift the two move together.",
+        "That is what an *increase in supply* does.",
+        "That is what a *decrease in demand* does, shifting the curve left."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-05",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Supply of a product increases. What happens to the equilibrium price and quantity?",
+      "options": [
+        "Price falls and quantity rises",
+        "Price rises and quantity rises",
+        "Price falls and quantity falls",
+        "Price rises and quantity falls"
+      ],
+      "answer": 0,
+      "why": "The supply curve shifts right, creating excess supply at the old price, so price is pushed down. The lower price draws out more demand, so quantity rises. With a supply shift, price and quantity move in opposite directions.",
+      "whyNot": [
+        "",
+        "Both rising is the signature of a demand increase, not a supply increase.",
+        "Both falling is the signature of a demand decrease.",
+        "That is what a *decrease in supply* does, shifting the curve left."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-06",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "hard",
+      "stem": "Demand for a product rises at the same time as production costs rise. What can be said with certainty?",
+      "options": [
+        "Price will rise, but the effect on quantity depends on which shift is larger",
+        "Both price and quantity will rise",
+        "Both price and quantity will fall",
+        "Price and quantity will both stay the same"
+      ],
+      "answer": 0,
+      "why": "Demand shifting right pushes price up; supply shifting left also pushes price up. So price definitely rises. But demand-right raises quantity while supply-left lowers it, so the net effect on quantity is genuinely ambiguous. Saying so is a top-band answer.",
+      "whyNot": [
+        "",
+        "Quantity is being pulled in two directions, so it cannot be stated with certainty. Inventing a definite answer is penalised, not rewarded.",
+        "Both effects push price *up*, so price cannot fall.",
+        "Both changes push price up, so price must move. The curves have shifted, not stayed still."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-07",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Which of the following best describes the price mechanism?",
+      "options": [
+        "The way price changes act as signals that bring quantity demanded and supplied back into balance",
+        "The method a business uses to set its own selling price",
+        "A government policy for controlling inflation",
+        "The process of calculating price elasticity of demand"
+      ],
+      "answer": 0,
+      "why": "Price does two jobs at once: it signals where resources should move, and it rations what is scarce. Shortages push price up, surpluses push it down, and the market moves back towards equilibrium.",
+      "whyNot": [
+        "",
+        "That is a pricing strategy, which is a decision by one business rather than a market-wide adjustment process.",
+        "Inflation policy is a government matter. The price mechanism operates in individual markets without anyone directing it.",
+        "PED measures responsiveness to a price change. It is a calculation, not the adjustment mechanism itself."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-08",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "hard",
+      "stem": "In peak season a resort cannot build extra rooms. Demand shifts right. What happens?",
+      "options": [
+        "Price rises sharply and quantity rises only slightly",
+        "Price stays the same and quantity rises sharply",
+        "Price falls and quantity rises",
+        "Price rises sharply and quantity falls"
+      ],
+      "answer": 0,
+      "why": "Supply is close to fixed in the short run, so quantity can barely respond. Almost the entire adjustment has to come through price, which is why peak-season rates can be multiples of low-season rates for an identical room. Price is doing the rationing.",
+      "whyNot": [
+        "",
+        "Quantity cannot rise sharply when the rooms do not exist. That physical limit is the whole point of the question.",
+        "A rightward demand shift raises price, not lowers it.",
+        "Quantity would not fall. It rises a little, limited by the rooms available."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-09",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "A government sets a maximum price for bread below the equilibrium price. What is the most likely result?",
+      "options": [
+        "Excess demand, leading to shortages and queues",
+        "Excess supply, leading to unsold stock",
+        "The equilibrium price falling to the new maximum",
+        "An increase in the supply of bread"
+      ],
+      "answer": 0,
+      "why": "A price held below equilibrium means buyers want more than producers will supply at that price, so there is excess demand. The predictable consequences are shortages, queues and some form of rationing.",
+      "whyNot": [
+        "",
+        "Excess supply comes from a price *above* equilibrium, such as a minimum price.",
+        "A price cap does not change the underlying equilibrium, which is set by the demand and supply curves. It just prevents the market from reaching it.",
+        "A lower enforced price makes supplying less profitable, so producers offer less, not more."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-10",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "In a Construct question asking for a supply and demand diagram showing a fall in demand, which is essential for the marks?",
+      "options": [
+        "Labelling both axes, both demand curves, and both equilibrium positions",
+        "Shading the area of excess supply in a bright colour",
+        "Drawing the curves perfectly straight",
+        "Writing a full paragraph of explanation under the diagram"
+      ],
+      "answer": 0,
+      "why": "Construct marks are largely for accurate labelling: Price and Quantity on the axes, D and D₁ on the curves, and P, Q, P₁ and Q₁ marked with guide lines. An unlabelled diagram earns very little however well drawn.",
+      "whyNot": [
+        "",
+        "Shading is optional and carries no marks by itself. Colour is not required.",
+        "Neatness helps readability, but a curved line correctly labelled scores and a straight unlabelled one does not.",
+        "Construct asks for a diagram. Explanation is what the separate Explain or Analyse questions are for."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-11",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Why does excess supply push the price down?",
+      "options": [
+        "Unsold stock builds up, so sellers cut prices to shift it",
+        "Customers refuse to buy at any price",
+        "Producers are legally required to lower prices",
+        "The demand curve shifts right automatically"
+      ],
+      "answer": 0,
+      "why": "At a price above equilibrium, sellers have offered more than buyers want. Stock accumulates, so sellers lower prices. As price falls, quantity demanded rises and quantity supplied falls, until the two meet.",
+      "whyNot": [
+        "",
+        "Customers are buying, just less than sellers are offering. At a low enough price they would buy the surplus.",
+        "There is no legal requirement. Sellers cut prices because it is in their own interest to clear stock.",
+        "No curve shifts. The adjustment is a movement along the existing curves as price falls."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-12",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "hard",
+      "stem": "Which consideration would add the most evaluation to an answer about a rise in the equilibrium price?",
+      "options": [
+        "How quickly supply can respond, since if it cannot, price does all the adjusting",
+        "Whether the diagram was drawn in pen or pencil",
+        "The number of words used in the answer",
+        "Whether the product is sold in a shop or online"
+      ],
+      "answer": 0,
+      "why": "The speed of the supply response determines how the adjustment splits between price and quantity. If supply is fixed in the short run, price carries the whole burden, which is the single strongest evaluation point available on this topic.",
+      "whyNot": [
+        "",
+        "Presentation carries no marks on an evaluation point.",
+        "Length is not the measure. A short answer with a genuine judgement beats a long descriptive one.",
+        "The sales channel may matter in other topics, but it says nothing about how the equilibrium adjusts here."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-13",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Global air travel stops suddenly, so demand for jet fuel collapses. What happens in that market?",
+      "options": [
+        "Price falls and quantity falls",
+        "Price falls and quantity rises",
+        "Price rises and quantity falls",
+        "Price rises and quantity rises"
+      ],
+      "answer": 0,
+      "why": "A collapse in demand shifts the demand curve sharply left. With a demand shift, price and quantity move the same way, so both fall.",
+      "whyNot": [
+        "",
+        "Quantity rising would require a supply increase. Here it is demand that has changed, and downwards.",
+        "Price rising would require demand to increase or supply to fall. Demand has fallen.",
+        "Both rising is what an *increase* in demand does."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-14",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a situation where quantity demanded is greater than quantity supplied at the current price?",
+      "options": ["Excess demand", "Excess supply", "Market growth", "Equilibrium quantity"],
+      "answer": 0,
+      "why": "Excess demand, also called a shortage, occurs when price is below equilibrium. Products sell out and waiting lists form, which pushes price up.",
+      "whyNot": [
+        "",
+        "Excess supply is the reverse, where sellers offer more than buyers want.",
+        "Market growth is the percentage change in the size of a market over time. It is unrelated to a shortage at a given price.",
+        "Equilibrium quantity is the amount traded when demand equals supply, so by definition there is no imbalance."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-15",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "medium",
+      "stem": "Falling battery costs shift the supply of electric vehicles right. Which chain of reasoning is most complete?",
+      "options": [
+        "Costs fall, so supply shifts right, creating excess supply at the old price, so price falls and quantity traded rises, widening the market for manufacturers but squeezing the margin per vehicle",
+        "Costs fall, so prices fall",
+        "Supply shifts right, so the market grows",
+        "Costs fall, so demand shifts right and price rises"
+      ],
+      "answer": 0,
+      "why": "It names the cause, the shift, the imbalance it creates, the effect on both price and quantity, and the consequence for the business. That is the structure of a full-mark analysis answer.",
+      "whyNot": [
+        "",
+        "Only two links, with no mention of the shift, the mechanism or the effect on quantity.",
+        "It states the shift and jumps to a conclusion, skipping the price and quantity adjustment in between.",
+        "Wrong mechanism. Producers' costs shift *supply*, not demand, and an increase in supply lowers price rather than raising it."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-3-16",
+      "topicRef": "1.3.2.3",
+      "topicTitle": "Markets",
+      "difficulty": "hard",
+      "stem": "Which memory rule correctly summarises how equilibrium responds to shifts?",
+      "options": [
+        "With a demand shift, price and quantity move the same way. With a supply shift, they move opposite ways.",
+        "With a demand shift, price and quantity move opposite ways. With a supply shift, they move the same way.",
+        "Price always rises whichever curve shifts.",
+        "Quantity always rises whichever curve shifts."
+      ],
+      "answer": 0,
+      "why": "Demand right: both up. Demand left: both down. Supply right: price down, quantity up. Supply left: price up, quantity down. That one sentence covers all four outcomes and is worth memorising.",
+      "whyNot": [
+        "",
+        "This reverses the rule. Check it against a demand increase: price and quantity both rise, so they move together.",
+        "An increase in supply lowers the price, so this is false.",
+        "A decrease in either curve lowers quantity, so this is false too."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "topicRef": "1.3.3.5",
+  "topicTitle": "Distribution",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-3-5-01",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a distribution channel?",
+      "options": [
+        "The route a product takes from producer to consumer, including any intermediaries",
+        "The amount a business spends on delivery each year",
+        "The promotional methods used to advertise a product",
+        "The range of products a business sells"
+      ],
+      "answer": 0,
+      "why": "The channel is the path to the customer. The specification names three: four stage, three stage and two stage.",
+      "whyNot": [
+        "",
+        "That is distribution cost, not the channel.",
+        "That is promotion, a different element of the marketing mix.",
+        "That is the product portfolio."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-02",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "easy",
+      "stem": "Which channel is: producer to wholesaler to retailer to consumer?",
+      "options": [
+        "Four stage",
+        "Three stage",
+        "Two stage",
+        "Direct selling"
+      ],
+      "answer": 0,
+      "why": "Count the parties: producer, wholesaler, retailer, consumer. That is the four stage channel, traditional for food, drink and household goods.",
+      "whyNot": [
+        "",
+        "Three stage has no wholesaler: producer to retailer to consumer.",
+        "Two stage is producer straight to consumer.",
+        "Direct selling is another name for the two stage channel."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-03",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: a business that buys in bulk from producers and sells in smaller quantities to retailers?",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Intermediary",
+        "Producer"
+      ],
+      "answer": 0,
+      "why": "Breaking bulk is the wholesaler's core job: buying large quantities and supplying many small retailers who could not buy at that scale.",
+      "whyNot": [
+        "",
+        "A retailer sells to the final consumer.",
+        "Intermediary is the general term for anyone in the channel between producer and consumer, so a wholesaler is one type of intermediary. The question describes the specific role.",
+        "The producer makes the product."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-04",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "What is the main advantage to a producer of using a shorter distribution channel?",
+      "options": [
+        "It keeps more of the margin and gives direct control and customer data",
+        "It always reaches more customers",
+        "It removes all delivery costs",
+        "It guarantees higher total profit"
+      ],
+      "answer": 0,
+      "why": "Each intermediary removed is a margin kept, plus control over price and presentation and ownership of the customer relationship.",
+      "whyNot": [
+        "",
+        "The opposite: fewer stages usually means narrower reach, because you lose access to the intermediary's outlets.",
+        "Delivery still has to happen. A shorter channel transfers that cost to the producer.",
+        "It keeps more margin per unit but may sell far fewer units, so total profit can fall."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-05",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "Why is a shorter distribution channel not automatically better for a producer?",
+      "options": [
+        "The intermediary's margin pays for work that someone still has to do",
+        "Shorter channels are illegal for most products",
+        "Consumers refuse to buy directly from producers",
+        "Shorter channels always have a lower margin"
+      ],
+      "answer": 0,
+      "why": "Storage, delivery, payment handling, returns and customer service do not disappear when the wholesaler does. If the producer cannot do that work more cheaply than the intermediary's cut, it is worse off.",
+      "whyNot": [
+        "",
+        "There is no such restriction. Direct selling is entirely normal.",
+        "Direct purchase from producers is common and growing, especially online.",
+        "Shorter channels keep a higher margin per unit. The cost is the extra work and narrower reach."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-06",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "A small food producer wants its product in a thousand small shops nationwide. Which channel is most appropriate?",
+      "options": [
+        "Four stage, using a wholesaler",
+        "Two stage, selling directly to consumers",
+        "Three stage, supplying each shop directly",
+        "No channel: it should stop trading"
+      ],
+      "answer": 0,
+      "why": "Supplying a thousand small shops directly means a thousand deliveries, invoices and relationships, which a small producer cannot manage. A wholesaler exists precisely to break bulk and reach those shops.",
+      "whyNot": [
+        "",
+        "Direct selling reaches consumers who find you, not the thousand shops.",
+        "Three stage means dealing with each retailer directly, which is the problem being described.",
+        "Not a serious option, and the wholesaler route solves the difficulty."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-07",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "Why might a premium brand refuse to sell through discount outlets?",
+      "options": [
+        "The outlet would damage the market position the premium price depends on",
+        "Discount outlets never sell any products",
+        "It is illegal to sell premium goods at a discount",
+        "Discount outlets pay higher margins"
+      ],
+      "answer": 0,
+      "why": "Distribution is part of the marketing mix and has to match the price and the brand. Being seen on a discount shelf undermines the perception that justifies the premium, and that costs more than the extra volume earns.",
+      "whyNot": [
+        "",
+        "Discount outlets sell very high volumes, which is exactly the temptation.",
+        "There is no such law. It is a positioning decision.",
+        "Discounters typically demand lower prices from suppliers, not higher."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-08",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "A booking platform charges a guesthouse 18% commission. What is the key consideration before dropping it to take direct bookings only?",
+      "options": [
+        "How many of those bookings the guesthouse would have received without the platform",
+        "Whether 18% is higher than the industry average",
+        "Whether the platform is based overseas",
+        "Whether the guesthouse has a printed brochure"
+      ],
+      "answer": 0,
+      "why": "The commission buys reach. If most of those guests would never have found the guesthouse otherwise, cutting the platform saves 18% and loses the bookings. The sensible answer is usually multichannel: the platform for new guests, direct for repeats.",
+      "whyNot": [
+        "",
+        "The benchmark matters less than what the commission actually delivers for this business.",
+        "Where it is based does not change the value of the customers it sends.",
+        "Largely irrelevant to a decision about online distribution."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-09",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "medium",
+      "stem": "What is the main tension created by multichannel distribution?",
+      "options": [
+        "The producer's own channel competes with the retailers that stock it",
+        "It is impossible to use more than one channel at a time",
+        "It always reduces total sales",
+        "It removes the need for any promotion"
+      ],
+      "answer": 0,
+      "why": "Selling direct while also supplying retailers maximises reach, but your website is then undercutting or competing with the shops carrying your product, and they notice.",
+      "whyNot": [
+        "",
+        "Using several channels at once is now the norm.",
+        "It normally increases total sales, which is why businesses do it.",
+        "Multichannel usually needs more promotion, not less."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-10",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "hard",
+      "stem": "Why do prices for identical goods tend to rise with distance from a main port in an island economy?",
+      "options": [
+        "Each additional stage in the distribution channel adds cost and a margin",
+        "The goods change quality during transport",
+        "Retailers on distant islands pay higher taxes",
+        "Demand is always higher on distant islands"
+      ],
+      "answer": 0,
+      "why": "Longer channels mean more handling, more transport and more intermediaries each taking a margin. The product is identical; the distribution cost is not. This is a clean application of channel length to a real constraint.",
+      "whyNot": [
+        "",
+        "The product is the same. What differs is the cost of getting it there.",
+        "Tax is usually national, and duty is paid on import rather than by distance.",
+        "Demand on a smaller island is typically lower, not higher."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-11",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "easy",
+      "stem": "Which of the following is an example of the two stage distribution channel?",
+      "options": [
+        "A guesthouse taking bookings through its own website",
+        "A farmer selling to a wholesaler who supplies village shops",
+        "A brand selling through a supermarket chain",
+        "A manufacturer supplying a chain of electrical retailers"
+      ],
+      "answer": 0,
+      "why": "Producer straight to consumer, with nobody in between, is the two stage channel.",
+      "whyNot": [
+        "",
+        "That is four stage: producer, wholesaler, retailer, consumer.",
+        "That is three stage: producer to retailer to consumer.",
+        "Also three stage, with the retailer as the only intermediary."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-3-5-12",
+      "topicRef": "1.3.3.5",
+      "topicTitle": "Distribution",
+      "difficulty": "hard",
+      "stem": "Online retailing has lowered barriers to entry in distribution. What is the most significant consequence for an existing producer?",
+      "options": [
+        "More competitors can now reach its customers directly",
+        "It can no longer sell online itself",
+        "Distribution costs fall to zero",
+        "Consumers can no longer compare prices"
+      ],
+      "answer": 0,
+      "why": "The same low barrier that lets you sell direct lets everyone else do so too. Easier access cuts both ways, and it is why online channels tend to come with more price competition, not less.",
+      "whyNot": [
+        "",
+        "It can, and usually should. The point is that rivals can as well.",
+        "A website, photography, payment fees, delivery and returns all cost money.",
+        "Online makes comparison far easier, which is part of the competitive pressure."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "topicRef": "2.3.5.3",
+  "topicTitle": "The competitive environment",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-5-3-01",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "easy",
+      "stem": "According to the specification, which three features describe the competitive environment?",
+      "options": [
+        "The number, size and behaviour of competitors",
+        "Price, promotion and place",
+        "Profit, liquidity and gearing",
+        "Job, batch and flow"
+      ],
+      "answer": 0,
+      "why": "Number, size and behaviour. Students usually discuss only the number, and behaviour is often the most important.",
+      "whyNot": [
+        "",
+        "Those are elements of the marketing mix.",
+        "Those are financial measures.",
+        "Those are production methods."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-02",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "easy",
+      "stem": "What is the most likely effect on prices of more competitors entering a market?",
+      "options": [
+        "Prices fall and margins are squeezed",
+        "Prices rise and margins widen",
+        "Prices are unaffected",
+        "The market shrinks"
+      ],
+      "answer": 0,
+      "why": "More rivals give customers more alternatives, so firms compete on price and quality. Demand for any one firm also becomes more price elastic.",
+      "whyNot": [
+        "",
+        "That happens when competition falls.",
+        "Price competition is one of the most direct effects of new entry.",
+        "New entrants may even grow the market; what changes is how it is divided."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-03",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "medium",
+      "stem": "Why should a small business avoid competing on price against a much larger rival?",
+      "options": [
+        "The larger firm has lower unit costs and deeper reserves, so it can sustain losses for longer",
+        "Price competition is illegal for small businesses",
+        "Small businesses cannot calculate prices",
+        "Customers never respond to lower prices"
+      ],
+      "answer": 0,
+      "why": "A price war is won by whoever can absorb losses longest, and that is the larger firm with economies of scale and financial reserves. Ruling this out explicitly, with the reason, is a strong move in an Assess answer.",
+      "whyNot": [
+        "",
+        "It is legal; it is simply unwise here.",
+        "Not a serious consideration.",
+        "Customers do respond, which is why the larger firm wins the war."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-04",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "medium",
+      "stem": "Which of these is something a large firm is structurally bad at, and therefore a route for a small business?",
+      "options": [
+        "Personal, flexible and highly responsive service",
+        "Achieving the lowest unit cost",
+        "National advertising campaigns",
+        "Obtaining supermarket shelf space"
+      ],
+      "answer": 0,
+      "why": "A large firm's processes and scale prevent genuine personal service. Speed of decision is the same kind of advantage: no committees, so adaptation happens in days.",
+      "whyNot": [
+        "",
+        "Scale gives the large firm the cost advantage.",
+        "Large budgets are a large-firm advantage.",
+        "Buying power and distribution reach favour the large firm."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-05",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "hard",
+      "stem": "Why can a small aggressive competitor be more damaging than a large passive one?",
+      "options": [
+        "Behaviour determines how hard a market is to compete in, not size alone",
+        "Small firms always have lower costs",
+        "Large firms cannot cut prices",
+        "Aggression is illegal"
+      ],
+      "answer": 0,
+      "why": "A rival that cuts prices, matches every move and chases your customers changes your market far more than a large firm content with its position. Saying this shows you have understood all three dimensions.",
+      "whyNot": [
+        "",
+        "Large firms usually have lower unit costs through scale.",
+        "They can, and often more sustainably.",
+        "Aggressive competition is legal; only specific abuses such as predatory pricing are not."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-06",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "medium",
+      "stem": "What determines whether more competitors are likely to enter a market?",
+      "options": [
+        "Barriers to entry, such as capital requirements and licensing",
+        "The number of employees existing firms have",
+        "The colour of existing firms' branding",
+        "Whether existing firms are profitable only"
+      ],
+      "answer": 0,
+      "why": "Low capital requirements and no licence means entrants arrive quickly, which is why online markets are so crowded. Profitability attracts entrants, and barriers determine whether they can act on it.",
+      "whyNot": [
+        "",
+        "Headcount does not affect entry.",
+        "Irrelevant.",
+        "Profitability is an incentive to enter, and barriers decide whether it is possible."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-07",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "hard",
+      "stem": "On a small island, one guesthouse discounts aggressively. Why does this affect all the others?",
+      "options": [
+        "Booking platforms show every property side by side, so demand is highly price elastic",
+        "The guesthouses are legally required to match prices",
+        "Discounting increases total demand for the island",
+        "Other guesthouses cannot see the discount"
+      ],
+      "answer": 0,
+      "why": "Visible, easy comparison makes demand for any one property highly elastic, so one operator's discount pulls everyone's rates down. That is exactly why differentiation rather than rate-matching is the sensible strategy.",
+      "whyNot": [
+        "",
+        "Price fixing or matching agreements would breach competition policy.",
+        "It mostly redistributes existing demand between properties.",
+        "The platform makes it immediately visible to everyone including rivals."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-5-3-08",
+      "topicRef": "2.3.5.3",
+      "topicTitle": "The competitive environment",
+      "difficulty": "medium",
+      "stem": "Why might a large nearby business not actually be a competitor?",
+      "options": [
+        "It may serve a different segment at a different price point",
+        "Large businesses never compete with small ones",
+        "Competition only exists between firms of the same size",
+        "Only businesses on the same street compete"
+      ],
+      "answer": 0,
+      "why": "An island resort at $600 a night and a guesthouse at $95 serve different customers. Checking that a rival actually serves the same segment before treating it as a threat is a genuine analytical point.",
+      "whyNot": [
+        "",
+        "They often do, and here the point is segmentation rather than size.",
+        "Firms of very different sizes compete constantly.",
+        "Online competition has no geographic limit."
+      ]
+    }
+  ]
+}

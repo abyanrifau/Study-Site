@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.4.2",
+  "topicTitle": "International business ethics",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-4-2-01",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines business ethics?",
+      "options": [
+        "The moral principles that guide how a business behaves, beyond what the law requires",
+        "The laws a business must obey in each country where it operates",
+        "The accounting standards used to prepare accounts",
+        "The rules set by the WTO for international trade"
+      ],
+      "answer": 0,
+      "why": "Ethics lives in the gap between what is legal and what is right, which is where this whole topic sits.",
+      "whyNot": [
+        "",
+        "Law is the minimum, not the standard.",
+        "Those govern reporting.",
+        "Those govern trade between governments."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-02",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines sustainability?",
+      "options": [
+        "Meeting present needs without damaging the ability of future generations to meet theirs",
+        "Maintaining a business's profit at a constant level",
+        "Using only locally sourced materials",
+        "Recycling all packaging waste"
+      ],
+      "answer": 0,
+      "why": "The commercial case is often strong, because depleting the resource destroys the business.",
+      "whyNot": [
+        "",
+        "That is profit stability.",
+        "That is local sourcing.",
+        "Recycling is one action within sustainability."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-03",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines child labour?",
+      "options": [
+        "The employment of children in work that deprives them of schooling or harms their development",
+        "Any employment of a person under 18",
+        "Employment of children in family businesses only",
+        "The employment of children at below the minimum wage"
+      ],
+      "answer": 0,
+      "why": "Some standards, such as safety and the prohibition of child labour, are not matters of local preference.",
+      "whyNot": [
+        "",
+        "Some supervised work above a minimum age is lawful and not harmful.",
+        "It is not limited to family businesses.",
+        "The pay level is not the defining feature."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-04",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a race to the bottom?",
+      "options": [
+        "Competition between countries to attract investment by lowering labour, tax or environmental standards",
+        "Competition between businesses to offer the lowest prices",
+        "The fall in a currency's value against others",
+        "A decline in a country's GDP per capita"
+      ],
+      "answer": 0,
+      "why": "Each government's action is individually rational and all end up worse off.",
+      "whyNot": [
+        "",
+        "That is price competition.",
+        "That is depreciation.",
+        "That is falling income per head."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-05",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Which conflict defines international business ethics?",
+      "options": [
+        "Customers wanting low prices against workers in the supply chain wanting decent pay",
+        "Shareholders wanting dividends against managers wanting bonuses",
+        "Governments wanting tax against consumers wanting choice",
+        "Suppliers wanting prompt payment against lenders wanting interest"
+      ],
+      "answer": 0,
+      "why": "It cannot be resolved by good intentions, because the low price depends on the low wage.",
+      "whyNot": [
+        "",
+        "That is a domestic governance conflict.",
+        "That is a policy tension, not the defining ethical conflict.",
+        "Both are financial claims rather than the central conflict."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-06",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Why can a business not disclaim responsibility for its suppliers' conduct?",
+      "options": [
+        "Customers hold the brand responsible, and the business benefits from the low cost",
+        "Contracts with suppliers are legally unenforceable",
+        "Suppliers are legally part of the business",
+        "Suppliers cannot be audited"
+      ],
+      "answer": 0,
+      "why": "The business has the commercial power in the relationship, so it has the practical ability to set conditions.",
+      "whyNot": [
+        "",
+        "Supplier contracts are enforceable.",
+        "They are separate legal entities.",
+        "Audits are possible, though they can be evaded."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-07",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Why is withdrawing from a supplier often not the ethical response?",
+      "options": [
+        "Cancelling the order removes the workers' income and does nothing about the conditions",
+        "Withdrawal is prohibited by supply contracts",
+        "Withdrawal always costs more than compliance",
+        "Withdrawal transfers legal liability to the business"
+      ],
+      "answer": 0,
+      "why": "Requiring improvement and verifying it usually does more good than leaving, which is a genuinely sophisticated point.",
+      "whyNot": [
+        "",
+        "Contracts can normally be ended on notice.",
+        "Cost varies; the objection is about the workers.",
+        "Liability is not created by withdrawal."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-08",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Why does auditing tier one of a supply chain not reveal what happens at tier three?",
+      "options": [
+        "A first-tier supplier subcontracts, and the subcontractor subcontracts again",
+        "Tier three suppliers are always in a different country",
+        "Audits are prohibited beyond the first tier",
+        "Tier three suppliers do not employ any workers"
+      ],
+      "answer": 0,
+      "why": "Long and opaque supply chains are the main practical difficulty in supply chain ethics.",
+      "whyNot": [
+        "",
+        "They may be in the same country.",
+        "Mapping beyond tier one is possible, just difficult.",
+        "They employ workers, which is the concern."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-09",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is a marketing ethics issue named in the specification?",
+      "options": [
+        "Misleading product labelling",
+        "Selling at a premium price",
+        "Advertising in more than one language",
+        "Sponsoring a sports team"
+      ],
+      "answer": 0,
+      "why": "Inappropriate marketing activities is the other named marketing consideration.",
+      "whyNot": [
+        "",
+        "Premium pricing is not in itself unethical.",
+        "Multilingual advertising is ordinary practice.",
+        "Sponsorship is a legitimate promotional activity."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-10",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "What is the double standard that defines international business ethics?",
+      "options": [
+        "Doing abroad what would not be permitted at home, justified because local law allows it",
+        "Charging different prices in different countries",
+        "Applying different accounting standards in different subsidiaries",
+        "Paying managers more than production workers"
+      ],
+      "answer": 0,
+      "why": "It is the single most useful framing for an essay on international business ethics.",
+      "whyNot": [
+        "",
+        "Price discrimination is a commercial practice.",
+        "Reporting standards vary legitimately by jurisdiction.",
+        "Pay differentials are normal, though their scale raises separate questions."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-11",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "Why is greenwashing worse than making no environmental claim?",
+      "options": [
+        "The gap between the claim and the behaviour becomes the story",
+        "Environmental claims are unlawful in most countries",
+        "Greenwashing costs more than genuine action",
+        "It prevents a business from advertising at all"
+      ],
+      "answer": 0,
+      "why": "A business judged on its behaviour is in a better position than one caught claiming more than it delivers.",
+      "whyNot": [
+        "",
+        "Claims are lawful provided they are not misleading.",
+        "It is usually cheaper, which is why it happens.",
+        "It does not remove the ability to advertise."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-12",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "When does the conflict between ethics and profit largely disappear?",
+      "options": [
+        "Where the resource being protected is itself the business, such as a reef or a fishery",
+        "Where the business is very large",
+        "Where the business has a strong brand",
+        "Where regulation in the host country is weak"
+      ],
+      "answer": 0,
+      "why": "Damaging the asset destroys the business, so an environmental standard becomes a commercial policy.",
+      "whyNot": [
+        "",
+        "Size does not resolve the conflict.",
+        "A strong brand raises the reputational stake but does not remove the trade-off.",
+        "Weak regulation widens the gap rather than closing it."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-13",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "What does responsible supply chain practice look like?",
+      "options": [
+        "A published code, mapping beyond tier one, unannounced audits and remediation rather than termination",
+        "A published code with an annual self-assessment",
+        "Switching to the lowest-price supplier each year",
+        "Relying on the supplier's own assurances"
+      ],
+      "answer": 0,
+      "why": "Long-term relationships and paying enough to make compliance possible are also part of it.",
+      "whyNot": [
+        "",
+        "Self-assessment with no verification is a public relations document.",
+        "Lowest-price switching removes any leverage to improve conditions.",
+        "Assurances without verification are not practice."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-14",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "Which of the following is an honest argument against applying home standards worldwide?",
+      "options": [
+        "It costs more, and competitors who do not do it have lower costs",
+        "Home standards are always inappropriate abroad",
+        "Local workers prefer poor conditions",
+        "Ethical standards reduce product quality"
+      ],
+      "answer": 0,
+      "why": "Acknowledging the genuine difficulties makes the answer stronger, not weaker.",
+      "whyNot": [
+        "",
+        "Some standards, such as safety, are not local preferences.",
+        "That is not a credible claim.",
+        "Higher standards generally improve quality."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-15",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "Why is the stated willingness of customers to pay more for ethical products a weak foundation?",
+      "options": [
+        "Stated willingness consistently exceeds actual purchasing behaviour",
+        "Customers are unaware that ethical issues exist",
+        "Ethical products cannot be priced higher",
+        "Willingness to pay cannot be measured"
+      ],
+      "answer": 0,
+      "why": "The gap between what customers say and do undermines the commercial case for ethical premiums.",
+      "whyNot": [
+        "",
+        "Awareness is generally high.",
+        "They can be, but the volume may not follow.",
+        "It is measured routinely, which is how the gap is known."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-16",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "medium",
+      "stem": "In a remote island resort, which labour issue raises the ethical questions?",
+      "options": [
+        "Rest days, accommodation quality, family contact and pay relative to guest rates",
+        "The legality of employing foreign nationals",
+        "Whether guests tip staff directly",
+        "The currency in which staff are paid"
+      ],
+      "answer": 0,
+      "why": "The short-run cost is real and the long-run return comes through retention, which matters where a specialist cannot be replaced mid-season.",
+      "whyNot": [
+        "",
+        "That is an immigration compliance matter.",
+        "Tipping arrangements are a minor operational detail.",
+        "Payment currency is an administrative matter."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-4-2-17",
+      "topicRef": "4.3.4.2",
+      "topicTitle": "International business ethics",
+      "difficulty": "hard",
+      "stem": "What is the honest overall conclusion on international business ethics?",
+      "options": [
+        "In the short run ethics costs money; over a long enough horizon reputation and retention usually outweigh it",
+        "Ethical behaviour always increases profit immediately",
+        "Ethical behaviour always reduces profit permanently",
+        "Ethics and profit are entirely unrelated"
+      ],
+      "answer": 0,
+      "why": "Short run against long run is the distinction that organises the whole judgement.",
+      "whyNot": [
+        "",
+        "The short-run cost is real and should be acknowledged.",
+        "Over time, reputation, retention and avoided scandal usually pay.",
+        "They are closely connected, which is why the topic is examinable."
+      ]
+    }
+  ]
+}

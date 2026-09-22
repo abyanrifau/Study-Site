@@ -1,0 +1,364 @@
+{
+  "topicRef": "4.3.2.3",
+  "topicTitle": "Assessment of a country as a production location",
+  "unit": "WBS14",
+  "questions": [
+    {
+      "id": "WBS14-4-3-2-3-01",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines unit labour cost?",
+      "options": [
+        "Labour cost per unit of output, combining the wage rate with productivity",
+        "The hourly wage paid to a production worker",
+        "The total wage bill of a business",
+        "The cost of training a new employee"
+      ],
+      "answer": 0,
+      "why": "This is the figure that matters in a location decision, not the wage rate on its own.",
+      "whyNot": [
+        "",
+        "That is the wage rate, only one half of the calculation.",
+        "That is the total labour cost.",
+        "That is a recruitment cost."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-02",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a special economic zone?",
+      "options": [
+        "An area within a country where trade, tax and regulatory rules are relaxed to attract investment",
+        "A region where only domestic firms may operate",
+        "A country that has joined a trading bloc",
+        "An area reserved for agricultural production"
+      ],
+      "answer": 0,
+      "why": "Zones are one form of government incentive, alongside grants, tax holidays and subsidised sites.",
+      "whyNot": [
+        "",
+        "Zones are designed to attract foreign investment, not exclude it.",
+        "That is bloc membership.",
+        "That is land-use zoning."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-03",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a footloose business?",
+      "options": [
+        "A business with no strong tie to a particular location, which can relocate relatively easily",
+        "A business that operates only in its home country",
+        "A business that has recently been established",
+        "A business with a large number of employees"
+      ],
+      "answer": 0,
+      "why": "Where investment is genuinely mobile, such as assembly or service centres, the threat to relocate gives the business real bargaining power.",
+      "whyNot": [
+        "",
+        "That is a domestic business.",
+        "Age does not determine mobility.",
+        "Size does not determine mobility."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-04",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines return on investment?",
+      "options": [
+        "The profit expected from an investment expressed as a percentage of the amount invested",
+        "The time taken for an investment to repay its cost",
+        "The total revenue an investment generates",
+        "The interest rate charged on the loan funding an investment"
+      ],
+      "answer": 0,
+      "why": "It should be compared with the alternative locations and with the business's cost of capital.",
+      "whyNot": [
+        "",
+        "That is the payback period.",
+        "Revenue is not a return measure.",
+        "That is the cost of finance."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-05",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Country A pays $4.00 per hour with output of 2 units per hour. What is its unit labour cost?",
+      "options": [
+        "$2.00",
+        "$8.00",
+        "$4.00",
+        "$0.50"
+      ],
+      "answer": 0,
+      "why": "4.00 / 2 = $2.00 per unit.",
+      "whyNot": [
+        "",
+        "That multiplies rather than divides.",
+        "That is the hourly wage.",
+        "That inverts the calculation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-06",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Country B pays $18.00 per hour with output of 12 units per hour. What is its unit labour cost?",
+      "options": [
+        "$1.50",
+        "$216.00",
+        "$18.00",
+        "$0.67"
+      ],
+      "answer": 0,
+      "why": "18.00 / 12 = $1.50 per unit, which is lower than Country A's $2.00 despite a wage more than four times higher.",
+      "whyNot": [
+        "",
+        "That multiplies rather than divides.",
+        "That is the hourly wage.",
+        "That inverts the calculation."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-07",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Unit labour cost is $2.00, shipping $0.60 and tariff $0.96 per unit. What is the delivered cost of those elements?",
+      "options": [
+        "$3.56",
+        "$2.60",
+        "$2.96",
+        "$1.56"
+      ],
+      "answer": 0,
+      "why": "2.00 + 0.60 + 0.96 = $3.56 per unit, which is what should be compared between locations.",
+      "whyNot": [
+        "",
+        "That omits the tariff.",
+        "That omits the shipping cost.",
+        "That omits the labour cost."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-08",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Why should government incentives tip a decision rather than make it?",
+      "options": [
+        "They are usually time-limited, so the advantage expires while the plant remains",
+        "They are always illegal under WTO rules",
+        "They are never actually paid",
+        "They apply only to domestic businesses"
+      ],
+      "answer": 0,
+      "why": "They can also be withdrawn by a new government, and a location that has to pay businesses to come is telling you something about its other disadvantages.",
+      "whyNot": [
+        "",
+        "Investment incentives are widely used and generally lawful.",
+        "They are normally paid as agreed.",
+        "They are typically aimed at inward investors."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-09",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Which factor is most decisive for capital-intensive manufacturing?",
+      "options": [
+        "Power reliability and infrastructure",
+        "The minimum wage rate",
+        "Local consumer incomes",
+        "The number of competitors in the market"
+      ],
+      "answer": 0,
+      "why": "A plant that stops when the supply fails either needs its own generation or loses output, and wages matter far less where labour is a small share of cost.",
+      "whyNot": [
+        "",
+        "Wages matter most for labour-intensive production.",
+        "Consumer incomes matter for a market assessment.",
+        "Competitor numbers affect the market, not the location."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-10",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "Which factor most often defeats a location decision that looks attractive on cost?",
+      "options": [
+        "Skill shortages, because training takes years",
+        "The exchange rate on the day of the decision",
+        "The colour of the national flag on packaging",
+        "The number of public holidays"
+      ],
+      "answer": 0,
+      "why": "Where the business needs a skill nobody local has, the choice is to train, to import expatriate staff at high cost, or to go elsewhere.",
+      "whyNot": [
+        "",
+        "A single day's rate is not a structural factor.",
+        "That is not a serious consideration.",
+        "Holidays are a minor operational detail."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-11",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "hard",
+      "stem": "Why must rules of origin be checked when locating inside a free trade area?",
+      "options": [
+        "Assembling from components made outside may not qualify for tariff-free treatment",
+        "Free trade areas prohibit foreign ownership of factories",
+        "Free trade areas require a single currency",
+        "Rules of origin determine the local minimum wage"
+      ],
+      "answer": 0,
+      "why": "A stated proportion of the value usually has to originate within the bloc, which is why a customs union removes the problem.",
+      "whyNot": [
+        "",
+        "Foreign ownership is generally permitted.",
+        "A single currency belongs to a monetary union.",
+        "Wages are set nationally."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-12",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "hard",
+      "stem": "Why might a business require a higher return from a location in an unstable country?",
+      "options": [
+        "The range of possible outcomes is wider, so a risk premium is appropriate",
+        "Unstable countries always have higher tax rates",
+        "Returns are calculated differently in unstable countries",
+        "Investors are legally required to demand more"
+      ],
+      "answer": 0,
+      "why": "A higher expected return in an unstable country may be worth less than a lower return in a stable one.",
+      "whyNot": [
+        "",
+        "Tax rates vary independently of stability.",
+        "The calculation is the same; the required return differs.",
+        "No such legal requirement exists."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-13",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "hard",
+      "stem": "Why is processing close to a natural resource often chosen?",
+      "options": [
+        "It saves transport cost on waste material that would otherwise be shipped",
+        "Resource-rich countries always offer the lowest wages",
+        "Processing is prohibited in consuming countries",
+        "It removes the need for any infrastructure"
+      ],
+      "answer": 0,
+      "why": "It is decisive for extractive and processing industries, and important wherever a bulky raw material is a large share of cost.",
+      "whyNot": [
+        "",
+        "Wage levels vary independently of resource endowment.",
+        "Processing is widely done in consuming countries too.",
+        "Processing requires substantial infrastructure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-14",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "What should be the first sentence of a location assessment answer?",
+      "options": [
+        "An identification of what kind of production this is, so the factors can be ranked",
+        "A statement of the recommendation",
+        "A definition of foreign direct investment",
+        "A list of all nine location factors"
+      ],
+      "answer": 0,
+      "why": "Location factors are only meaningful relative to what the business actually does, so a generic list in a fixed order cannot reach the top band.",
+      "whyNot": [
+        "",
+        "A recommendation before analysis is unsupported.",
+        "A definition adds little to a location judgement.",
+        "An unranked list is the weakest possible structure."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-15",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "hard",
+      "stem": "Why does a location with very low wages sometimes lose out to a high-wage one?",
+      "options": [
+        "Productivity, transport cost and tariffs can more than offset the wage advantage",
+        "High wages always indicate better product quality",
+        "Low-wage countries prohibit foreign investment",
+        "Tariffs are only charged on low-wage exports"
+      ],
+      "answer": 0,
+      "why": "This is exactly why high-wage economies retain capital-intensive production.",
+      "whyNot": [
+        "",
+        "Quality depends on process and skills, not on wages directly.",
+        "Most low-wage countries actively seek foreign investment.",
+        "Tariffs depend on the product and route, not the exporter's wage level."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-16",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "medium",
+      "stem": "For a service operation, which factors matter most?",
+      "options": [
+        "Language, education, telecommunications and time zone",
+        "Port capacity and cold-chain facilities",
+        "Proximity to mineral deposits",
+        "Road access for heavy vehicles"
+      ],
+      "answer": 0,
+      "why": "The relevant factors follow from what the business actually does, which is the organising idea of this topic.",
+      "whyNot": [
+        "",
+        "Those matter for physical goods, particularly perishables.",
+        "That matters for extractive industries.",
+        "That matters for bulky physical output."
+      ]
+    },
+    {
+      "id": "WBS14-4-3-2-3-17",
+      "topicRef": "4.3.2.3",
+      "topicTitle": "Assessment of a country as a production location",
+      "difficulty": "hard",
+      "stem": "Why can a country be a poor production location and an excellent place to sell services?",
+      "options": [
+        "The same factors produce opposite answers depending on what the business does",
+        "Service businesses are exempt from location factors",
+        "Production locations are chosen by governments",
+        "Services do not require any workforce"
+      ],
+      "answer": 0,
+      "why": "A manufacturer would not locate in a small remote island economy and a resort operator would, on the same set of factors.",
+      "whyNot": [
+        "",
+        "They apply to services too, just with different weights.",
+        "Businesses choose their own locations.",
+        "Services are often highly labour-intensive."
+      ]
+    }
+  ]
+}

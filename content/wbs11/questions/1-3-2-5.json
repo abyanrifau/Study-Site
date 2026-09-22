@@ -1,0 +1,333 @@
+{
+  "topicRef": "1.3.2.5",
+  "topicTitle": "Income elasticity of demand (YED)",
+  "unit": "WBS11",
+  "questions": [
+    {
+      "id": "WBS11-1-3-2-5-01",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of income elasticity of demand?",
+      "options": [
+        "The percentage change in quantity demanded divided by the percentage change in income",
+        "The percentage change in quantity demanded divided by the percentage change in price",
+        "The percentage change in income divided by the percentage change in quantity demanded",
+        "The change in quantity demanded when a competitor changes its price"
+      ],
+      "answer": 0,
+      "why": "YED measures how responsive demand is to a change in consumer income, so quantity goes on top and income on the bottom.",
+      "whyNot": [
+        "",
+        "That is price elasticity of demand (PED), which uses the good's own price on the bottom.",
+        "This is upside down. Quantity must be the numerator.",
+        "That is cross elasticity of demand, which is not required by this specification."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-02",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a normal good?",
+      "options": [
+        "A good for which demand rises as consumer income rises, so YED is positive",
+        "A good for which demand falls as consumer income rises, so YED is negative",
+        "A good bought by the majority of consumers",
+        "A good sold at an average market price"
+      ],
+      "answer": 0,
+      "why": "A normal good moves with income: richer customers buy more of it. The defining feature is the positive sign on the YED.",
+      "whyNot": [
+        "",
+        "That is an inferior good, which behaves the opposite way.",
+        "Popularity has nothing to do with it. A niche luxury bought by very few people is still a normal good.",
+        "Price level is irrelevant to the definition, which is entirely about the response to income."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-03",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of an inferior good?",
+      "options": [
+        "A good for which demand falls as income rises, because customers switch to a better alternative",
+        "A good of poor quality that breaks easily",
+        "A good sold below its cost of production",
+        "A good with a YED greater than 1"
+      ],
+      "answer": 0,
+      "why": "An inferior good is defined only by its negative YED. As customers get richer they trade up to something they prefer, so demand falls.",
+      "whyNot": [
+        "",
+        "The most common misunderstanding on this topic. Inferior is a technical term about income response, not a judgement about quality.",
+        "Selling below cost is loss-leading or predatory pricing, which has nothing to do with income elasticity.",
+        "A YED above 1 is a luxury, which is a type of *normal* good. Inferior goods have a YED below zero."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-04",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "Incomes rise by 4% and a resort's bookings rise from 12,000 to 13,440. What is the YED?",
+      "options": ["+3.0", "+0.33", "+12", "−3.0"],
+      "answer": 0,
+      "why": "Quantity change = +1,440, so (1,440 ÷ 12,000) × 100 = +12%. YED = +12 ÷ +4 = +3.0. Positive, so a normal good; above 1, so income elastic, making it a luxury.",
+      "whyNot": [
+        "",
+        "This divides income by quantity (4 ÷ 12). Quantity goes on top.",
+        "That is the percentage change in quantity on its own. It still needs dividing by the percentage change in income.",
+        "The sign should be positive, because demand and income moved in the same direction."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-05",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "Incomes rise by 5% and sales of a supermarket's cheapest own-brand rice fall from 40,000 bags to 38,000. What is the YED, and what does it tell you?",
+      "options": [
+        "−1.0, so the rice is an inferior good",
+        "+1.0, so the rice is a normal good with unitary income elasticity",
+        "−0.5, so the rice is income inelastic",
+        "−5.0, so the rice is a luxury"
+      ],
+      "answer": 0,
+      "why": "Quantity change = −2,000, so (−2,000 ÷ 40,000) × 100 = −5%. YED = −5 ÷ +5 = −1.0. The negative sign is the whole point: customers are trading up to branded rice as they get richer, so it is an inferior good.",
+      "whyNot": [
+        "",
+        "Dropping the minus sign completely misses that this is an inferior good. With YED the sign carries the meaning.",
+        "The arithmetic is wrong: −5 ÷ +5 is −1.0, not −0.5.",
+        "The value is −1.0, not −5.0, and a luxury is a normal good with a YED above +1, so it could never be negative."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-06",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "A product has a YED of +0.3. It is best described as:",
+      "options": [
+        "a normal good that is income inelastic, so a necessity",
+        "a normal good that is income elastic, so a luxury",
+        "an inferior good",
+        "perfectly income inelastic"
+      ],
+      "answer": 0,
+      "why": "Positive, so a normal good. Between 0 and +1, so demand rises by less than income does, making it income inelastic. That is the profile of a necessity, and it makes the business fairly recession-resistant.",
+      "whyNot": [
+        "",
+        "Income elastic means a value above 1. 0.3 is well below that.",
+        "Inferior goods have a negative YED. This one is positive.",
+        "Perfectly income inelastic is a YED of exactly 0, where demand does not respond to income at all."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-07",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "easy",
+      "stem": "Which of the following is the best definition of a luxury good in YED terms?",
+      "options": [
+        "A normal good with a YED greater than +1",
+        "Any good with a high selling price",
+        "A good with a negative YED",
+        "A good with a PED greater than 1"
+      ],
+      "answer": 0,
+      "why": "A luxury is defined by the responsiveness of demand to income, not by price. Demand rises by a greater proportion than income does, which makes the business highly exposed to the economic cycle.",
+      "whyNot": [
+        "",
+        "Price does not define it. An expensive necessity such as housing can be income inelastic.",
+        "A negative YED makes it an inferior good, which is the opposite of a luxury.",
+        "That is price elastic demand. PED and YED measure responses to different things."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-08",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "A business has a YED of +2.5. Incomes are forecast to fall by 3%. Roughly what happens to demand?",
+      "options": [
+        "It falls by about 7.5%",
+        "It falls by about 3%",
+        "It falls by about 1.2%",
+        "It rises by about 7.5%"
+      ],
+      "answer": 0,
+      "why": "Demand changes by YED multiplied by the income change: 2.5 × −3% = −7.5%. A high positive YED means the business is far more volatile than the economy it sells into.",
+      "whyNot": [
+        "",
+        "That would be a YED of exactly 1. A YED of 2.5 amplifies the income change two and a half times.",
+        "This divides 3 by 2.5 instead of multiplying. That would be the answer for a YED of 0.4.",
+        "Demand falls, not rises. For a normal good, demand moves in the same direction as income."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-09",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "Why might a supermarket deliberately sell both a premium range and a value range?",
+      "options": [
+        "The two ranges have different YEDs, so the mix is protected in both a boom and a recession",
+        "It allows the supermarket to charge the same price for both",
+        "It removes the need to research customer incomes",
+        "Value ranges have a higher YED than premium ranges"
+      ],
+      "answer": 0,
+      "why": "The premium range is income elastic and does well when incomes rise. The value range behaves more like an inferior good and gains share when incomes fall. Holding both spreads the risk across the economic cycle.",
+      "whyNot": [
+        "",
+        "The whole point is to charge different prices to different segments.",
+        "It depends on understanding customer incomes, so it requires more insight, not less.",
+        "The reverse. Premium ranges are income elastic with high positive YEDs; value ranges have low or negative ones."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-10",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "hard",
+      "stem": "For a tourism business, whose incomes matter most when applying YED?",
+      "options": [
+        "Incomes in the countries its visitors come from",
+        "Incomes in its own country",
+        "The incomes of its own employees",
+        "The average income across the whole world"
+      ],
+      "answer": 0,
+      "why": "Demand comes from the source markets, so it is income growth there that drives bookings. A recession in a few wealthy source countries can hit demand hard even if the home economy is growing. Very few students spot this, and it scores well.",
+      "whyNot": [
+        "",
+        "Domestic incomes matter far less if most customers are foreign visitors.",
+        "Employee incomes are a cost to the business, not a driver of customer demand.",
+        "A global average conceals exactly what matters, which is the specific countries the visitors come from."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-11",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "hard",
+      "stem": "Why can the same product have a different YED for different groups of customers?",
+      "options": [
+        "Whether a good is a luxury, a necessity or inferior depends on the customer's income level",
+        "YED is calculated differently in different countries",
+        "YED changes with the product's price",
+        "YED is fixed by government statistics agencies"
+      ],
+      "answer": 0,
+      "why": "A motorbike may be a luxury to a low-income household and an inferior good to a high-income one that would rather buy a car. The product has not changed; the customer's position has. So YED is segment-specific.",
+      "whyNot": [
+        "",
+        "The formula is the same everywhere. What differs is the customers, not the arithmetic.",
+        "Price affects PED. YED is about the response to income.",
+        "Statistics agencies may publish estimates, but YED is a property of demand behaviour, not something set by an authority."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-12",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "Which good is most likely to be income inelastic?",
+      "options": ["Rice", "Designer handbags", "Overseas holidays", "Luxury cars"],
+      "answer": 0,
+      "why": "A staple food takes a tiny share of income and people eat roughly the same amount however rich they get. Demand barely responds to income, which is why food retailers are relatively recession-resistant.",
+      "whyNot": [
+        "",
+        "Strongly income elastic. Sales of designer goods swing far more than incomes do.",
+        "Close to a pure luxury. A long-haul holiday is one of the first things households cut when incomes fall.",
+        "Highly income elastic, with sales swinging much more than GDP in both directions."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-13",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "What is the single most common error students make when calculating YED?",
+      "options": [
+        "Dropping the minus sign, which is what distinguishes a normal good from an inferior one",
+        "Using percentage changes instead of absolute changes",
+        "Putting quantity on the top of the fraction",
+        "Rounding the answer to one decimal place"
+      ],
+      "answer": 0,
+      "why": "With PED the sign can be ignored because it is nearly always negative. With YED the sign carries the meaning: positive is normal, negative is inferior. Throwing it away loses the entire interpretation.",
+      "whyNot": [
+        "",
+        "Percentage changes are exactly what you should use. Absolute changes would make the answer depend on the units.",
+        "Quantity belongs on the top. That is correct method, not an error.",
+        "Sensible rounding is fine and is not penalised."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-14",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "medium",
+      "stem": "A business's product has a high positive YED. Which statement is the most balanced judgement?",
+      "options": [
+        "It will grow strongly when incomes rise but is highly vulnerable in a downturn",
+        "A high YED is always a good sign for a business",
+        "A high YED means the business is recession-proof",
+        "A high YED means the product must be an inferior good"
+      ],
+      "answer": 0,
+      "why": "A high YED means volatility, which cuts both ways. The real judgement is whether the business can survive the downswing, for example by holding cash reserves or adding a less income-elastic product.",
+      "whyNot": [
+        "",
+        "It is only good while incomes are rising. The same sensitivity that drives the boom drives the collapse.",
+        "The opposite. A high positive YED makes a business unusually exposed to recession.",
+        "An inferior good has a *negative* YED. A high positive one is a luxury."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-15",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "easy",
+      "stem": "A calculation gives a YED of +3.0. Which answer is complete enough for full marks?",
+      "options": [
+        "Positive, so a normal good; above 1, so income elastic; therefore a luxury",
+        "+3.0",
+        "The good is elastic",
+        "Demand rises by 3 units when income rises"
+      ],
+      "answer": 0,
+      "why": "The final mark on a Calculate question is usually for interpreting the figure. Stating the sign, the size and what they together mean covers everything the examiner is looking for.",
+      "whyNot": [
+        "",
+        "A bare number usually loses the interpretation mark. Always say what it means.",
+        "Too vague. It does not say elastic with respect to what, nor whether the good is normal or inferior.",
+        "YED works in percentages, not units. A YED of 3 means demand rises 3% for every 1% rise in income."
+      ]
+    },
+    {
+      "id": "WBS11-1-3-2-5-16",
+      "topicRef": "1.3.2.5",
+      "topicTitle": "Income elasticity of demand (YED)",
+      "difficulty": "hard",
+      "stem": "Which is the strongest evaluation point about relying on a YED figure?",
+      "options": [
+        "Income is only one influence on demand, and price, tastes and competitors all act at the same time",
+        "YED is always positive for every good",
+        "YED cannot be calculated without a government survey",
+        "YED and PED always give the same answer"
+      ],
+      "answer": 0,
+      "why": "YED isolates one variable. In reality a business faces price changes, new competitors and shifting tastes simultaneously, so a YED-based forecast can be right about income and still wrong about demand.",
+      "whyNot": [
+        "",
+        "Inferior goods have negative YEDs, so this is simply false.",
+        "Any business can calculate it from its own sales data and published income figures.",
+        "They measure responses to different variables and routinely give very different answers."
+      ]
+    }
+  ]
+}

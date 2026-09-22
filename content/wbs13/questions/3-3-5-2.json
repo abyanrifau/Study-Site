@@ -1,0 +1,343 @@
+{
+  "topicRef": "3.3.5.2",
+  "topicTitle": "Ratio analysis",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-5-2-01",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "easy",
+      "stem": "A business has a gross profit of $240,000 on revenue of $800,000. What is the gross profit margin?",
+      "options": [
+        "30%",
+        "33.3%",
+        "3.3%",
+        "$560,000"
+      ],
+      "answer": 0,
+      "why": "Gross profit margin = (240,000 / 800,000) x 100 = 30%.",
+      "whyNot": [
+        "",
+        "That divides revenue by gross profit and would not be a margin.",
+        "That misplaces the decimal point by a factor of ten.",
+        "That is gross profit subtracted from revenue, which is total cost of sales, not a margin."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-02",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "easy",
+      "stem": "Current assets are $180,000 and current liabilities are $120,000. What is the current ratio?",
+      "options": [
+        "1.5",
+        "0.67",
+        "60,000",
+        "150%"
+      ],
+      "answer": 0,
+      "why": "Current ratio = 180,000 / 120,000 = 1.5, usually written 1.5 : 1.",
+      "whyNot": [
+        "",
+        "That divides current liabilities by current assets, which is the wrong way round.",
+        "That is working capital in money terms, not a ratio.",
+        "The current ratio is expressed as a ratio, not a percentage."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-03",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines gearing?",
+      "options": [
+        "The proportion of a business's capital that is financed by long-term debt",
+        "The proportion of profit paid out as dividends",
+        "The speed at which inventory is sold",
+        "The return earned on each unit sold"
+      ],
+      "answer": 0,
+      "why": "Gearing measures how far the business depends on borrowing rather than on equity.",
+      "whyNot": [
+        "",
+        "That is the dividend payout ratio.",
+        "That is inventory turnover.",
+        "That is a profit margin."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-04",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines return on capital employed?",
+      "options": [
+        "Operating profit expressed as a percentage of the capital invested in the business",
+        "Gross profit as a percentage of revenue",
+        "Cash held as a percentage of current liabilities",
+        "Profit after tax divided by the number of shares"
+      ],
+      "answer": 0,
+      "why": "ROCE relates the profit earned to the money tied up in earning it, which is why it is treated as the primary measure of performance.",
+      "whyNot": [
+        "",
+        "That is the gross profit margin.",
+        "That is a liquidity measure, not a return.",
+        "That is earnings per share."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-05",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Operating profit is $90,000 and capital employed is $600,000. What is ROCE?",
+      "options": [
+        "15%",
+        "6.7%",
+        "$510,000",
+        "0.15%"
+      ],
+      "answer": 0,
+      "why": "ROCE = (90,000 / 600,000) x 100 = 15%.",
+      "whyNot": [
+        "",
+        "That divides capital employed by operating profit, which is the wrong way round.",
+        "That subtracts one figure from the other, which is not a return.",
+        "That misplaces the decimal point by a factor of one hundred."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-06",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "A business has a ROCE of 11% and can borrow at 7%. What is the key evaluative conclusion?",
+      "options": [
+        "Borrowing to invest is worthwhile, because the return exceeds the cost of the finance",
+        "Borrowing should be avoided, because any debt increases risk to an unacceptable level",
+        "The two figures cannot be compared with each other",
+        "The business should repay all its debt immediately"
+      ],
+      "answer": 0,
+      "why": "Comparing ROCE with the cost of borrowing is the central evaluation move in this topic: a return above the interest rate means debt adds value.",
+      "whyNot": [
+        "",
+        "Debt does raise risk, but a blanket rule ignores the fact that the return exceeds the cost.",
+        "They are directly comparable, and comparing them is exactly what the ratio is for.",
+        "Repaying debt that earns more than it costs would reduce returns to shareholders."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-07",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines the payables days ratio?",
+      "options": [
+        "The average number of days a business takes to pay its suppliers",
+        "The average number of days customers take to pay the business",
+        "The average number of days inventory is held before sale",
+        "The number of days of cash a business holds in reserve"
+      ],
+      "answer": 0,
+      "why": "Payables days measures how long the business takes to settle its own trade debts.",
+      "whyNot": [
+        "",
+        "That is receivables days.",
+        "That is inventory turnover expressed in days.",
+        "That is not a standard ratio."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-08",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Receivables days rise from 35 to 62 while revenue is unchanged. What is the most likely concern?",
+      "options": [
+        "Cash is being tied up in customers who are paying more slowly",
+        "The business has become more profitable",
+        "Inventory is being held for longer",
+        "Gearing has fallen"
+      ],
+      "answer": 0,
+      "why": "Slower collection consumes cash without increasing sales, which creates a liquidity problem even though profit is unaffected.",
+      "whyNot": [
+        "",
+        "Collection speed does not change profit; it changes cash.",
+        "Inventory holding is measured by a different ratio.",
+        "Receivables days tell you nothing directly about the level of debt."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-09",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Why is a very high current ratio not necessarily a good sign?",
+      "options": [
+        "Cash, inventory and receivables may be sitting idle instead of being invested productively",
+        "It means the business cannot pay its short-term debts",
+        "It always indicates that the business is loss-making",
+        "It means the business has too much long-term debt"
+      ],
+      "answer": 0,
+      "why": "Liquidity has an opportunity cost, so an unusually high ratio may indicate poor use of resources rather than strength.",
+      "whyNot": [
+        "",
+        "A high ratio indicates it can comfortably pay short-term debts.",
+        "Liquidity and profitability are different things.",
+        "The current ratio concerns short-term items, not long-term debt."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-10",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "hard",
+      "stem": "A business has high gearing. Which pair of consequences is correct?",
+      "options": [
+        "Greater risk from interest payments, and higher returns to shareholders if profits are strong",
+        "Lower risk from interest payments, and lower returns to shareholders",
+        "No effect on risk, and no effect on returns",
+        "Greater risk, and no possibility of higher returns"
+      ],
+      "answer": 0,
+      "why": "Debt magnifies outcomes in both directions: fixed interest must be paid whatever happens, and any surplus above it belongs to the shareholders.",
+      "whyNot": [
+        "",
+        "High gearing raises risk rather than lowering it.",
+        "Gearing affects both the risk profile and the return to shareholders.",
+        "The potential for higher returns is exactly why businesses use debt."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-11",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "hard",
+      "stem": "Why must ratios be compared before they can be interpreted?",
+      "options": [
+        "A single figure is meaningless without a trend, an industry benchmark or a competitor to compare with",
+        "Ratios are calculated differently every year",
+        "Ratios cannot be calculated from published statements",
+        "Ratios are only valid for businesses that export"
+      ],
+      "answer": 0,
+      "why": "Comparison over time and against the sector is what turns a calculation into analysis, because normal levels differ enormously by industry.",
+      "whyNot": [
+        "",
+        "The formulas are consistent; the issue is the absence of a reference point.",
+        "Published statements are the standard source for ratio analysis.",
+        "Ratios apply to all businesses."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-12",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "hard",
+      "stem": "Which of the following is the strongest limitation of ratio analysis?",
+      "options": [
+        "Ratios are based on historical financial data and ignore everything non-financial",
+        "Ratios require a computer to calculate",
+        "Ratios can only be calculated for listed companies",
+        "Ratios are not used by lenders"
+      ],
+      "answer": 0,
+      "why": "They rest on past figures and say nothing about morale, brand, innovation or customer satisfaction, all of which drive future competitiveness.",
+      "whyNot": [
+        "",
+        "They are simple arithmetic.",
+        "Any business with financial statements can be analysed.",
+        "Lenders are among the heaviest users of ratio analysis."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-13",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Gross profit margin is stable but operating profit margin has fallen. What does this suggest?",
+      "options": [
+        "Operating expenses have risen rather than the direct cost of sales",
+        "Selling prices have fallen sharply",
+        "Suppliers have raised their prices",
+        "Revenue has fallen"
+      ],
+      "answer": 0,
+      "why": "The gap between the two margins is operating expenses, so if only the lower margin has fallen, overheads are the cause.",
+      "whyNot": [
+        "",
+        "A price fall would normally reduce the gross margin as well.",
+        "Higher supplier prices would appear in cost of sales and reduce the gross margin.",
+        "A fall in revenue alone would not necessarily change either margin."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-14",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "Which of the following best defines inventory turnover?",
+      "options": [
+        "How many times a business sells and replaces its inventory over a period",
+        "The total value of inventory held at the year end",
+        "The proportion of inventory that is damaged or unsold",
+        "The number of suppliers a business uses"
+      ],
+      "answer": 0,
+      "why": "It measures how quickly stock moves, and it can also be expressed as the average number of days inventory is held.",
+      "whyNot": [
+        "",
+        "That is the closing inventory figure, which is an input to the ratio.",
+        "That is wastage, a separate operational measure.",
+        "Supplier numbers are unrelated to the ratio."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-15",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "hard",
+      "stem": "Why can two businesses in the same industry show non-comparable ratios?",
+      "options": [
+        "They may use different accounting policies, for example in valuing assets",
+        "Ratios are calculated using different formulas in different businesses",
+        "One may publish statements and the other may not calculate profit",
+        "Ratios change meaning depending on the country's language"
+      ],
+      "answer": 0,
+      "why": "Differences in accounting policy mean the underlying figures are not always measuring quite the same thing, so comparisons need care.",
+      "whyNot": [
+        "",
+        "The formulas are standard; the inputs are what differ.",
+        "Any trading business calculates profit.",
+        "Language does not affect the arithmetic or meaning of a ratio."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-5-2-16",
+      "topicRef": "3.3.5.2",
+      "topicTitle": "Ratio analysis",
+      "difficulty": "medium",
+      "stem": "In a 20-mark question using ratios, which approach earns the most marks?",
+      "options": [
+        "Calculate, compare with the previous year or the sector, explain the likely cause, then judge",
+        "Calculate as many ratios as possible and list the results",
+        "Describe what each ratio measures without using the figures given",
+        "State that the business is performing well because profit is positive"
+      ],
+      "answer": 0,
+      "why": "The marks are in the interpretation and judgement, so each calculation needs a comparison, a cause and a conclusion.",
+      "whyNot": [
+        "",
+        "A list of unexplained numbers earns very few marks.",
+        "Describing formulas without applying them ignores the source.",
+        "Positive profit alone is not an assessment of performance."
+      ]
+    }
+  ]
+}

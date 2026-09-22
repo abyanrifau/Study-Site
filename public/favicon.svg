@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0f7d72"/>
+  <text x="50%" y="47%" text-anchor="middle" dominant-baseline="middle"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="20" font-weight="700" fill="#ffffff" letter-spacing="0.64">IAL</text>
+  <text x="50%" y="68%" text-anchor="middle" dominant-baseline="middle"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="10" font-weight="500" fill="#a8e0d8">revision</text>
+</svg>

@@ -1,0 +1,196 @@
+{
+  "topicRef": "2.3.1.2",
+  "topicTitle": "Internal finance",
+  "unit": "WBS12",
+  "questions": [
+    {
+      "id": "WBS12-2-3-1-2-01",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "easy",
+      "stem": "Which of the following is a source of internal finance?",
+      "options": [
+        "Retained profit",
+        "A bank loan",
+        "Trade credit",
+        "Venture capital"
+      ],
+      "answer": 0,
+      "why": "The three internal sources are owner's capital, retained profit and the sale of assets. All come from inside the business or its owner.",
+      "whyNot": [
+        "",
+        "A bank is an external source.",
+        "Trade credit comes from a supplier, so it is external.",
+        "Venture capital is external equity finance."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-02",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "easy",
+      "stem": "Which term is defined as: profit kept in the business rather than distributed to its owners?",
+      "options": [
+        "Retained profit",
+        "Owner's capital",
+        "Gross profit",
+        "Revenue"
+      ],
+      "answer": 0,
+      "why": "Retained profit is free of interest and does not dilute ownership, which makes it the cheapest finance available to a profitable business.",
+      "whyNot": [
+        "",
+        "Owner's capital is money the owner puts in from personal savings.",
+        "Gross profit is revenue minus cost of sales, a measure rather than a source of finance.",
+        "Revenue is income from sales."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-03",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "easy",
+      "stem": "Why can a brand new business not use retained profit?",
+      "options": [
+        "It has not made any profit yet",
+        "Retained profit is illegal for new businesses",
+        "New businesses are not allowed to keep profit",
+        "Retained profit only applies to companies"
+      ],
+      "answer": 0,
+      "why": "Retained profit requires profit to retain. A start-up therefore depends on owner's capital or external finance.",
+      "whyNot": [
+        "",
+        "There is no such restriction.",
+        "Nothing prevents them keeping profit; they simply have none yet.",
+        "Sole traders can retain profit in the business too."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-04",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "medium",
+      "stem": "What is the opportunity cost of using retained profit to fund expansion?",
+      "options": [
+        "The profit is not available to pay the owners or as a cash buffer",
+        "There is no opportunity cost, because it is free",
+        "The business must pay interest on it",
+        "The business loses control to shareholders"
+      ],
+      "answer": 0,
+      "why": "Money used one way cannot be used another. Retained profit spent on expansion is not paid out as dividends and is not held as a reserve against a bad month.",
+      "whyNot": [
+        "",
+        "It has no interest cost, and it certainly has an opportunity cost.",
+        "No interest is payable on your own money.",
+        "Using internal finance is precisely what avoids diluting control."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-05",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "medium",
+      "stem": "Which of the following is a drawback of raising finance by selling an asset?",
+      "options": [
+        "Each asset can only be sold once, and selling productive equipment reduces capacity",
+        "It requires the business to pay interest",
+        "It dilutes the owner's control",
+        "It is only available to limited companies"
+      ],
+      "answer": 0,
+      "why": "It is a one-off, and if the asset was being used, the business loses the output it produced. A forced sale also tends to get a poor price.",
+      "whyNot": [
+        "",
+        "No interest is payable; the business is selling something it owns.",
+        "No ownership is given up.",
+        "Any business that owns assets can sell them."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-06",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "medium",
+      "stem": "Which of the following best describes sale and leaseback?",
+      "options": [
+        "Selling an asset and renting it back, so cash is raised while the asset is still used",
+        "Selling an asset and buying a cheaper replacement",
+        "Leasing an asset and later buying it outright",
+        "Borrowing against the value of an asset"
+      ],
+      "answer": 0,
+      "why": "It is the usual compromise when a business needs cash but still needs the asset. The trade-off is an ongoing rent instead of ownership.",
+      "whyNot": [
+        "",
+        "That is downgrading, a different decision.",
+        "That is a lease with a purchase option.",
+        "That is a secured loan, which is external finance."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-07",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "medium",
+      "stem": "Why does a lender view owner's capital favourably?",
+      "options": [
+        "It shows the owner has faith in the business and is sharing the risk",
+        "It means the lender does not need security",
+        "It guarantees the business will be profitable",
+        "It means no interest is charged on the loan"
+      ],
+      "answer": 0,
+      "why": "An owner who has put their own savings in has something to lose, which makes them more careful and makes the lender more comfortable. It is often the deciding factor in whether a start-up gets a loan.",
+      "whyNot": [
+        "",
+        "Security is usually still required.",
+        "Nothing guarantees profitability.",
+        "The loan still carries interest."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-08",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "hard",
+      "stem": "A seasonal business is choosing between retained profit and a bank loan for expansion. Which consideration matters most?",
+      "options": [
+        "Whether loan repayments can be met in the low season, not just on average",
+        "Which option has the lower stated interest rate",
+        "Whether the owner prefers paperwork",
+        "Whether the business is a sole trader"
+      ],
+      "answer": 0,
+      "why": "Repayments fall due every month, including the months with almost no revenue. The timing of cash flows against a fixed repayment schedule often matters more than the headline interest rate.",
+      "whyNot": [
+        "",
+        "The rate matters, and it is secondary to whether the payments can be made in the worst month.",
+        "Not a serious financial consideration.",
+        "Legal form affects what finance is available, but the binding issue here is seasonal cash flow."
+      ]
+    },
+    {
+      "id": "WBS12-2-3-1-2-09",
+      "topicRef": "2.3.1.2",
+      "topicTitle": "Internal finance",
+      "difficulty": "medium",
+      "stem": "What is the single biggest limitation of internal finance?",
+      "options": [
+        "There is usually not very much of it",
+        "It always requires interest payments",
+        "It dilutes the owner's control",
+        "It is only available to large companies"
+      ],
+      "answer": 0,
+      "why": "Internal finance costs nothing in interest and nothing in control, and a business needing a large sum generally cannot find it internally. That is why most growing businesses use both.",
+      "whyNot": [
+        "",
+        "It carries no interest, which is its main attraction.",
+        "It avoids diluting control.",
+        "Businesses of any size can use it, subject to having it."
+      ]
+    }
+  ]
+}

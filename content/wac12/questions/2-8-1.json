@@ -1,0 +1,490 @@
+{
+  "topicRef": "2.8.1",
+  "topicTitle": "Marginal costing and absorption costing",
+  "unit": "WAC12",
+  "questions": [
+    {
+      "id": "WAC12-2-8-1-01",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines marginal costing?",
+      "options": [
+        "A method in which only variable costs are charged to units, and fixed costs are treated as a period cost",
+        "A method in which each unit carries a share of fixed production overhead",
+        "A method in which only direct materials are charged to units",
+        "A method used only for pricing decisions"
+      ],
+      "answer": 0,
+      "why": "Marginal costing charges variable costs to the product and writes off fixed costs in the period they are incurred.",
+      "whyNot": [
+        "",
+        "That is absorption costing.",
+        "Marginal cost includes direct labour and variable overhead as well as materials.",
+        "It is used for a range of short-run decisions, not only pricing."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-02",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines absorption costing?",
+      "options": [
+        "A method in which each unit is charged with a share of fixed production overhead as well as its variable costs",
+        "A method in which fixed costs are written off in the period incurred",
+        "A method in which all overheads, including administration, are charged to units",
+        "A method used only for internal decision making"
+      ],
+      "answer": 0,
+      "why": "The share of fixed production overhead is what distinguishes it, and it is required by IAS 2 for inventory valuation.",
+      "whyNot": [
+        "",
+        "That is marginal costing.",
+        "Only production overhead is absorbed; administration and distribution remain period costs.",
+        "Marginal costing is the better method for internal decisions."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-03",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "easy",
+      "stem": "Which method must be used to value inventory in published financial statements?",
+      "options": [
+        "Absorption costing",
+        "Marginal costing",
+        "Either, at the company's choice",
+        "Neither: inventory is valued at selling price"
+      ],
+      "answer": 0,
+      "why": "IAS 2 requires inventory to be valued at full production cost, which means absorption costing.",
+      "whyNot": [
+        "",
+        "Marginal costing understates inventory for reporting purposes.",
+        "The standard does not permit a free choice.",
+        "Inventory is valued at the lower of cost and net realisable value, not at selling price."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-04",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "easy",
+      "stem": "Which of the following best defines a limiting factor?",
+      "options": [
+        "A resource in short supply that restricts output",
+        "The product with the lowest contribution per unit",
+        "The maximum price customers will pay",
+        "The level of fixed costs a business must cover"
+      ],
+      "answer": 0,
+      "why": "Machine hours, labour hours or a scarce material can all be limiting factors, and products are then ranked by contribution per unit of that resource.",
+      "whyNot": [
+        "",
+        "That is a ranking outcome, not the limiting factor itself.",
+        "That is a demand constraint on price, not a resource constraint.",
+        "Fixed costs affect break-even, not the ranking of products."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-05",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Variable production cost is $34 per unit and fixed overhead is absorbed at $15 per unit. What is the absorption cost per unit?",
+      "options": [
+        "$49",
+        "$34",
+        "$15",
+        "$19"
+      ],
+      "answer": 0,
+      "why": "Absorption cost = 34 + 15 = $49 per unit.",
+      "whyNot": [
+        "",
+        "That is the marginal cost, which excludes fixed overhead.",
+        "That is the fixed overhead element alone.",
+        "That subtracts the two figures."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-06",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Fixed production overhead is $150,000 and budgeted output is 10,000 units. What is the absorption rate per unit?",
+      "options": [
+        "$15",
+        "$10",
+        "$150",
+        "$1.50"
+      ],
+      "answer": 0,
+      "why": "150,000 / 10,000 = $15 per unit. Note the rate is set on budgeted figures, not actual.",
+      "whyNot": [
+        "",
+        "That uses an incorrect calculation.",
+        "That misplaces the decimal point.",
+        "That misplaces the decimal point."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-07",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Closing inventory is 1,500 units, the variable cost is $34 and the absorption cost is $49. What is the difference in inventory value between the two methods?",
+      "options": [
+        "$22,500",
+        "$73,500",
+        "$51,000",
+        "$15,000"
+      ],
+      "answer": 0,
+      "why": "1,500 x (49 - 34) = 1,500 x 15 = $22,500 higher under absorption costing.",
+      "whyNot": [
+        "",
+        "That is the absorption value of the inventory.",
+        "That is the marginal value of the inventory.",
+        "That is the fixed overhead per unit multiplied by 1,000."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-08",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Inventory rose by 1,500 units and fixed overhead is $15 per unit. Which profit is higher and by how much?",
+      "options": [
+        "Absorption profit, by $22,500",
+        "Marginal profit, by $22,500",
+        "Absorption profit, by $73,500",
+        "They are equal"
+      ],
+      "answer": 0,
+      "why": "Rising inventory means absorption costing carries $22,500 of fixed overhead forward inside the inventory instead of charging it this period.",
+      "whyNot": [
+        "",
+        "Marginal profit is higher only when inventory falls.",
+        "The difference is the change in inventory multiplied by the fixed overhead per unit.",
+        "They are equal only when inventory does not change."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-09",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Inventory fell during the year. Which profit is higher?",
+      "options": [
+        "Marginal costing profit",
+        "Absorption costing profit",
+        "They are equal",
+        "It depends on the selling price"
+      ],
+      "answer": 0,
+      "why": "Falling inventory releases fixed overhead brought forward from last period into this period's absorption cost of sales, reducing absorption profit.",
+      "whyNot": [
+        "",
+        "Absorption profit is higher when inventory rises.",
+        "They differ whenever inventory changes.",
+        "The selling price affects both methods equally."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-10",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Overhead absorbed is $135,000 and overhead incurred is $150,000. What has happened and what is the effect?",
+      "options": [
+        "$15,000 under-absorbed, deducted in the absorption statement",
+        "$15,000 over-absorbed, added in the absorption statement",
+        "$15,000 under-absorbed, added in the absorption statement",
+        "No adjustment is needed"
+      ],
+      "answer": 0,
+      "why": "Less was charged to production than was incurred, so the shortfall must be deducted from profit.",
+      "whyNot": [
+        "",
+        "Absorbed is less than incurred, so it is under-absorbed.",
+        "Under-absorption is a deduction, not an addition.",
+        "The difference must be corrected."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-11",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Under-absorption usually arises because:",
+      "options": [
+        "Actual activity fell below the budgeted activity used to set the rate",
+        "Actual overhead spending was below budget",
+        "The company used marginal costing",
+        "Inventory increased during the period"
+      ],
+      "answer": 0,
+      "why": "The rate is set on budgeted activity, so producing less than budget absorbs less than the overhead incurred.",
+      "whyNot": [
+        "",
+        "Lower spending, other things equal, would produce over-absorption.",
+        "There is no absorption adjustment at all under marginal costing.",
+        "Inventory movements affect the profit difference, not absorption."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-12",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Normal price $60, variable cost $34, full cost $49. A customer offers $41 per unit for 2,000 units and there is spare capacity. What is the financial effect?",
+      "options": [
+        "Profit rises by $14,000",
+        "Profit falls by $16,000",
+        "Profit rises by $82,000",
+        "Profit is unchanged"
+      ],
+      "answer": 0,
+      "why": "Contribution = 41 - 34 = $7 per unit, so 2,000 x 7 = $14,000 extra profit, because the fixed costs are being paid anyway.",
+      "whyNot": [
+        "",
+        "That compares the price with full cost, which is the wrong basis where capacity is spare.",
+        "That is total revenue from the order, not the effect on profit.",
+        "Any positive contribution changes profit."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-13",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Why would an absorption-costing view wrongly reject the order above?",
+      "options": [
+        "The price of $41 is below the full cost of $49, although fixed costs are being paid regardless",
+        "Absorption costing ignores variable costs",
+        "Absorption costing overstates the contribution",
+        "Absorption costing cannot value a special order"
+      ],
+      "answer": 0,
+      "why": "This is the clearest illustration of why marginal costing is used for short-run decisions.",
+      "whyNot": [
+        "",
+        "Absorption costing includes variable costs and adds fixed overhead.",
+        "It does not calculate contribution at all.",
+        "It can value it; the problem is that the valuation misleads the decision."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-14",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Which qualitative factor is the strongest argument against accepting a discounted special order?",
+      "options": [
+        "Existing customers may find out and demand the same price",
+        "The order will increase total revenue",
+        "The order uses spare capacity",
+        "The order carries a positive contribution"
+      ],
+      "answer": 0,
+      "why": "Lost contribution on normal sales could easily exceed the gain on the order, which is why the decision is short run only.",
+      "whyNot": [
+        "",
+        "Higher revenue is an argument for, not against.",
+        "Spare capacity is a condition that supports acceptance.",
+        "Positive contribution is the financial case for accepting."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-15",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "A component costs $18 variable to make, with $40,000 of apportioned fixed overhead of which $12,000 is avoidable. 5,000 are needed and a supplier offers $23. What should be done?",
+      "options": [
+        "Make, saving $13,000",
+        "Buy, saving $13,000",
+        "Make, saving $25,000",
+        "Buy, saving $5,000"
+      ],
+      "answer": 0,
+      "why": "Cost of making = (5,000 x 18) + 12,000 = $102,000. Cost of buying = 5,000 x 23 = $115,000. Making saves $13,000.",
+      "whyNot": [
+        "",
+        "Making is cheaper once only the avoidable fixed cost is included.",
+        "That omits the $12,000 of avoidable fixed cost from the cost of making.",
+        "That uses an incorrect comparison."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-16",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Why is the unavoidable $28,000 of fixed overhead excluded from a make-or-buy comparison?",
+      "options": [
+        "It will be incurred either way, so it cannot affect the decision",
+        "Fixed overheads are never relevant to any decision",
+        "It has already been paid",
+        "It belongs to a different department"
+      ],
+      "answer": 0,
+      "why": "Only relevant costs matter: future cash costs that change as a result of the decision.",
+      "whyNot": [
+        "",
+        "Avoidable fixed costs are relevant, as the $12,000 shows.",
+        "Whether it has been paid is not the test; whether it changes is.",
+        "The apportionment is to this product, and it is still unavoidable."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-17",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Product C has a contribution of $24,000 and apportioned fixed costs of $44,000, showing a loss of $20,000. Should it be dropped?",
+      "options": [
+        "No, because the $44,000 of fixed costs continues and the $24,000 of contribution would be lost",
+        "Yes, because it makes a loss of $20,000",
+        "Yes, because its contribution is too low",
+        "No, because dropping products is never permitted"
+      ],
+      "answer": 0,
+      "why": "Dropping C would reduce total profit by $24,000, because the apportioned fixed costs would simply be borne by the other products.",
+      "whyNot": [
+        "",
+        "The apparent loss is created by the arbitrary apportionment, not by the product.",
+        "A positive contribution is worth having when the fixed costs continue.",
+        "Products can be dropped; the test is whether contribution is positive and the costs avoidable."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-18",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "When should a product be discontinued?",
+      "options": [
+        "When its contribution is negative, or its fixed costs are avoidable, or the capacity can earn more elsewhere",
+        "Whenever it shows a loss after apportioned fixed costs",
+        "Whenever its contribution per unit is the lowest in the range",
+        "Whenever its sales revenue is falling"
+      ],
+      "answer": 0,
+      "why": "Those three conditions are the only sound reasons, and the first is the basic test.",
+      "whyNot": [
+        "",
+        "An apparent loss after apportionment is not a sound reason.",
+        "The lowest contribution may still be positive and worth having.",
+        "Falling revenue may still leave a useful contribution."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-19",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Contribution per unit: X $36 using 3 hours, Y $28 using 2 hours, Z $45 using 4.5 hours. Which should be made first when machine hours are scarce?",
+      "options": [
+        "Y, at $14.00 per machine hour",
+        "Z, because it has the highest contribution per unit",
+        "X, at $12.00 per machine hour",
+        "All three equally"
+      ],
+      "answer": 0,
+      "why": "Contribution per machine hour: X $12.00, Y $14.00, Z $10.00. Y ranks first because it earns most from each scarce hour.",
+      "whyNot": [
+        "",
+        "Z has the highest contribution per unit and the lowest per scarce hour, so it is made last.",
+        "X ranks second at $12.00 per hour.",
+        "The whole point is that they are not equal per scarce hour."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-20",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Why does ranking by contribution per unit give a worse answer when a resource is scarce?",
+      "options": [
+        "A high-contribution product may consume so much of the scarce resource that it earns less per unit of it",
+        "Contribution per unit cannot be calculated when a resource is scarce",
+        "Fixed costs change when a resource is scarce",
+        "Contribution per unit always equals contribution per hour"
+      ],
+      "answer": 0,
+      "why": "The objective is to maximise contribution from the limited resource, so the resource must be the denominator.",
+      "whyNot": [
+        "",
+        "It can be calculated; it is simply the wrong ranking basis.",
+        "Fixed costs are unaffected by the ranking decision.",
+        "They are equal only if every product uses one unit of the resource."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-21",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Which is an advantage of marginal costing?",
+      "options": [
+        "Profit is not distorted by inventory movements, which removes the incentive to overproduce",
+        "It satisfies IAS 2 for inventory valuation",
+        "It ensures prices always cover all costs",
+        "It requires no estimate of variable cost"
+      ],
+      "answer": 0,
+      "why": "Because fixed costs are charged in full each period, building inventory cannot inflate reported profit.",
+      "whyNot": [
+        "",
+        "Absorption costing is required for published inventory valuation.",
+        "Marginal costing risks pricing below full cost, which is one of its weaknesses.",
+        "Variable costs must still be estimated."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-22",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "medium",
+      "stem": "Which is a disadvantage of absorption costing?",
+      "options": [
+        "The apportionment of fixed overhead is arbitrary and unit cost changes with volume",
+        "It cannot be used for published financial statements",
+        "It ignores fixed production overhead",
+        "It cannot value closing inventory"
+      ],
+      "answer": 0,
+      "why": "Arbitrary apportionment can make a profitable product look loss-making, and over- and under-absorption complicate the statements.",
+      "whyNot": [
+        "",
+        "It is required for published statements.",
+        "It includes fixed production overhead, which is its defining feature.",
+        "It values inventory at full production cost."
+      ]
+    },
+    {
+      "id": "WAC12-2-8-1-23",
+      "topicRef": "2.8.1",
+      "topicTitle": "Marginal costing and absorption costing",
+      "difficulty": "hard",
+      "stem": "Why can a manager judged on absorption profit have an incentive to overproduce?",
+      "options": [
+        "Building inventory carries fixed overhead forward and raises reported profit",
+        "Overproduction reduces variable cost per unit",
+        "Overproduction reduces total fixed costs",
+        "Absorption costing ignores unsold units"
+      ],
+      "answer": 0,
+      "why": "Marginal costing removes this incentive, which is one of the strongest arguments for using it internally.",
+      "whyNot": [
+        "",
+        "Variable cost per unit is unchanged by volume in this model.",
+        "Total fixed costs do not fall with higher output.",
+        "Unsold units are exactly what carries the overhead forward."
+      ]
+    }
+  ]
+}

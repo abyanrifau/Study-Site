@@ -1,0 +1,972 @@
+{
+  "$comment": "Registry of your six exam units. Topic lists come from the official Pearson specification PDFs in /specs and nothing else. examDate holds your own October 2026 centre timetable and is FIXED in the site: it is what every countdown and the revision planner use. It is not stored in your browser, so it cannot be lost by clearing data or changing device. To change a date, edit it here and run npm run build.",
+  "seriesLabels": {
+    "Jan": "January",
+    "Jun": "May/June",
+    "Oct": "October/November"
+  },
+  "units": [
+    {
+      "code": "WBS11",
+      "subject": "Business",
+      "unitNumber": 1,
+      "title": "Marketing and People",
+      "shortTitle": "Marketing & People",
+      "accent": "business",
+      "revisionOrder": 1,
+      "exam": {
+        "durationMinutes": 120,
+        "totalMarks": 80,
+        "structureNote": "Written examination, 2 hours, 80 marks. Section A: short and extended response questions based on sources (30 marks). Section B: same format, different sources (30 marks). Section C: one 20-mark essay question based on one or more sources.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Business specification (2018), Unit 1",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.coursematerials.html",
+      "sections": [
+        {
+          "ref": "1.3.1",
+          "title": "Meeting customer needs",
+          "topics": [
+            {
+              "ref": "1.3.1.1",
+              "title": "The market"
+            },
+            {
+              "ref": "1.3.1.2",
+              "title": "Market research"
+            },
+            {
+              "ref": "1.3.1.3",
+              "title": "Market positioning"
+            }
+          ]
+        },
+        {
+          "ref": "1.3.2",
+          "title": "The market",
+          "topics": [
+            {
+              "ref": "1.3.2.1",
+              "title": "Demand"
+            },
+            {
+              "ref": "1.3.2.2",
+              "title": "Supply"
+            },
+            {
+              "ref": "1.3.2.3",
+              "title": "Markets"
+            },
+            {
+              "ref": "1.3.2.4",
+              "title": "Price elasticity of demand (PED)"
+            },
+            {
+              "ref": "1.3.2.5",
+              "title": "Income elasticity of demand (YED)"
+            }
+          ]
+        },
+        {
+          "ref": "1.3.3",
+          "title": "Marketing mix and strategy",
+          "topics": [
+            {
+              "ref": "1.3.3.1",
+              "title": "Marketing objectives and strategy"
+            },
+            {
+              "ref": "1.3.3.2",
+              "title": "Product/service design"
+            },
+            {
+              "ref": "1.3.3.3",
+              "title": "Promotion and branding"
+            },
+            {
+              "ref": "1.3.3.4",
+              "title": "Pricing strategies"
+            },
+            {
+              "ref": "1.3.3.5",
+              "title": "Distribution"
+            }
+          ]
+        },
+        {
+          "ref": "1.3.4",
+          "title": "Managing people",
+          "topics": [
+            {
+              "ref": "1.3.4.1",
+              "title": "Approaches to staffing"
+            },
+            {
+              "ref": "1.3.4.2",
+              "title": "Recruitment, selection and training"
+            },
+            {
+              "ref": "1.3.4.3",
+              "title": "Organisational design"
+            },
+            {
+              "ref": "1.3.4.4",
+              "title": "Motivation in theory and practice"
+            },
+            {
+              "ref": "1.3.4.5",
+              "title": "Leadership"
+            }
+          ]
+        },
+        {
+          "ref": "1.3.5",
+          "title": "Entrepreneurs and leaders",
+          "topics": [
+            {
+              "ref": "1.3.5.1",
+              "title": "Role of an entrepreneur"
+            },
+            {
+              "ref": "1.3.5.2",
+              "title": "Entrepreneurial motives and characteristics"
+            },
+            {
+              "ref": "1.3.5.3",
+              "title": "Business objectives"
+            },
+            {
+              "ref": "1.3.5.4",
+              "title": "Business choices"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-08",
+        "time": "10:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    },
+    {
+      "code": "WBS12",
+      "subject": "Business",
+      "unitNumber": 2,
+      "title": "Managing Business Activities",
+      "shortTitle": "Managing Activities",
+      "accent": "business",
+      "revisionOrder": 2,
+      "exam": {
+        "durationMinutes": 120,
+        "totalMarks": 80,
+        "structureNote": "Written examination, 2 hours, 80 marks. Section A: short and extended response questions based on sources (30 marks). Section B: same format, different sources (30 marks). Section C: one 20-mark essay question. Questions may draw on Unit 1.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Business specification (2018), Unit 2",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.coursematerials.html",
+      "sections": [
+        {
+          "ref": "2.3.1",
+          "title": "Planning a business and raising finance",
+          "topics": [
+            {
+              "ref": "2.3.1.1",
+              "title": "Planning"
+            },
+            {
+              "ref": "2.3.1.2",
+              "title": "Internal finance"
+            },
+            {
+              "ref": "2.3.1.3",
+              "title": "External finance"
+            },
+            {
+              "ref": "2.3.1.4",
+              "title": "Forms of business"
+            },
+            {
+              "ref": "2.3.1.5",
+              "title": "Liability"
+            }
+          ]
+        },
+        {
+          "ref": "2.3.2",
+          "title": "Financial planning",
+          "topics": [
+            {
+              "ref": "2.3.2.1",
+              "title": "Sales, revenue and costs"
+            },
+            {
+              "ref": "2.3.2.2",
+              "title": "Sales forecasting"
+            },
+            {
+              "ref": "2.3.2.3",
+              "title": "Break-even"
+            },
+            {
+              "ref": "2.3.2.4",
+              "title": "Cash flow"
+            },
+            {
+              "ref": "2.3.2.5",
+              "title": "Budgets"
+            }
+          ]
+        },
+        {
+          "ref": "2.3.3",
+          "title": "Managing finance",
+          "topics": [
+            {
+              "ref": "2.3.3.1",
+              "title": "Profit"
+            },
+            {
+              "ref": "2.3.3.2",
+              "title": "Liquidity"
+            },
+            {
+              "ref": "2.3.3.3",
+              "title": "Business failure"
+            }
+          ]
+        },
+        {
+          "ref": "2.3.4",
+          "title": "Resource management",
+          "topics": [
+            {
+              "ref": "2.3.4.1",
+              "title": "Production, productivity and efficiency"
+            },
+            {
+              "ref": "2.3.4.2",
+              "title": "Capacity utilisation"
+            },
+            {
+              "ref": "2.3.4.3",
+              "title": "Inventory control"
+            },
+            {
+              "ref": "2.3.4.4",
+              "title": "Quality management"
+            }
+          ]
+        },
+        {
+          "ref": "2.3.5",
+          "title": "External influences",
+          "topics": [
+            {
+              "ref": "2.3.5.1",
+              "title": "Economic influences"
+            },
+            {
+              "ref": "2.3.5.2",
+              "title": "Legislation"
+            },
+            {
+              "ref": "2.3.5.3",
+              "title": "The competitive environment"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-14",
+        "time": "10:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    },
+    {
+      "code": "WBS13",
+      "subject": "Business",
+      "unitNumber": 3,
+      "title": "Business Decisions and Strategy",
+      "shortTitle": "Decisions & Strategy",
+      "accent": "business",
+      "revisionOrder": 3,
+      "exam": {
+        "durationMinutes": 120,
+        "totalMarks": 80,
+        "structureNote": "Written examination, 2 hours, 80 marks. Section A: short and extended response questions based on sources (40 marks). Section B: one 20-mark essay question. Section C: one 20-mark essay question.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Business specification (2018), Unit 3",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.coursematerials.html",
+      "sections": [
+        {
+          "ref": "3.3.1",
+          "title": "Business objectives and strategy",
+          "topics": [
+            {
+              "ref": "3.3.1.1",
+              "title": "Corporate objectives"
+            },
+            {
+              "ref": "3.3.1.2",
+              "title": "Theories of corporate strategy"
+            },
+            {
+              "ref": "3.3.1.3",
+              "title": "SWOT analysis"
+            },
+            {
+              "ref": "3.3.1.4",
+              "title": "Impact of external influences"
+            }
+          ]
+        },
+        {
+          "ref": "3.3.2",
+          "title": "Business growth",
+          "topics": [
+            {
+              "ref": "3.3.2.1",
+              "title": "Growth"
+            },
+            {
+              "ref": "3.3.2.2",
+              "title": "Organic growth"
+            },
+            {
+              "ref": "3.3.2.3",
+              "title": "Inorganic growth"
+            },
+            {
+              "ref": "3.3.2.4",
+              "title": "Problems arising from growth"
+            }
+          ]
+        },
+        {
+          "ref": "3.3.3",
+          "title": "Decision-making techniques",
+          "topics": [
+            {
+              "ref": "3.3.3.1",
+              "title": "Quantitative sales forecasting"
+            },
+            {
+              "ref": "3.3.3.2",
+              "title": "Investment appraisal"
+            },
+            {
+              "ref": "3.3.3.3",
+              "title": "Decision trees"
+            },
+            {
+              "ref": "3.3.3.4",
+              "title": "Critical path analysis"
+            },
+            {
+              "ref": "3.3.3.5",
+              "title": "Contribution"
+            }
+          ]
+        },
+        {
+          "ref": "3.3.4",
+          "title": "Influences on business decisions",
+          "topics": [
+            {
+              "ref": "3.3.4.1",
+              "title": "Corporate culture"
+            },
+            {
+              "ref": "3.3.4.2",
+              "title": "Stakeholder model versus shareholder model"
+            },
+            {
+              "ref": "3.3.4.3",
+              "title": "Business ethics"
+            }
+          ]
+        },
+        {
+          "ref": "3.3.5",
+          "title": "Assessing competitiveness",
+          "topics": [
+            {
+              "ref": "3.3.5.1",
+              "title": "Interpretation of financial statements"
+            },
+            {
+              "ref": "3.3.5.2",
+              "title": "Ratio analysis"
+            },
+            {
+              "ref": "3.3.5.3",
+              "title": "Human resources"
+            }
+          ]
+        },
+        {
+          "ref": "3.3.6",
+          "title": "Managing change",
+          "topics": [
+            {
+              "ref": "3.3.6.1",
+              "title": "Key factors in change"
+            },
+            {
+              "ref": "3.3.6.2",
+              "title": "Contingency planning"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-20",
+        "time": "10:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    },
+    {
+      "code": "WAC12",
+      "subject": "Accounting",
+      "unitNumber": 2,
+      "title": "Corporate and Management Accounting",
+      "shortTitle": "Corporate & Mgmt Accounting",
+      "accent": "accounting",
+      "revisionOrder": 4,
+      "exam": {
+        "durationMinutes": 180,
+        "totalMarks": 200,
+        "structureNote": "Written examination, 3 hours, 200 marks, 50% of the IAL. Section A: two compulsory 55-mark multi-part questions based on given data. Section B: three optional 30-mark multi-part questions from a choice of four. A resource booklet is provided.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Accounting specification, Unit 2",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/accounting-2015.coursematerials.html",
+      "sections": [
+        {
+          "ref": "2.1",
+          "title": "Limited companies",
+          "topics": [
+            {
+              "ref": "2.1.1",
+              "title": "Limited companies"
+            }
+          ]
+        },
+        {
+          "ref": "2.2",
+          "title": "Investment ratios",
+          "topics": [
+            {
+              "ref": "2.2.1",
+              "title": "Investment ratios"
+            }
+          ]
+        },
+        {
+          "ref": "2.3",
+          "title": "Statement of cash flows",
+          "topics": [
+            {
+              "ref": "2.3.1",
+              "title": "Statement of cash flows"
+            }
+          ]
+        },
+        {
+          "ref": "2.4",
+          "title": "Budgeting",
+          "topics": [
+            {
+              "ref": "2.4.1",
+              "title": "Budgeting"
+            }
+          ]
+        },
+        {
+          "ref": "2.5",
+          "title": "Standard costing",
+          "topics": [
+            {
+              "ref": "2.5.1",
+              "title": "Standard costing"
+            }
+          ]
+        },
+        {
+          "ref": "2.6",
+          "title": "Project appraisal",
+          "topics": [
+            {
+              "ref": "2.6.1",
+              "title": "Project appraisal"
+            }
+          ]
+        },
+        {
+          "ref": "2.7",
+          "title": "Break-even analysis",
+          "topics": [
+            {
+              "ref": "2.7.1",
+              "title": "Break-even analysis"
+            }
+          ]
+        },
+        {
+          "ref": "2.8",
+          "title": "Marginal costing and absorption costing",
+          "topics": [
+            {
+              "ref": "2.8.1",
+              "title": "Marginal costing and absorption costing"
+            }
+          ]
+        },
+        {
+          "ref": "2.9",
+          "title": "Information and communication technology in accounting",
+          "topics": [
+            {
+              "ref": "2.9.1",
+              "title": "ICT in accounting"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-27",
+        "time": "13:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    },
+    {
+      "code": "WBS14",
+      "subject": "Business",
+      "unitNumber": 4,
+      "title": "Global Business",
+      "shortTitle": "Global Business",
+      "accent": "business",
+      "revisionOrder": 5,
+      "exam": {
+        "durationMinutes": 120,
+        "totalMarks": 80,
+        "structureNote": "Written examination, 2 hours, 80 marks. Section A: short and extended response questions based on sources (40 marks). Section B: one 20-mark essay question. Section C: one 20-mark essay question. Builds on Units 1, 2 and 3.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Business specification (2018), Unit 4",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2018.coursematerials.html",
+      "sections": [
+        {
+          "ref": "4.3.1",
+          "title": "Globalisation",
+          "topics": [
+            {
+              "ref": "4.3.1.1",
+              "title": "Growing economies"
+            },
+            {
+              "ref": "4.3.1.2",
+              "title": "International trade and business growth"
+            },
+            {
+              "ref": "4.3.1.3",
+              "title": "Factors contributing to increased globalisation"
+            },
+            {
+              "ref": "4.3.1.4",
+              "title": "Protectionism"
+            },
+            {
+              "ref": "4.3.1.5",
+              "title": "Trading blocs"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.2",
+          "title": "Global markets and business expansion",
+          "topics": [
+            {
+              "ref": "4.3.2.1",
+              "title": "Conditions that prompt trade"
+            },
+            {
+              "ref": "4.3.2.2",
+              "title": "Assessment of a country as a market"
+            },
+            {
+              "ref": "4.3.2.3",
+              "title": "Assessment of a country as a production location"
+            },
+            {
+              "ref": "4.3.2.4",
+              "title": "Reasons for global mergers, takeovers or joint ventures"
+            },
+            {
+              "ref": "4.3.2.5",
+              "title": "Global expansion and uncertainty"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.3",
+          "title": "Global marketing",
+          "topics": [
+            {
+              "ref": "4.3.3.1",
+              "title": "Marketing"
+            },
+            {
+              "ref": "4.3.3.2",
+              "title": "Niche markets"
+            },
+            {
+              "ref": "4.3.3.3",
+              "title": "Cultural and social factors"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.4",
+          "title": "Global industries and companies (multinational corporations)",
+          "topics": [
+            {
+              "ref": "4.3.4.1",
+              "title": "The impact of MNCs"
+            },
+            {
+              "ref": "4.3.4.2",
+              "title": "International business ethics"
+            },
+            {
+              "ref": "4.3.4.3",
+              "title": "Controlling MNCs"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-27",
+        "time": "10:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    },
+    {
+      "code": "WEC14",
+      "subject": "Economics",
+      "unitNumber": 4,
+      "title": "Developments in the Global Economy",
+      "shortTitle": "Global Economy",
+      "accent": "economics",
+      "revisionOrder": 6,
+      "exam": {
+        "durationMinutes": 120,
+        "totalMarks": 80,
+        "structureNote": "Written examination, 2 hours, 80 marks. Section A: six multiple choice questions (6 marks). Section B: one five-part question based on a source booklet (34 marks). Section C: two 20-mark essay questions from a choice of three (40 marks). Synoptic, so it can draw on Units 1, 2 and 3.",
+        "series": [
+          "Jan",
+          "Jun",
+          "Oct"
+        ]
+      },
+      "specSource": "International A Level Economics specification (2018), Unit 4",
+      "specUrl": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf",
+      "papersUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.coursematerials.html",
+      "sections": [
+        {
+          "ref": "4.3.1",
+          "title": "Causes and effects of globalisation",
+          "topics": [
+            {
+              "ref": "4.3.1.1",
+              "title": "Characteristics of globalisation"
+            },
+            {
+              "ref": "4.3.1.2",
+              "title": "Causes of globalisation"
+            },
+            {
+              "ref": "4.3.1.3",
+              "title": "Effects of globalisation"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.2",
+          "title": "Trade and the global economy",
+          "topics": [
+            {
+              "ref": "4.3.2.1",
+              "title": "Specialisation and comparative advantage"
+            },
+            {
+              "ref": "4.3.2.2",
+              "title": "Patterns and volume of world trade"
+            },
+            {
+              "ref": "4.3.2.3",
+              "title": "Terms of trade"
+            },
+            {
+              "ref": "4.3.2.4",
+              "title": "Trade liberalisation and trading blocs"
+            },
+            {
+              "ref": "4.3.2.5",
+              "title": "Restrictions on free trade"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.3",
+          "title": "Balance of payments, exchange rates and international competitiveness",
+          "topics": [
+            {
+              "ref": "4.3.3.1",
+              "title": "Balance of payments"
+            },
+            {
+              "ref": "4.3.3.2",
+              "title": "Exchange rates"
+            },
+            {
+              "ref": "4.3.3.3",
+              "title": "International competitiveness"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.4",
+          "title": "Poverty and inequality",
+          "topics": [
+            {
+              "ref": "4.3.4.1",
+              "title": "Poverty"
+            },
+            {
+              "ref": "4.3.4.2",
+              "title": "Inequality"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.5",
+          "title": "The role of the state in the macroeconomy",
+          "topics": [
+            {
+              "ref": "4.3.5.1",
+              "title": "Public expenditure"
+            },
+            {
+              "ref": "4.3.5.2",
+              "title": "Taxation"
+            },
+            {
+              "ref": "4.3.5.3",
+              "title": "Public sector borrowing and public sector debt"
+            },
+            {
+              "ref": "4.3.5.4",
+              "title": "Macroeconomic policies"
+            }
+          ]
+        },
+        {
+          "ref": "4.3.6",
+          "title": "Growth and development in developing, emerging and developed economies",
+          "topics": [
+            {
+              "ref": "4.3.6.1",
+              "title": "Measures of economic development"
+            },
+            {
+              "ref": "4.3.6.2",
+              "title": "Constraints on growth and development"
+            },
+            {
+              "ref": "4.3.6.3",
+              "title": "Measures to promote growth and development"
+            }
+          ]
+        }
+      ],
+      "examDate": {
+        "date": "2026-10-30",
+        "time": "10:00",
+        "source": "Your October 2026 centre timetable"
+      }
+    }
+  ],
+  "commandWords": {
+    "business": [
+      {
+        "word": "Define",
+        "marks": "2",
+        "means": "Define a term or phrase."
+      },
+      {
+        "word": "Calculate",
+        "marks": "4",
+        "means": "Perform a calculation from given data. Show your workings."
+      },
+      {
+        "word": "Construct",
+        "marks": "4",
+        "means": "Draw an accurately labelled diagram."
+      },
+      {
+        "word": "Explain",
+        "marks": "4",
+        "means": "Give a brief explanation of cause or effect, supported by details or an example."
+      },
+      {
+        "word": "Analyse",
+        "marks": "6",
+        "means": "A brief chain of reasoning, explanation and/or justification, interpreting any given data or diagram. No evaluation needed."
+      },
+      {
+        "word": "Discuss",
+        "marks": "8",
+        "means": "Logical chains of reasoning in context showing causes and/or effects, plus a brief assessment showing awareness of competing arguments."
+      },
+      {
+        "word": "Assess",
+        "marks": "10 in Units 1 and 2, 12 in Units 3 and 4",
+        "means": "A coherent, well contextualised chain of reasoning. Balanced, wide ranging assessment of competing arguments leading to a supported judgement."
+      },
+      {
+        "word": "Evaluate",
+        "marks": "20",
+        "means": "Fully developed chains of reasoning showing a range of causes and/or effects. Full awareness of the validity and significance of competing arguments, leading to a perceptive conclusion proposing a solution or recommendation."
+      }
+    ],
+    "economics": [
+      {
+        "word": "Define",
+        "marks": "2",
+        "means": "Give the meaning of a term, concept or phrase. Knowledge and understanding only."
+      },
+      {
+        "word": "Calculate",
+        "marks": "2 or 4",
+        "means": "A calculation, often multi-stage, from given data. May need a prescribed formula or diagram. Show your workings."
+      },
+      {
+        "word": "Draw",
+        "marks": "4",
+        "means": "Construct an accurately labelled diagram. You may have to choose the type of diagram yourself."
+      },
+      {
+        "word": "Explain",
+        "marks": "4",
+        "means": "Explain a term or characteristic (knowledge, understanding and application), or a reason or impact, which also needs a two-stage chain of reasoning."
+      },
+      {
+        "word": "Analyse",
+        "marks": "6",
+        "means": "An explanation with a chain of reasoning, plus diagrams where appropriate. Interpret any data given. Depth over breadth. No evaluation."
+      },
+      {
+        "word": "Examine",
+        "marks": "8",
+        "means": "As Analyse, plus a brief assessment of the arguments, factors or evidence."
+      },
+      {
+        "word": "Discuss",
+        "marks": "14",
+        "means": "Logical, coherent chains of reasoning in context. Consider the validity and significance of arguments and models, recognise different viewpoints and assess the evidence critically."
+      },
+      {
+        "word": "Evaluate / To what extent",
+        "marks": "up to 20",
+        "means": "Multi-stage chains of reasoning in context. Weigh the validity and significance of competing arguments and evidence, and reach an informed judgement."
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "business": {
+      "note": "Weightings for the full International Advanced Level.",
+      "items": [
+        {
+          "code": "AO1",
+          "label": "Knowledge and understanding",
+          "weight": "23.8%",
+          "means": "Show you know terms, concepts, theories, methods and models."
+        },
+        {
+          "code": "AO2",
+          "label": "Application",
+          "weight": "23.8%",
+          "means": "Apply that knowledge to the business in the sources, using its numbers and its situation."
+        },
+        {
+          "code": "AO3",
+          "label": "Analysis",
+          "weight": "28.8%",
+          "means": "Build chains of reasoning showing causes, costs and consequences."
+        },
+        {
+          "code": "AO4",
+          "label": "Evaluation",
+          "weight": "23.8%",
+          "means": "Weigh the evidence, judge what matters most and recommend, with support."
+        }
+      ]
+    },
+    "economics": {
+      "note": "Weightings for the full International Advanced Level. Quantitative skills are at least 20% of the marks.",
+      "items": [
+        {
+          "code": "AO1",
+          "label": "Knowledge and understanding",
+          "weight": "see specification",
+          "means": "Show you know terms, concepts, theories and models."
+        },
+        {
+          "code": "AO2",
+          "label": "Application",
+          "weight": "see specification",
+          "means": "Apply them to the data in the source booklet and to real economies."
+        },
+        {
+          "code": "AO3",
+          "label": "Analysis",
+          "weight": "see specification",
+          "means": "Build chains of reasoning, with diagrams where they help."
+        },
+        {
+          "code": "AO4",
+          "label": "Evaluation",
+          "weight": "see specification",
+          "means": "Weigh competing arguments and reach a supported judgement."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "topicRef": "3.3.1.2",
+  "topicTitle": "Theories of corporate strategy",
+  "unit": "WBS13",
+  "questions": [
+    {
+      "id": "WBS13-3-3-1-2-01",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "easy",
+      "stem": "In Ansoff's Matrix, selling a new product to existing customers is:",
+      "options": [
+        "product development",
+        "market development",
+        "market penetration",
+        "diversification"
+      ],
+      "answer": 0,
+      "why": "New product, existing market. You know the customers; the product is new. Moderate risk.",
+      "whyNot": [
+        "",
+        "Market development is an EXISTING product to NEW customers. Students reverse these constantly.",
+        "Penetration is an existing product in an existing market.",
+        "Diversification is a new product in a new market."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-02",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "easy",
+      "stem": "In Ansoff's Matrix, selling an existing product in a new country is:",
+      "options": [
+        "market development",
+        "product development",
+        "market penetration",
+        "diversification"
+      ],
+      "answer": 0,
+      "why": "Existing product, new market. The product is familiar; the customers, culture and regulations are not.",
+      "whyNot": [
+        "",
+        "Product development would mean creating a new product.",
+        "Penetration means the same product to the same market.",
+        "Diversification requires both to be new."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-03",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "easy",
+      "stem": "Which Ansoff strategy carries the highest risk?",
+      "options": [
+        "Diversification",
+        "Market penetration",
+        "Product development",
+        "Market development"
+      ],
+      "answer": 0,
+      "why": "New product in a new market means nothing is familiar. Its attraction is that it spreads risk away from dependence on one market.",
+      "whyNot": [
+        "",
+        "Penetration is the lowest risk, because both product and market are known.",
+        "Moderate risk: the market is known.",
+        "Moderate risk: the product is known."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-04",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "medium",
+      "stem": "Which Ansoff strategy is limited by market saturation?",
+      "options": [
+        "Market penetration",
+        "Diversification",
+        "Market development",
+        "Product development"
+      ],
+      "answer": 0,
+      "why": "Selling more of the same thing to the same market works until the market is full. Then growth requires moving to another box.",
+      "whyNot": [
+        "",
+        "Diversification enters an entirely new market, so saturation of the old one is not the constraint.",
+        "Market development moves into new markets specifically to escape saturation.",
+        "A new product creates new demand in the same market."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-05",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "easy",
+      "stem": "In Porter's Strategic Matrix, what are the two dimensions?",
+      "options": [
+        "Basis of advantage (cost or differentiation) and scope (broad or narrow)",
+        "Products and markets",
+        "Market growth and market share",
+        "Risk and return"
+      ],
+      "answer": 0,
+      "why": "Porter asks whether you compete on being cheapest or being different, and whether you do it across a broad market or a narrow segment.",
+      "whyNot": [
+        "",
+        "Those are Ansoff's dimensions.",
+        "Those are the Boston Matrix dimensions.",
+        "Not a Porter framework."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-06",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "medium",
+      "stem": "What does Porter mean by being stuck in the middle?",
+      "options": [
+        "The business is neither clearly cheapest nor clearly different, so customers have no reason to choose it",
+        "The business is in the middle of its market in terms of size",
+        "The business has a moderate market share",
+        "The business operates in several countries"
+      ],
+      "answer": 0,
+      "why": "It cannot win on price against the cost leader or on quality against the differentiator. Porter argues you must choose one.",
+      "whyNot": [
+        "",
+        "Size is not what the matrix measures.",
+        "Share is not a Porter dimension.",
+        "Geography is unrelated to the matrix."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-07",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "hard",
+      "stem": "What is the main criticism of Porter's stuck in the middle argument?",
+      "options": [
+        "Some businesses have combined efficient low-cost operations with a strong brand successfully",
+        "Porter's matrix has only three boxes",
+        "Cost leadership is impossible to achieve",
+        "Differentiation always fails"
+      ],
+      "answer": 0,
+      "why": "Because there are real counterexamples, treat it as a warning rather than a law, and say so. That nuance is worth an evaluation mark.",
+      "whyNot": [
+        "",
+        "It has four cells.",
+        "Cost leadership is a well-established strategy.",
+        "Differentiation succeeds routinely."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-08",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "medium",
+      "stem": "Which of the following is a strategic rather than a tactical decision?",
+      "options": [
+        "Entering a new country",
+        "Running a promotion this month",
+        "Reordering stock",
+        "Adjusting a shift rota"
+      ],
+      "answer": 0,
+      "why": "Strategic decisions are long term, high risk, taken at senior level and difficult to reverse. The others are short term and easily changed.",
+      "whyNot": [
+        "",
+        "Short term, low risk, easily reversed.",
+        "A routine operational decision.",
+        "A day-to-day management decision."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-09",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "medium",
+      "stem": "Why are strategic decisions difficult to reverse?",
+      "options": [
+        "They commit large sums to assets and capabilities that cannot easily be sold or unlearned",
+        "The law prevents businesses from changing strategy",
+        "Senior managers are not allowed to change their minds",
+        "They are always successful"
+      ],
+      "answer": 0,
+      "why": "Money spent on premises, equipment, training and market entry is largely sunk. That is why the cost of being wrong on a strategic decision is so high.",
+      "whyNot": [
+        "",
+        "No legal restriction exists.",
+        "They can, and the resources already committed are the problem.",
+        "Many strategic decisions fail."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-10",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "hard",
+      "stem": "Why should a small guesthouse operator usually pursue market penetration before diversification?",
+      "options": [
+        "Risk rises with distance from what the business already knows, and its finance is limited",
+        "Penetration always generates more revenue",
+        "Diversification is illegal for small businesses",
+        "Penetration requires no marketing"
+      ],
+      "answer": 0,
+      "why": "Penetration uses existing knowledge of both product and market, so the risk and the cash requirement are lowest. A small operator cannot absorb the failure of a diversification.",
+      "whyNot": [
+        "",
+        "It generates less growth, and at lower risk. That is the trade-off.",
+        "There is no such restriction.",
+        "Penetration is largely achieved through marketing."
+      ]
+    },
+    {
+      "id": "WBS13-3-3-1-2-11",
+      "topicRef": "3.3.1.2",
+      "topicTitle": "Theories of corporate strategy",
+      "difficulty": "medium",
+      "stem": "What is the aim of portfolio analysis?",
+      "options": [
+        "To judge whether the whole range of products is balanced",
+        "To decide the price of each product",
+        "To measure the profitability of the business",
+        "To choose a single product to focus on"
+      ],
+      "answer": 0,
+      "why": "Cash generators funding growth products, some new bets being tested, weak products pruned. Judging each product in isolation leaves a business with either no growth or no cash.",
+      "whyNot": [
+        "",
+        "Pricing is a separate decision.",
+        "Profitability is measured by ratios, not by portfolio analysis.",
+        "The point is balance across the range, not concentration on one."
+      ]
+    }
+  ]
+}

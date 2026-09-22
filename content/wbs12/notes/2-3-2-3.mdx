@@ -1,0 +1,165 @@
+---
+ref: "2.3.2.3"
+title: "Break-even"
+unit: "WBS12"
+section: "2.3.2 Financial planning"
+oneMinute:
+  - "Contribution per unit = selling price − variable cost per unit."
+  - "Break-even output = fixed costs ÷ contribution per unit."
+  - "At break-even, total revenue equals total costs, so profit is zero."
+  - "Margin of safety = actual output − break-even output. It is how far sales can fall before a loss."
+  - "Profit = (contribution per unit × output) − fixed costs."
+keyTerms:
+  - term: "Contribution per unit"
+    definition: "Selling price per unit minus variable cost per unit. It is the amount each unit sold contributes towards fixed costs and then profit."
+  - term: "Break-even point"
+    definition: "The level of output at which total revenue exactly equals total costs, so the business makes neither profit nor loss."
+  - term: "Break-even output"
+    definition: "The number of units a business must sell to break even."
+  - term: "Margin of safety"
+    definition: "The amount by which current output exceeds break-even output, showing how far sales could fall before a loss is made."
+  - term: "Break-even chart"
+    definition: "A graph plotting total revenue, total costs and fixed costs against output, with the break-even point where total revenue crosses total costs."
+  - term: "Total contribution"
+    definition: "Contribution per unit multiplied by the number of units sold."
+formulas:
+  - name: "Contribution per unit"
+    formula: "Selling price − Variable cost per unit"
+  - name: "Break-even output"
+    formula: "Fixed costs ÷ Contribution per unit"
+    note: "The answer is in UNITS. Divide by contribution per unit, never by selling price."
+  - name: "Margin of safety"
+    formula: "Actual output − Break-even output"
+  - name: "Profit from contribution"
+    formula: "(Contribution per unit × Output) − Fixed costs"
+commandWords:
+  - "Define"
+  - "Calculate"
+  - "Construct"
+  - "Assess"
+---
+
+## Contribution: the idea everything rests on
+
+Each unit sold brings in its price and costs its variable cost. What is left over is its **contribution**, and it goes first towards covering the fixed costs. Once the fixed costs are covered, every further unit's contribution is profit.
+
+<Formula name="The four formulas" note="Break-even output is in UNITS. The most common error on this topic is dividing fixed costs by the selling price instead of by contribution.">
+Contribution per unit = Selling price − Variable cost per unit
+
+Break-even output = Fixed costs ÷ Contribution per unit
+
+Margin of safety = Actual output − Break-even output
+
+Profit = (Contribution per unit × Output) − Fixed costs
+</Formula>
+
+## The break-even chart
+
+<Figure caption="Fixed costs are flat. Total costs start at fixed costs and slope up. Total revenue starts at the origin and is steeper. Where TR crosses TC is break-even, and the gap to actual output is the margin of safety.">
+  <BreakEvenDiagram />
+</Figure>
+
+Reading the chart:
+
+- **Fixed costs** are horizontal, because they do not change with output.
+- **Total costs** start at the fixed cost level, because at zero output you still pay them, and slope upward by the variable cost per unit.
+- **Total revenue** starts at the origin, because no sales means no revenue, and is steeper than total costs whenever there is positive contribution.
+- **Left of the crossing** the gap between TC and TR is the loss. **Right of it** the gap is the profit.
+
+## Worked example
+
+<Worked>
+
+A guesthouse has **fixed costs of $8,000 a month**. It charges **$95** a room night and the variable cost is **$15** a room night. It currently sells **250** room nights a month.
+
+**1. Contribution per room night**
+
+`$95 − $15 = $80`
+
+**2. Break-even output**
+
+`$8,000 ÷ $80 = 100 room nights a month`
+
+**3. Margin of safety**
+
+`250 − 100 = 150 room nights`
+
+So sales could fall by 150 room nights, which is 60% of current sales, before the guesthouse made a loss.
+
+**4. Profit at 250 room nights**
+
+`(250 × $80) − $8,000 = $20,000 − $8,000 = $12,000`
+
+**Now a change.** Fixed costs rise to **$10,400** because of a loan for a refurbishment:
+
+`New break-even = $10,400 ÷ $80 = 130 room nights`
+
+`New margin of safety = 250 − 130 = 120 room nights`
+
+`New profit = $20,000 − $10,400 = $9,600`
+
+**Reading it:** higher fixed costs raise the break-even point and shrink the margin of safety, which means more risk. The refurbishment is only worth it if it raises the rate or the occupancy enough to more than cover the extra $2,400 a month. That comparison is what an evaluation question wants.
+
+</Worked>
+
+## What changes the break-even point
+
+| Change | Break-even output | Why |
+| --- | --- | --- |
+| Fixed costs rise | rises | more to cover from the same contribution |
+| Selling price rises | falls | contribution per unit is bigger |
+| Variable cost per unit rises | rises | contribution per unit is smaller |
+| Both price and variable cost rise equally | unchanged | contribution is unchanged |
+
+Note the last row: it is the **contribution**, not the price, that drives break-even. Questions test this.
+
+## Limitations of break-even analysis
+
+The specification asks for these directly, so learn them.
+
+- **It assumes everything produced is sold.** In reality unsold stock has been paid for and earns nothing.
+- **It assumes costs and price are constant.** In reality bulk buying cuts variable costs, and selling more may need discounts.
+- **It is a single-product model.** Most businesses sell many products with different contributions, so a single break-even figure is a simplification.
+- **The data may be wrong.** It depends entirely on the accuracy of the cost and price estimates.
+- **It is static.** It shows one moment, and costs and prices move.
+- **It ignores the time dimension.** Breaking even over a year says nothing about whether you can pay the bills in March.
+
+The balanced view: break-even is a useful, quick planning and lending tool, and it is a simplified model rather than a forecast.
+
+<RealWorld where="Maldives">
+
+The guesthouse figures above show why the sector behaves as it does. With a contribution of $80 on a $95 rate, contribution is 84% of revenue, so almost every extra booking drops straight through to profit once the fixed costs are covered.
+
+That has two consequences. Once break-even is passed, profit climbs very fast, and below break-even losses mount just as fast, because the fixed costs carry on through the wet season regardless. A high-contribution, high-fixed-cost business is a high-risk business, and the margin of safety is the number that tells you how much risk.
+
+</RealWorld>
+
+<Tip>
+
+**How this topic is tested.** Very heavily, and in several formats: Calculate (4) for break-even or margin of safety, Construct (4) for the chart, and Assess (10) on whether a plan is viable.
+
+**On the Construct question.** Marks are for: both axes labelled (£ or $ on the vertical, output on the horizontal), the fixed cost line horizontal, total costs starting at the fixed cost level, total revenue from the origin, and the break-even point identified. Practise until it takes two minutes.
+
+**On the calculation.** Always work out contribution per unit first and show it on its own line. If you get that right, everything else follows; if you divide by the price instead, everything after it is wrong.
+
+**Getting evaluation marks:**
+
+- **The margin of safety is the risk measure.** A break-even figure alone says little; how far above it you are says a lot.
+- **Higher fixed costs mean higher break-even and more risk.** Use this whenever a question proposes an investment funded by a loan.
+- **Use the limitations**, especially that it assumes everything produced is sold.
+- **Break-even over a year hides the bad months** in a seasonal business.
+
+</Tip>
+
+<Mistakes>
+
+- **Dividing fixed costs by selling price.** It must be contribution per unit. This is the single most common error in WBS12.
+- **Giving break-even in dollars when the question asked for units**, or the reverse. Check what is asked.
+- **Forgetting to deduct fixed costs** when calculating profit from contribution.
+- **Drawing total costs from the origin.** It starts at the fixed cost level.
+- **Drawing total revenue from the fixed cost level.** It starts at the origin.
+- **Calculating margin of safety as break-even minus actual.** It is actual minus break-even.
+- **Treating break-even as a forecast.** It is a model with assumptions, and the assumptions are examinable.
+- **Assuming a lower break-even is automatically better** without asking what it cost to achieve.
+
+</Mistakes>
